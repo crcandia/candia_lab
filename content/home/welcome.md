@@ -7,8 +7,8 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
+  Computational Social Science at UDD  
+  Research Lab
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **Computational Social Science Lab** has been a center of excellence for research, teaching, and applied projects since its founding in 2021.
