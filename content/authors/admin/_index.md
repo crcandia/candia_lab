@@ -24,7 +24,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Director
+  - Researcher
 highlight_name: false
 ---
 I am the Creator of Lixandria.cl and Discolab.cl, and an Assistant Professor and Director of the Master's in Data Science at the esteemed Data Science Institute (IDS) of the School of Engineering at Universidad del Desarrollo, Chile. Additionally, I am proud to be an external faculty member at the Northwestern Institute on Complex Systems (NICO) of Northwestern University.\
