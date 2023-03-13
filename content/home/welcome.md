@@ -5,7 +5,7 @@
 
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
+weight: 20 # Order that this section will appear.
 title: |
   Complexity and Computational Social Science
   Research Lab at UDD-Chile  
@@ -17,6 +17,8 @@ design:
   css_style:
   css_class:
 ---
+
+
 
 <br>
 
