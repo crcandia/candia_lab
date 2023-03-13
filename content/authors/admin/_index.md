@@ -1,7 +1,7 @@
 ---
 title: Cristian Candia
 role: Director
-avatar_filename: ccv_udd2.jpeg
+avatar_filename: avatar.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
