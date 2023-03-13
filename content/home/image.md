@@ -12,14 +12,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title:
-subtitle:
+title: Complexity and Computational Social Science Lab
+subtitle: Advancing Artificial, Collective, and Augmented Intelligence
 
 design:
   columns: '1'
   background:
-    image: coders.jpg
-    image_darken: 0
+    image: welcome.jpg
+    image_darken: 10
     image_parallax: false
     image_position: center
     image_size: cover
