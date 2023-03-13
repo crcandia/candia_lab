@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Computational Social Science Lab** has been a center of excellence for research, teaching, and applied projects since its founding in 2021.
+The **Complexity and Computational Social Science Lab** has been a center of excellence for research, teaching, and applied projects since its founding in 2021.
