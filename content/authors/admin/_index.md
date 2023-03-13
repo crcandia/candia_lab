@@ -1,73 +1,35 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-  - name: Stanford University
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+title: Cristian Candia
+role: Director
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
+  - display:
+      header: false
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    link: https://scholar.google.com/citations?user=oQ9KiDUAAAAJ&hl=en
+    icon: nose
+organizations:
+  - name: Universidad del Desarrollo, Chile.
+    url: ""
+  - name: Northwestern Institute on Complex Systems, Kellogg School of Management,
+      Northwestern University, USA.
+education:
+  courses: []
+email: ""
+superuser: true
 user_groups:
-  - Researchers
+  - Director
+highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am the Creator of Lixandria.cl and Discolab.cl, and an Assistant Professor and Director of the Master's in Data Science at the esteemed Data Science Institute (IDS) of the School of Engineering at Universidad del Desarrollo, Chile. Additionally, I am proud to be an external faculty member at the Northwestern Institute on Complex Systems (NICO) of Northwestern University.\
+\
+I have a diverse academic background. I held a postdoctoral position in Computational Social Science at the Kellogg School of Management, Northwestern University. My Ph.D. research on social complexity was carried out at the Center for Social Complexity at Universidad del Desarrollo, at the MIT Media Lab, and at the Center for Complex Networks Research at Northeastern and Harvard University. I earned my Master of Science in Physics, Bachelor of Science in Physics, and Physics Engineering professional title from Universidad de Concepción, Chile.\
+\
+My expertise lies at the intersection of big data analysis and human behavior theories as they relate to socioeconomic systems. Currently, I am focused on computational social science and network science, with a particular interest in areas such as collective intelligence, hate speech dynamics, business and learning analytics, cooperative learning, higher education decision-making, collective memory, and experimental game theory.\
+\
+With a passion for using data to drive solutions, I lead a FONDECYT project on Collective Memory and a FONDEF project on data-driven decision-making for higher education, both funded by the Ministry of Science and Technology and sponsored by the Ministry of Education in Chile. My background in physics, social complexity science, and data analysis uniquely positions me to drive impactful research and innovation.
