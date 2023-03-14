@@ -20,6 +20,9 @@ design:
   background:
     image: welcome.jpg
     image_darken: 0
+    filters:
+        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+        brightness: 0.3
     image_parallax: false
     image_position: center
     image_size: cover
