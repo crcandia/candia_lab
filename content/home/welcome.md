@@ -28,4 +28,4 @@ html {
 
 <p style="text-align: center;"> A diverse group of enthusiastic graduate students, researchers, data scientists, and professors from different fields, such as physics, mathematics, sociology, economics, psychology, and engineering interact and collaborate at CCSS. Our operations are centered at the Data Science Institute of the Engineering School and the Center for Social Complexity at the Government School of the University of Desarrollo, located in Las Condes, Chile. </p>
 
-<p style="text-align: right;"> Cristian Candia, Ph.D. Director at The Complexity and Computational Social Science Lab.</p>
+<p style="text-align: right;"> Cristian Candia, Ph.D.<br>Director at The Complexity and Computational Social Science Lab.</p>
