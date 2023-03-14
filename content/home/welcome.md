@@ -17,6 +17,11 @@ design:
   css_class:
 ---
 
+html {
+    font-size: calc(15px + 0.390625vw);
+}
+
+
 <p style="text-align: center;"> Computational Social Science is a new research arena that combines computer science, statistics, and social science to tackle real-world problems related to individual and collective behavior using observational data and quasi-experiments.</p>
 
 <p style="text-align: center;"> The Complexity and Computational Social Science Laboratory (CCS-LAB), founded in 2021, is a dynamic and interdisciplinary group of people that is committed to advancing applied research on human behavior. We focus on several key areas, including collective intelligence, collective memory, social media analysis, business and learning analytics, cooperative dynamics, and experimental game theory. At CS2 LAB, we specialize in extracting valuable insights from observational data using advanced techniques such as causal inference, network science, and artificial intelligence to better understand individual and collective behavior across industry, academia, and government. Our overarching mission is to make a meaningful contribution to the advancement of both individuals and society as a whole by generating valuable information and practical solutions that can help to improve people's daily lives. We firmly believe that applying scientific discoveries to real-life situations can have a transformative impact. We are dedicated to ensuring that our research has practical applications and tangible benefits for all.</p>
