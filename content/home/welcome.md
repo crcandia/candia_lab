@@ -3,10 +3,10 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget: hero # See https://wowchemy.com/docs/page-builder/
+widget: blank #hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 20 # Order that this section will appear.
-title: |
+title: 
   Complexity and Computational Social Science Research Lab at UDD-Chile  
 # hero_media: welcome.jpg
 design:
@@ -16,11 +16,11 @@ design:
   css_style:
   css_class:
 ---
-
+<style>
 html {
     font-size: calc(15px + 0.390625vw);
 }
-
+</style>
 
 <p style="text-align: center;"> Computational Social Science is a new research arena that combines computer science, statistics, and social science to tackle real-world problems related to individual and collective behavior using observational data and quasi-experiments.</p>
 
