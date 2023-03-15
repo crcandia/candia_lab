@@ -1,6 +1,11 @@
 ---
+organizations:
+  - name: Universidad del Desarrollo
+    url: ""
+authors:
+  - Cristian Candia
 title: Cristian Candia
-role: Director at the Complexity and Computational Social Science LAB and Director of the Master's in Data Science
+role: Director CCSS-LAB and Director of the Master's in Data Science
 avatar_filename: avatar.jpeg
 bio: My research interests include collective behavior, collective and artificial, network science, and business analytics.
 interests:
