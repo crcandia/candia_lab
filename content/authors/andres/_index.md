@@ -9,9 +9,11 @@ title: Andrés Abeliuk, Ph.D.
 role: Department of Computer Science, University of Chile
 # bio: My research interests include ...
 interests:
-  - bleble
-  - blabla
-  - blablabla
+  - Algorithms
+  - Complexity 
+  - Computational Social Science
+  - Social Networks
+  - Game Theory
 social:
   - icon: envelope
     icon_pack: fas

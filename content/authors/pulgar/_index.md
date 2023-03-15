@@ -9,9 +9,11 @@ title: Javier Pulgar, Ph.D
 role: Physics Department, Universidad del Bío Bío
 # bio: My research interests include ...
 interests:
-  - bleble
-  - blabla
-  - blablabla
+  - Physics Education
+  - Problem Solving
+  - Social Networks
+  - Collaboration
+  - Creativity in Education
 social:
   - icon: envelope
     icon_pack: fas

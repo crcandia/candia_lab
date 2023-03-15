@@ -9,9 +9,10 @@ title: Carlos Rodriguez-Sickert, Ph.D.
 role: Universidad del Desarrollo, Faculty of Government, Research Center for Social Complexity (CICS)
 # bio: My research interests include ...
 interests:
-  - bleble
-  - blabla
-  - blablabla
+  - Social Complexity
+  - Game Theory
+  - Moral Behavior
+  
 social:
   - icon: envelope
     icon_pack: fas

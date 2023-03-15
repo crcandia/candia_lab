@@ -9,9 +9,11 @@ title: Flavio Pinheiro, Ph.D.
 role: NOVA IMS, Universidade Nova de Lisboa
 # bio: My research interests include ...
 interests:
-  - bleble
-  - blabla
-  - blablabla
+  - Computational Social Science
+  - Data Science
+  - Network Analysis
+  - Economic Complexity
+  - Evolutionary Game Theory
 social:
   - icon: envelope
     icon_pack: fas
