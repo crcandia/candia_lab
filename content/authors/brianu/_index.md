@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Brian Uzzi
 title: Brian Uzzi, Ph.D.
-role: Northwestern Inst. on Complex Sys. Kellogg Sch. of Mgt, Northwestern University
+role: Northwestern Institute on Complex Systems Kellogg School of Management, Northwestern University
 # bio: My research interests include ...
 interests:
   - Social Networks
