@@ -24,7 +24,7 @@ organizations:
   - name: Northwestern Institute on Complex Systems, Kellogg School of Management,
       Northwestern University, USA.
 education:
-  courses: [Bachelor of Science in Physics, Master of Science in Physics, Physics Engineering, Master of Social Complexity Science, Ph.D. in Complex Systems, Postdoc in Computational Social Science]
+  courses: []
 email: ""
 superuser: true
 user_groups:
