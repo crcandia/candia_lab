@@ -9,19 +9,19 @@ main:
     weight: 10
   - name: Projects
     url: projects
-    weight: 10   
+    weight: 20   
   - name: Teaching
     url: teaching
-    weight: 10   
+    weight: 30   
   - name: News
     url: post
-    weight: 20
+    weight: 40
   - name: Team
     url: people
-    weight: 30
+    weight: 50
   - name: Talks
     url: event
-    weight: 40
+    weight: 60
   - name: Contact
     url: contact
-    weight: 50
+    weight: 70
