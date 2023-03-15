@@ -9,9 +9,11 @@ title: Cesar Hidalgo, Ph.D.
 role: Center for Collective Learning, ANITI, TSE, Universities of Toulouse, Manchester, & Harvard
 # bio: My research interests include ...
 interests:
-  - bleble
-  - blabla
-  - blablabla
+  - Economic Complexity
+  - Economic Geography
+  - Digital Democracy
+  - Collective Intelligence
+  - Complex Systems
 social:
   - icon: envelope
     icon_pack: fas
