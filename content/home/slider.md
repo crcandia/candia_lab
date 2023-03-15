@@ -9,20 +9,20 @@ design:
   slide_height: ''
   is_fullscreen: true
   # Automatically transition through slides?
-  loop: false
+  loop: true
   # Duration of transition between slides (in ms)
   interval: 2000
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: 👋 Welcome to the Complexity and Computational Social Science Lab
+      content: Advancing Artificial, Collective, and Augmented Intelligence
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
+        media: welcome.jpg
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
