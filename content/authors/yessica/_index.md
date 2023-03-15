@@ -41,5 +41,3 @@ user_groups:
   - Ph.D. Students
   - Researchers
 ---
-
-Adolfo is a ....

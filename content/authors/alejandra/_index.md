@@ -9,9 +9,8 @@ title: Alejandra Maldonado, Ph.D.
 role: Physics Department, Universidad de Concepción.
 # bio: My research interests include ...
 interests:
-  - bleble
-  - blabla
-  - blablabla
+  - Quantum information
+  - Learning analytics
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,5 +40,3 @@ user_groups:
   - Collaborators
   - Researchers
 ---
-
-Adolfo is a ....

@@ -41,5 +41,3 @@ user_groups:
   - Collaborators
   - Researchers
 ---
-
-Adolfo is a ....
