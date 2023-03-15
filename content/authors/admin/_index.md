@@ -20,16 +20,16 @@ social:
     icon: nose
 organizations:
   - name: Data Science Institute, Universidad del Desarrollo, Chile.
-    url: "www.crcandia.com"
+    url: ""
   - name: Northwestern Institute on Complex Systems, Kellogg School of Management,
       Northwestern University, USA.
 education:
-  courses: []
+  courses: [Bachelor of Science in Physics, Master of Science in Physics, Physics Engineering, Master of Social Complexity Science, Ph.D. in Complex Systems, Postdoc in Computational Social Science]
 email: ""
 superuser: true
 user_groups:
   - Director
-highlight_name: false
+highlight_name: true
 ---
 
 <div style="text-align: justify">
