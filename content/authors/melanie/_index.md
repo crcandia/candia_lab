@@ -9,8 +9,8 @@ title: Melanie Oyarzún
 role: Ph.D. Candidate
 # bio: My research interests include ...
 interests:
-  - Learning Analytics
-  - Econometrics
+  - blablabla
+  - blablabla
   - blablabla
 social:
   - icon: envelope
