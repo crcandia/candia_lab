@@ -1,6 +1,6 @@
 ---
 title: Cristian Candia
-role: Director Complexity and Computational Social Science LAB
+role: Director at the Complexity and Computational Social Science LAB and Director of the Master's in Data Science
 avatar_filename: avatar.jpeg
 bio: My research interests include collective behavior, collective and artificial, network science, and business analytics.
 interests:
@@ -19,8 +19,8 @@ social:
     link: https://scholar.google.com/citations?user=oQ9KiDUAAAAJ&hl=en
     icon: nose
 organizations:
-  - name: Universidad del Desarrollo, Chile.
-    url: ""
+  - name: Data Science Institute, Universidad del Desarrollo, Chile.
+    url: "www.crcandia.com"
   - name: Northwestern Institute on Complex Systems, Kellogg School of Management,
       Northwestern University, USA.
 education:
