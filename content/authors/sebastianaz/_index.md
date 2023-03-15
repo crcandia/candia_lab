@@ -1,30 +1,30 @@
 ---
 organizations:
-  - name: Universidad del Bio Bio
+  - name: Universidad del Desarrollo
     url: ""
 superuser: false
 authors:
-  - Javier Pulgar
-title: Javier Pulgar
-role: Physics Department, Universidad del Bío Bío
+  - Matías Bull
+title: Matías Bull
+role: Master Student
 # bio: My research interests include ...
 interests:
   - bleble
   - blabla
   - blablabla
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/XXXXX
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?hl=es&user=9xvCQu8AAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: mailto:test@example.org
+#   - icon: twitter
+#     icon_pack: fab
+#     link: https://twitter.com/XXXXX
+#   - icon: google-scholar
+#     icon_pack: ai
+#     link: https://scholar.google.com/citations?user=
+#   - icon: github
+#     icon_pack: fab
+#     link: https://github.com/
 # education:
 #   courses:
 #     - course: Ph.D. in Social Complexity Science
@@ -38,8 +38,6 @@ social:
 #       # year: 2008
 email: ""
 user_groups:
-  - Collaborators
+  - Alumni
   - Researchers
 ---
-
-Adolfo is a ....

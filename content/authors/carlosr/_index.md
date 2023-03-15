@@ -1,12 +1,12 @@
 ---
 organizations:
-  - name: Universidad del Bio Bio
+  - name: Universidad del Desarrollo, Faculty of Government, Research Center for Social Complexity (CICS)
     url: ""
 superuser: false
 authors:
-  - Javier Pulgar
-title: Javier Pulgar
-role: Physics Department, Universidad del Bío Bío
+  - Carlos Rodriguez-Sickert
+title: Carlos Rodriguez-Sickert
+role: Universidad del Desarrollo, Faculty of Government, Research Center for Social Complexity (CICS)
 # bio: My research interests include ...
 interests:
   - bleble
@@ -21,7 +21,7 @@ social:
     link: https://twitter.com/XXXXX
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=es&user=9xvCQu8AAAAJ
+    link: https://scholar.google.com/citations?user=15jvvaEAAAAJ&hl=es
   - icon: github
     icon_pack: fab
     link: https://github.com/

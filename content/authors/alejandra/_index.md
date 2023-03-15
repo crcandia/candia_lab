@@ -1,12 +1,12 @@
 ---
 organizations:
-  - name: Universidad del Bio Bio
+  - name: Universidad de Concepción
     url: ""
 superuser: false
 authors:
-  - Javier Pulgar
-title: Javier Pulgar
-role: Physics Department, Universidad del Bío Bío
+  - Alejandra Maldonado
+title: Alejandra Maldonado
+role: Physics Department, Universidad de Concepción.
 # bio: My research interests include ...
 interests:
   - bleble
@@ -21,7 +21,7 @@ social:
     link: https://twitter.com/XXXXX
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=es&user=9xvCQu8AAAAJ
+    link: https://scholar.google.com/citations?hl=es&user=RxwCCjQAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/

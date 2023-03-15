@@ -1,13 +1,13 @@
 ---
 organizations:
-  - name: Universidade Nova de Lisboa
+  - name: NOVA IMS, Universidade Nova de Lisboa
     url: ""
 superuser: false
 authors:
   - Flavio Pinheiro
 title: Flavio Pinheiro
-role: Collaborator
-bio: My research interests include ...
+role: NOVA IMS, Universidade Nova de Lisboa
+# bio: My research interests include ...
 interests:
   - bleble
   - blabla
@@ -21,7 +21,7 @@ social:
     link: https://twitter.com/XXXXX
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=_nJlyEgAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=_nJlyEgAAAAJ&hl=es
   - icon: github
     icon_pack: fab
     link: https://github.com/

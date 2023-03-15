@@ -6,8 +6,8 @@ superuser: false
 authors:
   - Andrés Abeliuk
 title: Andrés Abeliuk
-role: Collaborators
-bio: My research interests include ...
+role: Department of Computer Science, University of Chile
+# bio: My research interests include ...
 interests:
   - bleble
   - blabla
@@ -21,25 +21,23 @@ social:
     link: https://twitter.com/XXXXX
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=qKqH1lcAAAAJ
+    link: https://scholar.google.com/citations?user=qKqH1lcAAAAJ&hl=es&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/
-education:
-  courses:
-    - course: Ph.D. in Computer Science
-      # institution: Universidad del Desarrollo
-      # year: 2012
-    - course: M.Sc. XXXX
-      # institution: Massachusetts Institute of Technology
-      # year: 2009
-    - course: XXXXX
-      # institution: Massachusetts Institute of Technology
-      # year: 2008
+# education:
+#   courses:
+#     - course: Ph.D. in Computer Science
+#       # institution: Universidad del Desarrollo
+#       # year: 2012
+#     - course: M.Sc. XXXX
+#       # institution: Massachusetts Institute of Technology
+#       # year: 2009
+#     - course: XXXXX
+#       # institution: Massachusetts Institute of Technology
+#       # year: 2008
 email: ""
 user_groups:
   - Collaborators
   - Researchers
 ---
-
-Andrés is a ....

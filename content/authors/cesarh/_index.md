@@ -1,12 +1,12 @@
 ---
 organizations:
-  - name: Universidad del Bio Bio
+  - name: Center for Collective Learning, ANITI, TSE, Universities of Toulouse, Manchester, & Harvard
     url: ""
 superuser: false
 authors:
-  - Javier Pulgar
-title: Javier Pulgar
-role: Physics Department, Universidad del Bío Bío
+  - Cesar Hidalgo
+title: Cesar Hidalgo
+role: Center for Collective Learning, ANITI, TSE, Universities of Toulouse, Manchester, & Harvard
 # bio: My research interests include ...
 interests:
   - bleble
@@ -21,7 +21,7 @@ social:
     link: https://twitter.com/XXXXX
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=es&user=9xvCQu8AAAAJ
+    link: https://scholar.google.com/citations?hl=es&user=xhCWdtMAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/
