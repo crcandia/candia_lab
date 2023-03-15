@@ -1,11 +1,8 @@
 ---
-organizations:
-  - name: Universidad del Desarrollo
-    url: ""
 authors:
   - Cristian Candia
 title: Cristian Candia
-role: Director CCSS-LAB and Director of the Master's in Data Science
+role: Director CCSS-LAB and Director of the Master's in Data Science at Universidad del Desarrollo, Chile.
 avatar_filename: avatar.jpeg
 bio: My research interests include collective behavior, collective and artificial, network science, and business analytics.
 interests:
@@ -41,10 +38,11 @@ social:
     link: https://github.com/crcandia
 
 organizations:
-  - name: Data Science Institute, Universidad del Desarrollo, Chile.
-    url: ""
-  - name: Northwestern Institute on Complex Systems, Kellogg School of Management,
+  - name: Asst. Professor at the Data Science Institute, Universidad del Desarrollo, Chile.
+    url: "https://www.udd.cl/persona/cristian-candia/#!/page=1"
+  - name: External Faculty at the Northwestern Institute on Complex Systems, Kellogg School of Management,
       Northwestern University, USA.
+    url: "https://www.nico.northwestern.edu/people/external-faculty.html"
 education:
   courses:
     - course: Postdoc in Computational Social Science
@@ -66,7 +64,7 @@ highlight_name: true
 
 <div style="text-align: justify">
 
-I am the Creator of Lixandria.cl and Discolab.cl, and an Assistant Professor and Director of the Master's in Data Science at the Data Science Institute (IDS) of the School of Engineering at Universidad del Desarrollo, Chile. Additionally, I am proud to be an external faculty member at the Northwestern Institute on Complex Systems (NICO) of Northwestern University.\
+Cristian is the creator of [Lixandria](https://lixandria.cl/) and [Discolab](https://discolab.azurewebsites.net/#/about), and an Assistant Professor and Director of the Master's in Data Science at the Data Science Institute (IDS) of the School of Engineering at Universidad del Desarrollo, Chile. Additionally, I am proud to be an external faculty member at the Northwestern Institute on Complex Systems (NICO) of Northwestern University.\
 \
 I have a diverse academic background. I held a postdoctoral position in Computational Social Science at the Kellogg School of Management, Northwestern University. My Ph.D. research on social complexity was carried out at the Center for Social Complexity at Universidad del Desarrollo, at the MIT Media Lab, and at the Center for Complex Networks Research at Northeastern and Harvard University. I earned my Master of Science in Physics, Bachelor of Science in Physics, and Physics Engineering professional title from Universidad de Concepción, Chile.\
 \
