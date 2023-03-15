@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - Flavio Pinheiro
-title: Flavio Pinheiro
+title: Flavio Pinheiro, Ph.D.
 role: NOVA IMS, Universidade Nova de Lisboa
 # bio: My research interests include ...
 interests:

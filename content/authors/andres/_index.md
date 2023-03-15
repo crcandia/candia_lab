@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - Andrés Abeliuk
-title: Andrés Abeliuk
+title: Andrés Abeliuk, Ph.D.
 role: Department of Computer Science, University of Chile
 # bio: My research interests include ...
 interests:
