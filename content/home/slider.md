@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the Complexity and Computational Social Science Lab at UDD-Chile
+    - title: Complexity and Computational Social Science Lab at UDD-Chile
       content: Advancing Artificial, Collective, and Augmented Intelligence
       align: center
       background:
