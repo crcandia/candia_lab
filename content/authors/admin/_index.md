@@ -12,20 +12,47 @@ interests:
   - Artificial Intelligence
   - Network Science
   - Experimental Game Theory
+# social:
+#   - display:
+#       header: false
+#     icon_pack: ai
+#     link: https://scholar.google.com/citations?user=oQ9KiDUAAAAJ&hl=en
+#     icon: nose
+
 social:
   - display:
-      header: false
+        header: true
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:crcandiav@gmail.com
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/crcandiav
+  - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=oQ9KiDUAAAAJ&hl=en
-    icon: nose
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/crcandia
+
 organizations:
   - name: Data Science Institute, Universidad del Desarrollo, Chile.
     url: ""
   - name: Northwestern Institute on Complex Systems, Kellogg School of Management,
       Northwestern University, USA.
 education:
-  courses: []
-email: ""
+  courses:
+    - course: Postdoc in Computational Social Science
+    - course: Ph.D. in Complex Systems
+      # institution: Stanford University
+      # year: 2012
+    - course: Master of Social Complexity Science
+    - course: Physics Engineering
+    - course: Master of Science in Physics
+    - course: Bachelor of Science in Physics
+
+
+email: "crcandiav@gmail.com"
 superuser: true
 user_groups:
   - Director
