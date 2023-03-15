@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - Alejandra Maldonado
-title: Alejandra Maldonado
+title: Alejandra Maldonado, Ph.D.
 role: Physics Department, Universidad de Concepción.
 # bio: My research interests include ...
 interests:

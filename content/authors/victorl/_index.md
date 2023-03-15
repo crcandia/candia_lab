@@ -1,30 +1,30 @@
 ---
 organizations:
-  - name: Center for Collective Learning, ANITI, TSE, Universities of Toulouse, Manchester, & Harvard
+  - name: Universidad del Desarrollo
     url: ""
 superuser: false
 authors:
-  - Cesar Hidalgo
-title: Cesar Hidalgo, Ph.D.
-role: Center for Collective Learning, ANITI, TSE, Universities of Toulouse, Manchester, & Harvard
+  - Victor Landaeta
+title: Victor Landaeta, Ph.D.
+role: Data Science Institute
 # bio: My research interests include ...
 interests:
-  - bleble
-  - blabla
-  - blablabla
+  - Social Networks
+  - Network Science
+  - Complex Systems
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/XXXXX
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/XXXXX
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=es&user=xhCWdtMAAAAJ
+    link: https://scholar.google.com/citations?user=aky5ujkAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/
+    link: https://github.com/vmlandae
 # education:
 #   courses:
 #     - course: Ph.D. in Social Complexity Science
