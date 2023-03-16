@@ -9,22 +9,25 @@ title: María Paz Raveau, Ph.D.
 role: FARO, Universidad del Desarrollo.
 # bio: My research interests include ...
 interests:
-  - Social Networks
-  - Network Science
-  - Complex Systems
+  - Ciencias Políticas
+  - Economía Política
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:test@example.org
+  - icon: cv
+    icon_pack: ai
+    link: https://faro.udd.cl/sobre-nosotros/academicos/#!/persona/447/maria-paz-raveau-morales/
+    
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/XXXXX
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=aky5ujkAAAAJ&hl=en&oi=ao
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/vmlandae
+    link: https://scholar.google.com/citations?user=zKVPCYIAAAAJ&hl=en
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/vmlandae
 # education:
 #   courses:
 #     - course: Ph.D. in Social Complexity Science
