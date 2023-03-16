@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Victor Landaeta
 title: Victor Landaeta, Ph.D.
-role: Data Science Institute
+role: Data Science Institute, Universidad del Desarrollo.
 # bio: My research interests include ...
 interests:
   - Social Networks
