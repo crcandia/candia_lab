@@ -17,16 +17,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
+    link: mailto:moyarzunw@udd.cl
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/XXXXX
+    link: https://twitter.com/mel2kill
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=es&user=5-t0IgkAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/mel2kill
+    link: https://github.com/melanieoyarzun
 # education:
 #   courses:
 #     - course: Ph.D. in Social Complexity Science
