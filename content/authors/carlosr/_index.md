@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Carlos Rodriguez-Sickert
 title: Carlos Rodriguez-Sickert, Ph.D.
-role: Universidad del Desarrollo, Faculty of Government, Research Center for Social Complexity (CICS)
+role: Research Center for Social Complexity (CICS), Government School, Universidad del Desarrollo.
 # bio: My research interests include ...
 interests:
   - Social Complexity
