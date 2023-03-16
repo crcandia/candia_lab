@@ -4,8 +4,8 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - Cesar Hidalgo
-title: Cesar Hidalgo, Ph.D.
+  - César Hidalgo
+title: César Hidalgo, Ph.D.
 role: Center for Collective Learning, ANITI, TSE, Universities of Toulouse, Manchester, & Harvard
 # bio: My research interests include ...
 interests:
@@ -17,16 +17,19 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
+  - icon: cv
+    icon_pack: ai
+    link: https://cesarhidalgo.com/
     link: mailto:test@example.org
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/XXXXX
+    link: https://twitter.com/cesifoti
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=es&user=xhCWdtMAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/
 # education:
 #   courses:
 #     - course: Ph.D. in Social Complexity Science
