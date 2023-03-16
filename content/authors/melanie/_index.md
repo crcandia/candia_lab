@@ -26,7 +26,7 @@ social:
     link: https://scholar.google.com/citations?hl=es&user=5-t0IgkAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/
+    link: https://github.com/mel2kill
 # education:
 #   courses:
 #     - course: Ph.D. in Social Complexity Science
