@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Flavio Pinheiro, PH.D.
 title: Flavio Pinheiro
-role: NOVA IMS, Universidade Nova de Lisboa
+role: Assistant Professor
 # bio: My research interests include ...
 interests:
   - Computational Social Science
