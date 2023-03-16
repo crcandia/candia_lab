@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Sebastián Pulgares
 title: Sebastián Pulgares
-role: Undergraduate Student
+role: Visiting Undergraduate Student
 # bio: My research interests include ...
 interests:
   - bleble
@@ -39,5 +39,5 @@ social:
 email: ""
 user_groups:
   - Undergraduate Students
-  - Researchers
+  - Visitors
 ---
