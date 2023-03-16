@@ -17,10 +17,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
+    link: mailto:test@example.org
   - icon: cv
     icon_pack: ai
     link: https://cesarhidalgo.com/
-    link: mailto:test@example.org
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/cesifoti
