@@ -1,12 +1,12 @@
 ---
 organizations:
-  - name: NOVA IMS, Universidade Nova de Lisboa
+  - name: 
     url: ""
 superuser: false
 authors:
   - Flavio Pinheiro, PH.D.
 title: Flavio Pinheiro
-role: Assistant Professor
+role: NOVA IMS, Universidade Nova de Lisboa
 # bio: My research interests include ...
 interests:
   - Computational Social Science
