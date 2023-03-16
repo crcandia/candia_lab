@@ -1,12 +1,12 @@
 ---
-title: 'An example journal article'
+title: 'The higher education space: connecting degree programs from individuals’ choices'
 authors:
-  - Candia, Cristian 
+  - admin 
   - Encarnação, Sara
   - Pinheiro, Flávio L
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - ''
+  - ''
 date: '2019-12-01T00:00:00Z'
 doi: 'https://doi.org/10.1140/epjds/s13688-019-0218-4'
 
