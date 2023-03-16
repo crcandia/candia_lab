@@ -18,15 +18,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/XXXXX
+  - icon: cv
+    icon_pack: ai
+    link: https://www.flaviolpp.com/
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/XXXXX
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=_nJlyEgAAAAJ&hl=es
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/
 # education:
 #   courses:
 #     - course: Ph.D. in Social Complexity Science
