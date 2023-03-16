@@ -12,9 +12,9 @@ interests:
   - Ciencias Políticas
   - Economía Política
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:test@example.org
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: mailto:test@example.org
   - icon: cv
     icon_pack: ai
     link: https://faro.udd.cl/sobre-nosotros/academicos/#!/persona/447/maria-paz-raveau-morales/

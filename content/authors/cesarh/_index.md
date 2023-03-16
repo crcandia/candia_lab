@@ -15,9 +15,9 @@ interests:
   - Collective Intelligence
   - Complex Systems
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:test@example.org
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: mailto:test@example.org
   - icon: cv
     icon_pack: ai
     link: https://cesarhidalgo.com/

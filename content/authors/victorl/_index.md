@@ -13,9 +13,9 @@ interests:
   - Network Science
   - Complex Systems
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:test@example.org
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: mailto:test@example.org
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/XXXXX
