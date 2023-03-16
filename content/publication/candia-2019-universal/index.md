@@ -7,8 +7,10 @@ authors:
   - laszlo
   - cesarh
 author_notes:
-  # - 'Equal contribution'
-  # - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
+
+  
 date: '2019-01-01T00:00:00Z'
 doi: 'https://doi.org/10.1038/s41562-018-0474-5'
 
