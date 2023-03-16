@@ -15,15 +15,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/XXXXX
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/XXXXX
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=es&user=RxwCCjQAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/
 # education:
 #   courses:
 #     - course: Ph.D. in Social Complexity Science

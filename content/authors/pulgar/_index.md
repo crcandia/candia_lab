@@ -18,6 +18,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:test@example.org
+  
+  - icon: cv
+    icon_pack: ai
+    link: http://ciencias.ubiobio.cl/web/#/academico-detalle/67
+
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/XXXXX
