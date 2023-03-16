@@ -27,6 +27,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:crcandiav@gmail.com
+
+  - icon: cv
+    icon_pack: ai
+    link: https://crcandia.com/
+
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/crcandiav
