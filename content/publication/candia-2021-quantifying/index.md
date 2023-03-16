@@ -7,7 +7,7 @@ author_notes:
   - ''
   - ''
 date: '2021-09-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1037/amp0000863'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
