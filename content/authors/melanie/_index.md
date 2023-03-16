@@ -9,9 +9,11 @@ title: Melanie Oyarzún
 role: Ph.D. Candidate
 # bio: My research interests include ...
 interests:
-  - blablabla
-  - blablabla
-  - blablabla
+  - Labor economics
+  - Development economics
+  - Applied microeconomics
+  - Econometrics
+  - Microeconometrics
 social:
   - icon: envelope
     icon_pack: fas
