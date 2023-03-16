@@ -1,5 +1,5 @@
 ---
-title: 'uantifying the selective forgetting and integration of ideas in science and technology'
+title: 'Quantifying the selective forgetting and integration of ideas in science and technology'
 authors:
   - admin
   - brianu
