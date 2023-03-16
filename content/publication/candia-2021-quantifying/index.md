@@ -1,12 +1,12 @@
 ---
-title: 'An example journal article'
+title: 'uantifying the selective forgetting and integration of ideas in science and technology'
 authors:
   - admin
-  - Robert Ford
+  - brianu
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
+  - ''
+  - ''
+date: '2021-09-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -19,10 +19,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*American Psychologist, 76*(6)'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: How long will this article be remembered? How long will people reference it in their conversations, and for how many years will other authors cite its findings in their own works? A community's attention to a cultural object decays as time passes, a process known as collective forgetting. Recent work models this decay as the result of two different processes. One linked to communicative memory-memories sustained by human communication-and the other linked to cultural memory-memories sustained by the physical recording of content. Collective forgetting has significant impacts on communities, yet little is known about how the collective forgetting dynamic changes over time. Here, we study the temporal changes of collective memory and attention by focusing on two knowledge communities, inventors and physicists. We use data on patents from the United States Patent and Trademark Office (USPTO) and physics papers published by the American Physical Society (APS) to quantify those changes over time. The model enables us to distinguish between two branches of forgetting. One branch is short-lived, going directly from communicative memory to oblivion. The other branch is long-lived, going from communicative memory to cultural memory before going on to oblivion. The data analysis shows an increase in the forgetting rate for both communities as the amount of information in each of them grows. That growth of information forces knowledge communities to increase their selectivity regarding what is stored in their cultural memory. These findings confirm the forgetting as annulment hypothesis and show that knowledge communities can slow down collective forgetting and improve selectivity processes.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.kellogg.northwestern.edu/faculty/uzzi/htm/papers/AP_Candia_Uzzi_2022-13889-017.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**CCSS-LAB**]()'
   focal_point: ''
   preview_only: false
 
@@ -69,4 +69,4 @@ slides:
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+<!-- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). -->

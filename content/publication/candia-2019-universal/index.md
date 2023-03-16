@@ -51,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**CCSS-LAB**]'
+  caption: 'Image credit: [**CCSS-LAB**]()'
   focal_point: ''
   preview_only: false
 
