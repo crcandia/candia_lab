@@ -1,18 +1,4 @@
 ---
-@article{candia2022reciprocity,
- author = {Candia, Cristian and Oyarzún, Melanie and Landaeta, Victor and Yaikin, Tamara and Monge, Cecilia and Hidalgo, César and Rodriguez-Sickert, Carlos},
- journal = {Heliyon},
- number = {12},
- pages = {e11916},
- publisher = {Elsevier},
- title = {Reciprocity heightens academic performance in elementary school students},
- volume = {8},
- year = {2022}
-}
-
-
-
-
 title: 'Reciprocity heightens academic performance in elementary school students'
 authors:
   - admin
