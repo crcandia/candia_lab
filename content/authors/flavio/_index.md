@@ -4,8 +4,8 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - Flavio Pinheiro
-title: Flavio Pinheiro, Ph.D.
+  - Flavio Pinheiro, PH.D.
+title: Flavio Pinheiro
 role: NOVA IMS, Universidade Nova de Lisboa
 # bio: My research interests include ...
 interests:
