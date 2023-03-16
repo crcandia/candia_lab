@@ -3,7 +3,7 @@ title: 'The higher education space: connecting degree programs from individuals�
 authors:
   - admin 
   - Encarnação, Sara
-  - Pinheiro, Flávio L
+  - flavio
 author_notes:
   - ''
   - ''
