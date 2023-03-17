@@ -29,7 +29,9 @@ abstract: Data on the applicants’ revealed preferences when entering higher ed
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Source Themes
+  - Network Science
+  - Decision Making
+  - Econometrics
 featured: false
 
 # links:

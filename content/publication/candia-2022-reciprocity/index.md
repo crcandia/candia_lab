@@ -33,7 +33,11 @@ abstract: Social relationships are pivotal for human beings. Yet, we still lack 
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Source Themes
+  - Network Science
+  - Learning Analytics
+  - Cooperation
+  - Experimental Game Theory
+  - Causal Inference
 featured: false
 
 # links:

@@ -1,13 +1,14 @@
 ---
-title: 'An example journal article'
+title: 'Social networks and academic performance in physics: Undergraduate cooperation enhances ill-structured problem elaboration and inhibits well-structured problem solving'
 authors:
+  - Pulgar
   - admin
-  - Robert Ford
+  - Paul M Leonardi
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
-doi: ''
+  - ''
+  - ''
+date: '2020-06-01T00:00:00Z'
+doi: 'https://doi.org/10.1103/PhysRevPhysEducRes.16.010137'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -19,22 +20,25 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Physical Review Physics Education Research, 16*(1)'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: For several decades, scholars have studied the role of cooperation and its outcomes in educational contexts. Yet we lack a complete understanding of how different instructional strategies impact the relationship between cooperation and learning. In this paper we present results from a field experiment with 82 first-year students in an introductory physics course showing how different instructional strategies led to different social configurations in the classroom and to differences in individual academic performance. Surprisingly, we found that students who actively sought out information from multiple peers were less likely to perform well on well-structured problems as compared to those who did not seek help, whereas, for ill-structured (real-world-like) problems, this effect depended on the features of the learning environment. We observed that good performance on ill- and well-structured problems was sensitive to different social network configurations. In a highly clustered network (which contains redundant information), students performed better on well-structured problems than ill-structured problems. By contrast, students with access to network structural holes (which enable access to more diverse information) performed ill-structured problems better than well-structured problems. Finally, ill-structured problems promoted creative thinking, provided that instructors guided the problem-solving process and motivated students to engage in the appropriate cognitive demands these problems entailed. Our results suggest that teaching and instructional strategies play an important role in cooperative learning; therefore, educators implementing cooperative learning methods have to accompany them with adequate instructional strategy.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Source Themes
+  - Network Science
+  - Cooperation
+  - Learning Analytics
+  - Econometrics
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://journals.aps.org/prper/pdf/10.1103/PhysRevPhysEducRes.16.010137
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -46,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**CCSS-LAB**]()'
   focal_point: ''
   preview_only: false
 
@@ -69,4 +73,4 @@ slides:
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+<!-- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). -->

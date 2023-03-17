@@ -33,7 +33,9 @@ abstract: Collective memory and attention are sustained by two channels oral com
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Source Themes
+  - Collective Memory
+  - Mathematical Modelling 
+  - Econometrics
 featured: false
 
 # links:
