@@ -29,6 +29,7 @@ abstract: How long will this article be remembered? How long will people referen
 
 tags:
   - Source Themes
+  - Collective Memory
 featured: false
 
 # links:
