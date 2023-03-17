@@ -4,8 +4,8 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - Sebastián Azocar
-title: Sebastián Azocar
+  - Matías Bull
+title: Matías Bull
 role: Master Student
 # bio: My research interests include ...
 interests:
@@ -13,18 +13,18 @@ interests:
   - blabla
   - blablabla
 # social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: mailto:test@example.org
-#   - icon: twitter
-#     icon_pack: fab
-#     link: https://twitter.com/XXXXX
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:mbullr@udd.cl
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/matiasfbr
 #   - icon: google-scholar
 #     icon_pack: ai
 #     link: https://scholar.google.com/citations?user=
-#   - icon: github
-#     icon_pack: fab
-#     link: https://github.com/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/matiasfbr
 # education:
 #   courses:
 #     - course: Ph.D. in Social Complexity Science

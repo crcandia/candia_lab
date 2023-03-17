@@ -20,10 +20,10 @@ content:
     - Ph.D. Students
     - Master's Students
     - Undergraduate Students
-    - Collaborators
     - Administration
     - Visitors
     - Alumni
+    - Collaborators
 design:
   show_interests: false
   show_role: true
