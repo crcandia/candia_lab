@@ -38,6 +38,7 @@ tags:
   - Cooperation
   - Experimental Game Theory
   - Causal Inference
+  - Econometrics
 featured: false
 
 # links:
