@@ -5,7 +5,7 @@ superuser: false
 authors:
   - Cristián Jara-Figueroa
 title: Cristián Jara-Figueroa
-role: Data Scientist at LinkedIn's Economic Graph
+role: Senior Data Scientist at LinkedIn's Economic Graph
 # bio: My research interests include ...
 interests:
   - Economic geography
