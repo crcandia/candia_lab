@@ -4,8 +4,8 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - Matías Bull
-title: Matías Bull
+  - Sebastián Azocar
+title: Sebastián Azocar
 role: Master Student
 # bio: My research interests include ...
 interests:
