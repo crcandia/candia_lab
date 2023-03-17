@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - María Paz Raveau
-title: María Paz Raveau, Ph.D.
+title: María Paz Raveau
 role: FARO, Universidad del Desarrollo.
 # bio: My research interests include ...
 interests:

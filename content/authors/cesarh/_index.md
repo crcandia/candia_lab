@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - César Hidalgo
-title: César Hidalgo, Ph.D.
+title: César Hidalgo
 role: Center for Collective Learning, ANITI, TSE, Universities of Toulouse, Manchester, & Harvard
 # bio: My research interests include ...
 interests:

@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - Brian Uzzi
-title: Brian Uzzi, Ph.D.
+title: Brian Uzzi
 role: Northwestern Institute on Complex Systems Kellogg School of Management, Northwestern University
 # bio: My research interests include ...
 interests:

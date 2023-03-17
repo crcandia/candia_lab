@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - Javier Pulgar
-title: Javier Pulgar, Ph.D
+title: Javier Pulgar
 role: Physics Department, Universidad del Bío Bío
 # bio: My research interests include ...
 interests:
