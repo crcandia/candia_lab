@@ -12,7 +12,7 @@ interests:
   - bleble
   - blabla
   - blablabla
-# social:
+social:
   - icon: envelope
     icon_pack: fas
     link: mailto:mbullr@udd.cl
