@@ -1,12 +1,12 @@
 ---
-organizations:
-  - name: Kellogg School of Management, Northwestern University
-    url: ""
+# organizations:
+#   - name: Kellogg School of Management, Northwestern University
+#     url: ""
 superuser: false
 authors:
   - Brian Uzzi
 title: Brian Uzzi
-role: Northwestern Institute on Complex Systems Kellogg School of Management, Northwestern University
+role: Richard L. Thomas Professor of Leadership at the Kellogg School of Management, Northwestern University
 # bio: My research interests include ...
 interests:
   - Social Networks
