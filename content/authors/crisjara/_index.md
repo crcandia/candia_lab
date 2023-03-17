@@ -1,6 +1,6 @@
 ---
-organizations:
-  - name: Data Scientist at LinkedIn's Economic Graph
+# organizations:
+#   - name: Data Scientist at LinkedIn's Economic Graph
 superuser: false
 authors:
   - Cristián Jara-Figueroa
