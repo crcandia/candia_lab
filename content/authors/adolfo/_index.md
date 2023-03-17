@@ -9,22 +9,24 @@ title: Adolfo Fuentes
 role: Ph.D. student
 # bio: My research interests include ...
 interests:
-  - bleble
-  - blabla
-  - blablabla
+  - Data Science
+  - Machine Learning 
+  - Computational Social Science 
+  - Social Complexity
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
+    link: mailto:afuentesj@udd.cl
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/XXXXX
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=
+    link: https://twitter.com/AdolfoFuentes
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.com/citations?user=
   - icon: github
     icon_pack: fab
-    link: https://github.com/
+    link: https://github.com/adolfofuentesjofre
+
 # education:
 #   courses:
 #     - course: Ph.D. in Social Complexity Science
