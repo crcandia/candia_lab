@@ -9,9 +9,10 @@ title: Yessica Herrera
 role: Ph.D. Candidate
 # bio: My research interests include ...
 interests:
-  - bleble
-  - blabla
-  - blablabla
+  - Science of Arts
+  - Science of Science
+  - Science of Success
+  - Network Science
 social:
   - icon: envelope
     icon_pack: fas
