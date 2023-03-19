@@ -20,8 +20,8 @@ content:
   address:
     street: 680 La Plaza Avenue
     city: Las Condes
-    region: Región Metropolitana
-    postcode: ''
+    region: Región Metropolitana, Chile.
+    postcode: '7610658'
     country: Chile
     country_code: 'CL'
   coordinates:
