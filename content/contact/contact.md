@@ -23,7 +23,7 @@ content:
     region: Región Metropolitana
     postcode: ''
     country: Chile
-    country_code: CL
+    country_code: 'CL'
   coordinates:
     latitude: '-33.39160294597748'
     longitude: '-70.50089862789612'
