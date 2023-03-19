@@ -41,16 +41,16 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
 
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+  # # Email form provider
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: true
 
 design:
   columns: '1'
 ---
-To get in touch, please fill out the form or schedule an appointment. 
+To get in touch, send an email or schedule an appointment. 
