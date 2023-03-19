@@ -39,7 +39,7 @@ tags:
   - Experimental Game Theory
   - Causal Inference
   - Econometrics
-featured: false
+featured: true
 
 # links:
 # - name: ""
