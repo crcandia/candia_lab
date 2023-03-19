@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
+  # email: test@example.org
   phone: +1 857 242 8452 (Only Whatsapp)
   address:
     street: 680 La Plaza Avenue
@@ -53,3 +53,4 @@ content:
 design:
   columns: '1'
 ---
+To get in touch, please fill out the form or schedule an appointment. 
