@@ -4,11 +4,11 @@ widget: pages
 headless: true
 weight: 40
 
-title: Latest Articles
+title: Latest Research Articles
 subtitle:
 
 content:
-  count: 5
+  count: 3
   filters:
     author: ''
     category: ''
