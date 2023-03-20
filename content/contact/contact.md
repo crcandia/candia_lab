@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: [Send us an email](mailto:crcandiav@gmail.com)
+  # email: [Send us an email](mailto:crcandiav@gmail.com)
   phone: +1 857 242 8452 (Only Whatsapp)
   address:
     street: 680 La Plaza Avenue
@@ -53,6 +53,8 @@ content:
 design:
   columns: '1'
 ---
-Complexity and Computational Social Science LAB. To get in touch, send an email or schedule an appointment. 
+# Complexity and Computational Social Science LAB. 
 
-[Send us an email](mailto:crcandiav@gmail.com)
+To get in touch, send an email or schedule an appointment. 
+
+**[Send us an email](mailto:crcandiav@gmail.com)**
