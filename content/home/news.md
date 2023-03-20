@@ -1,6 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: Publications
+widget: publications
 headless: true
 weight: 40
 
