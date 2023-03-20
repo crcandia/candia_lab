@@ -49,7 +49,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
+<div style="margin: auto;text-align: justify">
 <iframe width="500" height="300" src="https://www.youtube.com/embed/mbg9JvfQ6Yw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -57,6 +57,7 @@ Cultural products have a life of their own: academic papers get cited and songs 
 
 [1] <a href="https://www.nature.com/articles/s41562-018-0474-5" target="_blank">  The universal decay of collective memory and attention</a>. <br> <strong> Cristian Candia</strong>, C. Jara-Figueroa, Carlos Rodriguez-Sickert, Albert-László Barabási, and César Hidalgo. <br> Published in <strong> Nature Human Behaviour</strong> 2019.
 
+</div>
 
 <!-- 
 Slides can be added in a few ways:
