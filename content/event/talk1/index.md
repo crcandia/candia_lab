@@ -6,11 +6,9 @@ title: "The universal decay of collective memory and attention [Video]"
 venue: "Nature Human Behaviour"
 date: '2019-01-01'
 event: "Nature Human Behaviour Videos"
+# event_url: https://example.org
 location: "Boston, MA"
 
-
-# event: Wowchemy Conference
-# event_url: https://example.org
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
