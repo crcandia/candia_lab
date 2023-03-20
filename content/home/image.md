@@ -41,5 +41,7 @@ html {
 }
 </style>
 <br>
-<p style="text-align: center; width:50vw"> Advancing and using Computational Social Science to tackle real-world problems related to individual and collective behavior using observational data and quasi-experiments.</p>
+<div style="width:50vw">
+<p style="text-align: center"> Advancing and using Computational Social Science to tackle real-world problems related to individual and collective behavior using observational data and quasi-experiments.</p>
+</div>
 
