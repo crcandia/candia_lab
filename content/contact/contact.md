@@ -55,6 +55,6 @@ design:
 ---
 ## Complexity and Computational Social Science LAB (C2S2-LAB)
 
-To get in touch, send an email or schedule an appointment.
+To get in touch, send us an email or schedule a virtual appointment.
 
 **[Send us an email](mailto:crcandiav@gmail.com)**
