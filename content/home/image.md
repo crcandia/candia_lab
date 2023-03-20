@@ -36,22 +36,26 @@ advanced:
   css_class: fullscreen
 ---
 <head>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-SFQPESQQ34"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-SFQPESQQ34');
 </script>
 
-</head>
+
+
 <style>
 html {
     font-size: calc(20px + 0.390625vw);
 }
 </style>
+
+</head>
+
 <br>
 <div style="margin: auto; width:70vw">
 <p style="text-align: center"> Advancing and using Computational Social Science to tackle real-world problems related to individual and collective behavior using observational data and quasi-experiments.</p>
