@@ -20,7 +20,7 @@ design:
   background:
     position: right
     color: '#666'
-    brightness: 0.3
+    brightness: 0.1
     image: welcome.jpg
     # image_darken: 0
     # brightness: 0.3
