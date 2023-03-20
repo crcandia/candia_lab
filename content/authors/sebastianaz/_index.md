@@ -9,10 +9,10 @@ title: Sebastián Azocar
 role: Master Student
 # bio: My research interests include ...
 interests:
-  - bleble
-  - blabla
-  - blablabla
-# social:
+#   - bleble
+#   - blabla
+#   - blablabla
+# # social:
 #   - icon: envelope
 #     icon_pack: fas
 #     link: mailto:test@example.org
