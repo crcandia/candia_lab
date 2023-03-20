@@ -53,7 +53,7 @@ content:
 design:
   columns: '1'
 ---
-## Complexity and Computational Social Science LAB (C2S2-LAB)
+## Computational Research in Social Sciences Laboratory (CRISS-LAB)
 
 To get in touch, send us an email or schedule a virtual appointment.
 
