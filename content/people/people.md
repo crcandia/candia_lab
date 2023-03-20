@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Computational Research in Social Science Team
+title: Computational Research in Social Science Lab Team
 subtitle:
 
 content:
