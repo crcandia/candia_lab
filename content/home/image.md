@@ -21,7 +21,7 @@ design:
     position: right
     color: '#666'
     brightness: 0.3
-    image: welcome.jpg
+    media: welcome.jpg
     # image_darken: 0
     # brightness: 0.3
     image_parallax: false
