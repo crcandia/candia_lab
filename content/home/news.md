@@ -3,6 +3,7 @@
 widget: publications
 headless: true
 weight: 40
+view: compact
 
 title: Latest Research Articles
 subtitle:
