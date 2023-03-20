@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Computational Research in Social Sciences Lab
+title: Computational Research in Social Sciences Lab at UDD-Chile
 subtitle: Advancing Artificial, Collective, and Augmented Intelligence
 
 design:
@@ -24,7 +24,7 @@ design:
     image: welcome.jpg
     filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-        brightness: 0
+        brightness: 1
     # image_darken: 0
     # brightness: 0.3
     image_parallax: true
