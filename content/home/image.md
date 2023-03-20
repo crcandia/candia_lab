@@ -13,7 +13,7 @@ headless: true
 weight: 10
 
 title: Computational Research in Social Sciences Lab at UDD-Chile
-subtitle: Advancing Artificial, Collective, and Augmented Intelligence
+subtitle: Advancing Collective, Artificial, and Augmented Intelligence
 
 
 design:
@@ -28,7 +28,7 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ['0.3%', '0', '20px', '0']
+    padding: ['3%', '0', '20px', '0']
 
 advanced:
   css_class: fullscreen
