@@ -13,7 +13,7 @@ headless: true
 weight: 10
 
 title: Computational Research in Social Sciences Lab at UDD-Chile
-subtitle: Advancing Collective, Artificial, and Augmented Intelligence
+subtitle: Advancing Collective, Artificial, and Augmented Intelligence through research in Human and Social Behavior
 
 
 design:
