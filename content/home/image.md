@@ -22,9 +22,12 @@ design:
     # color: '#666'
     brightness: 0.1
     image: welcome.jpg
+      filters:
+          # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+          brightness: 0.3
     # image_darken: 0
     # brightness: 0.3
-    image_parallax: false
+    image_parallax: true
     image_position: center
     image_size: cover
     text_color_light: true
