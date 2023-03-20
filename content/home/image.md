@@ -35,6 +35,18 @@ design:
 advanced:
   css_class: fullscreen
 ---
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SFQPESQQ34"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SFQPESQQ34');
+</script>
+
+</head>
 <style>
 html {
     font-size: calc(20px + 0.390625vw);
