@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 10
 
 title: Computational Research in Social Sciences Lab at UDD-Chile
 subtitle: Advancing Artificial, Collective, and Augmented Intelligence
