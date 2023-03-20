@@ -17,6 +17,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:afuentesj@udd.cl
+  - icon: cv
+    icon_pack: ai
+    link: https://adolfoignacio.com/
+
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AdolfoFuentes
