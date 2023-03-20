@@ -4,7 +4,7 @@ collection: talks
 type: "Paper video"
 permalink: /talks/universal_video
 venue: "Nature Human Behaviour"
-date: 2018-12-10
+date: '2018-12-10'
 location: "Boston, MA"
 
 
@@ -13,9 +13,9 @@ event_url: https://example.org -->
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+# date: '2030-06-01T13:00:00Z'
+# date_end: '2030-06-01T15:00:00Z'
+# all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
