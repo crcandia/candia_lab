@@ -25,12 +25,12 @@ design:
   background:
     position: right
     # color: '#666'
-    brightness: 0.1
+    # brightness: 0.1
     image: welcome.jpg
     # filters:
     #     # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
     #     brightness: 1
-    image_darken: 0.1
+    image_darken: 0.3
     # color: '#666'
     # image_brightness: 0.2
     image_parallax: true
