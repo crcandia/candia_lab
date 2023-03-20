@@ -28,7 +28,7 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ['3%', '0', '20px', '0']
+    padding: ['30%', '0', '20px', '0']
 
 advanced:
   css_class: fullscreen
@@ -39,4 +39,4 @@ html {
 }
 </style>
 
-<p style="text-align: center; color:#DCDCDC"> We do research in Human and Social Behavior. </p>
+<p style="text-align: center; color:#DCDCDC"> through research in Human and Social Behavior. </p>
