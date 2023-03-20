@@ -12,12 +12,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Complexity and Computational Social Science Lab
+title: Computational Research in Social Sciences Lab
 subtitle: Advancing Artificial, Collective, and Augmented Intelligence
 
 design:
   columns: '1'
-  brightness: 0.1
   background:
     position: right
     color: '#666'
@@ -34,3 +33,6 @@ design:
 advanced:
   css_class: fullscreen
 ---
+
+
+{{< figure src="welcome.jpg" caption="A caption" numbered="false" >}}
