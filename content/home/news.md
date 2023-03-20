@@ -1,6 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+widget: pages
+
 headless: true
 weight: 40
 view: compact
