@@ -53,7 +53,7 @@ content:
 design:
   columns: '1'
 ---
-# Complexity and Computational Social Science LAB. 
+# Complexity and Computational Social Science LAB (C2S2-LAB). 
 
 To get in touch, send an email or schedule an appointment. 
 
