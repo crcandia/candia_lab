@@ -13,7 +13,7 @@ headless: true
 weight: 10
 
 title: Computational Research in Social Sciences Lab at UDD-Chile
-subtitle: Advancing Collective, Artificial, and Augmented Intelligence through research in Human and Social Behavior
+# subtitle: Advancing Collective, Artificial, and Augmented Intelligence through research in Human and Social Behavior
 
 
 design:
@@ -41,4 +41,4 @@ html {
 }
 </style>
 
-<p style="text-align: center; color:#DCDCDC"> through research in Human and Social Behavior. </p>
+<p style="text-align: center; color:#DCDCDC"> Advancing Collective, Artificial, and Augmented Intelligence through research in Human and Social Behavior </p>
