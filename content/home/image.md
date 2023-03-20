@@ -14,7 +14,6 @@ weight: 10
 
 title: Computational Research in Social Sciences Lab at UDD-Chile
 subtitle: Advancing Artificial, Collective, and Augmented Intelligence
-content: We do research in Human and Social Behavior
 
 
 design:
@@ -34,4 +33,10 @@ design:
 advanced:
   css_class: fullscreen
 ---
-We do research in Human and Social Behavior.
+<style>
+html {
+    font-size: calc(15px + 0.390625vw);
+}
+</style>
+
+<p style="text-align: center; color:#666"> We do research in Human and Social Behavior. </p>
