@@ -35,9 +35,9 @@ subtitle: Advancing Artificial, Collective, and Augmented Intelligence
 design:
   columns: '1'
   background:
-    image:
+    image: 'welcome.jpg'
       # Name of image in `assets/media/`.
-      filename: 'welcome.jpg'
+      # filename: 'welcome.jpg'
       # Apply image filters?
       filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
