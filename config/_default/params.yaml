@@ -18,7 +18,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'CCSS LAB.'
+    description: 'CRISS-LAB'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} CCSS-LAB. This work is licensed under {license}'
+    notice: '© {year} CRISS-LAB. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
