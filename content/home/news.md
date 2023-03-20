@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: hero
 
 headless: true
 weight: 40
-view: hero #showcase
+view: compact #showcase
 
 title: Latest Research Articles
 subtitle:
