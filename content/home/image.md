@@ -28,7 +28,7 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ['250px', '0', '20px', '0']
+    padding: ['0.3%', '0', '20px', '0']
 
 advanced:
   css_class: fullscreen
