@@ -55,7 +55,6 @@ projects:
     overflow: hidden;
     padding-top: 56.25%;
 }
-
 .iframe-responsivo {
     position: absolute;
     top: 0;
