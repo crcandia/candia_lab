@@ -41,4 +41,6 @@ html {
 }
 </style>
 
-<p style="text-align: center; color:#DCDCDC"> Advancing Collective, Artificial, and Augmented Intelligence through research in Human and Social Behavior </p>
+<p style="text-align: center; color:#DCDCDC"> Advancing Collective, Artificial, and Augmented Intelligence 
+
+through research in Human and Social Behavior </p>
