@@ -41,10 +41,5 @@ html {
 }
 </style>
 <br>
-<p style="text-align: center;"> Advancing and using Computational Social Science to tackle real-world problems related to individual and collective behavior using observational data and quasi-experiments.</p>
+<p style="text-align: center; width:50vw"> Advancing and using Computational Social Science to tackle real-world problems related to individual and collective behavior using observational data and quasi-experiments.</p>
 
-
-
-<!-- <p style="text-align: center; color:#DCDCDC"> Advancing Collective, Artificial, and Augmented Intelligence 
-
-through research in Human and Social Behavior </p> -->
