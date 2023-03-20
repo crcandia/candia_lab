@@ -16,7 +16,7 @@ content:
   # Contact (edit or remove options as required)
 
   # email: [Send us an email](mailto:crcandiav@gmail.com)
-  # phone: +1 857 242 8452 (Only Whatsapp)
+  # phone: +1 857 242 8452 (Whatsapp Only)
   address:
     street: 680 La Plaza Avenue
     city: Las Condes
