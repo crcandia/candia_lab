@@ -57,4 +57,4 @@ design:
 
 To get in touch, send us an email or schedule a virtual appointment.
 
-**[Send us an email](mailto:crcandiav@gmail.com)**
+**[Send us an email](mailto:contact@criss-lab.com)**
