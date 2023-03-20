@@ -29,7 +29,7 @@ design:
     text_color_light: true
   spacing:
     # padding: ['15%', '0', '20px', '0']
-    padding: ['20vh', '0', '20px', '0']
+    padding: ['25vh', '0', '20px', '0']
     
 
 advanced:
@@ -37,11 +37,11 @@ advanced:
 ---
 <style>
 html {
-    font-size: calc(15px + 0.390625vw);
+    font-size: calc(20px + 0.390625vw);
 }
 </style>
 <br>
-<div style="margin: auto; width:50vw">
+<div style="margin: auto; width:70vw">
 <p style="text-align: center"> Advancing and using Computational Social Science to tackle real-world problems related to individual and collective behavior using observational data and quasi-experiments.</p>
 </div>
 
