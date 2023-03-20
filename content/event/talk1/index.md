@@ -1,8 +1,5 @@
 ---
 title: "The universal decay of collective memory and attention [Video]"
-# collection: talks
-# type: "Paper video"
-# permalink: /talks/universal_video
 venue: "Nature Human Behaviour"
 date: '2019-01-01'
 event: "Nature Human Behaviour Videos"
