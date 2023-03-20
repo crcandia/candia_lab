@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: CRISS-LAB TEAM
+title: Computational Research in Social Science TEAM
 subtitle:
 
 content:
