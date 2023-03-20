@@ -22,7 +22,7 @@ design:
     color: '#666'
     brightness: 0.3
     image: welcome.jpg
-    image_darken: 0
+    # image_darken: 0
     # brightness: 0.3
     image_parallax: false
     image_position: center
