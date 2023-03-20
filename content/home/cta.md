@@ -1,5 +1,5 @@
 ---
-title:
+title: Meet the team
 subtitle:
 widget: blank
 headless: true
