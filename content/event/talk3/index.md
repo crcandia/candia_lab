@@ -49,8 +49,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
+<div>
 <iframe margin= "center" width="100%" height="300vh" src="https://www.youtube.com/embed/MM0gieMb3sY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
  
 </div>
