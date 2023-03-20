@@ -17,6 +17,7 @@ subtitle: Advancing Artificial, Collective, and Augmented Intelligence
 
 design:
   columns: '1'
+  brightness: 0.1
   background:
     position: right
     color: '#666'
