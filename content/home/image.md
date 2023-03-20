@@ -40,7 +40,8 @@ html {
     font-size: calc(15px + 0.390625vw);
 }
 </style>
-<p style="text-align: center;"> Advancing Collective, Artificial, and Augmented Intelligence through Computational Social Science Research, combining computer science, statistics, and social science to tackle real-world problems related to individual and collective behavior using observational data and quasi-experiments.</p>
+<br>
+<p style="text-align: center;"> Advancing and using Computational Social Science to tackle real-world problems related to individual and collective behavior using observational data and quasi-experiments.</p>
 
 
 
