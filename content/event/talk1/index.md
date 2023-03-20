@@ -1,15 +1,16 @@
 ---
-title: "The universal decay of collective memory and attention"
-collection: talks
-type: "Paper video"
-permalink: /talks/universal_video
+title: "The universal decay of collective memory and attention [Video]"
+# collection: talks
+# type: "Paper video"
+# permalink: /talks/universal_video
 venue: "Nature Human Behaviour"
-date: '2018-12-10'
+date: '2019-01-01'
+event: "Nature Human Behaviour Videos"
 location: "Boston, MA"
 
 
-<!-- event: Wowchemy Conference
-event_url: https://example.org -->
+# event: Wowchemy Conference
+# event_url: https://example.org
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -31,7 +32,7 @@ tags:
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**CRISS-LAB**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 url_code: ''
