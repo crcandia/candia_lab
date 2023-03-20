@@ -55,4 +55,4 @@ design:
 ---
 Complexity and Computational Social Science LAB. To get in touch, send an email or schedule an appointment. 
 
-[Send us an email](mailto://crcandiav@gmail.com)
+[Send us an email](mailto:crcandiav@gmail.com)
