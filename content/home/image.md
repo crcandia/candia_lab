@@ -19,7 +19,7 @@ design:
   columns: '1'
   background:
     position: right
-    color: '#666'
+    # color: '#666'
     brightness: 0.1
     image: welcome.jpg
     # image_darken: 0
@@ -33,6 +33,3 @@ design:
 advanced:
   css_class: fullscreen
 ---
-
-
-{{< figure src="welcome.jpg" caption="A caption" numbered="false" >}}
