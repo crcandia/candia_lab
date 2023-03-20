@@ -30,11 +30,14 @@ subtitle: Advancing Artificial, Collective, and Augmented Intelligence
 #     text_color_light: true
 #   spacing:
 #     padding: ['200px', '0', '20px', '0']
+
+
 design:
+  columns: '1'
   background:
     image:
       # Name of image in `assets/media/`.
-      filename: welcome.jpg
+      filename: 'welcome.jpg'
       # Apply image filters?
       filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
@@ -47,6 +50,7 @@ design:
       parallax: true
       # Text color (true=light, false=dark, or remove for the dynamic theme color).
       text_color_light: true
+
 advanced:
   css_class: fullscreen
 ---
