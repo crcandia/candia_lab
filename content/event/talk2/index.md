@@ -27,7 +27,7 @@ tags:
 featured: false
 
 image:
-  caption: 'Image credit: [**CRISS-LAB**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**CRISS-LAB**]()'
   focal_point: Right
 
 url_code: ''
