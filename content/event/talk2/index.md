@@ -1,18 +1,5 @@
 ---
 title: "¿Cómo olvidan las sociedades?"
-collection: talks
-type: "Talk"
-permalink: /talks/2019-08-22-nerdnite
-venue: "Teatro Italia"
-date: 2019-08-22
-location: "Providencia, Chile"
-
-
-<iframe width="500" height="300" src="https://www.youtube.com/embed/DoCwhHLKzBQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-title: "¿Cómo olvidan las sociedades?"
 venue: "Teatro Italia"
 date: '2019-08-22'
 event: "Nature Human Behaviour Videos"
