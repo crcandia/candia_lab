@@ -41,7 +41,7 @@ html {
 }
 </style>
 <br>
-<div style="width:50vw">
+<div style="margin: auto; width:50vw">
 <p style="text-align: center"> Advancing and using Computational Social Science to tackle real-world problems related to individual and collective behavior using observational data and quasi-experiments.</p>
 </div>
 
