@@ -49,8 +49,32 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-<div style="margin: auto;text-align: justify">
-<iframe margin= "center" width="500vw" height="300vh" src="https://www.youtube.com/embed/mbg9JvfQ6Yw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>
+.contenedor-responsivo {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+}
+
+.iframe-responsivo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+</style>
+
+
+<!-- <div class="contenedor-responsivo">
+    <iframe class="iframe-responsivo" src="https://www.youtube.com/embed/J4P4ln781D0" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
+</div> -->
+
+
+
+<div class="contenedor-responsivo" style="margin: auto; text-align: justify">
+<iframe class="iframe-responsivo" margin= "center" width="500vw" height="300vh" src="https://www.youtube.com/embed/mbg9JvfQ6Yw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Cultural products have a life of their own: academic papers get cited and songs get downloaded. While scholars have studied these patterns, we know little about how to model the decay of attention. In this study Candia and colleagues model the attention received by cultural products, including scientific papers, patents, songs, movies, and biographies, and show that all these decay following a universal bi-exponential function, which may be due to the differing functions of communicative and cultural collective memory [1].
