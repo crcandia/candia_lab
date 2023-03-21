@@ -4,7 +4,7 @@ venue: "CRISS-LAB Seminar Series I-2023"
 date: '2023-03-31T12:00:00Z'
 event: "CRISS-LAB Seminar Series I-2023"
 # event_url: https://www.nico.northwestern.edu/news-events/wednesdays-at-nico/speakers-2021.html
-location: "[Virtual](https://udd.zoom.us/j/82674667828?pwd=amlmNlk3R0hPZzlFOTRYY2tZRW9Gdz09)"
+location: "CRISS-LAB, UDD, Las Condes, Chile. [Click to join to zoom!](https://udd.zoom.us/j/82674667828?pwd=amlmNlk3R0hPZzlFOTRYY2tZRW9Gdz09)"
 
 
 # Talk start and end times.
@@ -50,6 +50,33 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+<div class="atcb" style="display:none;">
+  {
+    "label":"Add to Calendar",
+    "name":"Add the title of your event",
+    "description":"A nice description does not hurt",
+    "startDate":"02-21-2022",
+    "endDate":"03-24-2022",
+    "startTime":"10:13",
+    "endTime":"17:57",
+    "location":"Somewhere over the rainbow",
+    "options":[
+      "Apple",
+      "Google",
+      "iCal",
+      "Microsoft365",
+      "Outlook.com",
+      "Yahoo"
+    ],
+    "timeZone":"Europe/Berlin",
+    "timeZoneOffset":"+01:00",
+    "trigger":"click",
+    "iCalFileName":"Reminder-Event"
+  }
+</div>
+
+
 ### Abstract:
 The study of polarization as a social phenomenon has inspired a rich literature on methods and socio-demographic features to characterize them. Although there are propositions to capture polarization in geographies, such as mapping inequality or rural population in territories, those alternatives lack the ability to represent variations of political polarization over time. Here we introduce the Election Polarization Index (EPI), an agnostic method to map polarization in geographies from election outcomes. First, we show that traditional polarization methods lack the ability to capture polarization from election data. Then, using presidential election data in France, Chile, and the United States, we find that the EPI encompasses the effects of socio-demographic characteristics associated with polarization and also provides new information about the variations of polarization within and between geographies over time. To conclude, we find that this method is robust to quantify polarization by using two elections held on the same day or aggregating the data on any geographical scale.
 
