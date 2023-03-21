@@ -15,6 +15,7 @@ interests:
 	- Artificial Intelligence
 	- Data Science & Machine Learning
 	- Network Science
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -46,9 +47,7 @@ education:
     # - course: M.Sc. Social Complexity Science
       # institution: Massachusetts Institute of Technology
       # year: 2009
-    # - course: Comercial Engeenering (Economics)
-      # institution: Massachusetts Institute of Technology
-      # year: 2008
+
 email: ""
 user_groups:
   - Ph.D. Students
