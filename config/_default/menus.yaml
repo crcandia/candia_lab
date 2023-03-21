@@ -19,7 +19,7 @@ main:
   - name: Team
     url: people
     weight: 50
-  - name: Talks
+  - name: Talks & Events
     url: event
     weight: 60
   - name: Contact
