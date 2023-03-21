@@ -50,6 +50,8 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+<script src="https://cdn.jsdelivr.net/npm/add-to-calendar-button@2" async defer></script>
+
 
 <add-to-calendar-button
   name="Add the title of your event"
