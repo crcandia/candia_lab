@@ -51,30 +51,22 @@ slides:
 projects:
 ---
 
-<div class="atcb" style="display:none;">
-  {
-    "label":"Add to Calendar",
-    "name":"Add the title of your event",
-    "description":"A nice description does not hurt",
-    "startDate":"02-21-2022",
-    "endDate":"03-24-2022",
-    "startTime":"10:13",
-    "endTime":"17:57",
-    "location":"Somewhere over the rainbow",
-    "options":[
-      "Apple",
-      "Google",
-      "iCal",
-      "Microsoft365",
-      "Outlook.com",
-      "Yahoo"
-    ],
-    "timeZone":"Europe/Berlin",
-    "timeZoneOffset":"+01:00",
-    "trigger":"click",
-    "iCalFileName":"Reminder-Event"
-  }
-</div>
+<add-to-calendar-button
+  name="Add the title of your event"
+  description="A nice description does not hurt"
+  startDate="2022-02-21"
+  endDate="2022-03-24"
+  startTime="10:13"
+  endTime="17:57"
+  location="Somewhere over the rainbow"
+  options="['Apple','Google','iCal','Microsoft365','Outlook.com','Yahoo']"
+  timeZone="Europe/Berlin"
+  trigger="click"
+  inline
+  listStyle="modal"
+  iCalFileName="Reminder-Event"
+  >
+</add-to-calendar-button>
 
 
 ### Abstract:
