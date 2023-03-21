@@ -38,7 +38,7 @@ education:
   courses:
     - course: Ph.D. in Social Complexity Science - Student
     - course: Master of Science in Data Science - Student
-	  - course: Diploma in Cognitive and Social Neuroscience
+    - course: Diploma in Cognitive and Social Neuroscience
     - course: Diploma in Business Intelligence
     - course: Master of Science in Industrial Engineering
     - course: Civil Industrial Engineer
