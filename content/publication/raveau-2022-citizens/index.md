@@ -31,6 +31,7 @@ abstract: In the past few decades, constitution-making processes have shifted fr
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
+  - Political Participation
   - Text Analytics
   - Econometrics
   - Citizen Participation
