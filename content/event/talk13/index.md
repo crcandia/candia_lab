@@ -1,7 +1,7 @@
 ---
 title: "The Election Polarization Index (EPI): Mapping polarization through elections"
 venue: "CRISS-LAB Seminar Series I-2023"
-date: '2023-03-31'
+date: '2023-03-31T12:00:00Z'
 event: "CRISS-LAB Seminar Series I-2023"
 # event_url: https://www.nico.northwestern.edu/news-events/wednesdays-at-nico/speakers-2021.html
 location: "UDD, Santiago, Las Condes, Chile."
