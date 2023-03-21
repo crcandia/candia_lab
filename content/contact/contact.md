@@ -58,7 +58,7 @@ design:
 To get in touch, send us an email or schedule a virtual appointment.
 
 
-Our group convenes every **Friday from 12:00pm to 1:30pm** (Chilean Time GMT -3). Feel free to join us virtually!
+Our group convenes every **Friday from 10:00am to 11:30am** (Chilean Time GMT -3). Feel free to join us virtually!
 
 **[Send us an email!](mailto:contact@criss-lab.com)**
 
