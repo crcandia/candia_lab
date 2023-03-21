@@ -10,11 +10,11 @@ role: Ph.D. student
 # bio: My research interests include ...
 interests:
   - Computational Social Science
-	- Business Analytics
-	- Collective Intelligence
-	- Artificial Intelligence
-	- Data Science & Machine Learning
-	- Network Science
+  - Business Analytics
+  - Collective Intelligence
+  - Artificial Intelligence
+  - Data Science and Machine Learning
+  - Network Science
 
 social:
   - icon: envelope
