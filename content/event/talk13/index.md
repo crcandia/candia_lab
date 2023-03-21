@@ -22,7 +22,7 @@ tags:
   - Political Participation
   - Polarization
   - Econometrics
-author_notes: Ph.D. candidate in Computer Science at the University of Toulouse.
+# author_notes: Ph.D. candidate in Computer Science at the University of Toulouse.
 
 # Is this a featured talk? (true/false)
 featured: false
