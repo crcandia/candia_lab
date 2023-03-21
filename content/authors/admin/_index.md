@@ -41,6 +41,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/crcandia
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/cristian-candia-castro-ph-d-04040251/   
 
 organizations:
   - name: Asst. Professor at the Data Science Institute, Universidad del Desarrollo, Chile.
