@@ -67,7 +67,7 @@ projects:
   endTime="13:30"
   location="Virtual"
   options="['Apple','Google','iCal','Microsoft365','Outlook.com','Yahoo']"
-  timeZone="Santiago/Chile"
+  timeZone="America/Santiago"
   trigger="click"
   inline
   listStyle="modal"
