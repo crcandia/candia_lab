@@ -4,7 +4,7 @@ venue: "CRISS-LAB Seminar Series I-2023"
 date: '2023-03-31T12:00:00Z'
 event: "CRISS-LAB Seminar Series I-2023"
 # event_url: https://www.nico.northwestern.edu/news-events/wednesdays-at-nico/speakers-2021.html
-location: "CRISS-LAB, UDD, Las Condes, Chile. [Click to join to zoom!](https://udd.zoom.us/j/82674667828?pwd=amlmNlk3R0hPZzlFOTRYY2tZRW9Gdz09)"
+location: "CRISS-LAB, UDD, Las Condes, Chile."
 
 
 # Talk start and end times.
@@ -55,17 +55,19 @@ projects:
 <script src="https://cdn.jsdelivr.net/npm/add-to-calendar-button@2" async defer></script>
 
 </head>
+
+
 <div>
 <add-to-calendar-button
-  name="Add the title of your event"
-  description="A nice description does not hurt"
-  startDate="2022-02-21"
-  endDate="2022-03-24"
-  startTime="10:13"
-  endTime="17:57"
-  location="Somewhere over the rainbow"
+  name="The Election Polarization Index (EPI): Mapping polarization through elections. CRISS-LAB"
+  description="Zoom link: https://udd.zoom.us/j/82674667828?pwd=amlmNlk3R0hPZzlFOTRYY2tZRW9Gdz09"
+  startDate="2023-03-31"
+  endDate="2023-03-31"
+  startTime="12:00"
+  endTime="13:30"
+  location="Virtual"
   options="['Apple','Google','iCal','Microsoft365','Outlook.com','Yahoo']"
-  timeZone="Europe/Berlin"
+  timeZone="Santiago/Chile"
   trigger="click"
   inline
   listStyle="modal"
