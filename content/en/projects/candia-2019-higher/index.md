@@ -1,14 +1,18 @@
 ---
-title: 'The higher education space: connecting degree programs from individuals’ choices'
+# \item 2022 - Present: 
+# \textbf{Project Director}. Modeling dropouts and academic performance in higher education. The project's primary goal is to build early risk profiles of students who are at risk of dropout in higher education to focus accompanying programs. In partnership with Universidad del Desarrollo ($\approx~$ USD 40.000).
+title: 'SocialRec: Personalizing Educational Experience through Social Network-based Recommender Systems'
+
 authors:
-  - admin 
-  - Sara Encarnação
-  - flavio
+  - victorl
+  - admin
+  
 author_notes:
   - ''
   - ''
-date: '2019-12-01T00:00:00Z'
-doi: 'https://doi.org/10.1140/epjds/s13688-019-0218-4'
+date: '2022-08-01'
+date_end: '2023-03-31'
+# doi: 'https://doi.org/10.1140/epjds/s13688-019-0218-4'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -20,10 +24,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*EPJ Data Science* (8)'
+publication: ''
 publication_short: ''
 
-abstract: Data on the applicants’ revealed preferences when entering higher education is used as a proxy to build the Higher Education Space (HES) of Portugal (2008–2015) and Chile (2006–2017). The HES is a network that connects pairs of degree programs according to their co-occurrence in the applicants’ preferences. We show that both HES network structures reveal the existence of positive assortment in features such as gender balance, application scores, unemployment levels, academic demand/supply ratio, geographical mobility, and first-year drop-out rates. For instance, if a degree program exhibits a high prevalence of female candidates, its nearest degree programs in the HES will also tend to exhibit a higher prevalence when compared to the prevalence in the entire system. These patterns extend up to two or three links of separation, vanishing, or inverting for increasing distances. Moreover, we show that for demand/supply ratio and application scores a similar pattern occurs for time variations. Finally, we provide evidence that information embedded in the HES is not accessible by merely considering the features of degree programs independently. These findings contribute to a better understanding of the higher education systems at revealing and leveraging its non-trivial underlying organizing principles. To the best of our knowledge, this is the first network science approach for improving decision-making and governance in higher education systems.
+# abstract: Data on the applicants’ revealed preferences when entering higher education is used as a proxy to build the Higher Education Space (HES) of Portugal (2008–2015) and Chile (2006–2017). The HES is a network that connects pairs of degree programs according to their co-occurrence in the applicants’ preferences. We show that both HES network structures reveal the existence of positive assortment in features such as gender balance, application scores, unemployment levels, academic demand/supply ratio, geographical mobility, and first-year drop-out rates. For instance, if a degree program exhibits a high prevalence of female candidates, its nearest degree programs in the HES will also tend to exhibit a higher prevalence when compared to the prevalence in the entire system. These patterns extend up to two or three links of separation, vanishing, or inverting for increasing distances. Moreover, we show that for demand/supply ratio and application scores a similar pattern occurs for time variations. Finally, we provide evidence that information embedded in the HES is not accessible by merely considering the features of degree programs independently. These findings contribute to a better understanding of the higher education systems at revealing and leveraging its non-trivial underlying organizing principles. To the best of our knowledge, this is the first network science approach for improving decision-making and governance in higher education systems.
 
 ## Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,13 +35,14 @@ abstract: Data on the applicants’ revealed preferences when entering higher ed
 tags:
   - Network Science
   - Decision Making
-  - Econometrics
+  - Machine Learning
+  - Data Science
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://link.springer.com/content/pdf/10.1140/epjds/s13688-019-0218-4.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -69,7 +74,7 @@ slides:
 ---
 
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Send us an {{% cta cta_link="./contact/" cta_text="email →" %}} to get more information about this project.
 {{% /callout %}}
 
 <!-- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). -->
