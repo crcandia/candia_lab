@@ -73,8 +73,9 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
+<div style='justify'>
 This project was undertaken as part of the University's Personalization Strategic Project, and it involved overcoming several challenges. The first of these was integrating data from various sources, each with their own unique formats, which required significant effort to ensure compatibility. Additionally, privacy and security were paramount concerns given the sensitive nature of the data. To address these issues, we developed both an anonymization protocol and a de-identification process that could preserve the necessary granularity of the data. Our team also developed a novel algorithm capable of creating a benchmark for inferring social networks from router connections. Finally, we integrated the analysis of mixed, individual, and relational data to build a recommendation system based on machine learning and interaction networks, which is a cutting-edge approach. Our work will be valuable for researchers and companies looking to develop state-of-the-art recommendation systems in their own research or business endeavors.
-
+</div>
 
 {{% callout note %}}
 Send us an email to get more information about this project.
