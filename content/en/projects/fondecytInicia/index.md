@@ -5,6 +5,7 @@ title: 'Temporal Characterization of Cultural Communities: A Computational Socia
 
 authors:
   - admin
+  - camila
   
 author_notes:
   - ''
