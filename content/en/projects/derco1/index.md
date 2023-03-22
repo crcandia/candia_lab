@@ -37,6 +37,7 @@ summary: Funded by Derco.
 tags:
   - Network Science
   - Decision Making
+  - Bussiness Analytics
   - Machine Learning
   - Network Embeddings
   - Data Science

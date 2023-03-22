@@ -36,6 +36,7 @@ summary: Funded by Universidad del Desarrollo
 tags:
   - Network Science
   - Decision Making
+  - Bussiness Analytics
   - Machine Learning
   - Data Science
 featured: false
