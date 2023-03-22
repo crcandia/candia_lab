@@ -10,7 +10,7 @@ en:
 
 # Uncomment the lines below to configure your website in a second language.
 es:
- languageCode: es-us
+ languageCode: es
  contentDir: content/es
 #  title: Chinese website title...
 #  params:
