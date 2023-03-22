@@ -30,7 +30,7 @@ cite: false
 # abstract: 
 
 ## Summary. An optional shortened abstract.
-summary: Funded by ANID-FONDECYT Iniciación 11200986.
+summary: Funded by ANID-FONDECYT Iniciación 11200986. 2021-2023.
 
 tags:
   - Collective Memory

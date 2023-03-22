@@ -32,7 +32,7 @@ cite: false
 # abstract: 
 
 ## Summary. An optional shortened abstract.
-summary: Funded by Derco.
+summary: Funded by Derco. 2021-2022.
 
 tags:
   - Network Science

@@ -40,7 +40,7 @@ cite: false
 # abstract: 
 
 ## Summary. An optional shortened abstract.
-summary: Funded by CINS-DATA Spa.
+summary: Funded by CINS-DATA Spa. 2022.
 
 tags:
   - Collective Intelligence

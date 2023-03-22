@@ -38,7 +38,7 @@ cite: false
 # abstract: 
 
 ## Summary. An optional shortened abstract.
-summary: Funded by ANID, Fondef IDea I+D 2019, ID19I10413.
+summary: Funded by ANID, Fondef IDea I+D 2019, ID19I10413. 2019-2022.
 
 tags:
   - Network Science

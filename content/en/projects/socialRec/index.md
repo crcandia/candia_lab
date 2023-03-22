@@ -31,7 +31,7 @@ cite: false
 # abstract: 
 
 ## Summary. An optional shortened abstract.
-summary: Funded by Universidad del Desarrollo
+summary: Funded by Universidad del Desarrollo. 2022-2023.
 
 tags:
   - Network Science
