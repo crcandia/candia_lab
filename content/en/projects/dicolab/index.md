@@ -43,9 +43,10 @@ cite: false
 summary: Funded by CINS-DATA Spa.
 
 tags:
+  - Collective Intelligence
+  - Cooperation
   - Network Science
   - Decision Making
-  - Network Embeddings
   - Data Science
 featured: false
 
