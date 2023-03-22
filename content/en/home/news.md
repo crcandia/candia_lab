@@ -4,7 +4,7 @@ widget: pages
 
 headless: true
 weight: 40
-view: compact #showcase
+view: showcase #compact #showcase
 
 title: Latest Research Articles
 subtitle:
