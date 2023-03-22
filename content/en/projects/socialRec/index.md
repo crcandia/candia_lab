@@ -21,7 +21,7 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-# publication_types: ['2']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Funding: Universidad del Desarrollo'
@@ -76,7 +76,7 @@ slides:
 
 {{% callout note %}}
 Send us an email to get more information about this project.
-{{% cta cta_link="../../contact/" cta_text="email us →" %}}
+{{% cta cta_link="../../contact/" cta_text="Contact us →" %}}
 {{% /callout %}}
 
 <!-- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). -->
