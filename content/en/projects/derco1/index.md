@@ -12,7 +12,7 @@ author_notes:
   - ''
   - ''
 date: '2021-06-01'
-date_end: '2022-12-31'
+#date_end: '2022-12-31'
 # doi: 'https://doi.org/10.1140/epjds/s13688-019-0218-4'
 
 # Schedule page publish date (NOT publication's date).
