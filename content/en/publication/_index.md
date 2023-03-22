@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Research Articles
 
 # Listing view
 view: compact #showcase #citation
