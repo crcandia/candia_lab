@@ -55,12 +55,12 @@ projects:
 <head>
 <script src="https://cdn.jsdelivr.net/npm/add-to-calendar-button@2" async defer></script>
 
-<style>
+<!-- <style>
 div {
   text-align: justify;
   text-justify: inter-word;
 }
-</style>
+</style> -->
 
 
 </head>
