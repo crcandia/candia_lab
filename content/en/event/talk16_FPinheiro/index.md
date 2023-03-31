@@ -17,7 +17,7 @@ location: "CRISS-LAB, UDD, Las Condes, Chile."
 publishDate: '2017-01-01T00:00:00Z'
 
 authors: 
-  - crisjara
+  - flavio
 tags: 
   - Computational Social Science
   - Data Science
