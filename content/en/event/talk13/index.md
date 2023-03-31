@@ -90,7 +90,7 @@ projects:
 </p>
 
 ### Speaker Bio
-<p align="justify"> [Carlos Navarrete](https://scholar.google.com/citations?user=JqTxoC0AAAAJ&hl=de&oi=sra) is a Ph.D. candidate in Computer Science at the University of Toulouse. His research is focused on understanding how computational methods contribute to identify divisiveness and polarization in society, positionating his focus in the intersection of political and computer science. </p>
+<p align="justify"> <a href="https://scholar.google.com/citations?user=JqTxoC0AAAAJ&hl=de&oi=sra">Carlos Navarrete</a> is a Ph.D. candidate in Computer Science at the University of Toulouse. His research is focused on understanding how computational methods contribute to identify divisiveness and polarization in society, positionating his focus in the intersection of political and computer science. </p>
 
 </div>
 
