@@ -55,8 +55,6 @@ projects:
 <head>
 <script src="https://cdn.jsdelivr.net/npm/add-to-calendar-button@2" async defer></script>
 
-
-
 </head>
 
 
@@ -80,10 +78,11 @@ projects:
 </div>
 
 ### Abstract:
-<div text-align: justify; text-justify: inter-word;>
+<div>
 
 **[ENG]**
-The study of polarization as a social phenomenon has inspired a rich literature on methods and socio-demographic features to characterize them. Although there are propositions to capture polarization in geographies, such as mapping inequality or rural population in territories, those alternatives lack the ability to represent variations of political polarization over time. Here we introduce the Election Polarization Index (EPI), an agnostic method to map polarization in geographies from election outcomes. First, we show that traditional polarization methods lack the ability to capture polarization from election data. Then, using presidential election data in France, Chile, and the United States, we find that the EPI encompasses the effects of socio-demographic characteristics associated with polarization and also provides new information about the variations of polarization within and between geographies over time. To conclude, we find that this method is robust to quantify polarization by using two elections held on the same day or aggregating the data on any geographical scale.
+<p align="justify">The study of polarization as a social phenomenon has inspired a rich literature on methods and socio-demographic features to characterize them. Although there are propositions to capture polarization in geographies, such as mapping inequality or rural population in territories, those alternatives lack the ability to represent variations of political polarization over time. Here we introduce the Election Polarization Index (EPI), an agnostic method to map polarization in geographies from election outcomes. First, we show that traditional polarization methods lack the ability to capture polarization from election data. Then, using presidential election data in France, Chile, and the United States, we find that the EPI encompasses the effects of socio-demographic characteristics associated with polarization and also provides new information about the variations of polarization within and between geographies over time. To conclude, we find that this method is robust to quantify polarization by using two elections held on the same day or aggregating the data on any geographical scale.
+</p>
 <br>
 
 **[ESP]**
