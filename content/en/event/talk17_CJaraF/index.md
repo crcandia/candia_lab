@@ -92,7 +92,7 @@ projects:
 </p>
 
 ### Speaker Bio
-<p align="justify">  Cristian is a Senior Data Scientist at LinkedIn's Economic Graph. Cristian works in a team that turns LinkedIn data into insights to help members, media, and policymakers understand the labor market. Cristian got his PhD at the MIT Media Lab. His research focused on the geographic diffusion of knowledge. In particular, in understanding how regions can leverage the knowledge they have access to, in order to diversify into more productive and more inclusive industries.</p>
+<p align="justify"> <a href="https://scholar.google.com/citations?user=CL8jcnUAAAAJ&hl=es">Cristian Jara-Figueroa</a> is a Senior Data Scientist at LinkedIn's Economic Graph. Cristian works in a team that turns LinkedIn data into insights to help members, media, and policymakers understand the labor market. Cristian got his PhD at the MIT Media Lab. His research focused on the geographic diffusion of knowledge. In particular, in understanding how regions can leverage the knowledge they have access to, in order to diversify into more productive and more inclusive industries.</p>
 
 </div>
 
