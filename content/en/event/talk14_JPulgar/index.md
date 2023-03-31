@@ -60,7 +60,7 @@ projects:
 
 <div>
 <add-to-calendar-button
-  name="TBA. By Javier Pulgar at CRISS-LAB"
+  name="TBA. By Javier Pulgar, Ph.D. at CRISS-LAB (Via Zoom)"
   description="Zoom link: https://udd.zoom.us/j/82674667828?pwd=amlmNlk3R0hPZzlFOTRYY2tZRW9Gdz09"
   startDate="2023-04-14"
   endDate="2023-04-14"
