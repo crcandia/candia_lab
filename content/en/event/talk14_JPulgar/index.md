@@ -90,12 +90,8 @@ projects:
 </p>
 
 ### Speaker Bio
-<!-- <p align="justify"> [Carlos Navarrete](https://scholar.google.com/citations?user=JqTxoC0AAAAJ&hl=de&oi=sra) is a Ph.D. candidate in Computer Science at the University of Toulouse. His research is focused on understanding how computational methods contribute to identify divisiveness and polarization in society, positionating his focus in the intersection of political and computer science. </p> -->
+<p align="justify">  </p>
 
 </div>
 
 
-<!-- <div>
-<iframe margin= "center" width="100%" height="300vh" src="https://www.youtube.com/embed/LRAXesnTJ9Y" title="Quantifying Success in Ballet - NetSci Conference 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div> -->
