@@ -95,10 +95,7 @@ En este escenario, el análisis de redes sociales (ARS) surge como una herramien
 
 ### Speaker Bio
 <p align="justify">  </p>
-Javier Pulgar, assistant professor at the Physics Department, Universidad del Bío Bío, Concepción (Chile); 
-PhD in Education, University of California Santa Barbara, USA;
-PI Research Project FONDECYT Iniciación: Classroom Network Analysis and Pedagogical Practices in Science and Mathematics Education: a Proyect to Develop Analytical Skills for Effective Student Collaboration (2022-2024)
-Researcher at Grupo de Investigación en Enseñanza de las Ciencias y Matemática (GIDICMA).
+Javier Pulgar, PhD in Education from University of Santa Barbara California (USA), is an assistant professor at the Physics Department, Universidad del Bío Bío, in Concepción (Chile). He is a member of Grupo de Investigación en Enseñanza de las Ciencias (GIDICMA), and more recently, a principal investigator in a FONDECYT Iniciación Project (2022-2024) aimed to explore the use of social network analysis as an informative tool for pedagogical decision making in science and mathematics classrooms. In parallel, and as started in his doctoral dissertation in 2019, Javier continues investigating the link between collaboration and the nature of learning activities in physics classrooms to understand and to foster effective student collaboration in schools and university. Javier has experience teaching physics at the undergraduate level, and science education didactic courses in the Master of Science and Mathematics Education at Universidad del Bío Bío. Finally, Javier is collaborating in two new research projects associated with gamification in physics laboratories, and STEM education competencies among science faculties.
 </div>
  
 
