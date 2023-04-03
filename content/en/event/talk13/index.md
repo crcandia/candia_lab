@@ -77,9 +77,13 @@ projects:
 </add-to-calendar-button>
 </div>
 
+<div>
+<iframe margin= "center" width="100%" height="300vh" src="https://www.youtube.com/embed/AYYUE0sxEvc" title="The Election Polarization Index (EPI): Mapping polarization through elections." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 ### Abstract:
 <div>
-
 **[ENG]**
 <p align="justify"> The study of polarization as a social phenomenon has inspired a rich literature on methods and socio-demographic features to characterize them. Although there are propositions to capture polarization in geographies, such as mapping inequality or rural population in territories, those alternatives lack the ability to represent variations of political polarization over time. Here we introduce the Election Polarization Index (EPI), an agnostic method to map polarization in geographies from election outcomes. First, we show that traditional polarization methods lack the ability to capture polarization from election data. Then, using presidential election data in France, Chile, and the United States, we find that the EPI encompasses the effects of socio-demographic characteristics associated with polarization and also provides new information about the variations of polarization within and between geographies over time. To conclude, we find that this method is robust to quantify polarization by using two elections held on the same day or aggregating the data on any geographical scale.
 </p>
