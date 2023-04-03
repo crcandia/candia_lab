@@ -71,14 +71,12 @@ highlight_name: true
 ---
 
 <div style="text-align: justify">
+Cristian, an Assistant Professor and Director of the Master's in Data Science at the Data Science Institute of the School of Engineering at Universidad del Desarrollo, Chile, is the creator of [Lixandria](https://lixandria.cl/) and [Discolab](https://discolab.azurewebsites.net/#/about). He also holds the position of an external faculty member at the Northwestern Institute on Complex Systems of Northwestern University.
 
-Cristian is the creator of [Lixandria](https://lixandria.cl/) and [Discolab](https://discolab.azurewebsites.net/#/about), and an Assistant Professor and Director of the Master's in Data Science at the Data Science Institute (IDS) of the School of Engineering at Universidad del Desarrollo, Chile. Additionally, I am proud to be an external faculty member at the Northwestern Institute on Complex Systems (NICO) of Northwestern University.\
-\
-I have a diverse academic background. I held a postdoctoral position in Computational Social Science at the Kellogg School of Management, Northwestern University. My Ph.D. research on social complexity was carried out at the Center for Social Complexity at Universidad del Desarrollo, at the MIT Media Lab, and at the Center for Complex Networks Research at Northeastern and Harvard University. I earned my Master of Science in Physics, Bachelor of Science in Physics, and Physics Engineering professional title from Universidad de Concepción, Chile.\
-\
-My expertise lies at the intersection of big data analysis and human behavior theories as they relate to socioeconomic systems. Currently, I am focused on computational social science and network science, with a particular interest in areas such as collective intelligence, hate speech dynamics, business and learning analytics, cooperative learning, higher education decision-making, collective memory, and experimental game theory.\
-\
-With a passion for using data to drive solutions, I lead a FONDECYT project on Collective Memory and a FONDEF project on data-driven decision-making for higher education, both funded by the Ministry of Science and Technology and sponsored by the Ministry of Education in Chile. My background in physics, social complexity science, and data analysis uniquely positions me to drive impactful research and innovation.
+Having a diverse academic background, Cristian held a postdoctoral position in Computational Social Science at the Kellogg School of Management, Northwestern University. His Ph.D. research on social complexity was conducted at the Center for Social Complexity at Universidad del Desarrollo, at the MIT Media Lab, and at the Center for Complex Networks Research at Northeastern and Harvard University. He earned his Master of Science in Physics, Bachelor of Science in Physics, and Physics Engineering professional title from Universidad de Concepción, Chile.
 
+Cristian's area of expertise lies at the intersection of big data analysis and human behavior theories as they relate to socioeconomic systems. Currently, he is focused on computational social science and network science, particularly in areas such as collective intelligence, hate speech dynamics, business and learning analytics, cooperative learning, higher education decision-making, collective memory, and experimental game theory.
+
+With a passion for using data to drive solutions, Cristian leads a FONDECYT project on Collective Memory and a FONDEF project on data-driven decision-making for higher education, both funded by the Ministry of Science and Technology and sponsored by the Ministry of Education in Chile. His background in physics, social complexity science, and data analysis uniquely positions him to drive impactful research and innovation.
 
 </div>

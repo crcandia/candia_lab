@@ -1,5 +1,5 @@
 ---
-title: "TBA"
+title: "Interventions and Pedagogical Decision Making in Science Classrooms: A Research Agenda using Social Network Analysis."
 venue: "CRISS-LAB Seminar Series I-2023"
 date: '2023-04-14T12:00:00Z'
 event: "CRISS-LAB Seminar Series I-2023"
@@ -60,7 +60,7 @@ projects:
 
 <div>
 <add-to-calendar-button
-  name="TBA. By Javier Pulgar, Ph.D. at CRISS-LAB (Via Zoom)"
+  name="Interventions and Pedagogical Decision Making in Science Classrooms: A Research Agenda using Social Network Analysis. By Javier Pulgar, Ph.D. at CRISS-LAB (Via Zoom)"
   description="Zoom link: https://udd.zoom.us/j/82674667828?pwd=amlmNlk3R0hPZzlFOTRYY2tZRW9Gdz09"
   startDate="2023-04-14"
   endDate="2023-04-14"
@@ -82,16 +82,26 @@ projects:
 
 **[ENG]**
 <p align="justify"> 
+Education professionals, researchers, and even most student would agree that learning and development in its largest sense are highly social processes. Learners behave and attempt to perform in coherence with the expectations of their social systems (e.g., family, classrooms, clubs, etc.). Nowadays, active learning classrooms (i.e., student-centered) are designed to fortify the developmental benefits of social interactions, mostly through group-based activities.  Yet, the effectiveness of group-based activities clashes with the students’ readiness to work alongside others in complex tasks. Teachers’ competencies for guiding group dynamics are also questioned in this point. Furthermore, and even though educators recognized that educational innovations must make sense to the school’s local context, these are adapted without the input of the classroom’s social nature. That is, methodologies are assumed to be effective for classrooms depending on the content and age, but regardless of the set of social relationships embedded in them. 
+In this scenario, social network analysis (SNA) emerges as an informative tool for educators. First, SNA evidence in social learning processes inform the ways in which students could interact in the face of learning activities, and thus stimulate the organizational awareness that teachers might lack of. Secondly, social network processes are suitable for informing pedagogical interventions, particularly from the use of students’ networks for defining grouping mechanisms and learning activities. Third, mapping classrooms’ networks also becomes a formative opportunity for teachers to reflect upon their practice with regards to the social system, and to address issues such as learning, inclusion and to (re)define their pedagogies. Finally, this presentation is set to discuss the various ways in which SNA is currently used to explore such issues, preliminary research results, and future questions.
 </p>
 <br>
 
 **[ESP]**
 <p align="justify"> 
+Los profesionales de la educación, los investigadores e incluso la mayoría de los estudiantes estarían de acuerdo en que el aprendizaje y el desarrollo, en su sentido más amplio, son procesos altamente sociales. Los estudiantes se comportan e intentan desempeñarse en coherencia con las expectativas de sus sistemas sociales (por ejemplo, familia, aulas, clubes, etc.). En la actualidad, las aulas de aprendizaje activo (es decir, centradas en el estudiante) están diseñadas para fortalecer los beneficios del desarrollo de las interacciones sociales, principalmente a través de actividades basadas en grupos. Sin embargo, la efectividad de las actividades basadas en grupos choca con la disposición de los estudiantes para trabajar junto a otros en tareas complejas. En este punto, también se cuestionan las competencias de los docentes para guiar la dinámica de los grupos. Además, aunque los educadores reconocen que las innovaciones educativas deben tener sentido en el contexto local de la escuela, estas se adaptan sin la contribución de la naturaleza social del aula. Es decir, se supone que las metodologías son efectivas para las aulas según el contenido y la edad, pero sin tener en cuenta el conjunto de relaciones sociales que las conforman.
+En este escenario, el análisis de redes sociales (ARS) surge como una herramienta informativa para los educadores. En primer lugar, la evidencia del ARS en los procesos de aprendizaje social informa sobre las formas en que los estudiantes podrían interactuar frente a las actividades de aprendizaje y, por lo tanto, estimula la conciencia organizacional que los docentes podrían carecer. En segundo lugar, los procesos de red social son adecuados para informar las intervenciones pedagógicas, particularmente desde el uso de las redes de estudiantes para definir los mecanismos de agrupamiento y las actividades de aprendizaje. En tercer lugar, el mapeo de las redes del aula también se convierte en una oportunidad formativa para que los docentes reflexionen sobre su práctica con respecto al sistema social y aborden cuestiones como el aprendizaje, la inclusión y la (re)definición de sus pedagogías. Finalmente, esta presentación está configurada para discutir las diversas formas en que actualmente se utiliza el ARS para explorar estos problemas, los resultados de investigación preliminares y las preguntas futuras.
 </p>
 
 ### Speaker Bio
 <p align="justify">  </p>
-
+Javier Pulgar, assistant professor at the Physics Department, Universidad del Bío Bío, Concepción (Chile); 
+PhD in Education, University of California Santa Barbara, USA;
+PI Research Project FONDECYT Iniciación: Classroom Network Analysis and Pedagogical Practices in Science and Mathematics Education: a Proyect to Develop Analytical Skills for Effective Student Collaboration (2022-2024)
+Researcher at Grupo de Investigación en Enseñanza de las Ciencias y Matemática (GIDICMA).
 </div>
+ 
+
+
 
 
