@@ -77,6 +77,13 @@ projects:
 </add-to-calendar-button>
 </div>
 
+<br>
+
+<div>
+<iframe margin= "center" width="100%" height="300vh" src="https://www.youtube.com/embed/NPXO8wQnFBI" title="Interventions and Pedagogical Decision-Making in Science Classrooms Using Social Network Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ### Abstract:
 <div>
 
@@ -98,7 +105,6 @@ En este escenario, el análisis de redes sociales (ARS) surge como una herramien
 Javier Pulgar, PhD in Education from University of Santa Barbara California (USA), is an assistant professor at the Physics Department, Universidad del Bío Bío, in Concepción (Chile). He is a member of Grupo de Investigación en Enseñanza de las Ciencias (GIDICMA), and more recently, a principal investigator in a FONDECYT Iniciación Project (2022-2024) aimed to explore the use of social network analysis as an informative tool for pedagogical decision making in science and mathematics classrooms. In parallel, and as started in his doctoral dissertation in 2019, Javier continues investigating the link between collaboration and the nature of learning activities in physics classrooms to understand and to foster effective student collaboration in schools and university. Javier has experience teaching physics at the undergraduate level, and science education didactic courses in the Master of Science and Mathematics Education at Universidad del Bío Bío. Finally, Javier is collaborating in two new research projects associated with gamification in physics laboratories, and STEM education competencies among science faculties.</p>
 </div>
  
-
 
 
 
