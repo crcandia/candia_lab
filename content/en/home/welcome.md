@@ -5,7 +5,7 @@
 
 widget: blank #hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
-weight: 20 # Order that this section will appear.
+weight: 30 # Order that this section will appear.
 title: 
   About CRISS-LAB at UDD-Chile  
 # hero_media: welcome.jpg

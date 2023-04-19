@@ -3,7 +3,7 @@ title: Meet the team
 subtitle:
 widget: blank
 headless: true
-weight: 30
+weight: 40
 design:
   columns: '2'
   color: '#666'
