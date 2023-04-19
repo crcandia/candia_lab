@@ -9,7 +9,7 @@ content:
   # Choose how many pages you would like to display (0 = all pages)
   count: 3
   # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  # order: desc
   archive:
     enable: true
 
