@@ -36,7 +36,7 @@ tags:
   - Collective Memory
   - Mathematical Modelling 
   - Econometrics
-featured: false
+featured: true
 
 # links:
 # - name: ""

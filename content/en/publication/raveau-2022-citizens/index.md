@@ -35,7 +35,7 @@ tags:
   - Text Analytics
   - Econometrics
   - Citizen Participation
-featured: false
+featured: true
 
 # links:
 # - name: ""

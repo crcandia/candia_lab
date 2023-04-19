@@ -32,7 +32,7 @@ tags:
   - Mathematical Modelling 
   - Causal Inference
   - Econometrics
-featured: false
+featured: true
 
 # links:
 # - name: ""
