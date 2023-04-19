@@ -5,7 +5,7 @@ widget: featured
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: publication
+  page_type: event
   # Choose how many pages you would like to display (0 = all pages)
   count: 3
   # Page order: descending (desc) or ascending (asc) date.
@@ -14,7 +14,7 @@ content:
     enable: true
 
 headless: true
-weight: 40
+weight: 20
 view: compact #compact #showcase
 
 title: Latest Research Articles
