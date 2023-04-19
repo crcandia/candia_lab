@@ -27,7 +27,7 @@ tags:
 # author_notes: Ph.D. candidate in Computer Science at the University of Toulouse.
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: #'Image credit: [**CRISS-LAB**]()'
