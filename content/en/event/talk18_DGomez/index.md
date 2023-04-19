@@ -1,5 +1,5 @@
 ---
-title: "TBA"
+title: "Assembling Teams Using Recommender Systems: The Effects of Algorithms on Team Diversity and Performance"
 venue: "CRISS-LAB Seminar Series I-2023"
 date: '2023-06-16T12:00:00Z'
 event: "CRISS-LAB Seminar Series I-2023"
@@ -62,7 +62,7 @@ projects:
 
 <div>
 <add-to-calendar-button
-  name="TBA. By Diego Gómez-Zará, Ph.D. at CRISS-LAB (Via Zoom)"
+  name="Assembling Teams Using Recommender Systems: The Effects of Algorithms on Team Diversity and Performance. By Diego Gómez-Zará, Ph.D. at CRISS-LAB (Via Zoom)"
   description="Zoom link: https://udd.zoom.us/j/82674667828?pwd=amlmNlk3R0hPZzlFOTRYY2tZRW9Gdz09"
   startDate="2023-06-16"
   endDate="2023-06-16"
@@ -83,16 +83,13 @@ projects:
 <div>
 
 **[ENG]**
-<p align="justify"> 
-</p>
+<p align="justify"> This study seeks to understand how recommender systems can help individuals assemble functionally diverse teams. We run a 2x2 between-subject laboratory experiment with 384 participants to test the effect of a recommender system's algorithms on individuals' teaming experience, team processes, and team performance. This experiment controls two main factors: personal agency (i.e., when users can choose their teammates), and algorithmic diversity (i.e., an algorithm that maximizes diversity in teammate recommendations). Preliminary results show that personal agency alone negatively affects teams' performance and functional diversity. In contrast, combining personal agency with algorithmic diversity helps participants assemble teams with high functional diversity levels and achieve better task performance. This study shows how shepherding users by combining their agency with diversity criteria allows them to assemble more effective teams.</p>
 <br>
 
 **[ESP]**
-<p align="justify"> 
-</p>
+<p align="justify"> Este estudio busca entender cómo los sistemas de recomendación pueden ayudar a las personas a formar equipos funcionalmente diversos. Llevamos a cabo un experimento de laboratorio 2x2 between-subject con 384 participantes para probar el efecto de los algoritmos de un sistema de recomendación en la experiencia de trabajo en equipo, los procesos del equipo y el rendimiento del equipo. Este experimento controla dos factores principales: agencia personal (es decir, cuando los usuarios pueden elegir a sus compañeros de equipo) y diversidad algorítmica (es decir, un algoritmo que maximiza la diversidad en las recomendaciones de compañeros de equipo). Los resultados preliminares muestran que la agencia personal por sí sola afecta negativamente el rendimiento y la diversidad funcional de los equipos. En contraste, combinar la agencia personal con la diversidad algorítmica ayuda a los participantes a formar equipos con altos niveles de diversidad funcional y lograr un mejor desempeño en las tareas. Este estudio muestra cómo guiar a los usuarios combinando su agencia con criterios de diversidad les permite armar equipos más efectivos. (Traducido por ChatGPT).</p>
 
 ### Speaker Bio
-<p align="justify"> <a href="https://www.dgomezara.cl/" target="_blank">Dr. Diego Gómez-Zará</a> currently holds the position of Assistant Professor at the Department of Computer Science and Engineering, with a courtesy appointment at the Mendoza College of Business at the University of Notre Dame. He earned his Ph.D. in Technology & Social Behavior from Northwestern University and subsequently completed a postdoctoral fellowship at the Center for Science of Science and Innovation (CSSI) at the Kellogg School of Management, also at Northwestern University. Dr. Gómez-Zará's research expertise spans across Network Science, Human-Computer Interaction (HCI), Computer-Supported Cooperative Work (CSCW), and Computational Social Science. He began his academic journey as an Instructor and then an Adjunct Assistant Professor at the Pontificia Universidad Católica de Chile (PUC), where he gained invaluable experience in the fields of management, communication, and computer sciences. With over nine years of teaching experience, Dr. Gómez-Zará has instructed a variety of courses on web technologies, HCI, and social networks. His research projects encompass social network analysis, social media, team formation systems, and the development of computational tools for journalists. Dr. Gómez-Zará remains dedicated to exploring and contributing to the ever-evolving landscape of technology and social behavior.</p>
+<p align="justify"> <a href="https://www.dgomezara.cl/" target="_blank">Diego Gómez-Zará</a> is an assistant professor at the Department of Computer Science and Engineering at the University of Notre Dame. His research focuses on how social computational systems help people organize and collaborate. His work has been at the forefront of computational social science, human-computer interaction, and network science. He received his Ph.D. in Technology & Social Behavior from Northwestern University. He was also a postdoctoral fellow at the Center for Science of Science and Innovation (CSSI) at the Kellogg School of Management. His recent awards include Amazon Research, Microsoft Research, and National Science Foundation. </p>
 
 </div>
-
