@@ -1,5 +1,5 @@
 ---
-title: "Interventions and Pedagogical Decision Making in Science Classrooms: A Research Agenda using Social Network Analysis."
+title: "Interventions and Pedagogical Decision Making in Science Classrooms: A Research Agenda using Social Network Analysis. [Virtual Talk]"
 venue: "CRISS-LAB Seminar Series I-2023"
 date: '2023-04-14T12:00:00Z'
 event: "CRISS-LAB Seminar Series I-2023"

@@ -1,5 +1,5 @@
 ---
-title: "The Election Polarization Index (EPI): Mapping polarization through elections"
+title: "The Election Polarization Index (EPI): Mapping polarization through elections [Virtual Talk]"
 venue: "CRISS-LAB Seminar Series I-2023"
 date: '2023-03-31T12:00:00Z'
 event: "CRISS-LAB Seminar Series I-2023"

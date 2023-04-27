@@ -1,5 +1,5 @@
 ---
-title: "TBA"
+title: "TBA [Virtual Talk]"
 venue: "CRISS-LAB Seminar Series I-2023"
 date: '2023-05-26T12:00:00Z'
 event: "CRISS-LAB Seminar Series I-2023"

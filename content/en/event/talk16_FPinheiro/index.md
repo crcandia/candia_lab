@@ -1,5 +1,5 @@
 ---
-title: "Tracking the Emergence of Cooperation in Complex Networks"
+title: "Tracking the Emergence of Cooperation in Complex Networks [Virtual Talk]"
 venue: "CRISS-LAB Seminar Series I-2023"
 date: '2023-05-12T12:00:00Z'
 event: "CRISS-LAB Seminar Series I-2023"

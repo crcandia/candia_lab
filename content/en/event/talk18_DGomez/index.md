@@ -1,5 +1,5 @@
 ---
-title: "Assembling Teams Using Recommender Systems: The Effects of Algorithms on Team Diversity and Performance"
+title: "Assembling Teams Using Recommender Systems: The Effects of Algorithms on Team Diversity and Performance. [Virtual Talk]"
 venue: "CRISS-LAB Seminar Series I-2023"
 date: '2023-06-16T12:00:00Z'
 event: "CRISS-LAB Seminar Series I-2023"
