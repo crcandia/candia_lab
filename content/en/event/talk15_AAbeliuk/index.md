@@ -1,5 +1,5 @@
 ---
-title: "Price of Anarchy in Algorithmic Matching"
+title: "Price of Anarchy in Algorithmic Matching [Virtual Talk]"
 venue: "CRISS-LAB Seminar Series I-2023"
 date: '2023-04-28T12:00:00Z'
 event: "CRISS-LAB Seminar Series I-2023"
