@@ -7,7 +7,7 @@ content:
   # Page type to display. E.g. post, talk, publication...
   page_type: event
   # Choose how many pages you would like to display (0 = all pages)
-  count: 4
+  count: 3
   # Page order: descending (desc) or ascending (asc) date.
   order: asc
   archive:
