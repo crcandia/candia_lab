@@ -39,6 +39,6 @@ social:
 #       # year: 2008
 email: ""
 user_groups:
-  - Ph.D. Students
+  - Alumni
   - Researchers
 ---
