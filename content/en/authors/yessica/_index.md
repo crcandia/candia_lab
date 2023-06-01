@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Yessica Herrera
 title: Yessica Herrera
-role: Ph.D. Candidate
+role: Ph.D. Student
 # bio: My research interests include ...
 interests:
   - Science of Arts
