@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Sebastián Azocar
 title: Sebastián Azocar
-role: Master Student
+role: Master's Student
 # bio: My research interests include ...
 interests:
 #   - bleble

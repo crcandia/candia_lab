@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Matías Bull
 title: Matías Bull
-role: Master Student
+role: Master's Student
 # bio: My research interests include ...
 interests:
   # - bleble
