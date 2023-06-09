@@ -60,7 +60,7 @@ html {
 
 
 <br>
-<div style="margin: auto; width:50vw; font-size:80vh;">
+<div style="margin: auto; width:50vw; font-size:8vh;">
 <p style="text-align: center"> Harnessing the power of Computational Social Science, we strive to unravel the complexities of individual and collective behavior. Our mission is to turn observational data and quasi-experiments into solutions for tangible, real-world issues.</p>
 </div>
 
