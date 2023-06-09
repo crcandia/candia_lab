@@ -13,9 +13,9 @@ main:
   # - name: Teaching
   #   url: teaching
   #   weight: 30   
-  # - name: News
-  #   url: post
-  #   weight: 40
+  - name: News
+    url: post
+    weight: 40
   - name: Team
     url: people
     weight: 50
