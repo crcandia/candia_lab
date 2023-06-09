@@ -1,5 +1,5 @@
 ---
-title: Cristian Candia sobre la plataforma Lixandria
+title: Cristian Candia habla sobre la plataforma Lixandria
 date: 2021-12-10
 image:
   focal_point: 'top'
