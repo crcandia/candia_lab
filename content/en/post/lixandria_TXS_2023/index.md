@@ -17,7 +17,7 @@ El físico lideró al equipo interdisciplinario de expertos en ciencia de datos,
 
 “A partir de las decisiones de millones de postulaciones históricas, creamos un mapa interconectado de carreras que revela las relaciones que existen entre ellas y cómo se ajustan a los intereses de los estudiantes”, explica el investigador del Instituto de Data Science de la Universidad del Desarrollo.
 
-Usted está aquí
+**Usted está aquí**
 
 Si bien el EES fue ideado y construido inicialmente como parte de la Tesis Doctoral de Cristian Candia, actualmente su información sistematizada está a disposición de postulantes y orientadores con una simple consulta a través de Lixandria. La plataforma de libre acceso permite comparar carreras de preferencia con información de diversas fuentes, tales como el Ministerio de Educación, DEMRE y mifuturo.cl.
 
@@ -30,4 +30,4 @@ Asimismo, la plataforma evalúa el grado de relación o similitud del conjunto d
 En ese sentido, Lixandria podría ayudar a reducir la deserción universitaria que, según un estudio realizado en 2018 por la Facultad de Economía y Negocios de la Universidad de Chile, implica un costo de oportunidad de US$2.660 millones anuales para el país.
 
 
-Fuente: [TSX Plus](https://txsplus.com/2021/12/lixandria-una-plataforma-para-reducir-la-desercion-universitaria/)
+Fuente: [TXS Plus](https://txsplus.com/2021/12/lixandria-una-plataforma-para-reducir-la-desercion-universitaria/)
