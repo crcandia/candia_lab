@@ -29,7 +29,7 @@ design:
     text_color_light: true
   spacing:
     # padding: ['15%', '0', '20px', '0']
-    padding: ['25vh', '0', '20px', '0']
+    padding: ['15vh', '0', '20px', '0']
     
 
 advanced:
