@@ -28,3 +28,6 @@ Esta herramienta resulta especialmente práctica si se considera que sólo el 20
 Asimismo, la plataforma evalúa el grado de relación o similitud del conjunto de carreras incluidas en su postulación, indicador que, por su relación con la deserción y retención del sistema, es de particular relevancia.
 
 En ese sentido, Lixandria podría ayudar a reducir la deserción universitaria que, según un estudio realizado en 2018 por la Facultad de Economía y Negocios de la Universidad de Chile, implica un costo de oportunidad de US$2.660 millones anuales para el país.
+
+
+Fuente: [TSX Plus](https://txsplus.com/2021/12/lixandria-una-plataforma-para-reducir-la-desercion-universitaria/)
