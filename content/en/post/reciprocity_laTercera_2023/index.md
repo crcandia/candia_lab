@@ -3,6 +3,10 @@ title: ¿Cuánto influyen los amigos en la sala de clases para tener buenas nota
 date: 2023-01-23
 image:
   focal_point: 'top'
+authors:
+  - admin 
+  - carlosr
+  - melanie
 ---
 Un estudio liderado por la U. de Desarrollo en casi 900 niños de educación básica en Chile midió con un novedoso método de la teoría de juegos la importancia de los amigos en su desempeño académico.
 

@@ -5,6 +5,8 @@ image:
   focal_point: 'top'
 authors:
   - admin 
+  - carlosr
+  - joselina
 ---
 Usando datos de catorce años de postulaciones, un físico chileno creó un software que permite ver y entender las relaciones entre las carreras. Así, el alumno puede abrirse a posibilidades que no tenía contempladas. Además, orientadores explican cómo elegir sin equivocarse.
 

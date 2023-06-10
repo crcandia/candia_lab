@@ -3,6 +3,10 @@ title: Cristian Candia habla sobre la plataforma Lixandria
 date: 2021-12-10
 image:
   focal_point: 'top'
+authors:
+  - admin 
+  - carlosr
+  - joselina
 ---
 
 A partir de más de un millón de postulaciones universitarias, el físico chileno Cristian Candia-Castro desarrolló el “Espacio de Educación Superior”, una red que sistematiza información utilizando inteligencia artificial. A través de la plataforma Lixandria, estudiantes y orientadores pueden explorar, comparar y ampliar las opciones de carreras.
