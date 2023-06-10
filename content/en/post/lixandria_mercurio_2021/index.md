@@ -26,4 +26,4 @@ Al posicionar el mouse en cada punto se ven datos como el puntaje promedio, el p
 
 Y agrega: “Estamos terminando un paper en que descubrimos que cuando un estudiante no queda en la primera carrera de sus preferencias, postula a carreras que son populares o que tienen una buena renta proyectada, pero que no se relacionan, necesariamente, con la primera preferencia. Muchas veces eso lleva a deserciones o frustraciones a futuro”, recalca el investigador.
 
-Fuente: [El mErcurio](https://ingenieria.udd.cl/noticias/2021/12/la-inteligencia-artificial-ayuda-a-estudiantes-indecisos-a-buscar-nuevos-horizontes/)
+Fuente: [El Mercurio](https://ingenieria.udd.cl/noticias/2021/12/la-inteligencia-artificial-ayuda-a-estudiantes-indecisos-a-buscar-nuevos-horizontes/)
