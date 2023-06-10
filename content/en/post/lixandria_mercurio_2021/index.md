@@ -3,6 +3,8 @@ title: Cristian Candia habla sobre como la Inteligencia Artificial puede ayudar 
 date: 2021-12-27
 image:
   focal_point: 'top'
+authors:
+  - admin 
 ---
 Usando datos de catorce años de postulaciones, un físico chileno creó un software que permite ver y entender las relaciones entre las carreras. Así, el alumno puede abrirse a posibilidades que no tenía contempladas. Además, orientadores explican cómo elegir sin equivocarse.
 
