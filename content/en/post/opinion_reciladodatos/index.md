@@ -42,7 +42,7 @@ Esta omisión puede haber generado sesgos producto de ausencia de mediciones rel
 | 3    | Sociedades con documentación sobre la caza por parte de las mujeres                | 50                   | 3.6%               | 12.8%                        | 79.4%                              |
 | 4    | Sociedades con datos sobre si la caza de las mujeres era intencional u oportunista | 41                   | 2.9%               | 10.5%                        | 65.1%                              |
 | 5    | Sociedades con datos sobre el tamaño de la presa que cazaban las mujeres           | 45                   | 3.2%               | 11.5%                        | 71.4%                              |
-[Tabla 1: Tabla de submuestreo forzado de datos en el artículo. Elaboración propia.]
+:Tabla 1: Tabla de submuestreo forzado de datos en el artículo. Elaboración propia.
 
 
 Los resultados y conclusiones del estudio se fundamentan en la información de 63 sociedades de cazadores-recolectores para las cuales existen relatos etnográficos explícitos sobre los roles de caza. Sin embargo, existen varios cientos de estas sociedades, y no todas están representadas en el estudio. De hecho, del total de más de 1,400 sociedades documentadas en la base de datos D-PLACE, solo 50 sociedades tienen datos sobre la caza por parte de mujeres, representando el $3.57%$ del total de sociedades documentadas (ver tabla 1). 
