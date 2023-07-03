@@ -7,7 +7,7 @@ authors:
   - admin 
 
 ---
-
+## Contexto (disclaimers :D)
 Quiero iniciar esta entrada con una aclaración importante: no soy un experto en evolución humana ni tampoco pretendo serlo. Sin embargo, recientemente me intrigó un estudio en el campo, en el que me sorprende enormemente cómo se han sacado conclusiones tan significativas con tan poca evidencia. Mi intención no es en absoluto desalentar la publicación de este tipo de trabajos. Más bien, mi llamado es a ejercer una mayor responsabilidad en la forma en que se comunica la información, a dejar claras las limitaciones de los estudios, y a emplear como mínimo herramientas estadísticas que brinden un grado de confiabilidad a los hallazgos. Quiero también dejar en claro que esto es opinión.
 
 Comenzaré con un breve contexto, que es un resumen de lo que he leido en el tiempo y otras cosas que leí el domingo por la mañana sobre el artículo en cuestión. Luego, pretendo mostrar (de manera sencilla) uno de los potenciales problemas de reciclar datos para otros objetivos en investigación. Finalmente, cierro comentando la importancia de la cautela y la prudencia al momento de publicar resultados, equilibrando la espectacularidad de los titulares y afirmaciones con la evidencia provista. 
@@ -42,7 +42,7 @@ Esta omisión puede haber generado sesgos producto de ausencia de mediciones rel
 | 3    | Sociedades con documentación sobre la caza por parte de las mujeres                | 50                   | 3.6%               | 12.8%                        | 79.4%                              |
 | 4    | Sociedades con datos sobre si la caza de las mujeres era intencional u oportunista | 41                   | 2.9%               | 10.5%                        | 65.1%                              |
 | 5    | Sociedades con datos sobre el tamaño de la presa que cazaban las mujeres           | 45                   | 3.2%               | 11.5%                        | 71.4%                              |
-: Tabla 1: Tabla de submuestreo forzado de datos en el artículo. Elaboración propia. 
+Tabla 1: Tabla de submuestreo forzado de datos en el artículo. Elaboración propia. 
 
 
 Los resultados y conclusiones del estudio se fundamentan en la información de 63 sociedades de cazadores-recolectores para las cuales existen relatos etnográficos explícitos sobre los roles de caza. Sin embargo, existen varios cientos de estas sociedades, y no todas están representadas en el estudio. De hecho, del total de más de 1,400 sociedades documentadas en la base de datos D-PLACE, solo 50 sociedades tienen datos sobre la caza por parte de mujeres, representando el $3.57%$ del total de sociedades documentadas (ver tabla 1). 
@@ -58,7 +58,7 @@ Luego, los autores señalan que seleccionaron 391 sociedades para realizar la in
 | Sociedades en las que las mujeres cazaban presas grandes                   | 15                   | 1.1%               | 3.8%                         | 23.8%                              | 30%                                                   |
 | Sociedades en las que las mujeres cazaban presas de todos los tamaños      | 2                    | 0.1%               | 0.5%                         | 3.2%                               | 4%                                                    |
 | Sociedades en las que las mujeres cazaban con perros y/o niños             | 23                   | 1.6%               | 5.9%                         | 36.5%                              | 46%                                                   |
-: Tabla 2: Tabla de resultados usando los datos del artículo. Elaboración propia. 
+Tabla 2: Tabla de resultados usando los datos del artículo. Elaboración propia. 
 
 
 El estudio, sin ningún tipo de análisis estadístico, destaca que en el 72% (36) de estas 50 sociedades (ver tabla 2), las mujeres se involucran de manera intencional en la caza. Esta es la principal conclusión del estudio, pero su generalización podría ser excesiva. **El subconjunto de datos utilizados se centra únicamente en sociedades que ofrecen relatos explícitos sobre los participantes en la caza**. De este modo, es probable que se hayan excluido inadvertidamente aquellas sociedades en las que las mujeres cazan en menor medida o no cazan en absoluto. Posiblemente, por esta razón tal información podría no haber sido documentada, dado que los datos no fueron generados pensando en el objetivo de este estudio. Es más, si, como se piensa, todo el mundo había dado por sentada la hipótesis del hombre-cazador, y nadie realmente decidió evaluarla ya que no era una pregunta en la mente de muchas personas, no hay razón para pensar que los datos usados siervan para responder esta pregunta. Esto, inneludiblemente, hace que la submuestra de 50 sociedades con datos sobre la intencionalidad de la caza de mujeres no sea necesariamente representativa.
