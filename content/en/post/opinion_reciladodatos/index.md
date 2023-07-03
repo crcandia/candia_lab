@@ -3,6 +3,7 @@ title: Reciclaje de Datos en la Investigación Científica; La Imperativa Necesi
 date: 2023-07-03
 image:
   focal_point: 'top'
+  credit: 'The steps of the scientific method. WIKIMEDIA COMMONS (CC BY-SA 4.0)'
 authors:
   - admin 
 
