@@ -1,14 +1,13 @@
 ---
-title: Unlocking the Secrets of Collective Intelligence at CRISS-LAB [Opinión]
+title: Unlocking the Secrets of Collective Intelligence at CRISS-LAB [Blog Post]
 date: 2023-09-08
 image:
   focal_point: 'top'
-  caption: ''
+  caption: '.'
 authors:
   - admin 
 
 ---
-
 Greetings to our vibrant CRISS-LAB community!
 
 In the bustling corridors and lively labs of CRISS-LAB, we're continuously pushing the boundaries of collective intelligence. This journey transcends teamwork. It delves into the heart of multifaceted human interactions, weaving a tapestry of insights, challenges, and discoveries.
