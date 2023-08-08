@@ -82,9 +82,7 @@ projects:
 
 <br>
 
-<!-- <div>
-<iframe margin= "center" width="100%" height="300vh" src="https://www.youtube.com/embed/IFgKLHjlQck" title="Assembling Teams Using Recommender Systems: The Effects of Algorithms on Team Diversity and Performance." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div> -->
+
 
 ### Abstract:
 <div>
