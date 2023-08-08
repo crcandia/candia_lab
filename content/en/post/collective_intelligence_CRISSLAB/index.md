@@ -1,9 +1,8 @@
 ---
 title: Unlocking the Secrets of Collective Intelligence at CRISS-LAB [Blog Post]
-date: 2023-09-08
+date: 2023-08-08
 image:
   focal_point: 'top'
-  caption: '.'
 authors:
   - admin 
 
