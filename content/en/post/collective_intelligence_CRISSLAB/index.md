@@ -9,8 +9,6 @@ authors:
 
 ---
 
-<!-- **Unlocking the Secrets of Collective Intelligence at CRISS-LAB** -->
-
 Greetings to our vibrant CRISS-LAB community!
 
 In the bustling corridors and lively labs of CRISS-LAB, we're continuously pushing the boundaries of collective intelligence. This journey transcends teamwork. It delves into the heart of multifaceted human interactions, weaving a tapestry of insights, challenges, and discoveries.
