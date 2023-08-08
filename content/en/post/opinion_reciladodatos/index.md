@@ -88,4 +88,10 @@ Por ello, la comunidad académica debe permanecer comprometida con la metodolog�
 Debemos fomentar una ciencia prudencte y la cautelosa, que valore la calidad de la evidencia por encima de la espectacularidad de los titulares y hallazgos. Solo así podremos mantener la confianza pública en nuestra labor y seguir avanzando, ladrillo a ladrillo, en la frontera del conocimiento.
 
 
+## Referencias
+
+1. [Anderson, A., Chilczuk, S., Nelson, K., Ruther, R., & Wall-Scheffler, C. (2023). The Myth of Man the Hunter: Women’s contribution to the hunt across ethnographic contexts. PLoS one, 18(6), e0287101.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287101)
+
+2. [The myth that men hunt while women stay at home is entirely wrong. New Scientist, June 2023](https://www.newscientist.com/article/2380011-the-myth-that-men-hunt-while-women-stay-at-home-is-entirely-wrong/)
+
 <!-- Fuente: [Trade News](https://trade-news.cl/2023/04/26/el-impacto-de-la-automatizacion-y-la-ia-en-el-trabajo-del-miedo-a-la-oportunidad/) -->
