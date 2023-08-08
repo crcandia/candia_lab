@@ -1,15 +1,15 @@
 ---
-title: Reciclaje de Datos en la Investigación Científica; La Imperativa Necesidad de Claridad, Responsabilidad y Rigor en la Presentación de Resultados [Opinión]
-date: 2023-07-03
+title: Unlocking the Secrets of Collective Intelligence at CRISS-LAB [Opinión]
+date: 2023-09-08
 image:
   focal_point: 'top'
-  caption: 'Image credit: The steps of the scientific method. WIKIMEDIA COMMONS (CC BY-SA 4.0)'
+  caption: ''
 authors:
   - admin 
 
 ---
 
-**Unlocking the Secrets of Collective Intelligence at CRISS-LAB**
+<!-- **Unlocking the Secrets of Collective Intelligence at CRISS-LAB** -->
 
 Greetings to our vibrant CRISS-LAB community!
 
