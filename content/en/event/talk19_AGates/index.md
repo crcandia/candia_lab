@@ -60,7 +60,6 @@ projects:
 
 </head>
 
-
 <div>
 <add-to-calendar-button
   name="TBA. By Alexander Gates, Ph.D. at CRISS-LAB (Via Zoom)"
@@ -79,7 +78,6 @@ projects:
   >
 </add-to-calendar-button>
 </div>
-
 <br>
 
 
