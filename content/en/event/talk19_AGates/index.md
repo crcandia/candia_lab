@@ -1,5 +1,5 @@
 ---
-title: "TBH. [Virtual Talk]"
+title: "TBA. [Virtual Talk]"
 venue: "CRISS-LAB Seminar Series II-2023"
 date: '2023-09-08T11:00:00Z'
 event: "CRISS-LAB Seminar Series II-2023"
@@ -63,7 +63,7 @@ projects:
 
 <div>
 <add-to-calendar-button
-  name="TBH. By Alexander Gates, Ph.D. at CRISS-LAB (Via Zoom)"
+  name="TBA. By Alexander Gates, Ph.D. at CRISS-LAB (Via Zoom)"
   description="Zoom link: https://udd.zoom.us/j/82674667828?pwd=amlmNlk3R0hPZzlFOTRYY2tZRW9Gdz09"
   startDate="2023-09-08"
   endDate="2023-09-08"
@@ -88,11 +88,11 @@ projects:
 <div>
 
 **[ENG]**
-<p align="justify"> TBH</p>
+<p align="justify"> TBA</p>
 <br>
 
 **[ESP]**
-<p align="justify"> TBH (Traducido por ChatGPT).</p>
+<p align="justify"> TBA (Traducido por ChatGPT).</p>
 
 ### Speaker Bio
 <p align="justify"> <a href="https://alexandergates.net/" target="_blank">Alexander Gates</a>  </p>
