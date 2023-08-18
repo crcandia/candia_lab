@@ -1,5 +1,5 @@
 ---
-title: Recorded Talks and Events
+title: Talks and Events
 
 # Listing view
 view: compact

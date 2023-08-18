@@ -35,7 +35,7 @@ tags:
   - Cooperation
   - Learning Analytics
   - Econometrics
-featured: false
+featured: true
 
 # links:
 # - name: ""
