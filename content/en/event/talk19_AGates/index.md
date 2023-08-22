@@ -1,5 +1,5 @@
 ---
-title: "TBA. [Virtual Talk]"
+title: "Beyond Core-Periphery: Uncovering the Impacts of Scientific Networks on Resources and Recognition. [Virtual Talk]"
 venue: "CRISS-LAB Seminar Series II-2023"
 date: '2023-09-08T11:00:00Z'
 event: "CRISS-LAB Seminar Series II-2023"
@@ -62,7 +62,7 @@ projects:
 
 <div>
 <add-to-calendar-button
-  name="TBA. By Alexander Gates, Ph.D. at CRISS-LAB (Via Zoom)"
+  name="Beyond Core-Periphery: Uncovering the Impacts of Scientific Networks on Resources and Recognition. By Alexander Gates, Ph.D. at CRISS-LAB (Via Zoom)"
   description="Zoom link: https://udd.zoom.us/j/82674667828?pwd=amlmNlk3R0hPZzlFOTRYY2tZRW9Gdz09"
   startDate="2023-09-08"
   endDate="2023-09-08"
@@ -86,13 +86,14 @@ projects:
 <div>
 
 **[ENG]**
-<p align="justify"> TBA</p>
+<p align="justify"> We discuss two projects that quantify the consequences of our network location for our access to resources and rewards in science.  First, we investigate the dynamics of international science through the lens of national citation preferences, introducing a novel measure to characterize these processes and enabling a network analysis of global knowledge production.  Our results challenge the conventional core-periphery narrative of global science, instead uncovering several fragmented communities of knowledge production that are rapidly evolving and constraining the diffusion of ideas across international borders.  Second, we quantitatively model the complex dynamics of philanthropic grant making in the US.   Using publicly available tax records, we build the scientific funding network (925,335 grants between 69,000 institutions, totaling over $208 billion) to reveal that funders support geographically close recipients, and that grant-giving relationships become increasingly entrenched over time.  These principles combine with high levels of bipartite clustering to empower a predictive model of future funding relationships.  Together, these projects shed light on the barriers and opportunities for the equitable distribution of scientific resources and recognition, ultimately guiding policy recommendations to foster more inclusive and impactful scientific endeavors.</p>
 <br>
 
 **[ESP]**
 <p align="justify"> TBA (Traducido por ChatGPT).</p>
 
 ### Speaker Bio
-<p align="justify"> <a href="https://alexandergates.net/" target="_blank">Alexander Gates</a>  </p>
+<p align="justify"> <a href="https://scholar.google.com/citations?user=lWadInsAAAAJ&hl=en&oi=ao" target="_blank">Alex Gates</a> is a network scientist in the School of Data Science at the University of Virginia where he directs the Connected Data Hub. His research focuses on the Science of Science to analyze and model how organizational structure and strategic decisions impact innovation, creativity, and success.  His work has been featured in top journals including Nature, PNAS, and The Journal of Machine Learning.  
+https://alexandergates.net/ </p>
 
 </div>
