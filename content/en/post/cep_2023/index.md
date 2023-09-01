@@ -1,5 +1,5 @@
 ---
-title: Consideraciones sobre la democracia deliberativa y lecciones del caso chileno
+title: Consideraciones sobre la democracia deliberativa y lecciones del caso chileno [New Paper, ESP]
 date: 2023-09-01
 image:
   focal_point: 'top'
