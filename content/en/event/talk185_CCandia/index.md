@@ -1,5 +1,5 @@
 ---
-title: "¡Descubre la Conexión Entre Física y las Ciencias Sociales! [Conversación Virtual]"
+title: "¡Descubre la Conexión Entre Física y las Ciencias Sociales! [Entrevista Virtual]"
 venue: "CRISS-LAB Seminar Series I-2023"
 date: '2023-07-30T12:00:00Z'
 event: "CRISS-LAB Entrevista TXSPlus II-2023"
