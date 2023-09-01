@@ -70,7 +70,8 @@ projects:
 <div>
 
 <p align="justify"> 
-# La Convergencia de Ciencias Físicas y Sociales: Un Análisis Detallado de la Entrevista con el Dr. Cristian Candia
+
+# La Convergencia de Ciencias Físicas y Sociales: Una Entrevista con el Dr. Cristian Candia
 
 ## Introducción
 
