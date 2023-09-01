@@ -73,8 +73,6 @@ projects:
 
 # La Convergencia de las Ciencias Físicas y Sociales: Una Entrevista con el Dr. Cristian Candia
 
-## Introducción
-
 En una entrevista reciente, Carla Hermann, Ph.D., la anfitriona del programa Let's Get Physical, se sentó con el Dr. Cristian Candia, académico de la Universidad del Desarrollo en Chile y Director del Magister en Data Science y del CRISS-LAB. Ambos comparten una relación única de madrina y ahijado académico, lo que añade una capa de intimidad a la conversación. Pero más allá de esta conexión personal, la entrevista se sumerge en la intersección de las ciencias físicas y las ciencias sociales, un campo emergente que está ganando tracción en la comunidad académica. A continuación, ofrecemos un resumen de esta conversación.
 
 ## Un Viaje desde la Física Hasta las Ciencias Sociales
