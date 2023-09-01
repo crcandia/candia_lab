@@ -66,10 +66,9 @@ projects:
 </div>
 
 
-### Abstract:
+### Resumen:
 <div>
 
-**[ENG]**
 <p align="justify"> 🌟 Únete a la fascinante conversación entre Cristian Candia, Ph.D., director del Computational Research in Social Science Lab, físico e investigador en la intersección de la física y las ciencias sociales, y Carla Hermann, Ph.D., física y conductora del programa "Let's Get Physical" en TXSpLus. 🌟
 
 👉 ¿Alguna vez te has preguntado cómo la física puede ofrecer soluciones a problemas complejos en ciencias sociales? Este video te introducirá a este mundo. 🤯
