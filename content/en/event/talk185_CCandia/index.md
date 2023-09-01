@@ -1,5 +1,5 @@
 ---
-title: "¡Descubre la Conexión Entre Física y las Ciencias Sociales! [Entrevista Virtual]"
+title: "¡Descubre la Conexión Entre la Física y las Ciencias Sociales! [Entrevista Virtual]"
 venue: "CRISS-LAB Seminar Series I-2023"
 date: '2023-07-30T12:00:00Z'
 event: "CRISS-LAB Entrevista TXSPlus II-2023"
@@ -71,7 +71,7 @@ projects:
 
 <p align="justify"> 
 
-# La Convergencia de Ciencias Físicas y Sociales: Una Entrevista con el Dr. Cristian Candia
+# La Convergencia de las Ciencias Físicas y Sociales: Una Entrevista con el Dr. Cristian Candia
 
 ## Introducción
 
