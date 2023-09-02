@@ -6,7 +6,6 @@ image:
 authors:
   - admin 
   - mapazr
-  - carlosr
 ---
 ## Democracia en Revisión: Del Descontento de la Representatividad a las Lecciones del Experimento Chileno
 
