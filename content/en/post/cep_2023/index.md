@@ -38,5 +38,6 @@ Sin embargo, es crucial ser consciente de los desafíos éticos y técnicos que 
 
 En resumen, la confluencia de la democracia deliberativa, la inteligencia colectiva y las tecnologías emergentes de la democracia digital ofrecen un horizonte prometedor pero complejo para la reforma democrática. Estos elementos podrían trabajar juntos para fortalecer los sistemas políticos, hacerlos más inclusivos y legítimos, pero su implementación deberá ser cuidadosa para garantizar que cumplan con los ideales democráticos que aspiran a mejorar.
 
+
 Lee nuestro artículo: [CEP-Website](https://estudiospublicos.cl/index.php/cep/article/view/2212), [CEP-PDF](https://www.estudiospublicos.cl/index.php/cep/article/view/2212/3351).
 
