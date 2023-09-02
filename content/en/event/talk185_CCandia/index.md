@@ -66,7 +66,6 @@ projects:
 </div>
 
 
-### Resumen:
 <div>
 
 <p align="justify"> 
