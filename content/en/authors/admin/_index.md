@@ -2,7 +2,7 @@
 authors:
   - Cristian Candia
 title: Cristian Candia
-role: Director CCSS-LAB and Director of the Master's in Data Science at Universidad del Desarrollo, Chile.
+role: Head at CCSS-LAB, Universidad del Desarrollo, Chile. #and Director of the Master's in Data Science at Universidad del Desarrollo, Chile.
 avatar_filename: avatar.jpeg
 bio: My research interests include collective behavior, collective and artificial, network science, and business analytics.
 interests:
@@ -46,7 +46,7 @@ social:
     link: https://www.linkedin.com/in/cristian-candia-castro-ph-d-04040251/   
 
 organizations:
-  - name: Asst. Professor at the Data Science Institute, Universidad del Desarrollo, Chile.
+  - name: Researcher at the Data Science Institute, Universidad del Desarrollo, Chile.
     url: "https://www.udd.cl/persona/cristian-candia/#!/page=1"
   - name: External Faculty at the Northwestern Institute on Complex Systems, Kellogg School of Management,
       Northwestern University, USA.
@@ -71,7 +71,9 @@ highlight_name: true
 ---
 
 <div style="text-align: justify">
-Cristian, an Assistant Professor and Director of the Master's in Data Science at the Data Science Institute of the School of Engineering at Universidad del Desarrollo, Chile, is the creator of <a href="https://lixandria.cl/">Lixandria</a> and <a href="https://discolab.azurewebsites.net/#/about">Discolab</a>. He also holds the position of an external faculty member at the Northwestern Institute on Complex Systems of Northwestern University.
+Cristian, Researcher at the Data Science Institute of the School of Engineering at Universidad del Desarrollo, Chile, is the creator of <a href="https://lixandria.cl/">Lixandria</a> and <a href="https://discolab.azurewebsites.net/#/about">Discolab</a>. He also holds the position of an external faculty member at the Northwestern Institute on Complex Systems of Northwestern University.
+
+<!-- and Director of the Master's in Data Science -->
 
 Having a diverse academic background, Cristian held a postdoctoral position in Computational Social Science at the Kellogg School of Management, Northwestern University. His Ph.D. research on social complexity was conducted at the Center for Social Complexity at Universidad del Desarrollo, at the MIT Media Lab, and at the Center for Complex Networks Research at Northeastern University. He earned his Master of Science in Physics, Bachelor of Science in Physics, and Physics Engineering professional title from Universidad de Concepción, Chile.
 
