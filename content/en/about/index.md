@@ -1,4 +1,21 @@
 ---
+widget: blank
+headless: true
+
+# ... Put Your Section Options Here (title etc.) ...
+title: My New Section
+subtitle:
+weight: 10  # section position on page
+
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+---
+
+Add any content here - text, images, videos, galleries - and even HTML code!
+
+
+<!-- ---
 # A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
@@ -29,7 +46,7 @@ html {
 <p style="text-align: center;"> A diverse group of enthusiastic graduate students, researchers, data scientists, and professors from different fields, such as physics, mathematics, sociology, economics, education, psychology, and engineering interact and collaborate at CRISS-LAB. Our operations are centered at the Data Science Institute of the Engineering School and the Center for Social Complexity at the Government School of the University of Desarrollo, located in Las Condes, Chile. </p>
 
 <p style="text-align: right;"> <em>Cristian Candia, Ph.D. </em> <br> <em>Director at The Computational Research in Social Sciences Lab.</em></p>
-
+ -->
 
 <!-- ---
 # Page title
@@ -49,3 +66,4 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
 --- -->
+
