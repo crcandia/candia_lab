@@ -16,8 +16,8 @@ appearance:
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
-    org_name: ''
+    local_business_type: 'Research Lab'
+    org_name: 'Computational Research in Social Science Lab'
     description: 'CRISS-LAB'
     twitter: ''
   analytics:
