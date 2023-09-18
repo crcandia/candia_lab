@@ -1,6 +1,6 @@
 ---
 # Page title
-title: About #CRISS-LAB at UDD-Chile  
+title: CRISS-LAB at UDD-Chile  
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
