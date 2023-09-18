@@ -29,3 +29,23 @@ html {
 <p style="text-align: center;"> A diverse group of enthusiastic graduate students, researchers, data scientists, and professors from different fields, such as physics, mathematics, sociology, economics, education, psychology, and engineering interact and collaborate at CRISS-LAB. Our operations are centered at the Data Science Institute of the Engineering School and the Center for Social Complexity at the Government School of the University of Desarrollo, located in Las Condes, Chile. </p>
 
 <p style="text-align: right;"> <em>Cristian Candia, Ph.D. </em> <br> <em>Director at The Computational Research in Social Sciences Lab.</em></p>
+
+
+<!-- ---
+# Page title
+title: My page
+# Page type - we want a landing page (such as a homepage)
+type: landing
+
+# Your landing page sections - add as many different content blocks as you like
+sections:
+  - block: markdown
+    id: section-1
+    content:
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+--- -->
