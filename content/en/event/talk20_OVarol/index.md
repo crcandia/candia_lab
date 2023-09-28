@@ -64,7 +64,7 @@ projects:
   startDate="2023-09-29"
   endDate="2023-09-29"
   startTime="11:10"
-  endTime="12:30"
+  endTime="12:20"
   location="Auditorio 114 Patio de Aulas, San Carlos de Apoquindo."
   options="['Apple','Google','iCal','Microsoft365','Outlook.com','Yahoo']"
   timeZone="America/Santiago"
