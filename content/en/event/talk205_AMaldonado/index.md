@@ -30,7 +30,7 @@ featured: true
 image:
   caption: #'Image credit: [**CRISS-LAB**]()'
   focal_point: Right
-  preview_only: true
+  preview_only: false
 
 url_code: ''
 url_pdf: ''
