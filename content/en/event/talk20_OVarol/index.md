@@ -1,10 +1,10 @@
 ---
-title: "Optimizando la Enseñanza en Física y Matemáticas: Implementando Backward Design con Herramientas de Inteligencia Artificial Generativa [Charla Presencial]"
+title: "Analyzing User and Group Behavior during Elections: Coordination, Bots and Misinformation. [Virtual Talk]"
 venue: "CRISS-LAB Seminar Series II-2023"
-date: '2023-10-03T11:10:00Z'
+date: '2023-09-29T11:00:00Z'
 event: "CRISS-LAB Seminar Series II-2023"
 # event_url: https://www.nico.northwestern.edu/news-events/wednesdays-at-nico/speakers-2021.html
-location: "Auditorio 114, Patio de Aulas, UDD, Avenida la Plaza 680, Las Condes, Chile."
+location: "CRISS-LAB, UDD, Las Condes, Chile."
 
 
 # Talk start and end times.
@@ -17,11 +17,13 @@ location: "Auditorio 114, Patio de Aulas, UDD, Avenida la Plaza 680, Las Condes,
 publishDate: '2017-01-01T00:00:00Z'
 
 authors: 
-  - alejandra
+  - Onur Varol
 tags: 
-  - Quantum information
-  - Learning analytics
-  - Science Education Research
+  - Computational Social Science
+  - Machine Learning
+  - Complex Systems
+  - Network Science
+  - Science of Science
 # author_notes: Ph.D. candidate in Computer Science at the University of Toulouse.
 
 # Is this a featured talk? (true/false)
@@ -59,13 +61,13 @@ projects:
 
 <div>
 <add-to-calendar-button
-  name="Optimizando la Enseñanza en Física y Matemáticas: Implementando Backward Design con Herramientas de Inteligencia Artificial Generativa. Por Alejandra Maldonado, Ph.D. (Presencial)"
+  name="Analyzing User and Group Behavior during Elections: Coordination, Bots and Misinformation. By Onur Varol, Ph.D. at CRISS-LAB (Via Zoom)"
   description="Zoom link: https://udd.zoom.us/j/82674667828?pwd=amlmNlk3R0hPZzlFOTRYY2tZRW9Gdz09"
   startDate="2023-09-29"
   endDate="2023-09-29"
-  startTime="11:10"
-  endTime="12:20"
-  location="Auditorio 114 Patio de Aulas, San Carlos de Apoquindo."
+  startTime="11:00"
+  endTime="12:30"
+  location="Virtual"
   options="['Apple','Google','iCal','Microsoft365','Outlook.com','Yahoo']"
   timeZone="America/Santiago"
   trigger="click"
@@ -81,13 +83,15 @@ projects:
 
 ### Abstract:
 <div>
-<p align="justify"> En la enseñanza moderna, las tecnologías de Inteligencia Artificial Generativa (IAG) como ChatGPT y Wolfram Alpha están cambiando la forma en que los docentes planifican e implementan experiencias de aprendizaje. Esta charla explorará cómo estas herramientas se pueden utilizar eficazmente en conjunción con el enfoque de Backward Design (BD) para optimizar la carga de trabajo del docente y para aportar nuevas perspectivas en la instrucción de las disciplinas de física y matemáticas.
 
-Al participar en esta charla, los asistentes tendrán la oportunidad de identificar los principios fundamentales del BD, describir cómo las herramientas de IAG pueden ser implementadas en un contexto educativo, y explicar la relación entre el BD y la IAG para la creación de experiencias de aprendizaje efectivas. Además, se analizarán ejemplos prácticos de cómo estas herramientas se pueden aplicar específicamente en la enseñanza de la física y las matemáticas.
+**[ENG]**
+<p align="justify"> The unprecedented growth in social media use and large-scale information collection pose new threats, but also offer new opportunities. Modeling and managing complex interactive systems requires the analysis of social and technological signals to gain new insights into human society and individual behavior. Online social networks play an essential role in our access to information and are a good proxy for studying population-level behavior patterns and individual-level predictions. In this talk, I will present my research analyzing various account behaviors, from social bots spreading misinformation to coordinated activities during political campaigns and elections. I will also present the dataset we collected and the system we developed for the #Secim2023 project, which we used to study the recent Turkish presidential elections. I will also briefly discuss the other projects we are doing in the <a href="https://varollab.com/" target="_blank">VRL lab</a>.
+</p>
+<br>
 
-Los participantes serán invitados a brevemente reflexionar sobre el impacto que estas tecnologías podrían tener en sus prácticas docentes y a dialogar sobre las posibilidades y los desafíos asociados a su implementación.</p>
+**[ESP]**
+<p align="justify"> El crecimiento sin precedentes en el uso de redes sociales y la recolección de información a gran escala plantean nuevas amenazas, pero también ofrecen nuevas oportunidades. Modelar y gestionar sistemas interactivos complejos requiere el análisis de señales sociales y tecnológicas para obtener nuevas perspectivas sobre la sociedad humana y el comportamiento individual. Las redes sociales en línea desempeñan un papel esencial en nuestro acceso a la información y son un buen proxy para estudiar patrones de comportamiento a nivel de población y predicciones a nivel individual. En esta charla, presentaré mi investigación analizando varios comportamientos de cuentas, desde bots sociales que difunden desinformación hasta actividades coordinadas durante campañas políticas y elecciones. También presentaré el conjunto de datos que recopilamos y el sistema que desarrollamos para el proyecto #Secim2023, que utilizamos para estudiar las recientes elecciones presidenciales turcas. También discutiré brevemente los otros proyectos que estamos realizando en el laboratorio VRL. (Traducido por ChatGPT).</p>
 
 ### Speaker Bio
-<p align="justify"> Actualmente la <a href="https://fisica.udec.cl/es/alejandra-maldonado/" target="_blank">Dra. Maldonado</a> es profesora asistente de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Concepción, misma casa de estudios donde desarrolla sus estudios de pre y postgrado en Ciencias Físicas. Continuó sus investigaciones de postgrado en la Universidad de Maryland (USA) y desarrolló un postdoct en el Instituto Tecnológico de Massachusetts (USA).
-Al volver a Chile dirigió (hasta el año 2021) el Laboratorio de Investigación e Innovación Educativa de la Universidad de Concepción, IDEClab.   Su línea de actual de investigación es innovación educativa con un enfoque interdisciplinario. </p>
+<p align="justify"> <a href="https://scholar.google.com/citations?user=t8YAefAAAAAJ&hl=es" target="_blank">Dr. Onur Varol</a> is an Assistant Professor at the Sabanci University Faculty of Engineering and Natural Sciences and Principal Investigator at the <a href="https://varollab.com/" target="_blank">VIRAL Lab</a>. His research focuses on developing techniques to analyze online behaviors to improve individual well-being and address societal problems using online data. He is awarded by The Turkish Science Academy to Young Scientist Awards (2022) and Research Incentive Award by METU Parlar Foundation (2023). He also received TUBITAK 2247-D National Leader Researcher Grant in 2022. Prior to joining Sabanci University, he was a postdoctoral researcher at Northeastern University at the Center for Complex Network Research. He completed his PhD in Informatics at Indiana University, Bloomington (USA). His thesis focuses on the analysis of manipulation and threats on social media and he was awarded the 2018 University Distinguished Ph.D. Dissertation Award. He has developed a system called Botometer to detect social bots on Twitter and his team ranked top 3 worldwide at the 2015 DARPA Bot Detection Challenge. His research published in prestigious venues such as International Conference of Web and Social Media (ICWSM), Nature Communications, Nature Human Behavior,World Wide Web (WWW) conference, and Communications of the ACM. </p>
 </div>
