@@ -71,7 +71,7 @@ highlight_name: true
 ---
 
 <div style="text-align: justify">
-Cristian, Researcher at the Data Science Institute of the School of Engineering at Universidad del Desarrollo, Chile, is the creator of <a href="https://lixandria.cl/">Lixandria</a> and <a href="https://discolab.azurewebsites.net/#/about">Discolab</a>. He also holds the position of an external faculty member at the Northwestern Institute on Complex Systems of Northwestern University.
+Cristian, Researcher at the Data Science Institute of the School of Engineering and at the Center for Social Complexity of the School of Government at Universidad del Desarrollo, Chile, is the creator of <a href="https://lixandria.cl/">Lixandria</a> and <a href="https://discolab.azurewebsites.net/#/about">Discolab</a>. He also holds the position of an external faculty member at the Northwestern Institute on Complex Systems of Northwestern University.
 
 <!-- and Director of the Master's in Data Science -->
 
