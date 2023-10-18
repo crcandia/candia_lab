@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Computational Research in Social Sciences Lab at UDD-Chile
+title: Computational Research in Social Science Lab at UDD-Chile
 # subtitle: Advancing Collective, Artificial, and Augmented Intelligence through research in Human and Social Behavior
 
 
