@@ -50,6 +50,8 @@ organizations:
     url: "https://www.udd.cl/persona/cristian-candia/#!/page=1"
   - name: Researcher at the Center for Social Compleixty Science, School of Government, Universidad del Desarrollo, Chile.
     url: "https://complejidadsocial.udd.cl/"
+  - name: Director Data Science Master's Degree, School of Engineering, Universidad del Desarrollo, Chile.
+    url: "https://ingenieria.udd.cl/postgrado/magister-en-data-science/"
   - name: External Faculty at the Northwestern Institute on Complex Systems, Kellogg School of Management,
       Northwestern University, USA.
     url: "https://www.nico.northwestern.edu/people/external-faculty.html"
