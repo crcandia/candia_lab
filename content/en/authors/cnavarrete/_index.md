@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Carlos Navarrete
 title: Carlos Navarrete
-role: Universidad de Concepción
+role:  School of Engineering, Universidad de Concepción
 # bio: My research interests include ...
 interests:
   - Computational Political Science
@@ -27,9 +27,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=JqTxoC0AAAAJ
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/cnavarreteliz
 # education:
 #   courses:
 #     - course: Ph.D. in Social Complexity Science
