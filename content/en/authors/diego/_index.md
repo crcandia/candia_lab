@@ -9,9 +9,7 @@ title: Diego Ramirez
 role: Ph.D. student
 # bio: My research interests include ...
 interests:
-  - bleble
-  - blabla
-  - blablabla
+  - 
 social:
   - icon: envelope
     icon_pack: fas

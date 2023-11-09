@@ -9,9 +9,7 @@ title: Sebastián Pulgares
 role: Visiting Undergraduate Student
 # bio: My research interests include ...
 interests:
-  - bleble
-  - blabla
-  - blablabla
+  - 
 social:
   - icon: envelope
     icon_pack: fas

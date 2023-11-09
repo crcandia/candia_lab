@@ -9,9 +9,7 @@ title: Joselina Davyt
 role: Ph.D. Candidate
 # bio: My research interests include ...
 interests:
-  - bleble
-  - blabla
-  - blablabla
+  - 
 social:
   - icon: envelope
     icon_pack: fas
