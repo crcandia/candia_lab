@@ -2,7 +2,7 @@
 authors:
   - Cristian Candia
 title: Cristian Candia
-role: Head at CCSS-LAB, Universidad del Desarrollo, Chile. #and Director of the Master's in Data Science at Universidad del Desarrollo, Chile.
+role: Head at CRiSS-LAB, Universidad del Desarrollo, Chile. #and Director of the Master's in Data Science at Universidad del Desarrollo, Chile.
 avatar_filename: avatar.jpeg
 bio: My research interests include collective behavior, collective and artificial, network science, and business analytics.
 interests:
@@ -89,5 +89,5 @@ With a passion for using data to drive solutions, Cristian leads a FONDECYT proj
 # Calendar
 
 <div>
-<iframe margin= "center" width="100%" height="400vh" src="https://calendar.google.com/calendar/embed?height=800&wkst=2&bgcolor=%23ffffff&ctz=America%2FSantiago&src=Y3JjYW5kaWF2QGdtYWlsLmNvbQ&color=%237986CB&mode=WEEK&showTabs=1&showCalendars=1" title="Public Calendar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe margin= "center" width="100%" height="500vh" src="https://calendar.google.com/calendar/embed?height=800&wkst=2&bgcolor=%23ffffff&ctz=America%2FSantiago&src=Y3JjYW5kaWF2QGdtYWlsLmNvbQ&color=%237986CB&mode=WEEK&showTabs=1&showCalendars=1" title="Public Calendar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
