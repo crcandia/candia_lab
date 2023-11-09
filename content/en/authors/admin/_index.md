@@ -31,7 +31,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: https://crcandia.com/
-
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/crcandiav
