@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Computational Research in Social Science (CRiSS) Lab at UDD-Chile
+title: Computational Research in Social Science (CRiSS) Lab #at UDD-Chile
 subtitle: Decoding Behavior, Advancing Society
 
 
