@@ -81,4 +81,7 @@ Cristian's area of expertise lies at the intersection of big data analysis and h
 
 With a passion for using data to drive solutions, Cristian leads a FONDECYT project on Collective Memory and a FONDEF project on data-driven decision-making for higher education, both funded by the Ministry of Science and Technology and sponsored by the Ministry of Education in Chile. His background in physics, social complexity science, and data analysis uniquely positions him to drive impactful research and innovation.
 
+<iframe width="400" height="200" src="https://www.youtube.com/embed/kYHLZZhG5Wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 </div>
