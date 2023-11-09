@@ -8,7 +8,7 @@ type: landing
 banner:
   caption: ''
   image: 'welcome.jpg'
-  
+
 # Your landing page sections - add as many different content blocks as you like
 sections:
   - block: markdown
@@ -30,7 +30,7 @@ html {
 </head>
 <section>
     <div class="row">
-        <img src="./logo.png" class="img-responsive center-block" alt="CRiSS-LAB" />
+        <img src="./logo.svg" class="img-responsive center-block" alt="CRiSS-LAB" />
     </div>
 </section>
 
