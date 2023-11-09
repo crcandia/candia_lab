@@ -69,6 +69,29 @@ user_groups:
   - Director
 highlight_name: true
 ---
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.container {
+  position: relative;
+  width: 95%;
+  overflow: hidden;
+  padding-top: 75%; /* 16:9 Aspect Ratio */
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+</style>
+</head>
+
 
 <div style="text-align: justify">
 Cristian, Researcher at the Data Science Institute of the School of Engineering and at the Center for Social Complexity of the School of Government at Universidad del Desarrollo, Chile, is the creator of <a href="https://lixandria.cl/">Lixandria</a> and <a href="https://discolab.azurewebsites.net/#/about">Discolab</a>. He also holds the position of an external faculty member at the Northwestern Institute on Complex Systems of Northwestern University.
@@ -85,5 +108,10 @@ With a passion for using data to drive solutions, Cristian leads a FONDECYT proj
 <iframe margin= "center" width="100%" height="300vh" src="https://www.youtube.com/embed/kYHLZZhG5Wc" title="Sociedad en Base a Datos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+# Calendar
+
+<div class="container">
+  <iframe class="responsive-iframe" src="https://calendar.google.com/calendar/embed?height=800&wkst=2&bgcolor=%23ffffff&ctz=America%2FSantiago&src=Y3JjYW5kaWF2QGdtYWlsLmNvbQ&color=%237986CB&mode=WEEK&showTabs=1&showCalendars=1"></iframe>
+</div>
 
 </div>
