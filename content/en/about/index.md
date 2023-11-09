@@ -25,7 +25,7 @@ html {
 </head>
 <section>
     <div class="row">
-        <img class="img-responsive center-block" src="assets/media/logo.png"/>
+        <img class="img-responsive center-block" src="../../../assets/media/logo.png"/>
     </div>
 </section>
 
