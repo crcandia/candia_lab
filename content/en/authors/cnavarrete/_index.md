@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Universidad del Bio Bio
+  - name: Universidad de Concepción
     url: ""
 superuser: false
 authors:
