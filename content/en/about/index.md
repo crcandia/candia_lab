@@ -36,7 +36,7 @@ html {
 
 <p style="text-align: center;"> Our operations are centered at the Data Science Institute of the Engineering School and the Center for Social Complexity at the Government School of the University of Desarrollo, located in Las Condes, Chile. </p>
 
-<p style="text-align: right;"> <em>Cristian Candia, Ph.D. </em> <br> <em> Head at The Computational Research in Social Science Lab.</em></p>
+<p style="text-align: right;"> <em>Cristian Candia, Ph.D. </em> <br> <em> Head at The Computational Research in Social Science (CRiSS) Lab.</em></p>
 
 <!-- ---
 # A Demo section created with the Blank widget.
