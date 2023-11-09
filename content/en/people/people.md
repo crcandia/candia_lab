@@ -9,9 +9,15 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Computational Research in Social Science Lab Team
+title: CRiSS-Lab Team
 subtitle:
 
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: 'welcome.jpg'
+  
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
