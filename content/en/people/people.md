@@ -4,7 +4,7 @@
 widget: people
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 68
@@ -17,7 +17,7 @@ subtitle:
 banner:
   caption: ''
   image: 'welcome.jpg'
-  
+
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
