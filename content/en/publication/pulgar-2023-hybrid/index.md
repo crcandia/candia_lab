@@ -7,7 +7,7 @@ authors:
 author_notes:
   - ''
   - ''
-date: '2023-11-0300:00:00Z'
+date: '2023-11-03T00:00:00Z'
 doi: 'https://doi.org/10.1103/PhysRevPhysEducRes.19.020155'
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
