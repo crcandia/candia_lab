@@ -38,6 +38,6 @@ social:
 #       # year: 2008
 email: ""
 user_groups:
-  - Master's Students
+  - Alumni #Master's Students
   - Researchers
 ---
