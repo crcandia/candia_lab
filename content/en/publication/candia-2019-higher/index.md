@@ -32,6 +32,7 @@ tags:
   - Network Science
   - Decision Making
   - Econometrics
+  - Education
 featured: false
 
 # links:
