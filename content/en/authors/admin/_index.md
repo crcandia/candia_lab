@@ -73,7 +73,7 @@ user_groups:
 highlight_name: true
 ---
 <div style="text-align: justify">
-Cristian, Researcher at the Data Science Institute of the School of Engineering and at the Center for Social Complexity of the School of Government at Universidad del Desarrollo, Chile, is the creator of <a href="https://lixandria.cl/">Lixandria</a> and <a href="https://discolab.azurewebsites.net/#/about">Discolab</a>. He also holds the position of an external faculty member at the Northwestern Institute on Complex Systems of Northwestern University.
+Dr. Cristian Candia leads the <a href="https://ingenieria.udd.cl/postgrado/magister-en-data-science/">Master's Program in Data Science</a> at Universidad del Desarrollo, Chile. His research is anchored in the Data Science Institute within the School of Engineering, and in the Center for Social Complexity in the School of Government. As the innovator behind <a href="https://lixandria.cl/">Lixandria</a>, a complex network-based tool for recommending degree programs, and <a href="https://discolab.cl">discolab</a>, a platform dedicated to exploring constitutional texts with AI, Dr. Candia stands at the forefront of technological advancements in computational social science. His academic influence extends to his position as an external faculty member at the Northwestern Institute on Complex Systems, Northwestern University.
 
 <!-- and Director of the Master's in Data Science -->
 
