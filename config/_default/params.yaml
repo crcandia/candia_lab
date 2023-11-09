@@ -21,10 +21,10 @@ marketing:
     description: 'Computational Research in Social Science Laboratory'
     twitter: 'crcandiav'
   analytics:
-    google_analytics: 'google-site-verification=WpH67fESejiOyHmKdOhfmjt5HWsfh-R57x-c02FL43I'
+    google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'google-site-verification=WpH67fESejiOyHmKdOhfmjt5HWsfh-R57x-c02FL43I'
     baidu: ''
 
 # Site header
