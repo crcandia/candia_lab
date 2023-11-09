@@ -13,7 +13,7 @@ headless: true
 weight: 10
 
 title: Computational Research in Social Science (CRiSS) Lab at UDD-Chile
-# subtitle: Advancing Collective, Artificial, and Augmented Intelligence through research in Human and Social Behavior
+subtitle: Decoding Behavior, Advancing Society
 
 
 design:
