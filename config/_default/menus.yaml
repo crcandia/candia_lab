@@ -16,11 +16,11 @@ main:
   - name: News
     url: post
     weight: 40
-  - name: Team
-    url: people
-    weight: 50
   - name: Talks & Events
     url: event
+    weight: 50    
+  - name: Team
+    url: people
     weight: 60
   - name: About
     url: about
