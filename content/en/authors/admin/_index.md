@@ -1,7 +1,7 @@
 ---
 authors:
   - Cristian Candia
-title: Dr. Cristian Candia
+title: Cristian Candia
 role: Head at CRiSS-LAB, School of Engineering and School of Government, Universidad del Desarrollo, Chile. #and Director of the Master's in Data Science at Universidad del Desarrollo, Chile.
 avatar_filename: avatar.jpeg
 bio: My research interests include collective behavior, collective and artificial, network science, and business analytics.
