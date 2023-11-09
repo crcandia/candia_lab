@@ -46,8 +46,10 @@ social:
     link: https://www.linkedin.com/in/cristian-candia-castro-ph-d-04040251/   
 
 organizations:
-  - name: Researcher at the Data Science Institute, Universidad del Desarrollo, Chile.
+  - name: Researcher at the Data Science Institute, School of Engineering, Universidad del Desarrollo, Chile.
     url: "https://www.udd.cl/persona/cristian-candia/#!/page=1"
+  - name: Researcher at the Center for Social Compleixty Science, School of Government, Universidad del Desarrollo, Chile.
+    url: "https://complejidadsocial.udd.cl/"
   - name: External Faculty at the Northwestern Institute on Complex Systems, Kellogg School of Management,
       Northwestern University, USA.
     url: "https://www.nico.northwestern.edu/people/external-faculty.html"
@@ -109,6 +111,10 @@ With a passion for using data to drive solutions, Cristian leads a FONDECYT proj
 </div>
 
 # Calendar
+
+<div>
+<iframe margin= "center" width="100%" height="300vh" src="https://calendar.google.com/calendar/embed?height=800&wkst=2&bgcolor=%23ffffff&ctz=America%2FSantiago&src=Y3JjYW5kaWF2QGdtYWlsLmNvbQ&color=%237986CB&mode=WEEK&showTabs=1&showCalendars=1" title="Public Calendar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 <div class="container">
   <iframe class="responsive-iframe" src="https://calendar.google.com/calendar/embed?height=800&wkst=2&bgcolor=%23ffffff&ctz=America%2FSantiago&src=Y3JjYW5kaWF2QGdtYWlsLmNvbQ&color=%237986CB&mode=WEEK&showTabs=1&showCalendars=1"></iframe>
