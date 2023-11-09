@@ -91,9 +91,3 @@ With a passion for using data to drive solutions, Cristian leads a FONDECYT proj
 <div>
 <iframe margin= "center" width="100%" height="300vh" src="https://calendar.google.com/calendar/embed?height=800&wkst=2&bgcolor=%23ffffff&ctz=America%2FSantiago&src=Y3JjYW5kaWF2QGdtYWlsLmNvbQ&color=%237986CB&mode=WEEK&showTabs=1&showCalendars=1" title="Public Calendar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
-<div class="container">
-  <iframe class="responsive-iframe" src="https://calendar.google.com/calendar/embed?height=800&wkst=2&bgcolor=%23ffffff&ctz=America%2FSantiago&src=Y3JjYW5kaWF2QGdtYWlsLmNvbQ&color=%237986CB&mode=WEEK&showTabs=1&showCalendars=1"></iframe>
-</div>
-
-</div>
