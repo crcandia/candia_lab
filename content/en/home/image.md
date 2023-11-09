@@ -22,7 +22,7 @@ design:
     position: right
     # color: '#666'
     image: welcome.jpg
-    image_darken: 0.5
+    image_darken: 0.4
     image_parallax: true
     image_position: center
     image_size: cover
