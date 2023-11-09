@@ -25,7 +25,8 @@ html {
 </head>
 <section>
     <div class="row">
-        <img class="img-responsive center-block" src="../../../assets/media/logo.png"/>
+        <img src="../../../assets/media/logo.png" class="img-responsive center-block" alt="CRiSS-LAB">
+
     </div>
 </section>
 
