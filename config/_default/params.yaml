@@ -17,11 +17,11 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: 'Research Lab'
-    org_name: 'Computational Research in Social Science Lab'
-    description: 'CRiSS-LAB'
-    twitter: ''
+    org_name: 'CRiSS-LAB'
+    description: 'Computational Research in Social Science Laboratory'
+    twitter: 'crcandiav'
   analytics:
-    google_analytics: ''
+    google_analytics: 'google-site-verification=WpH67fESejiOyHmKdOhfmjt5HWsfh-R57x-c02FL43I'
     baidu_tongji: ''
   verification:
     google: ''
