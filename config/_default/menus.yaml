@@ -22,9 +22,10 @@ main:
   - name: Talks & Events
     url: event
     weight: 60
-  - name: Contact
-    url: contact
-    weight: 70
   - name: About
     url: about
+    weight: 70
+  - name: Contact
+    url: contact
     weight: 80
+
