@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night: earth
+  theme_night: minimal
   font: native
   font_size: M
 
