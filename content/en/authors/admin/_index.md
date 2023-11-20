@@ -72,6 +72,19 @@ user_groups:
   - Director
 highlight_name: true
 ---
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C6FTC43ZEB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C6FTC43ZEB');
+</script>
+</head>
+
+
 <div style="text-align: justify">
 
 Dr. Cristian Candia leads the <a href="https://ingenieria.udd.cl/postgrado/magister-en-data-science/" target="_blank">Master's Program in Data Science</a> at Universidad del Desarrollo, Chile. His research is anchored in the Data Science Institute within the School of Engineering, and in the Center for Social Complexity in the School of Government. As the innovator behind <a href="https://lixandria.cl/" target="_blank">Lixandria</a>, a complex network-based tool for recommending degree programs, and <a href="https://discolab.cl" target="_blank">discolab</a>, a platform dedicated to exploring constitutional texts with AI, Dr. Candia stands at the forefront of technological advancements in computational social science. His academic influence extends to his position as an external faculty member at the <a href=" https://www.nico.northwestern.edu/people/external-faculty.html" target="_blank">Northwestern Institute on Complex Systems, Northwestern University</a>.
