@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Diego Ramirez
 title: Diego Ramirez
-role: Ph.D. student
+role: Ph.D. Candidate
 # bio: My research interests include ...
 interests:
   - 
