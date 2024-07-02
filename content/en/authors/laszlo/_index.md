@@ -8,7 +8,7 @@ authors:
 title: Lászlo Barabási
 role: Robert Gray Dodge Professor of Network Science at Northeastern University
 # bio: My research interests include ...
-draft: False
+draft: True
 interests:
   - Network science
   - Statistical physics
