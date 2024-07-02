@@ -33,7 +33,7 @@ image:
   preview_only: false
 
 url_code: ''
-url_pdf: 'https://www.nature.com/articles/s41467-024-49228-7#additional-information'
+url_pdf: 'https://www.nature.com/articles/s41467-024-49228-7'
 url_slides: ''
 url_video: ''
 
