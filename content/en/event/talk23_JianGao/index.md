@@ -30,7 +30,7 @@ featured: true
 image:
   caption: #'Image credit: [**CRISS-LAB**]()'
   focal_point: Right
-  preview_only: false
+  preview_only: true
 
 url_code: 'https://figshare.com/articles/dataset/Significant_and_heterogeneous_peer_effects_of_college_roommates_on_academic_performance/25286017'
 url_pdf: 'https://www.nature.com/articles/s41467-024-49228-7'
