@@ -1,14 +1,18 @@
 ---
-title: 'Enhanced social connectivity in hybrid classrooms versus academic centrality in online settings'
+title: 'Linking physical violence to women’s mobility in Chile'
 authors:
-  - Pulgar
-  - diego
+  - Hugo Contreras
   - admin
+  - Rodrigo Troncoso
+  - Leo Ferres
+  - Loreto Bravo
+  - Bruno Lepri
+  - carlosr
 author_notes:
   - ''
   - ''
-date: '2023-12-01T00:00:00Z'
-doi: 'https://doi.org/10.1103/PhysRevPhysEducRes.19.020155'
+date: '2023-11-21T00:00:00Z'
+doi: 'https://doi.org/10.1140/epjds/s13688-023-00430-5'
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
 
@@ -19,25 +23,25 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Phys. Rev. Phys. Educ. Res. 19, 020155*'
+publication: '*EPJ Data Science 12, 54*'
 publication_short: ''
  
-abstract: Social learning, the ability to perceive, interpret, and assess the behavior of one’s peers, is crucial for forming meaningful relationships and succeeding in various learning environments. Yet, the rise of online and hybrid settings poses new challenges to socialization. Here, we study the social interactions among 191 high school physics students in Chile, comparing online and hybrid classrooms that were assigned in the COVID-19 pandemic context. We found that students in hybrid settings were more connected and more likely to form casual relationships outside their immediate friend groups, which allowed them to gather new information from diverse sources. Along the same lines, in online classrooms, students who excelled in physics occupied more central positions in social networks. This trend was not evident in hybrid settings, suggesting that when social cues are limited, academic performance gains greater importance in establishing social hierarchies and potentially limiting access to diverse information. Our study highlights the importance of social interactions in educational contexts and raises questions about the impact of relational inaccessibility on virtual learning.
+abstract: Despite increased global attention on violence against women, understanding the factors that lead to women becoming victims remains a critical challenge. Notably, the impact of domestic violence on women’s mobility—a critical determinant of their social and economic independence—has remained largely unexplored. This study bridges this gap, employing police records to quantify physical and psychological domestic violence, while leveraging mobile phone data to proxy women’s mobility. Our analyses reveal a negative correlation between physical violence and female mobility, an association that withstands robustness checks, including controls for economic independence variables like education, employment, and occupational segregation, bootstrapping of the data set, and applying a generalized propensity score matching identification strategy. The study emphasizes the potential causal role of physical violence on decreased female mobility, asserting the value of interdisciplinary research in exploring such multifaceted social phenomena to open avenues for preventive measures. The implications of this research extend into the realm of public policy and intervention development, offering new strategies to combat and ultimately eradicate domestic violence against women, thereby contributing to wider efforts toward gender equity.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Network Science
-  - Cooperation
-  - Learning Analytics
+  - Violence
+  - Mobility
   - Econometrics
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.aps.org/prper/pdf/10.1103/PhysRevPhysEducRes.19.020155
+url_pdf: https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00430-5
 url_code: ''
 url_dataset: ''
 url_poster: ''

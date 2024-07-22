@@ -1,14 +1,16 @@
 ---
-title: 'Enhanced social connectivity in hybrid classrooms versus academic centrality in online settings'
+title: 'The lexical divide: propositive modes and non-agentic attitudes define the progressive left in Chile'
 authors:
-  - Pulgar
-  - diego
+  - mapazr
+  - Juan Pablo Couyoumdjian
+  - Claudio Fuentes-Bravo
+  - carlosr
   - admin
 author_notes:
   - ''
   - ''
-date: '2023-12-01T00:00:00Z'
-doi: 'https://doi.org/10.1103/PhysRevPhysEducRes.19.020155'
+date: '2024-07-12T00:00:00Z'
+doi: 'https://doi.org/10.1057/s41599-024-03379-6'
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
 
@@ -19,25 +21,25 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Phys. Rev. Phys. Educ. Res. 19, 020155*'
+publication: '*Humanit Soc Sci Commun 11, 908*'
 publication_short: ''
  
-abstract: Social learning, the ability to perceive, interpret, and assess the behavior of one’s peers, is crucial for forming meaningful relationships and succeeding in various learning environments. Yet, the rise of online and hybrid settings poses new challenges to socialization. Here, we study the social interactions among 191 high school physics students in Chile, comparing online and hybrid classrooms that were assigned in the COVID-19 pandemic context. We found that students in hybrid settings were more connected and more likely to form casual relationships outside their immediate friend groups, which allowed them to gather new information from diverse sources. Along the same lines, in online classrooms, students who excelled in physics occupied more central positions in social networks. This trend was not evident in hybrid settings, suggesting that when social cues are limited, academic performance gains greater importance in establishing social hierarchies and potentially limiting access to diverse information. Our study highlights the importance of social interactions in educational contexts and raises questions about the impact of relational inaccessibility on virtual learning.
+abstract: Internal factors-such as psychological traits or individual attitudes-relate to and explain political cleavages. Yet, little is known about how locus of control, agency, and modal attitudes impact political ideology. Utilizing textual analysis within the context of the Chilean 2015 constituent process, we go beyond traditional survey methods to explore community clusters in “Values” and “Rights” networks built upon the deliberation of 106,000 people. Our findings reveal distinct attitudinal patterns across political orientations the progressive left generally exhibits a more propositive and non-agentic attitude, the traditional left adopts an evaluative stance towards values, and the right-wing community leans towards a factual attitude but shifts to an evaluative stance when discussing rights. These results underscore the role of psychological constructs in shaping political ideologies and introduce textual analysis as a robust tool for psychological and political inquiry. The study offers a comprehensive understanding of the complexities of political behavior and provides a new lens through which to examine the psychology of political ideology.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Network Science
-  - Cooperation
-  - Learning Analytics
-  - Econometrics
+  - Political Participation
+  - Text Analytics
+  - Citizen Participation
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.aps.org/prper/pdf/10.1103/PhysRevPhysEducRes.19.020155
+url_pdf: https://www.nature.com/articles/s41599-024-03379-6
 url_code: ''
 url_dataset: ''
 url_poster: ''
