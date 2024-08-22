@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Camila Utreras
 title: Camila Utreras
-role: Ph.D. student
+role: Master's student
 # bio: My research interests include ...
 interests:
   - 
@@ -36,6 +36,6 @@ social:
 #       # year: 2008
 email: ""
 user_groups:
-  - Ph.D. Students
+  - Alumni
   - Researchers
 ---
