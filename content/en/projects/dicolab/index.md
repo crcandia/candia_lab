@@ -5,7 +5,7 @@ title: 'Discolab: Collaborative Discussions'
 
 authors:
   - admin
-  - Loreto Bravo
+  - lbravo
   - carlosr
   - Nicolás Hormazábal
   - Roberto Correa

@@ -8,6 +8,8 @@ authors:
 title: Loreto Bravo
 role: Directora Instituto de Data Science, Facultad de Ingeniería, Universidad del Desarrollo.
 # bio: My research interests include ...
+draft: false
+
 interests:
   - Data Science
   - Data Cleaning
