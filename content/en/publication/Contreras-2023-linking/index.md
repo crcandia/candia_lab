@@ -5,7 +5,7 @@ authors:
   - admin
   - Rodrigo Troncoso
   - Leo Ferres
-  - Loreto Bravo
+  - lbravo
   - Bruno Lepri
   - carlosr
 author_notes:

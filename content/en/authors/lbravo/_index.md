@@ -1,12 +1,12 @@
 ---
-organizations:
-  - name: Universidad del Desarrollo
-    url: ""
+# organizations:
+#   - name: Universidad del Desarrollo
+#     url: ""
 superuser: false
 authors:
   - Loreto Bravo
 title: Loreto Bravo
-role: IDS, Facultad de Ingeniería, Universidad del Desarrollo.
+role: Directora Instituto de Data Science, Facultad de Ingeniería, Universidad del Desarrollo.
 # bio: My research interests include ...
 interests:
   - Data Science
