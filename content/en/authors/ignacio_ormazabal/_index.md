@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Ignacio Ormazábal
 title: Ignacio Ormazábal
-role: Postdoctoral Fellow
+role: Postdoctoral Fellow (ANID)
 # bio: My research interests include ...
 interests:
   - Computational Social Science
