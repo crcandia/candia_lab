@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Adolfo Fuentes
 title: Adolfo Fuentes
-role: Ph.D. student
+role: Ph.D. Candidate
 # bio: My research interests include ...
 interests:
   - Computational Social Science
