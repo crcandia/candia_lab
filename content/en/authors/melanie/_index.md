@@ -40,7 +40,7 @@ social:
 #       # year: 2008
 email: ""
 user_groups:
-  - Postdoctoral Fellow
+  - Postdoctoral Fellows
   - Alumni
   - Researchers
 ---
