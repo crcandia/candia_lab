@@ -37,5 +37,5 @@ social:
 email: ""
 user_groups:
   # - Undergraduate Students
-  - Research Assistant
+  - Research Assistants
 ---
