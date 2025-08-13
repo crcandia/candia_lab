@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Universidad del Desarrollo
+  - name: Corvinus University of Budapest
     url: ""
 superuser: false
 authors:
@@ -40,5 +40,6 @@ social:
 #       # year: 2008
 email: ""
 user_groups:
-  - Postdoctoral Fellows
+  # - Postdoctoral Fellows
+  - Collaborators
 ---
