@@ -14,7 +14,6 @@ subtitle: ""
 ---
 ## Master’s Students
 
-<!-- 36. Victoria Patiño Espinoza — Master’s in Data Science   -->
 35. Matías José Mercandino Sepúlveda — Master’s in Data Science  
 34. Ricardo Chacón Acosta — Master’s in Data Science  
 33. Ariel González — Master’s in Data Science  
