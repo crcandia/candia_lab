@@ -7,6 +7,7 @@ authors:
   - Carlos Navarrete
 title: Carlos Navarrete
 role:  School of Engineering, Universidad de Concepción
+draft: true
 # bio: My research interests include ...
 interests:
   - Computational Political Science
@@ -47,5 +48,5 @@ user_groups:
   - Researchers
 ---
 <p align="justify">  
-Carlos Navarrete is a Ph.D. candidate in Computer Science at the University of Toulouse. His research is focused on understanding how computational methods contribute to identify divisiveness and polarization in society, positionating his focus in the intersection of political and computer science. 
+Carlos Navarrete is an Assistant Professor at Universidad de Concepción. His research is focused on understanding how computational methods contribute to identify divisiveness and polarization in society, positionating his focus in the intersection of political and computer science. 
 </p>
