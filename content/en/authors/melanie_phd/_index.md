@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Melanie Oyarzún
 title: Melanie Oyarzún
-role: Postdoctoral Fellow (Affiliate)
+role: Ph.D. Student
 # bio: My research interests include ...
 interests:
   - Labor economics
@@ -40,7 +40,6 @@ social:
 #       # year: 2008
 email: ""
 user_groups:
-  - Postdoctoral Fellows
   - Alumni
   - Researchers
 ---
