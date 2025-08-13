@@ -25,6 +25,7 @@ content:
     - Director
     - Postdoctoral Fellows
     - Ph.D. Students
+    - Research Assistants
     - Master's Students
     - Undergraduate Students
     - Administration
