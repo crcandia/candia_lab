@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Melanie Oyarzún
 title: Melanie Oyarzún
-role: Postdoctoral Fellow
+role: Postdoctoral Fellow, Corvinus University of Budapest
 # bio: My research interests include ...
 interests:
   - Labor economics
