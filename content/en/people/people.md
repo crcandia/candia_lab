@@ -32,7 +32,7 @@ content:
     - Visitors
     - Collaborators
     - Alumni
-    - alumni:
+  alumni:
       - Ana Pérez
       - Luis García
       - Sofía Herrera
