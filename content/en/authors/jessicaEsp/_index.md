@@ -11,7 +11,7 @@ role: Research Assistant
 interests:
   - Collective Memory
   - Mathematical Modeling
-  - Numeric Simulations
+  - Numerical Simulations
 social:
   - icon: envelope
     icon_pack: fas
