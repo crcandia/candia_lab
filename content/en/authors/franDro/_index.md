@@ -4,14 +4,14 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - Jessica Espinoza
-title: Jessica Espinoza
+  - Francisca Droguett
+title: Francisca Droguett
 role: Research Assistant
 # bio: My research interests include ...
 interests:
   - Collective Memory
-  - Mathematical Modeling
-  - Numeric Simulations
+  - Experimental Psychology
+  
 social:
   - icon: envelope
     icon_pack: fas

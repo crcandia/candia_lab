@@ -1,17 +1,17 @@
 ---
 organizations:
-  - name: Universidad de Chile
+  - name: Universidad del Desarrollo
     url: ""
 superuser: false
 authors:
-  - Jessica Espinoza
-title: Jessica Espinoza
+  - Paula Salazar
+title: Paula Salazar
 role: Research Assistant
 # bio: My research interests include ...
 interests:
-  - Collective Memory
-  - Mathematical Modeling
-  - Numeric Simulations
+  - Gender Bias
+  - Machine Learning
+  
 social:
   - icon: envelope
     icon_pack: fas
@@ -38,6 +38,6 @@ social:
 #       # year: 2008
 email: ""
 user_groups:
-  # - Undergraduate Students
+  - Undergraduate Students
   - Research Assistants
 ---
