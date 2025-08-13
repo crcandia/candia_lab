@@ -5,7 +5,7 @@ superuser: false
 authors:
   - Cristián Jara-Figueroa
 title: Cristián Jara-Figueroa
-role: Senior Data Scientist at LinkedIn's Economic Graph
+role: Head of CashApp Advanced Insights and Modeling
 # bio: My research interests include ...
 interests:
   - Economic geography
