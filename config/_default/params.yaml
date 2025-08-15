@@ -20,6 +20,23 @@ marketing:
     org_name: 'CRiSS-LAB'
     description: 'Computational Research in Social Science Laboratory'
     twitter: 'crcandiav'
+    keywords:
+      - computational social science
+      - research lab
+      - laboratorio de investigación
+      - artificial intelligence
+      - ciencias socales computacionales
+      - inteligencia artificial
+      - memoria colectiva
+      - collective memory
+      - economic complexity
+      - complejidad económica
+      - social networks
+      - redes sociales
+      - moralization
+      - moralización
+      - political polarization
+      - polarización política
   analytics:
     google_analytics: 'https://www.googletagmanager.com/gtag/js?id=G-SFQPESQQ34'
     baidu_tongji: ''
