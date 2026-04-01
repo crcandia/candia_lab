@@ -109,7 +109,7 @@ As an entrepreneur, Cristian has led and contributed to the development of AI- a
 
 He teaches graduate and undergraduate courses in areas such as **network science, complex systems, computational social science, causal inference, statistics for data science, unsupervised machine learning, and technological entrepreneurship**, connecting theory with applied, data-driven problem solving.
 
-Outside academia, Cristian enjoys sailing, basketball, fitness training, fishing, music, and creative technology projects. He is also an amateur vocalist and DJ, and tends to approach side interests with the same curiosity, intensity, and playful experimentation that shape his research. He has also been involved in volunteer work with **TECHO Chile** and the **Chilean Red Cross**, where he was awarded an **Exceptional Services Medal**.
+Outside academia, Cristian enjoys sailing, basketball, fitness training, fishing, music, and creative technology projects. He is also an amateur vocalist and DJ, and has explored improvisation, acting, and stand-up comedy—experiences that complement his broader interest in communication, audience engagement, and the craft of making complex ideas resonate. He has also been involved in volunteer work with **TECHO Chile** and the **Chilean Red Cross**, where he was awarded an **Exceptional Services Medal**.
 </div>
 
 <div id="bio-esp" style="display:none;">
@@ -128,7 +128,7 @@ Como emprendedor, Cristian ha liderado y contribuido al desarrollo de plataforma
 
 Además, enseña cursos de pregrado y postgrado en áreas como **ciencia de redes, sistemas complejos, ciencias sociales computacionales, inferencia causal, estadística para data science, aprendizaje no supervisado y emprendimiento tecnológico**, conectando teoría rigurosa con resolución aplicada de problemas basada en datos.
 
-Fuera de la academia, Cristian disfruta de la vela, el básquetbol, el entrenamiento físico, la pesca, la música y los proyectos creativos ligados a la tecnología. También es cantante aficionado y DJ, y suele acercarse a sus intereses personales con la misma curiosidad, intensidad y espíritu de exploración que marcan su investigación. Además, ha participado en trabajo voluntario con **TECHO Chile** y la **Cruz Roja Chilena**, donde fue distinguido con una **medalla por servicios excepcionales**.
+Fuera de la academia, Cristian disfruta de la navegación a vela, el básquetbol, el entrenamiento físico, la pesca, la música y los proyectos creativos con tecnología. También es vocalista amateur y DJ, y ha explorado la improvisación, la actuación y el stand-up comedy, experiencias que complementan su interés más amplio por la comunicación, la conexión con audiencias y el arte de hacer que las ideas complejas resuenen. Además, ha participado en trabajo voluntario con **TECHO Chile** y la **Cruz Roja Chilena**, donde recibió una **Medalla por Servicios Destacados**.
 </div>
 
 
