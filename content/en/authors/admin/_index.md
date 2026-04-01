@@ -143,8 +143,6 @@ Fuera de la academia, Cristian disfruta de la navegación a vela, el básquetbol
 
 # Calendar
 
-# Calendar
-
 <p style="margin: 0 0 1rem 0; text-align: center;">
   To schedule a meeting, 
   <a href="https://calendar.app.google/UV7wBj2krKC9BMGA8" target="_blank" rel="noopener noreferrer">
