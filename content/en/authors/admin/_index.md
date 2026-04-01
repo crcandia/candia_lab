@@ -143,6 +143,27 @@ Fuera de la academia, Cristian disfruta de la navegación a vela, el básquetbol
 
 # Calendar
 
+# Calendar
+
+<p style="margin: 0 0 1rem 0; text-align: center;">
+  To schedule a meeting, 
+  <a href="https://calendar.app.google/UV7wBj2krKC9BMGA8" target="_blank" rel="noopener noreferrer">
+    click here
+  </a>.
+</p>
+
 <div>
-<iframe margin= "center" width="100%" height="650vh" src="https://calendar.google.com/calendar/embed?height=800&wkst=2&bgcolor=%23ffffff&ctz=America%2FSantiago&src=Y3JjYW5kaWF2QGdtYWlsLmNvbQ&color=%237986CB&mode=WEEK&showTabs=1&showCalendars=1" title="Public Calendar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe
+    width="100%"
+    height="700"
+    src="https://calendar.google.com/calendar/embed?height=800&wkst=2&bgcolor=%23ffffff&ctz=America%2FSantiago&src=Y3JjYW5kaWF2QGdtYWlsLmNvbQ&color=%237986CB&mode=WEEK&showTabs=1&showCalendars=1"
+    title="Public Calendar"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
 </div>
+
+
+<!-- <div>
+<iframe margin= "center" width="100%" height="650vh" src="https://calendar.google.com/calendar/embed?height=800&wkst=2&bgcolor=%23ffffff&ctz=America%2FSantiago&src=Y3JjYW5kaWF2QGdtYWlsLmNvbQ&color=%237986CB&mode=WEEK&showTabs=1&showCalendars=1" title="Public Calendar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div> -->
