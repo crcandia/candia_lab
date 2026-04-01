@@ -108,6 +108,8 @@ His academic trajectory includes research and training at the <a href="https://w
 As an entrepreneur, Cristian has led and contributed to the development of AI- and data-based platforms such as <a href="https://lixandria.cl/about" target="_blank">Lixandria</a>, <a href="https://discolab.cl/#/about" target="_blank">Discolab</a>, <a href="https://priorizachile.cl/" target="_blank">PriorizaChile</a>, and especially <a href="https://capybara.cl/" target="_blank">Capybara</a>, a startup focused on using network science, experimental game theory, and AI to support school coexistence and the early detection of social dynamics in educational settings.
 
 He teaches graduate and undergraduate courses in areas such as **network science, complex systems, computational social science, causal inference, statistics for data science, unsupervised machine learning, and technological entrepreneurship**, connecting theory with applied, data-driven problem solving.
+
+Outside academia, Cristian enjoys sailing, basketball, fitness training, fishing, music, and creative technology projects. He is also an amateur vocalist and DJ, and often approaches side interests with the same curiosity that defines his research.
 </div>
 
 <div id="bio-esp" style="display:none;">
@@ -125,6 +127,8 @@ Su trayectoria académica incluye investigación y formación en el <a href="htt
 Como emprendedor, Cristian ha liderado y contribuido al desarrollo de plataformas basadas en datos e inteligencia artificial como <a href="https://lixandria.cl/about" target="_blank">Lixandria</a>, <a href="https://discolab.cl/#/about" target="_blank">Discolab</a>, <a href="https://priorizachile.cl/" target="_blank">PriorizaChile</a> y, de manera destacada, <a href="https://capybara.cl/" target="_blank">Capybara</a>, una startup orientada a utilizar ciencia de redes, teoría de juegos experimental e inteligencia artificial para apoyar la convivencia escolar y la detección temprana de dinámicas sociales en contextos educativos.
 
 Además, enseña cursos de pregrado y postgrado en áreas como **ciencia de redes, sistemas complejos, ciencias sociales computacionales, inferencia causal, estadística para data science, aprendizaje no supervisado y emprendimiento tecnológico**, conectando teoría rigurosa con resolución aplicada de problemas basada en datos.
+
+Fuera de la academia, Cristian disfruta de la navegación a vela, el básquetbol, el entrenamiento físico, la música y los proyectos creativos ligados a la tecnología. También canta y hace DJ abmos de forma amateur, y suele acercarse a sus intereses personales con la misma curiosidad que caracteriza su investigación.
 </div>
 
 
