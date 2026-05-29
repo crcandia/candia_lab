@@ -1,6 +1,7 @@
 ---
 # Page title
-title: My page
+title: Legacy About Draft
+draft: true
 # Page type - we want a landing page (such as a homepage)
 type: landing
 

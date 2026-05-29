@@ -1,6 +1,6 @@
 ---
 # Page title
-title: #CRISS-LAB at UDD-Chile  
+title: CRiSS-LAB at UDD-Chile
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
@@ -35,13 +35,13 @@ html {
 </section>
 
 
-<p style="text-align: center;"> The Computational Research in Social Science Laboratory (CRiSS-LAB), founded in 2021, is a dynamic and interdisciplinary group of people that is committed to advancing applied research on human behavior. We focus on several key areas, including collective intelligence, collective memory, social media analysis, business and learning analytics, cooperative dynamics, and experimental game theory. At CRiSS-LAB, we specialize in extracting valuable insights from observational data using advanced techniques such as causal inference, network science, and artificial intelligence to better understand individual and collective behavior across industry, academia, and government. Our overarching mission is to make a meaningful contribution to the advancement of both individuals and society as a whole by generating valuable information and practical solutions that can help to improve people's daily lives. We firmly believe that applying scientific discoveries to real-life situations can have a transformative impact. We are dedicated to ensure that our research has practical applications and tangible benefits for all.</p>
+<p style="text-align: center;"> The Computational Research in Social Science Laboratory (CRiSS-LAB), founded in 2021, is a dynamic and interdisciplinary group committed to advancing applied research on human behavior. We focus on several key areas, including collective intelligence, collective memory, social media analysis, business and learning analytics, cooperative dynamics, and experimental game theory. At CRiSS-LAB, we specialize in extracting valuable insights from observational data using advanced techniques such as causal inference, network science, and artificial intelligence to better understand individual and collective behavior across industry, academia, and government. Our overarching mission is to make a meaningful contribution to the advancement of both individuals and society as a whole by generating valuable information and practical solutions that can help improve people's daily lives. We firmly believe that applying scientific discoveries to real-life situations can have a transformative impact. We are dedicated to ensuring that our research has practical applications and tangible benefits for all.</p>
 
 <p style="text-align: center;"> A diverse group of enthusiastic graduate students, researchers, data scientists, and professors from different fields, such as physics, mathematics, sociology, economics, education, psychology, and engineering interact and collaborate at CRiSS-LAB.</p>
 
-<p style="text-align: center;"> Our operations are centered at the Data Science Institute of the Engineering School and the Center for Social Complexity at the Government School of the University of Desarrollo, located in Las Condes, Chile. </p>
+<p style="text-align: center;"> Our operations are centered at the Data Science Institute of the School of Engineering and the Center for Social Complexity at the School of Government of Universidad del Desarrollo, located in Las Condes, Chile. </p>
 
-<p style="text-align: right;"> <em>Cristian Candia, Ph.D. </em> <br> <em> Head at The Computational Research in Social Science (CRiSS) Lab.</em></p>
+<p style="text-align: right;"> <em>Cristian Candia, Ph.D. </em> <br> <em>Head of the Computational Research in Social Science (CRiSS) Lab.</em></p>
 
 <!-- ---
 # A Demo section created with the Blank widget.

@@ -2,9 +2,9 @@
 authors:
   - Cristian Candia
 title: Cristian Candia
-role: Head at CRiSS-LAB, School of Engineering and School of Government, Universidad del Desarrollo, Chile. #and Director of the Master's in Data Science at Universidad del Desarrollo, Chile.
+role: Head of CRiSS-LAB, School of Engineering and School of Government, Universidad del Desarrollo, Chile. #and Director of the Master's in Data Science at Universidad del Desarrollo, Chile.
 avatar_filename: avatar.jpeg
-bio: My research interests include collective behavior, collective and artificial, network science, and business analytics.
+bio: My research interests include collective behavior, collective and artificial intelligence, network science, and business analytics.
 interests:
   - Computational Social Science
   - Business Analytics
@@ -47,7 +47,7 @@ social:
 organizations:
   - name: Researcher at the Data Science Institute, School of Engineering, Universidad del Desarrollo, Chile.
     url: "https://www.udd.cl/persona/cristian-candia/#!/page=1"
-  - name: Researcher at the Center for Social Compleixty Science, School of Government, Universidad del Desarrollo, Chile.
+  - name: Researcher at the Center for Social Complexity Science, School of Government, Universidad del Desarrollo, Chile.
     url: "https://complejidadsocial.udd.cl/"
   # - name: Former Director of the Data Science Master's Degree, School of Engineering, Universidad del Desarrollo, Chile.
   #   url: "https://ingenieria.udd.cl/postgrado/magister-en-data-science/"
@@ -72,20 +72,6 @@ user_groups:
   - Director
 highlight_name: true
 ---
-<head>
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-C6FTC43ZEB"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-C6FTC43ZEB');
-</script>
-
-</head>
-
-
 <div style="text-align: justify">
 
 <div style="margin-bottom:1rem;">
@@ -103,7 +89,7 @@ Cristian is a computational social scientist and entrepreneur whose work lies at
 
 He currently leads an **ANID-FONDECYT Regular** project on **collective memory**, titled **“Collective Memory Decay in Science: Patterns and Determinants of Forgetting Retracted Research”**. Previously, he led an **ANID-FONDECYT Iniciación** project on **collective memory and attention in the domains of the arts and sciences**. His work has also been supported through applied innovation and research initiatives including **FONDEF** and collaborations with public and private institutions.
 
-His academic trajectory includes research and training at the <a href="https://www.media.mit.edu/people/ccandiav/overview/" target="_blank">MIT Media Lab</a>, the <a href="https://www.barabasilab.com/" target="_blank">Center for Complex Network Research at Northeastern University and Harvard Medical School</a>, and <a href="https://www.nico.northwestern.edu/" target="_blank">Northwestern Institute on Complex Systems at Nortwestern University</a>. He received his Ph.D. in Social Complexity Science from Universidad del Desarrollo, while conducting his doctoral research and thesis work at the MIT Media Lab and the Center for Complex Network Research at Northeastern University and Harvard Medical School. He also holds a **B.Sc. in Physics, M.Sc. in Physics, and a professional degree in Engineering Physics** from <a href="https://fisica.udec.cl/es/" target="_blank">Universidad de Concepción</a>, Chile. 
+His academic trajectory includes research and training at the <a href="https://www.media.mit.edu/people/ccandiav/overview/" target="_blank">MIT Media Lab</a>, the <a href="https://www.barabasilab.com/" target="_blank">Center for Complex Network Research at Northeastern University and Harvard Medical School</a>, and <a href="https://www.nico.northwestern.edu/" target="_blank">Northwestern Institute on Complex Systems at Northwestern University</a>. He received his Ph.D. in Social Complexity Science from Universidad del Desarrollo, while conducting his doctoral research and thesis work at the MIT Media Lab and the Center for Complex Network Research at Northeastern University and Harvard Medical School. He also holds a **B.Sc. in Physics, M.Sc. in Physics, and a professional degree in Engineering Physics** from <a href="https://fisica.udec.cl/es/" target="_blank">Universidad de Concepción</a>, Chile. 
 
 His work has received international recognition, including a **Nature Editorial Recommendation**, the distinction of **Editor’s Suggestion** in *Physical Review Physics Education Research*, the **Best Lightning Talk Award** at the *Conference on Complex Systems (CCS) 2025*, as well as invitations such as **keynote speaker** at the *Computational Social Science Satellite* of CCS 2025 and **Invited Faculty** at the *Complexity Global School for Emerging Political Economies*, organized by the **Santa Fe Institute**, among others.
 

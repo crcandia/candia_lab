@@ -7,7 +7,7 @@ authors:
 author_notes:
   - ''
   - ''
-date: '2022-2-01T00:00:00Z'
+date: '2022-02-01T00:00:00Z'
 doi: 'https://doi.org/10.1007/s11150-022-09599-6'
 
 # Schedule page publish date (NOT publication's date).

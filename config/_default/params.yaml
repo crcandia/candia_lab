@@ -25,7 +25,7 @@ marketing:
       - research lab
       - laboratorio de investigación
       - artificial intelligence
-      - ciencias socales computacionales
+      - ciencias sociales computacionales
       - inteligencia artificial
       - memoria colectiva
       - collective memory
@@ -38,7 +38,7 @@ marketing:
       - political polarization
       - polarización política
   analytics:
-    google_analytics: 'https://www.googletagmanager.com/gtag/js?id=G-SFQPESQQ34'
+    google_analytics: 'G-SFQPESQQ34'
     baidu_tongji: ''
   verification:
     google: 'google-site-verification=WpH67fESejiOyHmKdOhfmjt5HWsfh-R57x-c02FL43I'

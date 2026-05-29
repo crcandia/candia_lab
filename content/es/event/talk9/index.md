@@ -1,5 +1,5 @@
 ---
-title: "Plataforma para la toma de desiciones en educación superior"
+title: "Plataforma para la toma de decisiones en educación superior"
 venue: "Impacto UDD 2021"
 date: '2021-11-15'
 event: "Impacto UDD 2021"

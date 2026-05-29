@@ -1,5 +1,5 @@
 ---
-title: "Plataforma para la toma de desiciones en educación superior"
+title: "Plataforma para la toma de decisiones en educación superior"
 venue: "Ciclo de Charlas 2021 Centro de Políticas Públicas, Universidad del Desarrollo"
 date: '2021-06-07'
 event: "Ciclo de Charlas 2021 Centro de Políticas Públicas, Universidad del Desarrollo"
