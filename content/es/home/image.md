@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Computational Research in Social Sciences Lab at UDD-Chile
-# subtitle: Advancing Collective, Artificial, and Augmented Intelligence through research in Human and Social Behavior
+title: Laboratorio de Ciencias Sociales Computacionales
+subtitle: Ciencia de redes, IA y datos conductuales para investigación con impacto público
 
 
 design:
@@ -43,5 +43,5 @@ html {
 
 <br>
 <div style="margin: auto; width:70vw">
-<p style="text-align: center"> Advancing and using Computational Social Science to tackle real-world problems related to individual and collective behavior using observational data and quasi-experiments.</p>
+<p style="text-align: center"> CRiSS-LAB estudia inteligencia colectiva, memoria colectiva, aprendizaje, cooperación, movilidad, polarización y decisiones institucionales usando ciencia de redes, inferencia causal, teoría de juegos experimental, machine learning y datos conductuales a gran escala.</p>
 </div>

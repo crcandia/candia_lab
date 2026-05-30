@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publicaciones
 
 # Listing view
 view: compact #showcase #citation

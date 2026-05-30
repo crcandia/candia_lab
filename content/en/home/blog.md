@@ -6,7 +6,7 @@ title: From the Blog
 subtitle:
 content:
   page_type: blog
-  count: 3
+  count: 6
   order: desc
   archive:
     enable: true

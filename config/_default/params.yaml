@@ -18,7 +18,7 @@ marketing:
     site_type: Organization
     local_business_type: 'Research Lab'
     org_name: 'CRiSS-LAB'
-    description: 'CRiSS-LAB is a computational social science laboratory at Universidad del Desarrollo led by Cristian Candia. We study collective intelligence, collective memory, education, networks, AI, and social behavior.'
+    description: 'CRiSS-LAB is a computational social science laboratory at Universidad del Desarrollo in Santiago, Chile, led by Cristian Candia. We study collective intelligence, collective memory, education, network science, AI, mobility, cooperation, polarization, cultural analytics, and social behavior.'
     twitter: 'crcandiav'
     keywords:
       - computational social science
@@ -44,6 +44,29 @@ marketing:
       - network science
       - experimental game theory
       - computational social science Chile
+      - ciencias sociales computacionales Chile
+      - laboratorio ciencia de datos Chile
+      - ciencia de redes Chile
+      - inteligencia artificial Chile
+      - Universidad del Desarrollo Chile
+      - Cristian Candia Chile
+      - Data Science Institute UDD
+      - Instituto de Data Science UDD
+      - FONDECYT Regular
+      - science of science
+      - bibliometrics
+      - graph embeddings
+      - unsupervised machine learning
+      - machine learning no supervisado
+      - music analytics
+      - musica chilena
+      - analitica cultural
+      - Meisner
+      - social signals
+      - urban mobility
+      - movilidad urbana
+      - autism education
+      - autismo educación
       - complex systems
       - bullying prevention
       - convivencia escolar
@@ -61,7 +84,7 @@ header:
     enable: true
     align: r
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: false
     show_search: true
     highlight_active_link: false

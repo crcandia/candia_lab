@@ -6,7 +6,7 @@ title: Teaching
 subtitle:
 content:
   page_type: teaching
-  count: 3
+  count: 4
   order: desc
   archive:
     enable: true

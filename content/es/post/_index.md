@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Noticias y prensa
 
 # Listing view
 view: compact

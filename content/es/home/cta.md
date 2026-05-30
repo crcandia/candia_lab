@@ -1,5 +1,5 @@
 ---
-title: Meet the team
+title: Conoce al equipo
 subtitle:
 widget: blank
 headless: true
@@ -9,4 +9,4 @@ design:
   color: '#666'
 ---
 
-{{% cta cta_link="./people/" cta_text="HERE! →" %}}
+{{% cta cta_link="./people/" cta_text="VER EQUIPO →" %}}

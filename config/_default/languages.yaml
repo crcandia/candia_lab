@@ -5,18 +5,70 @@
 # Default language
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
+  title: CRiSS-LAB
 
-# Uncomment the lines below to configure your website in a second language.
-# es:
-#  languageCode: es
-#  contentDir: content/es
-#  title: CRiSS-LAB
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+es:
+  languageCode: es-cl
+  contentDir: content/es
+  title: CRiSS-LAB Chile
+  params:
+    description: Laboratorio de Ciencias Sociales Computacionales de la Universidad del Desarrollo en Chile, dirigido por Cristian Candia. Investigamos redes, inteligencia artificial, memoria colectiva, educación, movilidad, cooperación, convivencia escolar y comportamiento social.
+    marketing:
+      seo:
+        site_type: Organization
+        local_business_type: 'Research Lab'
+        org_name: 'CRiSS-LAB'
+        description: Laboratorio de Ciencias Sociales Computacionales de la Universidad del Desarrollo en Santiago de Chile, dirigido por Cristian Candia. Investigamos ciencia de redes, inteligencia artificial, memoria colectiva, educación, movilidad, cooperación, convivencia escolar, cultura y comportamiento social.
+        twitter: 'crcandiav'
+        keywords:
+          - ciencias sociales computacionales
+          - ciencia de redes Chile
+          - inteligencia artificial Chile
+          - laboratorio de investigación Chile
+          - Cristian Candia
+          - CRiSS-LAB
+          - Universidad del Desarrollo
+          - memoria colectiva
+          - convivencia escolar
+          - prevención del bullying
+          - ciencia de datos
+          - movilidad urbana
+          - machine learning no supervisado
+          - analítica cultural
+          - música chilena
+      analytics:
+        google_analytics: 'G-SFQPESQQ34'
+        baidu_tongji: ''
+      verification:
+        google: 'google-site-verification=WpH67fESejiOyHmKdOhfmjt5HWsfh-R57x-c02FL43I'
+        baidu: ''
+  menu:
+    main:
+      - name: Investigación
+        url: publication
+        weight: 10
+      - name: Proyectos
+        url: projects
+        weight: 20
+      - name: Docencia
+        url: teaching
+        weight: 30
+      - name: Blog
+        url: blog
+        weight: 40
+      - name: Noticias
+        url: post
+        weight: 50
+      - name: Charlas
+        url: event
+        weight: 60
+      - name: Equipo
+        url: people
+        weight: 70
+      - name: Acerca de
+        url: about
+        weight: 80
+      - name: Contacto
+        url: contact
+        weight: 90

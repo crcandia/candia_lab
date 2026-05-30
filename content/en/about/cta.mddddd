@@ -9,4 +9,4 @@ design:
   color: '#666'
 ---
 
-{{% cta cta_link="./people/" cta_text="HERE! →" %}}
+{{% cta cta_link="./people/" cta_text="VIEW TEAM →" %}}

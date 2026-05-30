@@ -1,12 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
+active: false
 
 headless: true
 weight: 40
 view: compact #showcase
 
-title: Latest Research Articles
+title: Publicaciones recientes
 subtitle:
 
 content:
