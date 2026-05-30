@@ -18,7 +18,7 @@ marketing:
     site_type: Organization
     local_business_type: 'Research Lab'
     org_name: 'CRiSS-LAB'
-    description: 'Computational Research in Social Science Laboratory'
+    description: 'CRiSS-LAB is a computational social science laboratory at Universidad del Desarrollo led by Cristian Candia. We study collective intelligence, collective memory, education, networks, AI, and social behavior.'
     twitter: 'crcandiav'
     keywords:
       - computational social science
@@ -37,6 +37,16 @@ marketing:
       - moralización
       - political polarization
       - polarización política
+      - Cristian Candia
+      - CRiSS-LAB
+      - Universidad del Desarrollo
+      - learning analytics
+      - network science
+      - experimental game theory
+      - computational social science Chile
+      - complex systems
+      - bullying prevention
+      - convivencia escolar
   analytics:
     google_analytics: 'G-SFQPESQQ34'
     baidu_tongji: ''
@@ -87,7 +97,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/crcandia/candia_lab'
     content_dir: content
     branch: main
   avatar:

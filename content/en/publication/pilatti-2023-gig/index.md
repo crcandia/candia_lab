@@ -9,7 +9,7 @@ author_notes:
   - ''
   - ''
 date: '2023-11-20T00:00:00Z'
-doi: 'https://doi.org/10.1007/s41109-023-00603-1'
+doi: "10.1007/s41109-023-00603-1"
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
 
@@ -26,7 +26,6 @@ publication_short: ''
 abstract: The labor market has transformed with the advent of the gig economy, characterized by short-term and fexible work arrangements facilitated by online platforms. As this trend becomes increasingly prevalent, it presents unique opportunities and challenges. In this manuscript, we comprehensively characterize the social networks of gig economy workers in each of the 15 cities studied. Our analysis reveals a scaling relationship between networks and the city population. In particular, we note the high level of modularity of the networks, and we argue that it results from the natural specialization of couriers along diferent areas of the cities. Furthermore, we show that degree and betweenness centrality is positively correlated with income but not with tenure. Our fndings shed new light on the social organization of the gig economy workers and provide valuable insights for the management and design of gig economy platforms.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Network Science
@@ -39,13 +38,13 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00603-1' 
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00603-1
 url_video: ''
 
 # Featured image
@@ -69,9 +68,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-<!-- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). -->

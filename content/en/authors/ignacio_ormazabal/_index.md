@@ -7,7 +7,6 @@ authors:
   - Ignacio Ormazábal
 title: Ignacio Ormazábal
 role: Postdoctoral Fellow (ANID)
-# bio: My research interests include ...
 interests:
   - Computational Social Science
   - Complex Systems
@@ -40,7 +39,6 @@ education:
       # institution: Universidad del Desarrollo
       # year: 2012
     # - course: M.Sc. Social Complexity Science
-      # institution: Massachusetts Institute of Technology
       # year: 2009
 
 email: ""

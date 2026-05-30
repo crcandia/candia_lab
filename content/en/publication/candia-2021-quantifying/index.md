@@ -7,7 +7,7 @@ author_notes:
   - ''
   - ''
 date: '2021-09-01T00:00:00Z'
-doi: 'https://doi.org/10.1037/amp0000863'
+doi: "10.1037/amp0000863"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -25,7 +25,6 @@ publication_short: ''
 abstract: How long will this article be remembered? How long will people reference it in their conversations, and for how many years will other authors cite its findings in their own works? A community's attention to a cultural object decays as time passes, a process known as collective forgetting. Recent work models this decay as the result of two different processes. One linked to communicative memory-memories sustained by human communication-and the other linked to cultural memory-memories sustained by the physical recording of content. Collective forgetting has significant impacts on communities, yet little is known about how the collective forgetting dynamic changes over time. Here, we study the temporal changes of collective memory and attention by focusing on two knowledge communities, inventors and physicists. We use data on patents from the United States Patent and Trademark Office (USPTO) and physics papers published by the American Physical Society (APS) to quantify those changes over time. The model enables us to distinguish between two branches of forgetting. One branch is short-lived, going directly from communicative memory to oblivion. The other branch is long-lived, going from communicative memory to cultural memory before going on to oblivion. The data analysis shows an increase in the forgetting rate for both communities as the amount of information in each of them grows. That growth of information forces knowledge communities to increase their selectivity regarding what is stored in their cultural memory. These findings confirm the forgetting as annulment hypothesis and show that knowledge communities can slow down collective forgetting and improve selectivity processes.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Collective Memory
@@ -49,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**CCSS-LAB**]()'
+  caption: 'Image credit: [**CRiSS-LAB**]()'
   focal_point: ''
   preview_only: false
 
@@ -67,9 +66,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-<!-- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). -->

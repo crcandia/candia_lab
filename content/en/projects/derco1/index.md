@@ -37,10 +37,12 @@ summary: Funded by Derco. 2021-2022.
 tags:
   - Network Science
   - Decision Making
-  - Bussiness Analytics
+  - Business Analytics
   - Machine Learning
   - Network Embeddings
   - Data Science
+categories:
+  - Industry Collaborations
 featured: false
 
 # links:
@@ -58,7 +60,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**CCSS-LAB**](https://media.springernature.com/full/springer-static/image/art%3A10.1140%2Fepjds%2Fs13688-019-0218-4/MediaObjects/13688_2019_218_Fig1_HTML.png?as=webp)'
+  caption: 'Image credit: [**CRiSS-LAB**](https://media.springernature.com/full/springer-static/image/art%3A10.1140%2Fepjds%2Fs13688-019-0218-4/MediaObjects/13688_2019_218_Fig1_HTML.png?as=webp)'
   focal_point: ''
   preview_only: false
 

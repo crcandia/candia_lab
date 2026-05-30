@@ -10,22 +10,24 @@ main:
   - name: Projects
     url: projects
     weight: 20   
-  # - name: Teaching
-  #   url: teaching
-  #   weight: 30   
-  - name: News
-    url: post
+  - name: Teaching
+    url: teaching
+    weight: 30
+  - name: Blog
+    url: blog
     weight: 40
+  - name: News & Media
+    url: post
+    weight: 50
   - name: Talks & Events
     url: event
-    weight: 50    
+    weight: 60
   - name: Team
     url: people
-    weight: 60
+    weight: 70
   - name: About
     url: about
-    weight: 70
+    weight: 80
   - name: Contact
     url: contact
-    weight: 80
-
+    weight: 90

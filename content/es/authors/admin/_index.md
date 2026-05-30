@@ -2,9 +2,9 @@
 authors:
   - Cristian Candia
 title: Cristian Candia
-role: Director CCSS-LAB and Director of the Master's in Data Science at Universidad del Desarrollo, Chile.
+role: Associate Professor and Head of CRiSS-LAB, School of Engineering and School of Government, Universidad del Desarrollo, Chile.
 avatar_filename: avatar.jpeg
-bio: My research interests include collective behavior, collective and artificial, network science, and business analytics.
+bio: My research interests include collective behavior, collective and artificial intelligence, network science, and business analytics.
 interests:
   - Computational Social Science
   - Business Analytics
@@ -14,16 +14,7 @@ interests:
   - Artificial Intelligence
   - Network Science
   - Experimental Game Theory
-# social:
-#   - display:
-#       header: false
-#     icon_pack: ai
-#     link: https://scholar.google.com/citations?user=oQ9KiDUAAAAJ&hl=en
-#     icon: nose
-
 social:
-  - display:
-        header: true
   - icon: envelope
     icon_pack: fas
     link: mailto:crcandiav@gmail.com
@@ -38,6 +29,11 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=oQ9KiDUAAAAJ&hl=en
+    display:
+      header: true
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-9654-543X
   - icon: github
     icon_pack: fab
     link: https://github.com/crcandia
@@ -46,8 +42,10 @@ social:
     link: https://www.linkedin.com/in/cristian-candia-castro-ph-d-04040251/   
 
 organizations:
-  - name: Asst. Professor at the Data Science Institute, Universidad del Desarrollo, Chile.
+  - name: Associate Professor at the Data Science Institute, School of Engineering, Universidad del Desarrollo, Chile.
     url: "https://www.udd.cl/persona/cristian-candia/#!/page=1"
+  - name: Researcher at the Center for Social Complexity Science, School of Government, Universidad del Desarrollo, Chile.
+    url: "https://complejidadsocial.udd.cl/"
   - name: External Faculty at the Northwestern Institute on Complex Systems, Kellogg School of Management,
       Northwestern University, USA.
     url: "https://www.nico.northwestern.edu/people/external-faculty.html"
@@ -55,8 +53,6 @@ education:
   courses:
     - course: Postdoc in Computational Social Science
     - course: Ph.D. in Complex Systems
-      # institution: Stanford University
-      # year: 2012
     - course: Master of Social Complexity Science
     - course: Physics Engineering
     - course: Master of Science in Physics
@@ -72,7 +68,7 @@ highlight_name: true
 
 <div style="text-align: justify">
 
-Cristian is the creator of [Lixandria](https://lixandria.cl/) and [Discolab](https://discolab.azurewebsites.net/#/about), and an Assistant Professor and Director of the Master's in Data Science at the Data Science Institute (IDS) of the School of Engineering at Universidad del Desarrollo, Chile. Additionally, I am proud to be an external faculty member at the Northwestern Institute on Complex Systems (NICO) of Northwestern University.\
+Cristian is the creator of [Lixandria](https://lixandria.cl/) and [Discolab](https://discolab.cl/#/about), and an Associate Professor at the Data Science Institute (IDS) of the School of Engineering at Universidad del Desarrollo, Chile. He leads the Computational Research in Social Science Lab (CRiSS-LAB) and is an external faculty member at the Northwestern Institute on Complex Systems (NICO) of Northwestern University.\
 \
 I have a diverse academic background. I held a postdoctoral position in Computational Social Science at the Kellogg School of Management, Northwestern University. My Ph.D. research on social complexity was carried out at the Center for Social Complexity at Universidad del Desarrollo, at the MIT Media Lab, and at the Center for Complex Networks Research at Northeastern and Harvard University. I earned my Master of Science in Physics, Bachelor of Science in Physics, and Physics Engineering professional title from Universidad de Concepción, Chile.\
 \

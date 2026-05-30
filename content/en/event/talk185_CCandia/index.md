@@ -1,19 +1,11 @@
 ---
 title: "¡Descubre la Conexión Entre la Física y las Ciencias Sociales! [Entrevista Virtual]"
-venue: "CRISS-LAB Seminar Series I-2023"
+venue: "CRiSS-LAB Seminar Series I-2023"
 date: '2023-07-30T12:00:00Z'
-event: "CRISS-LAB Entrevista TXS Plus, II-2023"
+event: "CRiSS-LAB Entrevista TXS Plus, II-2023"
 # event_url: https://www.nico.northwestern.edu/news-events/wednesdays-at-nico/speakers-2021.html
-location: "CRISS-LAB, UDD, Las Condes, Chile."
+location: "CRiSS-LAB, UDD, Las Condes, Chile."
 
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-# date: '2030-06-01T13:00:00Z'
-# date_end: '2030-06-01T15:00:00Z'
-# all_day: false
-
-# Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
 authors: 
@@ -28,12 +20,10 @@ tags:
   - Network Science
   - Experimental Game Theory
 # author_notes: Ph.D. candidate in Computer Science at the University of Toulouse.
-
-# Is this a featured talk? (true/false)
 featured: true
 
 image:
-  caption: #'Image credit: [**CRISS-LAB**]()'
+  caption: #'Image credit: [**CRiSS-LAB**]()'
   focal_point: Right
   preview_only: true
 
@@ -41,19 +31,7 @@ url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides:
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
 ---
 
@@ -72,7 +50,7 @@ projects:
 
 # La Convergencia de las Ciencias Físicas y Sociales: Una Entrevista con el Dr. Cristian Candia
 
-En una entrevista reciente, Carla Hermann, Ph.D., la anfitriona del programa Let's Get Physical, se sentó con el Dr. Cristian Candia, académico de la Universidad del Desarrollo en Chile y Director del Magister en Data Science y del CRISS-LAB. La entrevista se sumerge en la intersección de las ciencias físicas y las ciencias sociales, un campo emergente que está ganando tracción en la comunidad académica. A continuación, ofrecemos un resumen de esta conversación.
+En una entrevista reciente, Carla Hermann, Ph.D., la anfitriona del programa Let's Get Physical, se sentó con el Dr. Cristian Candia, académico de la Universidad del Desarrollo en Chile y Director del Magister en Data Science y del CRiSS-LAB. La entrevista se sumerge en la intersección de las ciencias físicas y las ciencias sociales, un campo emergente que está ganando tracción en la comunidad académica. A continuación, ofrecemos un resumen de esta conversación.
 
 ## Un Viaje desde la Física Hasta las Ciencias Sociales
 

@@ -8,15 +8,11 @@ authors:
 title: Carlos Navarrete
 role:  School of Engineering, Universidad de Concepción
 draft: true
-# bio: My research interests include ...
 interests:
   - Computational Political Science
   - Computational Social Science
   - Polarization
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: mailto:test@example.org
   
   - icon: cv
     icon_pack: ai
@@ -37,10 +33,7 @@ social:
 #       # institution: Universidad del Desarrollo
 #       # year: 2012
 #     - course: M.Sc. Social Complexity Science
-#       # institution: Massachusetts Institute of Technology
 #       # year: 2009
-#     - course: Comercial Engeenering (Economics)
-#       # institution: Massachusetts Institute of Technology
 #       # year: 2008
 email: ""
 user_groups:

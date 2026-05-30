@@ -8,7 +8,7 @@ author_notes:
   - ''
   - ''
 date: '2022-02-01T00:00:00Z'
-doi: 'https://doi.org/10.1007/s11150-022-09599-6'
+doi: "10.1007/s11150-022-09599-6"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-02-01T00:00:00Z'
@@ -26,7 +26,6 @@ publication_short: ''
 abstract: Women’s employment plays an important role in household well-being, and among mothers, lack of child care is one of the main reasons for not working and not seeking employment. We investigate the effect of a reform that lengthened school schedules from half to full days in Chile—providing childcare for school aged children—on different maternal employment outcomes. Using a panel of 2814 mothers over a 7-year period, we find evidence of important positive causal effects of access to full-day schools on mother’s labor force participation, employment, weekly hours worked, and months worked during the year. We also find that lower-education and married mothers benefit most from the policy. Findings suggest that alleviating childcare needs can promote women’s attachment to the labor force, increase household incomes and alleviate poverty and inequality.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Labor Economics
@@ -66,9 +65,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-<!-- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). -->

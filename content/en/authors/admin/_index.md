@@ -2,7 +2,7 @@
 authors:
   - Cristian Candia
 title: Cristian Candia
-role: Head of CRiSS-LAB, School of Engineering and School of Government, Universidad del Desarrollo, Chile. #and Director of the Master's in Data Science at Universidad del Desarrollo, Chile.
+role: Associate Professor and Head of CRiSS-LAB, School of Engineering and School of Government, Universidad del Desarrollo, Chile.
 avatar_filename: avatar.jpeg
 bio: My research interests include collective behavior, collective and artificial intelligence, network science, and business analytics.
 interests:
@@ -14,16 +14,7 @@ interests:
   - Artificial Intelligence
   - Network Science
   - Experimental Game Theory
-# social:
-#   - display:
-#       header: false
-#     icon_pack: ai
-#     link: https://scholar.google.com/citations?user=oQ9KiDUAAAAJ&hl=en
-#     icon: nose
-
 social:
-  - display:
-        header: true
   - icon: envelope
     icon_pack: fas
     link: mailto:crcandiav@gmail.com
@@ -37,6 +28,11 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=oQ9KiDUAAAAJ&hl=en
+    display:
+      header: true
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-9654-543X
   - icon: github
     icon_pack: fab
     link: https://github.com/crcandia
@@ -45,7 +41,7 @@ social:
     link: https://www.linkedin.com/in/cristian-candia-castro-ph-d-04040251/   
 
 organizations:
-  - name: Researcher at the Data Science Institute, School of Engineering, Universidad del Desarrollo, Chile.
+  - name: Associate Professor at the Data Science Institute, School of Engineering, Universidad del Desarrollo, Chile.
     url: "https://www.udd.cl/persona/cristian-candia/#!/page=1"
   - name: Researcher at the Center for Social Complexity Science, School of Government, Universidad del Desarrollo, Chile.
     url: "https://complejidadsocial.udd.cl/"
@@ -58,8 +54,6 @@ education:
   courses:
     - course: Postdoc in Computational Social Science
     - course: Ph.D. in Complex Systems
-      # institution: Stanford University
-      # year: 2012
     - course: Master of Social Complexity Science
     - course: Physics Engineering
     - course: Master of Science in Physics

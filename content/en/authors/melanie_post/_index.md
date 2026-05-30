@@ -7,7 +7,6 @@ authors:
   - Melanie Oyarzún
 title: Melanie Oyarzún
 role: Postdoctoral Fellow, Corvinus University of Budapest
-# bio: My research interests include ...
 interests:
   - Labor economics
   - Development economics
@@ -33,10 +32,7 @@ social:
 #       # institution: Universidad del Desarrollo
 #       # year: 2012
 #     - course: M.Sc. Social Complexity Science
-#       # institution: Massachusetts Institute of Technology
 #       # year: 2009
-#     - course: Comercial Engeenering (Economics)
-#       # institution: Massachusetts Institute of Technology
 #       # year: 2008
 email: ""
 user_groups:

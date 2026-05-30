@@ -53,7 +53,7 @@ content:
 design:
   columns: '1'
 ---
-## Computational Research in Social Sciences Laboratory (CRISS-LAB)
+## Computational Research in Social Sciences Laboratory (CRiSS-LAB)
 
 To get in touch, send us an email or schedule a virtual appointment.
 

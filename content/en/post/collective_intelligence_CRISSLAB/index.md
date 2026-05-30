@@ -1,5 +1,5 @@
 ---
-title: Unlocking the Secrets of Collective Intelligence at CRISS-LAB [Blog Post]
+title: Unlocking the Secrets of Collective Intelligence at CRiSS-LAB [Blog Post]
 date: 2023-08-08
 image:
   focal_point: 'top'
@@ -7,9 +7,9 @@ authors:
   - admin 
 
 ---
-Greetings to our vibrant CRISS-LAB community!
+Greetings to our vibrant CRiSS-LAB community!
 
-In the bustling corridors and lively labs of CRISS-LAB, we're continuously pushing the boundaries of collective intelligence. This journey transcends teamwork. It delves into the heart of multifaceted human interactions, weaving a tapestry of insights, challenges, and discoveries.
+In the bustling corridors and lively labs of CRiSS-LAB, we're continuously pushing the boundaries of collective intelligence. This journey transcends teamwork. It delves into the heart of multifaceted human interactions, weaving a tapestry of insights, challenges, and discoveries.
 
 **Navigating the Digital Labyrinth**
 
@@ -47,7 +47,7 @@ Research isn't just about understanding phenomena; it's about leveraging insight
 
 **In Conclusion**
 
-Every research thread at CRISS-LAB is a strand of the grand narrative of collective intelligence. We're not just observing patterns; we're shaping future paradigms, guided by our insights. As always, we invite you, our community, to engage with us, challenge our findings, and contribute your unique perspectives.
+Every research thread at CRiSS-LAB is a strand of the grand narrative of collective intelligence. We're not just observing patterns; we're shaping future paradigms, guided by our insights. As always, we invite you, our community, to engage with us, challenge our findings, and contribute your unique perspectives.
 
 Stay curious, stay connected, and let's continue this collective journey towards understanding and innovation!
 

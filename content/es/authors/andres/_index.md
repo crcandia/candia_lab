@@ -7,7 +7,6 @@ authors:
   - Andrés Abeliuk
 title: Andrés Abeliuk
 role: Department of Computer Science, University of Chile
-# bio: My research interests include ...
 interests:
   - Algorithms
   - Complexity 
@@ -15,9 +14,6 @@ interests:
   - Social Networks
   - Game Theory
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: mailto:test@example.org
 
 
   - icon: cv
@@ -40,10 +36,7 @@ social:
 #       # institution: Universidad del Desarrollo
 #       # year: 2012
 #     - course: M.Sc. XXXX
-#       # institution: Massachusetts Institute of Technology
 #       # year: 2009
-#     - course: XXXXX
-#       # institution: Massachusetts Institute of Technology
 #       # year: 2008
 email: ""
 user_groups:

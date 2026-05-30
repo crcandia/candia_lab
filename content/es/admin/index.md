@@ -1,5 +1,5 @@
 ---
-# Generate Wowchemy CMS
+# Generate CMS configuration
 type: wowchemycms
 private: true
 outputs:

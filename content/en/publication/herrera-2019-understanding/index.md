@@ -13,7 +13,7 @@ author_notes:
   - ''
   - ''
 date: '2019-04-01T00:00:00Z'
-doi: 'https://doi.org/10.1080/02508060.2019.1599774'
+doi: "10.1080/02508060.2019.1599774"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -31,7 +31,6 @@ publication_short: ''
 abstract: This article provides a multidimensional study based on data and text mining of prosecuted disputes on water rights in Chile, and an analysis of the state’s capacity, particularly of the institutions related to water regulation. This study shows not only a substantial increase of legal disputes regarding water rights over the years (1981–2014), but also clear patterns in the geographic location of these conflicts, as well as in the types of legal actions, arguments and strategies used in their pursuit. Through a topic analysis, we find a growing diversification over time of the subjects contained in the legal claims, suggesting an increase in structure and complexity.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Network Science
@@ -54,7 +53,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**CCSS-LAB**]()'
+  caption: 'Image credit: [**CRiSS-LAB**]()'
   focal_point: ''
   preview_only: false
 
@@ -72,9 +71,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-<!-- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). -->

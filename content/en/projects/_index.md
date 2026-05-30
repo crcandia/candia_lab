@@ -1,5 +1,6 @@
 ---
 title: Projects
+summary: Research grants, applied platforms, prototypes, and institutional collaborations from CRiSS-LAB.
 
 # Listing view
 view: showcase #showcase #citation

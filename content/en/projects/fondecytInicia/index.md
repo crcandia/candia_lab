@@ -39,6 +39,8 @@ tags:
   - Causal Inference
   - Collective Intelligence
   - Econometrics
+categories:
+  - Research Grants
 featured: false
 
 # links:
@@ -56,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**CCSS-LAB**](https://media.springernature.com/full/springer-static/image/art%3A10.1140%2Fepjds%2Fs13688-019-0218-4/MediaObjects/13688_2019_218_Fig1_HTML.png?as=webp)'
+  caption: 'Image credit: [**CRiSS-LAB**](https://media.springernature.com/full/springer-static/image/art%3A10.1140%2Fepjds%2Fs13688-019-0218-4/MediaObjects/13688_2019_218_Fig1_HTML.png?as=webp)'
   focal_point: ''
   preview_only: false
 

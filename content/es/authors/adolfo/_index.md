@@ -7,7 +7,6 @@ authors:
   - Adolfo Fuentes
 title: Adolfo Fuentes
 role: Ph.D. student
-# bio: My research interests include ...
 interests:
   - Computational Social Science
   - Business Analytics
@@ -27,9 +26,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AdolfoFuentes
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?user=
   - icon: github
     icon_pack: fab
     link: https://github.com/adolfofuentesjofre
@@ -45,7 +41,6 @@ education:
       # institution: Universidad del Desarrollo
       # year: 2012
     # - course: M.Sc. Social Complexity Science
-      # institution: Massachusetts Institute of Technology
       # year: 2009
 
 email: ""

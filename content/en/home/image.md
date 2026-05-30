@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Computational Research in Social Science (CRiSS) Lab #at UDD-Chile
-subtitle: Decoding Behavior, Advancing Society
+title: Computational Research in Social Science Lab
+subtitle: Network science, AI, and behavioral data for public-impact research
 
 
 design:
@@ -43,5 +43,5 @@ html {
 
 <br>
 <div style="margin: auto; width:60vw;">
-<p style="text-align: center"> Harnessing the power of Computational Social Science, we strive to unravel the complexities of individual and collective behavior. Our mission is to turn observational data and quasi-experiments into solutions for tangible, real-world issues.</p>
+<p style="text-align: center"> CRiSS-LAB studies collective intelligence, collective memory, learning, cooperation, mobility, polarization, and institutional decision-making using network science, causal inference, experimental game theory, machine learning, and large-scale behavioral data.</p>
 </div>
