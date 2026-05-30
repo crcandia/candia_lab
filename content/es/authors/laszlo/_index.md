@@ -6,13 +6,14 @@ superuser: false
 authors:
   - Lászlo Barabási
 title: Lászlo Barabási
-role: Robert Gray Dodge Professor of Network Science at Northeastern University
+role: Profesor Robert Gray Dodge de Ciencia de Redes en Northeastern University
+draft: false
 interests:
-  - Network science
-  - Statistical physics
-  - Biological physics
-  - Physics
-  - Medicine
+  - Ciencia de redes
+  - Física estadística
+  - Física biológica
+  - Física
+  - Medicina
 
 social:
   - icon: cv
@@ -27,14 +28,14 @@ social:
     link: https://scholar.google.com/citations?user=vsj2slIAAAAJ&hl=es
 # education:
 #   courses:
-#     - course: Ph.D. in Social Complexity Science
+#     - course: Ph.D. en Ciencias de la Complejidad Social
 #       # institution: Universidad del Desarrollo
 #       # year: 2012
-#     - course: M.Sc. Social Complexity Science
+#     - course: M.Sc. en Ciencias de la Complejidad Social
 #       # year: 2009
 #       # year: 2008
 email: ""
 user_groups:
-  - Collaborators
-  - Researchers
+  - Colaboradores
+  - Investigadores
 ---

@@ -1,5 +1,5 @@
 ---
-title: Recorded Talks and Events
+title: Charlas y eventos pasados
 
 # Listing view
 view: compact

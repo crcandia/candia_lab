@@ -1,19 +1,19 @@
 ---
 organizations:
-  - name: Universidad del Desarrollo, Faculty of Government, Research Center for Social Complexity (CICS)
+  - name: Universidad del Desarrollo, Facultad de Gobierno, Centro de Investigación en Complejidad Social (CICS)
     url: ""
 superuser: false
 authors:
   - Carlos Rodriguez-Sickert
 title: Carlos Rodriguez-Sickert
-role: Research Center for Social Complexity (CICS), Government School, Universidad del Desarrollo.
+role: Centro de Investigación en Complejidad Social (CICS), Facultad de Gobierno, Universidad del Desarrollo.
 interests:
-  - Social Complexity
-  - Game Theory
-  - Moral Behavior
-  
+  - Complejidad Social
+  - Teoría de juegos
+  - Comportamiento moral
+
 social:
-    
+
   - icon: cv
     icon_pack: ai
     link: https://complejidadsocial.udd.cl/
@@ -22,14 +22,14 @@ social:
     link: https://scholar.google.com/citations?user=15jvvaEAAAAJ&hl=es
 # education:
 #   courses:
-#     - course: Ph.D. in Social Complexity Science
+#     - course: Ph.D. en Ciencias de la Complejidad Social
 #       # institution: Universidad del Desarrollo
 #       # year: 2012
-#     - course: M.Sc. Social Complexity Science
+#     - course: M.Sc. en Ciencias de la Complejidad Social
 #       # year: 2009
 #       # year: 2008
 email: ""
 user_groups:
-  - Collaborators
-  - Researchers
+  - Colaboradores
+  - Investigadores
 ---

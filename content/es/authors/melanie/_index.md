@@ -6,13 +6,14 @@ superuser: false
 authors:
   - Melanie Oyarzún
 title: Melanie Oyarzún
-role: Ph.D. Candidate
+role: Candidato a doctorado
+draft: true
 interests:
-  - Labor economics
-  - Development economics
-  - Applied microeconomics
-  - Econometrics
-  - Microeconometrics
+  - Economía laboral
+  - Economía del desarrollo
+  - Microeconomía aplicada
+  - Econometría
+  - Microeconometría
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,14 +29,12 @@ social:
     link: https://github.com/melanieoyarzun
 # education:
 #   courses:
-#     - course: Ph.D. in Social Complexity Science
+#     - course: Ph.D. en Ciencias de la Complejidad Social
 #       # institution: Universidad del Desarrollo
 #       # year: 2012
-#     - course: M.Sc. Social Complexity Science
+#     - course: M.Sc. en Ciencias de la Complejidad Social
 #       # year: 2009
 #       # year: 2008
 email: ""
-user_groups:
-  - Ph.D. Students
-  - Researchers
+user_groups: []
 ---

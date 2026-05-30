@@ -13,12 +13,14 @@ appearance:
 
 # SEO
 
+description: 'CRiSS-LAB is the Computational Research in Social Science Lab at Universidad del Desarrollo in Santiago, Chile, directed by Cristian Candia, Ph.D. The lab advances computational social science, network science, AI, education analytics, collective memory, mobility, cooperation, and social-impact data science in Chile and internationally.'
+
 marketing:
   seo:
     site_type: Organization
     local_business_type: 'Research Lab'
     org_name: 'CRiSS-LAB'
-    description: 'CRiSS-LAB is a computational social science laboratory at Universidad del Desarrollo in Santiago, Chile, led by Cristian Candia. We study collective intelligence, collective memory, education, network science, AI, mobility, cooperation, polarization, cultural analytics, and social behavior.'
+    description: 'CRiSS-LAB is the Computational Research in Social Science Lab at Universidad del Desarrollo in Santiago, Chile, directed by Cristian Candia, Ph.D. We study collective intelligence, collective memory, education, network science, AI, mobility, cooperation, polarization, cultural analytics, and social behavior through data science and complex systems methods.'
     twitter: 'crcandiav'
     keywords:
       - computational social science
@@ -38,11 +40,28 @@ marketing:
       - political polarization
       - polarización política
       - Cristian Candia
+      - Cristian Candia Vallejos
+      - Cristian Candia-Castro
+      - Cristian Candia UDD
+      - Cristian Candia Google Scholar
+      - Cristian Candia ORCID
+      - Cristian Candia Northwestern
+      - Cristian Candia MIT Media Lab
       - CRiSS-LAB
+      - Computational Research in Social Science Lab
+      - CRiSS-LAB Chile
+      - CRISS Lab Chile
       - Universidad del Desarrollo
+      - Universidad del Desarrollo Facultad de Ingeniería
+      - Instituto de Data Science UDD
       - learning analytics
       - network science
+      - network science Chile
       - experimental game theory
+      - causal inference
+      - computational social scientist
+      - data scientist Chile
+      - research laboratory Chile
       - computational social science Chile
       - ciencias sociales computacionales Chile
       - laboratorio ciencia de datos Chile

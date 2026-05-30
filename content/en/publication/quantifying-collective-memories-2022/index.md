@@ -20,7 +20,7 @@ url_code: ""
 url_dataset: ""
 url_project: ""
 image:
-  caption: "Image credit: CRiSS-LAB"
+  caption: "Figure from the article"
   focal_point: ""
   preview_only: false
 projects: []

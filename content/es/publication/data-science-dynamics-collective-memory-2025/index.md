@@ -20,8 +20,9 @@ url_pdf: ""
 url_code: ""
 url_dataset: ""
 url_project: ""
+url_source: "https://academic.oup.com/book/61717/chapter/541528830"
 image:
-  caption: "Image credit: CRiSS-LAB"
+  caption: "Figura del capítulo"
   focal_point: ""
   preview_only: false
 projects: []

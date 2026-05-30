@@ -6,11 +6,11 @@ superuser: false
 authors:
   - Victor Landaeta
 title: Victor Landaeta
-role: Data Science Institute, Universidad del Desarrollo.
+role: Ciencia de datos Institute, Universidad del Desarrollo.
 interests:
-  - Social Networks
-  - Network Science
-  - Complex Systems
+  - Redes sociales
+  - Ciencia de redes
+  - Sistemas complejos
 social:
   # - icon: twitter
   #   icon_pack: fab
@@ -22,14 +22,14 @@ social:
     link: https://github.com/vmlandae
 # education:
 #   courses:
-#     - course: Ph.D. in Social Complexity Science
+#     - course: Ph.D. en Ciencias de la Complejidad Social
 #       # institution: Universidad del Desarrollo
 #       # year: 2012
-#     - course: M.Sc. Social Complexity Science
+#     - course: M.Sc. en Ciencias de la Complejidad Social
 #       # year: 2009
 #       # year: 2008
 email: ""
 user_groups:
-  - Collaborators
-  - Researchers
+  - Colaboradores
+  - Investigadores
 ---

@@ -8,11 +8,11 @@ authors:
 title: César Hidalgo
 role: Center for Collective Learning, ANITI, TSE, Universities of Toulouse, Manchester, & Harvard
 interests:
-  - Economic Complexity
-  - Economic Geography
-  - Digital Democracy
-  - Collective Intelligence
-  - Complex Systems
+  - Complejidad económica
+  - Geografía económica
+  - Democracia digital
+  - Inteligencia colectiva
+  - Sistemas complejos
 social:
   - icon: cv
     icon_pack: ai
@@ -25,14 +25,14 @@ social:
     link: https://scholar.google.com/citations?hl=es&user=xhCWdtMAAAAJ
 # education:
 #   courses:
-#     - course: Ph.D. in Social Complexity Science
+#     - course: Ph.D. en Ciencias de la Complejidad Social
 #       # institution: Universidad del Desarrollo
 #       # year: 2012
-#     - course: M.Sc. Social Complexity Science
+#     - course: M.Sc. en Ciencias de la Complejidad Social
 #       # year: 2009
 #       # year: 2008
 email: ""
 user_groups:
-  - Collaborators
-  - Researchers
+  - Colaboradores
+  - Investigadores
 ---

@@ -2,7 +2,7 @@
 title: 'Reciprocity heightens academic performance in elementary school students'
 authors:
   - admin
-  - melanie
+  - melanie_phd
   - victorl
   - Tamara Yaikin
   - Cecilia Monge

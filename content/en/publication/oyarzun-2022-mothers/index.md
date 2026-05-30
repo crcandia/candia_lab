@@ -3,7 +3,7 @@ title: 'School schedules and mothers’ employment: evidence from an education r
 authors:
   - Matias Berthelon
   - Diana Kruger
-  - melanie
+  - melanie_phd
 author_notes:
   - ''
   - ''

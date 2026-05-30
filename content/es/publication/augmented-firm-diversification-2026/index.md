@@ -24,6 +24,7 @@ url_pdf: ""
 url_code: ""
 url_dataset: ""
 url_project: ""
+url_source: "https://link.springer.com/chapter/10.1007/978-3-032-16723-1_10"
 image:
   caption: "Image credit: CRiSS-LAB"
   focal_point: ""

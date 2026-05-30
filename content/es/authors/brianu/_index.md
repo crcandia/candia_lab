@@ -6,13 +6,13 @@ superuser: false
 authors:
   - Brian Uzzi
 title: Brian Uzzi
-role: Richard L. Thomas Professor of Leadership at the Kellogg School of Management, Northwestern University
+role: Profesor Richard L. Thomas de Liderazgo, Kellogg School of Management, Northwestern University
 interests:
-  - Social Networks
-  - Network Science
-  - Social Media
-  - Complex Systems
-  - Sociology of Science
+  - Redes sociales
+  - Ciencia de redes
+  - Redes sociales digitales
+  - Sistemas complejos
+  - Sociología de la ciencia
 social:
   - icon: cv
     icon_pack: ai
@@ -26,14 +26,14 @@ social:
     link: https://scholar.google.com/citations?user=uGJ_6aQAAAAJ&hl=es
 # education:
 #   courses:
-#     - course: Ph.D. in Social Complexity Science
+#     - course: Ph.D. en Ciencias de la Complejidad Social
 #       # institution: Universidad del Desarrollo
 #       # year: 2012
-#     - course: M.Sc. Social Complexity Science
+#     - course: M.Sc. en Ciencias de la Complejidad Social
 #       # year: 2009
 #       # year: 2008
 email: ""
 user_groups:
-  - Collaborators
-  - Researchers
+  - Colaboradores
+  - Investigadores
 ---

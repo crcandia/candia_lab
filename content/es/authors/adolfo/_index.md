@@ -6,14 +6,14 @@ superuser: false
 authors:
   - Adolfo Fuentes
 title: Adolfo Fuentes
-role: Ph.D. student
+role: Candidato a doctorado
 interests:
-  - Computational Social Science
-  - Business Analytics
-  - Collective Intelligence
-  - Artificial Intelligence
-  - Data Science and Machine Learning
-  - Network Science
+  - Ciencias sociales computacionales
+  - Analítica de negocios
+  - Inteligencia colectiva
+  - Inteligencia artificial
+  - Ciencia de datos y machine learning
+  - Ciencia de redes
 
 social:
   - icon: envelope
@@ -32,33 +32,31 @@ social:
 
 education:
   courses:
-    - course: Ph.D. in Social Complexity Science - Student
-    - course: Master of Science in Data Science - Student
+    - course: Ph.D. en Ciencias de la Complejidad Social - Student
+    - course: Magíster en Data Science - Student
     - course: Diploma in Cognitive and Social Neuroscience
     - course: Diploma in Business Intelligence
-    - course: Master of Science in Industrial Engineering
-    - course: Civil Industrial Engineer
+    - course: Magíster en Ingeniería Industrial
+    - course: Ingeniero civil industrial
       # institution: Universidad del Desarrollo
       # year: 2012
-    # - course: M.Sc. Social Complexity Science
+    # - course: M.Sc. en Ciencias de la Complejidad Social
       # year: 2009
 
 email: ""
 user_groups:
-  - Ph.D. Students
-  - Researchers
+  - Estudiantes de doctorado
+  - Investigadores
 ---
 
-Adolofo is a Civil Industrial Engineer and Master of Science in Engineering, Universidad Diego Portales, Chile, Diploma in Business Intelligence, Universidad de Chile, Chile, Diploma in Data Science and Big Data Analytics, MIT, Data Science & AI Engineer Professional Certificate, IBM, Ph.D Student in Social Complexity Science, Universidad Del Desarrollo. 
+Adolfo es ingeniero civil industrial y magíster en Ciencias de la Ingeniería por la Universidad Diego Portales. Tiene diplomas en Business Intelligence por la Universidad de Chile y en Data Science and Big Data Analytics por MIT, además de una certificación profesional en Data Science & AI Engineering de IBM. Actualmente es estudiante de doctorado en Ciencias de la Complejidad Social en la Universidad del Desarrollo.
 
-Professional with 8 years of experience developing actionable predictive models using Machine Learning and Deep Learning techniques in leading Retail and Services companies in Marketing, Commercial and Customer Care areas.
+Cuenta con experiencia desarrollando modelos predictivos accionables mediante machine learning y deep learning en empresas líderes de retail y servicios, especialmente en áreas de marketing, comercial y atención al cliente.
 
+### Experiencia profesional
 
-### Professional Experience
-
-- Head of Data Science and Advance Analytics – Enjoy Corporativo
-- Lead Data Scientist – Metlife Chile
-- Data Scientist – Walmart Chile
-- Data Management Specialist – Enel Chile
-- Business Intelligence Specialist – Enel Chile
-
+- Head of Data Science and Advanced Analytics, Enjoy Corporativo
+- Lead Data Scientist, MetLife Chile
+- Data Scientist, Walmart Chile
+- Data Management Specialist, Enel Chile
+- Business Intelligence Specialist, Enel Chile

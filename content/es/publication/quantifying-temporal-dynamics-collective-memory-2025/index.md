@@ -20,8 +20,9 @@ url_pdf: ""
 url_code: ""
 url_dataset: ""
 url_project: ""
+url_source: "https://doi.org/10.4337/9781802207309.00061"
 image:
-  caption: "Image credit: CRiSS-LAB"
+  caption: "Figura del capítulo"
   focal_point: ""
   preview_only: false
 projects: []
