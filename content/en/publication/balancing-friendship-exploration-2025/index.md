@@ -25,7 +25,7 @@ url_code: ""
 url_dataset: ""
 url_project: ""
 image:
-  caption: "Image credit: CRiSS-LAB"
+  caption: "Paper-specific schematic: inward and exploratory classroom ties"
   focal_point: ""
   preview_only: false
 projects: []

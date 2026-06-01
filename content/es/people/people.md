@@ -31,6 +31,7 @@ content:
     - Administración
     - Visitantes
     - Colaboradores
+    - Miembros anteriores
     - Egresados
 design:
   show_interests: false

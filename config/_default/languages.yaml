@@ -13,13 +13,13 @@ es:
   contentDir: content/es
   title: CRiSS-LAB Chile
   params:
-    description: Laboratorio de Ciencias Sociales Computacionales de la Universidad del Desarrollo en Santiago de Chile, dirigido por Cristian Candia, Ph.D. Investigamos ciencia de redes, inteligencia artificial, memoria colectiva, educación, movilidad, cooperación, convivencia escolar y comportamiento social.
+    description: Laboratorio de Ciencias Sociales Computacionales de la Universidad del Desarrollo en Santiago de Chile, dirigido por Cristian Candia, Ph.D. Investigamos ciencia de redes, inteligencia artificial, memoria colectiva, educación, convivencia escolar, movilidad, cooperación y comportamiento social.
     marketing:
       seo:
         site_type: Organization
         local_business_type: 'Research Lab'
         org_name: 'CRiSS-LAB'
-        description: Laboratorio de Ciencias Sociales Computacionales de la Universidad del Desarrollo en Santiago de Chile, dirigido por Cristian Candia, Ph.D. Investigamos ciencia de redes, inteligencia artificial, memoria colectiva, educación, movilidad, cooperación, convivencia escolar, cultura y comportamiento social con métodos de ciencia de datos y sistemas complejos.
+        description: Laboratorio de Ciencias Sociales Computacionales de la Universidad del Desarrollo en Santiago de Chile, dirigido por Cristian Candia, Ph.D. Investigamos ciencia de redes, inteligencia artificial, memoria colectiva, educación, convivencia escolar, movilidad, cooperación, cultura y comportamiento social con métodos de ciencia de datos y sistemas complejos.
         twitter: 'crcandiav'
         keywords:
           - ciencias sociales computacionales
@@ -52,6 +52,18 @@ es:
           - machine learning no supervisado
           - analítica cultural
           - música chilena
+          - Ley 21.809
+          - Ley de convivencia escolar Chile
+          - Capybara convivencia escolar
+          - prevención del bullying Chile
+          - FONDECYT Regular 2026
+          - ANID FONDECYT Cristian Candia
+          - SocialRec
+          - Lixandria
+          - Discolab
+          - PriorizaChile
+          - Neural Network Nominate
+          - Best Lightning Talk CCS 2025
       analytics:
         google_analytics: 'G-SFQPESQQ34'
         baidu_tongji: ''

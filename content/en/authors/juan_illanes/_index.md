@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Juan Illanes
 title: Juan Illanes
-role: Ph.D. student
+role: Visiting Master's Student
 interests:
   - 
 social:
@@ -20,7 +20,5 @@ social:
 #       # year: 2008
 email: ""
 user_groups:
-  # - Undergraduate Students
-  - Ph.D. Students
-  - Researchers
+  - Visitors
 ---

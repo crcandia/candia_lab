@@ -1,6 +1,6 @@
 ---
 title: "Causal Inference for Data Science"
-date: "2025-08-01"
+date: "2024-08-01"
 authors:
   - admin
 summary: Course module on causal questions, identification, quasi-experiments, observational data, and policy evaluation.

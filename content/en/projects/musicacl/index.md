@@ -1,9 +1,9 @@
 ---
-title: "MúsicaCL: computational music, culture, and networks"
+title: "MúsicaCL: Chilean music and collective memory"
 authors:
   - admin
-date: "2026-05-30"
-summary: Creative and research project that connects Chilean music, cultural analytics, network science, and AI-assisted exploration of scenes, repertoires, and audiences.
+date: "2023-10-01"
+summary: Public output of a collective memory and cultural analytics project, connecting Chilean music, attention, networks, repertoires, and AI-assisted exploration.
 tags:
   - Music
   - Cultural Analytics
@@ -11,8 +11,9 @@ tags:
   - Artificial Intelligence
   - Chile
 categories:
-  - Creative Research
+  - Public Outputs
 featured: true
+url_project: "https://musicacl.criss-lab.com/"
 image:
   caption: "Image credit: CRiSS-LAB"
   focal_point: ""
@@ -21,6 +22,8 @@ projects: []
 slides:
 ---
 
-MúsicaCL is a creative research line at the intersection of music, data, and culture. The project explores how Chilean musical scenes, repertoires, collaborations, influences, and audiences can be studied with computational social science methods.
+MúsicaCL is best presented as a **public output of a collective memory and cultural analytics project**. It connects Chilean music with the lab's work on cultural attention, memory, networks, and computational exploration of cultural artifacts.
 
-The project connects cultural analytics, network science, natural language processing, recommendation systems, and AI-assisted tools for discovering structure in musical catalogs and scenes. It also creates a bridge between CRiSS-LAB research on collective memory, cultural attention, and creative ecosystems.
+The site creates a bridge between research and public exploration: how musical scenes, repertoires, collaborations, influences, and audiences can be organized and understood with computational social science methods. It also links music to broader questions about what societies remember, revisit, recommend, and forget.
+
+The public output is available at [musicacl.criss-lab.com](https://musicacl.criss-lab.com/).

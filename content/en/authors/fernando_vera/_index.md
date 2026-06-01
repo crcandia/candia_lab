@@ -20,6 +20,5 @@ social:
 #       # year: 2008
 email: ""
 user_groups:
-  # - Undergraduate Students
-  - Visitors
+  - Past Members
 ---

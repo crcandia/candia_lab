@@ -6,7 +6,7 @@ title: Current Projects
 subtitle:
 content:
   page_type: projects
-  count: 6
+  count: 10
   order: desc
   archive:
     enable: true

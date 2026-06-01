@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Adolfo Fuentes
 title: Adolfo Fuentes
-role: Ph.D. Candidate
+role: Ph.D. Graduate
 interests:
   - Computational Social Science
   - Business Analytics
@@ -32,8 +32,8 @@ social:
 
 education:
   courses:
-    - course: Ph.D. in Social Complexity Science - Student
-    - course: Master of Science in Data Science - Student
+    - course: Ph.D. in Social Complexity Science
+    - course: Master of Science in Data Science
     - course: Diploma in Cognitive and Social Neuroscience
     - course: Diploma in Business Intelligence
     - course: Master of Science in Industrial Engineering
@@ -45,11 +45,13 @@ education:
 
 email: ""
 user_groups:
-  - Ph.D. Students
+  - Alumni
   - Researchers
 ---
 
-Adolofo is a Civil Industrial Engineer and Master of Science in Engineering, Universidad Diego Portales, Chile, Diploma in Business Intelligence, Universidad de Chile, Chile, Diploma in Data Science and Big Data Analytics, MIT, Data Science & AI Engineer Professional Certificate, IBM, Ph.D Student in Social Complexity Science, Universidad Del Desarrollo. 
+Adolfo is a Ph.D. graduate in Social Complexity Science from Universidad del Desarrollo. His dissertation, completed in April 2026, is titled **“A transparent neural architecture reveals the structure and variability of ideological organization across societies.”**
+
+He is a Civil Industrial Engineer and Master of Science in Engineering from Universidad Diego Portales, Chile. He also holds diplomas in Business Intelligence from Universidad de Chile and Data Science and Big Data Analytics from MIT, plus a Data Science & AI Engineer Professional Certificate from IBM.
 
 Professional with 8 years of experience developing actionable predictive models using Machine Learning and Deep Learning techniques in leading Retail and Services companies in Marketing, Commercial and Customer Care areas.
 
@@ -61,4 +63,3 @@ Professional with 8 years of experience developing actionable predictive models 
 - Data Scientist – Walmart Chile
 - Data Management Specialist – Enel Chile
 - Business Intelligence Specialist – Enel Chile
-

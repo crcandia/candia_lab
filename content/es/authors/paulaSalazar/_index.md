@@ -22,6 +22,5 @@ social:
 #       # year: 2008
 email: ""
 user_groups:
-  # - Estudiantes de pregrado
-  - Asistentes de investigación
+  - Miembros anteriores
 ---

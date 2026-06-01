@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Juan Illanes
 title: Juan Illanes
-role: Estudiante de doctorado
+role: Estudiante visitante de magíster
 interests:
   -
 social:
@@ -20,7 +20,5 @@ social:
 #       # year: 2008
 email: ""
 user_groups:
-  # - Estudiantes de pregrado
-  - Estudiantes de doctorado
-  - Investigadores
+  - Visitantes
 ---

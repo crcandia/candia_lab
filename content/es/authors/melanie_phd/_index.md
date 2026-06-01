@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Melanie Oyarzún
 title: Melanie Oyarzún
-role: Estudiante de doctorado
+role: Doctora graduada
 interests:
   - Economía laboral
   - Economía del desarrollo

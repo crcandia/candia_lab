@@ -51,7 +51,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://medium.com/@crcandiav/socialrec-personalizaci%C3%B3n-de-la-experiencia-educativa-a-trav%C3%A9s-de-sistemas-de-recomendaci%C3%B3n-be4f08cf7aba'
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -87,7 +87,11 @@ div {
 
 
 <div>
-This project was undertaken as part of the University's Personalization Strategic Project, and it involved overcoming several challenges. The first of these was integrating data from various sources, each with their own unique formats, which required significant effort to ensure compatibility. Additionally, privacy and security were paramount concerns given the sensitive nature of the data. To address these issues, we developed both an anonymization protocol and a de-identification process that could preserve the necessary granularity of the data. Our team also developed a novel algorithm capable of creating a benchmark for inferring social networks from router connections. Finally, we integrated the analysis of mixed, individual, and relational data to build a recommendation system based on machine learning and interaction networks, which is a cutting-edge approach. Our work will be valuable for researchers and companies looking to develop state-of-the-art recommendation systems in their own research or business endeavors.
+This project was undertaken as part of Universidad del Desarrollo's personalization strategic project. It integrated data from multiple sources and formats to build early risk profiles and recommender systems for improving the educational experience.
+
+Privacy and security were central because the data were sensitive. To address this, we developed anonymization and de-identification protocols that preserve enough granularity for analysis while protecting individuals. The team also developed an algorithmic benchmark for inferring social networks from router connections and combined individual, mixed, and relational data to create recommendations based on machine learning and interaction networks.
+
+A project essay is available on [Medium](https://medium.com/@crcandiav/socialrec-personalizaci%C3%B3n-de-la-experiencia-educativa-a-trav%C3%A9s-de-sistemas-de-recomendaci%C3%B3n-be4f08cf7aba).
 </div>
 
 <br>

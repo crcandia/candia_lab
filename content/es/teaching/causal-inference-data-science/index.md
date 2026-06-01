@@ -1,6 +1,6 @@
 ---
 title: "Inferencia Causal para Ciencia de Datos"
-date: "2025-08-01"
+date: "2024-08-01"
 authors:
   - admin
 summary: Curso sobre diseños causales, experimentos, variables instrumentales, diferencias en diferencias, matching y evaluación de intervenciones con datos observacionales.

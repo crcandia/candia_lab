@@ -1,6 +1,6 @@
 ---
 title: "Ciencias Sociales Computacionales"
-date: "2025-08-01"
+date: "2024-03-01"
 authors:
   - admin
 summary: Formación en datos conductuales a gran escala, redes sociales, experimentos, IA y análisis de sistemas sociales guiado por teoría.

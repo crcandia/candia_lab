@@ -22,7 +22,7 @@ url_dataset: ""
 url_project: ""
 url_source: "https://academic.oup.com/book/61717/chapter/541528830"
 image:
-  caption: "Figura del capítulo"
+  caption: "Esquema específico del capítulo: archivos, atención y memoria colectiva"
   focal_point: ""
   preview_only: false
 projects: []

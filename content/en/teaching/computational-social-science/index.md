@@ -1,6 +1,6 @@
 ---
 title: "Computational Social Science"
-date: "2025-08-01"
+date: "2024-03-01"
 authors:
   - admin
 summary: Training in large-scale behavioral data, social networks, experiments, AI, and theory-driven analysis of social systems.

@@ -51,7 +51,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://medium.com/@crcandiav/socialrec-personalizaci%C3%B3n-de-la-experiencia-educativa-a-trav%C3%A9s-de-sistemas-de-recomendaci%C3%B3n-be4f08cf7aba'
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -89,7 +89,9 @@ div {
 <div>
 Este proyecto se desarrolló como parte del Proyecto Estratégico de Personalización de la Universidad del Desarrollo. Integró datos de múltiples fuentes y formatos para construir perfiles de riesgo temprano y sistemas de recomendación orientados a mejorar la experiencia educativa.
 
-La privacidad y seguridad fueron preocupaciones centrales debido a la sensibilidad de los datos. Para abordarlas desarrollamos protocolos de anonimización y de-identificación que preservan la granularidad necesaria para el análisis. El equipo también desarrolló un algoritmo para inferir redes sociales a partir de conexiones de router y combinó datos individuales, mixtos y relacionales para crear recomendaciones basadas en machine learning y redes de interacción.
+La privacidad y seguridad fueron preocupaciones centrales debido a la sensibilidad de los datos. Para abordarlas desarrollamos protocolos de anonimización y de-identificación que preservan la granularidad necesaria para el análisis. El equipo también desarrolló un benchmark algorítmico para inferir redes sociales a partir de conexiones de router y combinó datos individuales, mixtos y relacionales para crear recomendaciones basadas en machine learning y redes de interacción.
+
+Un ensayo sobre el proyecto está disponible en [Medium](https://medium.com/@crcandiav/socialrec-personalizaci%C3%B3n-de-la-experiencia-educativa-a-trav%C3%A9s-de-sistemas-de-recomendaci%C3%B3n-be4f08cf7aba).
 </div>
 
 <br>

@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Adolfo Fuentes
 title: Adolfo Fuentes
-role: Candidato a doctorado
+role: Doctor graduado
 interests:
   - Ciencias sociales computacionales
   - Analítica de negocios
@@ -32,8 +32,8 @@ social:
 
 education:
   courses:
-    - course: Ph.D. en Ciencias de la Complejidad Social - Student
-    - course: Magíster en Data Science - Student
+    - course: Ph.D. en Ciencias de la Complejidad Social
+    - course: Magíster en Data Science
     - course: Diploma in Cognitive and Social Neuroscience
     - course: Diploma in Business Intelligence
     - course: Magíster en Ingeniería Industrial
@@ -45,11 +45,13 @@ education:
 
 email: ""
 user_groups:
-  - Estudiantes de doctorado
+  - Egresados
   - Investigadores
 ---
 
-Adolfo es ingeniero civil industrial y magíster en Ciencias de la Ingeniería por la Universidad Diego Portales. Tiene diplomas en Business Intelligence por la Universidad de Chile y en Data Science and Big Data Analytics por MIT, además de una certificación profesional en Data Science & AI Engineering de IBM. Actualmente es estudiante de doctorado en Ciencias de la Complejidad Social en la Universidad del Desarrollo.
+Adolfo es doctor en Ciencias de la Complejidad Social por la Universidad del Desarrollo. Su tesis, defendida en abril de 2026, se titula **“A transparent neural architecture reveals the structure and variability of ideological organization across societies.”**
+
+Es ingeniero civil industrial y magíster en Ciencias de la Ingeniería por la Universidad Diego Portales. Tiene diplomas en Business Intelligence por la Universidad de Chile y en Data Science and Big Data Analytics por MIT, además de una certificación profesional en Data Science & AI Engineering de IBM.
 
 Cuenta con experiencia desarrollando modelos predictivos accionables mediante machine learning y deep learning en empresas líderes de retail y servicios, especialmente en áreas de marketing, comercial y atención al cliente.
 

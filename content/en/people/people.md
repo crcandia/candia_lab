@@ -31,6 +31,7 @@ content:
     - Administration
     - Visitors
     - Collaborators
+    - Past Members
     - Alumni
 
 design:

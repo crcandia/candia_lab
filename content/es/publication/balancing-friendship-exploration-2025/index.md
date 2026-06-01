@@ -25,7 +25,7 @@ url_code: ""
 url_dataset: ""
 url_project: ""
 image:
-  caption: "Image credit: CRiSS-LAB"
+  caption: "Esquema específico del paper: vínculos internos y exploratorios en sala de clases"
   focal_point: ""
   preview_only: false
 projects: []

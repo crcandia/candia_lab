@@ -13,14 +13,14 @@ appearance:
 
 # SEO
 
-description: 'CRiSS-LAB is the Computational Research in Social Science Lab at Universidad del Desarrollo in Santiago, Chile, directed by Cristian Candia, Ph.D. The lab advances computational social science, network science, AI, education analytics, collective memory, mobility, cooperation, and social-impact data science in Chile and internationally.'
+description: 'CRiSS-LAB is the Computational Research in Social Science Lab at Universidad del Desarrollo in Santiago, Chile, directed by Cristian Candia, Ph.D. The lab advances computational social science, network science, AI, education analytics, collective memory, mobility, cooperation, school coexistence, and social-impact data science in Chile and internationally.'
 
 marketing:
   seo:
     site_type: Organization
     local_business_type: 'Research Lab'
     org_name: 'CRiSS-LAB'
-    description: 'CRiSS-LAB is the Computational Research in Social Science Lab at Universidad del Desarrollo in Santiago, Chile, directed by Cristian Candia, Ph.D. We study collective intelligence, collective memory, education, network science, AI, mobility, cooperation, polarization, cultural analytics, and social behavior through data science and complex systems methods.'
+    description: 'CRiSS-LAB is the Computational Research in Social Science Lab at Universidad del Desarrollo in Santiago, Chile, directed by Cristian Candia, Ph.D. We study collective intelligence, collective memory, education, network science, AI, school coexistence, mobility, cooperation, polarization, cultural analytics, and social behavior through data science and complex systems methods.'
     twitter: 'crcandiav'
     keywords:
       - computational social science
@@ -72,9 +72,12 @@ marketing:
       - Data Science Institute UDD
       - Instituto de Data Science UDD
       - FONDECYT Regular
+      - FONDECYT Regular 2026
+      - ANID FONDECYT Cristian Candia
       - science of science
       - bibliometrics
       - graph embeddings
+      - public procurement networks
       - unsupervised machine learning
       - machine learning no supervisado
       - music analytics
@@ -87,8 +90,19 @@ marketing:
       - autism education
       - autismo educación
       - complex systems
+      - Conference on Complex Systems
+      - Best Lightning Talk CCS 2025
       - bullying prevention
       - convivencia escolar
+      - Ley 21.809
+      - Ley de convivencia escolar Chile
+      - Capybara convivencia escolar
+      - Capybara bullying prevention
+      - SocialRec
+      - Lixandria
+      - Discolab
+      - PriorizaChile
+      - Neural Network Nominate
   analytics:
     google_analytics: 'G-SFQPESQQ34'
     baidu_tongji: ''

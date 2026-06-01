@@ -1,9 +1,9 @@
 ---
-title: "Meisner, interaction, and embodied communication"
+title: "Meisner Technique as a knowledge base for attention and social signals"
 authors:
   - admin
-date: "2026-05-30"
-summary: Creative and applied research project using the Meisner technique as a laboratory for attention, presence, listening, reciprocity, and social signal dynamics.
+date: "2024-08-01"
+summary: Living knowledge base and exploratory methods lab connecting Meisner actor training with attention, presence, listening, reciprocity, and social signal dynamics.
 tags:
   - Meisner Technique
   - Social Signals
@@ -11,8 +11,9 @@ tags:
   - Behavioral Science
   - Creative Research
 categories:
-  - Creative Research
+  - Creative Methods
 featured: true
+url_project: "https://meisner.criss-lab.com/"
 image:
   caption: "Image credit: CRiSS-LAB"
   focal_point: ""
@@ -21,6 +22,8 @@ projects: []
 slides:
 ---
 
-This project connects the Meisner technique with CRiSS-LAB's work on interaction, attention, reciprocity, and social behavior. The goal is to use actor-training exercises as a structured setting for observing how people listen, respond, coordinate, and adapt in real time.
+This site is best presented as a **living knowledge base and exploratory methods lab** rather than as a conventional funded research project. It organizes material on the Meisner technique and connects actor-training exercises with CRiSS-LAB's broader interest in interaction, attention, reciprocity, and social behavior.
 
-The project opens a bridge between computational social science and embodied communication. It can inform teaching, leadership training, teamwork, human-AI interaction, and new ways of studying social signals beyond surveys and static behavioral records.
+The research value is methodological: Meisner exercises create structured situations where people practice presence, listening, response, coordination, and adaptation in real time. That makes the material relevant for teaching, leadership training, teamwork, human-AI interaction, and future work on social signal dynamics beyond surveys and static behavioral records.
+
+The public knowledge base is available at [meisner.criss-lab.com](https://meisner.criss-lab.com/).

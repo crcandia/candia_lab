@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Yessica Herrera
 title: Yessica Herrera
-role: Estudiante de doctorado
+role: Doctora graduada
 interests:
   - Ciencia del arte
   - Ciencia de la ciencia

@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Joselina Davyt
 title: Joselina Davyt
-role: Candidato a doctorado
+role: Doctora graduada
 interests:
   -
 social:
@@ -20,6 +20,8 @@ social:
 #       # year: 2008
 email: ""
 user_groups:
-  - Estudiantes de doctorado
+  - Egresados
   - Investigadores
 ---
+
+Joselina es doctora en Ciencias de la Complejidad Social por la Universidad del Desarrollo. Su tesis, defendida en enero de 2026, se titula **“The cost of being ‘late’: tracing misalignment and misdiagnosis through relational architectures.”**

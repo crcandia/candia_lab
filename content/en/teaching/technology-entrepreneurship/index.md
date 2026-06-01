@@ -1,15 +1,17 @@
 ---
-title: "Technological Entrepreneurship and Applied AI"
-date: "2025-08-01"
+title: "Technology Innovation and Venture Creation"
+date: "2026-03-01"
 authors:
   - admin
-summary: Course and mentoring area on turning data science, AI, and network science research into usable products and public-impact ventures.
+summary: Current course on innovation, venture creation, applied AI, evidence-based product design, and translation of data science into usable organizations and startups.
 tags:
   - Entrepreneurship
   - Applied AI
   - Product Design
   - Innovation
-featured: false
+featured: true
 ---
 
-This teaching area helps students move from research ideas and prototypes to usable products. It covers problem discovery, evidence-based product design, technical validation, impact metrics, responsible AI, and the translation of computational social science into tools for organizations, schools, and public institutions.
+This course helps students move from research ideas and early prototypes to usable ventures. It covers problem discovery, customer and stakeholder validation, evidence-based product design, technical feasibility, responsible AI, impact metrics, business models, and go-to-market strategy.
+
+The course connects computational social science, data science, and AI with real organizational needs: schools, public institutions, companies, civic platforms, and social-impact startups.

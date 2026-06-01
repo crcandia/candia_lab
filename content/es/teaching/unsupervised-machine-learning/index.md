@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning No Supervisado"
-date: "2026-05-30"
+date: "2025-05-01"
 authors:
   - admin
 summary: Curso sobre clustering, reducción de dimensionalidad, embeddings, modelos de tópicos, anomalías y flujos no supervisados para datos sociales y conductuales.
@@ -11,8 +11,11 @@ tags:
   - Inteligencia Artificial
   - Ciencias Sociales Computacionales
 featured: true
+url_project: "https://nosupervisado.criss-lab.com/"
 ---
 
 Este curso introduce el aprendizaje no supervisado como un marco práctico para encontrar estructura en datos complejos sin etiquetas predefinidas. Los estudiantes trabajan con clustering, reducción de dimensionalidad, embeddings, factorización matricial, modelos de tópicos, detección de anomalías, representaciones de grafos y validación de modelos.
 
 El foco está en aplicaciones de ciencia de datos y ciencias sociales computacionales: trazas conductuales, texto, redes, educación, cultura, organizaciones y problemas de política pública.
+
+El sitio público del curso está disponible en [nosupervisado.criss-lab.com](https://nosupervisado.criss-lab.com/).

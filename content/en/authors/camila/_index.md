@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Camila Utreras
 title: Camila Utreras
-role: Master's student
+role: Master's Graduate
 interests:
   - 
 social:

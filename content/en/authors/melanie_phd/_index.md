@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Melanie Oyarzún
 title: Melanie Oyarzún
-role: Ph.D. Student
+role: Ph.D. Graduate
 interests:
   - Labor economics
   - Development economics

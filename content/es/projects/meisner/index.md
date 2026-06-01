@@ -1,9 +1,9 @@
 ---
-title: "Meisner, interacción y comunicación encarnada"
+title: "Técnica Meisner como base de conocimiento sobre atención y señales sociales"
 authors:
   - admin
-date: "2026-05-30"
-summary: Proyecto creativo y aplicado que usa la técnica Meisner como laboratorio de atención, presencia, escucha, reciprocidad y señales sociales.
+date: "2024-08-01"
+summary: Base de conocimiento viva y laboratorio exploratorio de métodos que conecta entrenamiento actoral Meisner con atención, presencia, escucha, reciprocidad y dinámicas de señales sociales.
 tags:
   - Técnica Meisner
   - Señales Sociales
@@ -11,8 +11,9 @@ tags:
   - Ciencia del Comportamiento
   - Investigación Creativa
 categories:
-  - Investigación Creativa
+  - Métodos Creativos
 featured: true
+url_project: "https://meisner.criss-lab.com/"
 image:
   caption: "Crédito de imagen: CRiSS-LAB"
   focal_point: ""
@@ -21,6 +22,8 @@ projects: []
 slides:
 ---
 
-Este proyecto conecta la técnica Meisner con el trabajo de CRiSS-LAB en interacción, atención, reciprocidad y comportamiento social. La idea es usar ejercicios de entrenamiento actoral como un entorno estructurado para observar cómo las personas escuchan, responden, coordinan y se adaptan en tiempo real.
+Este sitio se presenta mejor como una **base de conocimiento viva y un laboratorio exploratorio de métodos**, más que como un proyecto de investigación financiado tradicional. Organiza material sobre la técnica Meisner y conecta ejercicios de entrenamiento actoral con el interés de CRiSS-LAB en interacción, atención, reciprocidad y comportamiento social.
 
-La línea abre un puente entre ciencias sociales computacionales y comunicación encarnada, con aplicaciones posibles en docencia, liderazgo, trabajo en equipo e interacción humano-IA.
+Su valor de investigación es metodológico: los ejercicios Meisner generan situaciones estructuradas donde las personas practican presencia, escucha, respuesta, coordinación y adaptación en tiempo real. Por eso el material es relevante para docencia, liderazgo, trabajo en equipo, interacción humano-IA y trabajo futuro sobre dinámicas de señales sociales más allá de encuestas y registros conductuales estáticos.
+
+La base pública está disponible en [meisner.criss-lab.com](https://meisner.criss-lab.com/).

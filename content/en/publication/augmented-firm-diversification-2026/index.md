@@ -26,7 +26,7 @@ url_dataset: ""
 url_project: ""
 url_source: "https://link.springer.com/chapter/10.1007/978-3-032-16723-1_10"
 image:
-  caption: "Image credit: CRiSS-LAB"
+  caption: "Paper-specific schematic: procurement networks and graph embedding space"
   focal_point: ""
   preview_only: false
 projects: []

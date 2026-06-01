@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Pedro Ávila
 title: Pedro Ávila
-role: Master's student
+role: Master's Graduate
 interests:
   - 
 social:
