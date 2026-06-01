@@ -50,6 +50,12 @@ a {
   line-height: 1.12;
 }
 
+.home-section.dark .section-heading h1,
+.home-section.dark .section-heading p,
+.home-section.dark .col-12 {
+  color: #fff;
+}
+
 .section-heading p,
 .article-style,
 .article-style p {
@@ -93,6 +99,17 @@ a {
 .media.stream-item,
 .view-list-item {
   padding: 1rem;
+}
+
+#news .media.stream-item {
+  margin-bottom: 1rem;
+}
+
+#news .media.stream-item img {
+  width: 120px;
+  max-width: 120px;
+  height: auto;
+  border-radius: 6px;
 }
 
 .card-simple,
