@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Matías Bull
 title: Matías Bull
-role: Estudiante de magíster
+role: Magíster graduado
 interests:
 social:
   - icon: envelope

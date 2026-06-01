@@ -25,7 +25,7 @@ url_code: ""
 url_dataset: ""
 url_project: ""
 image:
-  caption: "Paper-specific schematic: inward and exploratory classroom ties"
+  caption: ""
   focal_point: ""
   preview_only: false
 projects: []

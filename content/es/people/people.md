@@ -26,6 +26,7 @@ content:
     - Investigadores postdoctorales
     - Estudiantes de doctorado
     - Asistentes de investigación
+    - Ciencia e Ingeniería de Datos
     - Estudiantes de magíster
     - Estudiantes de pregrado
     - Administración

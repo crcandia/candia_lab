@@ -4,7 +4,7 @@
 title: 'Revving up Sales: Quantifying Automobile Relatedness and Predicting Next Purchase through Network Embeddings'
 
 authors:
-  - Victor Navarro
+  - victor_navarro
   - Alonso Astroza
   - admin
   

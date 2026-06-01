@@ -26,6 +26,7 @@ content:
     - Postdoctoral Fellows
     - Ph.D. Students
     - Research Assistants
+    - Data Scientists & Data Engineers
     - Master's Students
     - Undergraduate Students
     - Administration

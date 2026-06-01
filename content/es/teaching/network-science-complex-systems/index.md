@@ -3,7 +3,7 @@ title: "Ciencia de Redes y Sistemas Complejos"
 date: "2025-08-01"
 authors:
   - admin
-summary: Curso UDD sobre redes complejas, analítica de grafos, modelos nulos, comunidades, difusión y graph machine learning.
+summary: Curso sobre redes complejas, analítica de grafos, modelos nulos, comunidades, difusión y graph machine learning.
 tags:
   - Ciencia de Redes
   - Sistemas Complejos

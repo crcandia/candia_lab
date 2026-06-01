@@ -4,7 +4,7 @@
 title: 'Redes de vehículos y predicción de próxima compra con embeddings'
 
 authors:
-  - Victor Navarro
+  - victor_navarro
   - Alonso Astroza
   - admin
 

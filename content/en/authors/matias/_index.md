@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Matías Bull
 title: Matías Bull
-role: Master's Student
+role: Master's Graduate
 interests:
 social:
   - icon: envelope

@@ -22,7 +22,7 @@ url_dataset: ""
 url_project: ""
 url_source: "https://academic.oup.com/book/61717/chapter/541528830"
 image:
-  caption: "Paper-specific schematic: archives, attention, and collective memory"
+  caption: ""
   focal_point: ""
   preview_only: false
 projects: []

@@ -7,7 +7,7 @@ authors:
   - admin
   - lbravo
   - carlosr
-  - Nicolás Hormazábal
+  - nicolas_hormazabal
   - Roberto Correa
   - Douglas Barraza
   - Felipe Pimentel
@@ -59,7 +59,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://discolab.azurewebsites.net/#/about'
+url_project: 'https://discolab.cl/'
 url_slides: ''
 url_source: ''
 url_video: ''

@@ -3,7 +3,7 @@ title: "Network Science and Complex Systems"
 date: "2025-08-01"
 authors:
   - admin
-summary: Current UDD course on complex networks, graph analytics, null models, communities, diffusion, and graph machine learning.
+summary: Course on complex networks, graph analytics, null models, communities, diffusion, and graph machine learning.
 tags:
   - Network Science
   - Complex Systems

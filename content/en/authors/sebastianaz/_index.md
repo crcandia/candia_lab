@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Sebastián Azocar
 title: Sebastián Azocar
-role: Master's Student
+role: Master's Graduate
 interests:
 # # social:
 #   - icon: twitter
