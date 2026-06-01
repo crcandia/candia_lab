@@ -7,3 +7,97 @@
 .cta-group {
   justify-content: center;
 }
+
+// Keep the Team page compact, scannable, and visually consistent.
+.people-widget {
+  row-gap: 1.25rem;
+}
+
+.people-widget .col-md-12:not(.section-heading) {
+  margin-top: 1.25rem;
+}
+
+.people-widget .col-md-12:not(.section-heading) h2 {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin: 1rem auto 0.5rem;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #1f2933;
+}
+
+.people-widget .col-md-12:not(.section-heading) h2::before,
+.people-widget .col-md-12:not(.section-heading) h2::after {
+  content: "";
+  display: block;
+  width: 2rem;
+  height: 1px;
+  background: rgba(21, 101, 192, 0.35);
+}
+
+.people-widget .people-person {
+  margin-bottom: 1.25rem;
+  padding: 0.9rem 0.75rem;
+  border: 1px solid rgba(21, 101, 192, 0.08);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.78);
+  transition: box-shadow 160ms ease, transform 160ms ease;
+}
+
+.people-widget .people-person:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(31, 41, 51, 0.08);
+}
+
+.people-widget .avatar {
+  width: 150px;
+  max-width: 80%;
+  height: 150px;
+  border: 3px solid #fff;
+  box-shadow: 0 8px 20px rgba(31, 41, 51, 0.12);
+}
+
+.people-widget .portrait-title h2 {
+  margin: 0.85rem 0 0.35rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.people-widget .portrait-title h3 {
+  max-width: 13rem;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.35;
+  color: rgba(0, 0, 0, 0.62);
+}
+
+.people-widget .network-icon {
+  min-height: 1.1rem;
+}
+
+.dark .people-widget .col-md-12:not(.section-heading) h2 {
+  color: #fff;
+}
+
+.dark .people-widget .people-person {
+  border-color: rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.dark .people-widget .portrait-title h3 {
+  color: rgba(255, 255, 255, 0.68);
+}
+
+@media (max-width: 575.98px) {
+  .people-widget .people-person {
+    max-width: 21rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .people-widget .avatar {
+    width: 132px;
+    height: 132px;
+  }
+}
