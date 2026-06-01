@@ -10,7 +10,7 @@ content:
     enable: true
 
 headless: true
-weight: 25
+weight: 90
 view: compact
 
 title: Charlas pasadas

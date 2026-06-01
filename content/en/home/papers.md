@@ -14,10 +14,10 @@ content:
     enable: true
 
 headless: true
-weight: 50
+weight: 40
 view: compact #compact #showcase
 
-title: Featured Research Articles
+title: Latest Research
 subtitle:
 
 # content:

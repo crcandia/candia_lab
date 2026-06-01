@@ -14,7 +14,7 @@ content:
     enable: true
 
 headless: true
-weight: 20
+weight: 90
 view: compact #compact #showcase
 
 title: Past Talks

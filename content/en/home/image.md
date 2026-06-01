@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Computational Research in Social Science Lab
-subtitle: Network science, AI, and behavioral data for public-impact research
+title: CRiSS-LAB
+subtitle: Computational Research in Social Science Lab | Network science, AI, and behavioral data for public-impact research
 
 
 design:
@@ -35,13 +35,6 @@ design:
 advanced:
   css_class: fullscreen
 ---
-<style>
-html {
-    font-size: calc(20px + 0.390625vw);
-}
-</style>
-
-<br>
 <div style="margin: auto; width:60vw;">
 <p style="text-align: center"> CRiSS-LAB studies collective intelligence, collective memory, learning, cooperation, mobility, polarization, and institutional decision-making using network science, causal inference, experimental game theory, machine learning, and large-scale behavioral data.</p>
 </div>

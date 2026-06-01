@@ -1,8 +1,8 @@
 ---
 widget: featured
 headless: true
-weight: 70
-title: Blog
+weight: 80
+title: Desde el blog
 subtitle:
 content:
   page_type: blog

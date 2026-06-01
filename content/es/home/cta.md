@@ -3,7 +3,7 @@ title:
 subtitle:
 widget: blank
 headless: true
-weight: 30
+weight: 60
 design:
   columns: '1'
 ---
@@ -27,6 +27,7 @@ design:
   </div>
   <div class="home-team-cta__visual" aria-label="Retratos seleccionados del equipo CRiSS-LAB">
     <img src="/es/author/cristian-candia/avatar.jpeg" alt="Cristian Candia">
+    <img src="/es/author/diego-ramirez/avatar.jpg" alt="Diego Ramirez">
     <img src="/es/author/ignacio-ormazabal/avatar.jpg" alt="Ignacio Ormazábal">
     <img src="/es/author/jessica-espinoza/avatar.jpg" alt="Jessica Espinoza">
     <img src="/es/author/francisca-droguett/avatar.jpg" alt="Francisca Droguett">

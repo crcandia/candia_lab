@@ -1,7 +1,7 @@
 ---
 widget: featured
 headless: true
-weight: 45
+weight: 30
 title: Current Projects
 subtitle:
 content:

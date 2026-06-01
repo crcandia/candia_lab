@@ -8,6 +8,162 @@
   justify-content: center;
 }
 
+body {
+  color: #1f2933;
+  background: #fff;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+a {
+  transition: color 150ms ease, border-color 150ms ease, background-color 150ms ease;
+}
+
+#navbar-main {
+  border-bottom: 1px solid rgba(21, 101, 192, 0.08);
+  box-shadow: 0 4px 20px rgba(31, 41, 51, 0.04);
+}
+
+#navbar-main .main-menu-item ul li .nav-link {
+  font-size: 0.82rem;
+  font-weight: 650;
+  letter-spacing: 0;
+}
+
+.navbar-brand img {
+  max-height: 54px;
+}
+
+.home-section {
+  padding: 88px 0;
+}
+
+.home-section:nth-of-type(even) {
+  background: #f8fafc;
+}
+
+.home-section .section-heading h1,
+.universal-wrapper h1,
+.article-container h1 {
+  color: #17212b;
+  font-weight: 650;
+  line-height: 1.12;
+}
+
+.section-heading p,
+.article-style,
+.article-style p {
+  line-height: 1.68;
+}
+
+.article-metadata {
+  color: rgba(31, 41, 51, 0.62);
+}
+
+.btn,
+.btn.btn-primary {
+  border-radius: 6px;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.btn-primary {
+  border-color: #155da8;
+  background: #155da8;
+  box-shadow: 0 6px 16px rgba(21, 93, 168, 0.16);
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  border-color: #0f4c8d;
+  background: #0f4c8d;
+  box-shadow: 0 8px 20px rgba(21, 93, 168, 0.2);
+}
+
+.card,
+.card-simple,
+.media.stream-item,
+.view-list-item {
+  border: 1px solid rgba(21, 101, 192, 0.08);
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 8px 22px rgba(31, 41, 51, 0.045);
+}
+
+.media.stream-item,
+.view-list-item {
+  padding: 1rem;
+}
+
+.card-simple,
+.media.stream-item {
+  transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+}
+
+.card-simple:hover,
+.media.stream-item:hover {
+  border-color: rgba(21, 101, 192, 0.18);
+  box-shadow: 0 12px 28px rgba(31, 41, 51, 0.075);
+  transform: translateY(-1px);
+}
+
+.article-title a {
+  color: #17212b;
+  font-weight: 650;
+}
+
+.article-title a:hover {
+  color: #155da8;
+  text-decoration: none;
+}
+
+.badge-light,
+.pub-icon {
+  color: #35536b;
+}
+
+.badge-light {
+  border: 1px solid rgba(21, 101, 192, 0.1);
+  background: rgba(21, 101, 192, 0.06);
+}
+
+footer {
+  border-top: 1px solid rgba(21, 101, 192, 0.08);
+  padding-top: 2rem;
+}
+
+.dark #navbar-main {
+  border-bottom-color: rgba(255, 255, 255, 0.08);
+  box-shadow: none;
+}
+
+.dark .home-section:nth-of-type(even) {
+  background: #23252f;
+}
+
+.dark .home-section .section-heading h1,
+.dark .universal-wrapper h1,
+.dark .article-container h1 {
+  color: #fff;
+}
+
+.dark .card,
+.dark .card-simple,
+.dark .media.stream-item,
+.dark .view-list-item {
+  border-color: rgba(255, 255, 255, 0.08);
+  background: #282a36;
+  box-shadow: none;
+}
+
+.dark .article-title a {
+  color: #fff;
+}
+
+.dark .article-metadata {
+  color: rgba(255, 255, 255, 0.62);
+}
+
 // Keep the Team page compact, scannable, and visually consistent.
 .people-widget {
   row-gap: 1.25rem;
@@ -127,7 +283,7 @@
   color: #1565c0;
   font-size: 0.78rem;
   font-weight: 700;
-  letter-spacing: 0.08em;
+  letter-spacing: 0;
   text-transform: uppercase;
 }
 
@@ -180,7 +336,7 @@
   padding: 0.7rem 1.15rem;
   font-size: 0.92rem;
   font-weight: 700;
-  letter-spacing: 0.02em;
+  letter-spacing: 0;
   text-transform: uppercase;
 }
 
@@ -194,14 +350,15 @@
 }
 
 .home-team-cta__visual {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(72px, 1fr));
-  gap: 0.75rem;
-  justify-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem;
+  align-items: center;
+  justify-content: center;
 }
 
 .home-team-cta__visual img {
-  width: 100%;
+  width: 104px;
   max-width: 118px;
   aspect-ratio: 1;
   object-fit: cover;
@@ -211,8 +368,12 @@
 }
 
 .home-team-cta__visual img:nth-child(2),
-.home-team-cta__visual img:nth-child(5) {
+.home-team-cta__visual img:nth-child(6) {
   transform: translateY(1.25rem);
+}
+
+.home-team-cta__visual img:nth-child(4) {
+  transform: translateY(-0.75rem);
 }
 
 .dark .home-team-cta h2 {
@@ -263,12 +424,12 @@
   }
 
   .home-team-cta__visual {
-    grid-template-columns: repeat(3, 1fr);
     gap: 0.45rem;
   }
 
   .home-team-cta__visual img {
-    max-width: 86px;
+    width: 76px;
+    max-width: 76px;
     border-width: 3px;
   }
 }

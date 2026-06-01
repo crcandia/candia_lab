@@ -1,7 +1,7 @@
 ---
 widget: featured
 headless: true
-weight: 70
+weight: 80
 title: From the Blog
 subtitle:
 content:

@@ -2,7 +2,7 @@
 widget: pages
 headless: true
 weight: 70
-title: Noticias y medios
+title: News & Media
 subtitle:
 content:
   count: 6

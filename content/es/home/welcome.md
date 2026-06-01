@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: true
-weight: 15
+weight: 20
 title: Sobre CRiSS-LAB
 design:
   columns: "1"

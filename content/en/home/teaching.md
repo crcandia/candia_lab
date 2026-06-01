@@ -1,7 +1,7 @@
 ---
 widget: featured
 headless: true
-weight: 60
+weight: 50
 title: Teaching
 subtitle:
 content:
