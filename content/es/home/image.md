@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: CRiSS-LAB
-subtitle: Laboratorio de Ciencias Sociales Computacionales | Ciencia de redes, IA y datos conductuales para investigación con impacto público
+title: Laboratorio de Ciencias Sociales Computacionales
+subtitle: CRiSS-LAB | Ciencia de redes, IA y datos conductuales para investigación con impacto público
 
 
 design:
@@ -22,14 +22,13 @@ design:
     position: right
     # color: '#666'
     image: welcome.jpg
-    image_darken: 0.42
+    image_darken: 0.34
     image_parallax: true
     image_position: center
     image_size: cover
     text_color_light: true
   spacing:
-    # padding: ['15%', '0', '20px', '0']
-    padding: ['25vh', '0', '20px', '0']
+    padding: ['16vh', '0', '20px', '0']
     
 
 advanced:

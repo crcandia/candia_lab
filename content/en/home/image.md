@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: CRiSS-LAB
-subtitle: Computational Social Science Lab | Network science, AI, and behavioral data for public-impact research
+title: Computational Research in Social Science Lab
+subtitle: CRiSS-LAB | Network science, AI, and behavioral data for public-impact research
 
 
 design:
@@ -22,14 +22,13 @@ design:
     position: right
     # color: '#666'
     image: welcome.jpg
-    image_darken: 0.48
+    image_darken: 0.34
     image_parallax: true
     image_position: center
     image_size: cover
     text_color_light: true
   spacing:
-    # padding: ['15vh', '0', '20px', '0']
-    padding: ['15%', '0', '20px', '0']
+    padding: ['16vh', '0', '20px', '0']
     
 
 advanced:

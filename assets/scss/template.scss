@@ -225,7 +225,7 @@ footer {
 
 #image.home-section {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
 }
 
 #image .container {
@@ -434,9 +434,9 @@ footer {
   }
 
   #image .section-heading h1 {
-    width: 84vw;
-    max-width: 21rem;
-    font-size: 2.35rem;
+    width: 86vw;
+    max-width: 22rem;
+    font-size: 2.2rem;
   }
 
   #image .section-heading p {
