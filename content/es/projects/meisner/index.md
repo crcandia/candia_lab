@@ -12,7 +12,7 @@ tags:
   - Investigación Creativa
 categories:
   - Métodos Creativos
-featured: true
+featured: false
 url_project: "https://meisner.criss-lab.com/"
 image:
   caption: "Crédito de imagen: CRiSS-LAB"

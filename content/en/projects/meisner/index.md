@@ -12,7 +12,7 @@ tags:
   - Creative Research
 categories:
   - Creative Methods
-featured: true
+featured: false
 url_project: "https://meisner.criss-lab.com/"
 image:
   caption: "Image credit: CRiSS-LAB"
