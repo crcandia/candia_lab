@@ -9,6 +9,8 @@
 }
 
 body {
+  max-width: 100%;
+  overflow-x: hidden;
   color: #1f2933;
   background: #fff;
   -webkit-font-smoothing: antialiased;
@@ -20,8 +22,13 @@ a {
 }
 
 #navbar-main {
+  min-height: 64px;
   border-bottom: 1px solid rgba(21, 101, 192, 0.08);
   box-shadow: 0 4px 20px rgba(31, 41, 51, 0.04);
+}
+
+#navbar-main .container-xl {
+  align-items: center;
 }
 
 #navbar-main .main-menu-item ul li .nav-link {
@@ -30,8 +37,23 @@ a {
   letter-spacing: 0;
 }
 
+.navbar-brand {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 1.1rem;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
 .navbar-brand img {
-  max-height: 54px;
+  display: block;
+  width: auto;
+  max-height: 44px;
+  object-fit: contain;
+}
+
+.navbar-brand-mobile-wrapper {
+  align-items: center;
 }
 
 .home-section {
@@ -98,7 +120,27 @@ a {
 
 .media.stream-item,
 .view-list-item {
+  width: 100%;
+  max-width: 100%;
   padding: 1rem;
+  overflow: hidden;
+}
+
+.media.stream-item .media-body,
+.view-list-item .media-body {
+  min-width: 0;
+  max-width: 100%;
+}
+
+.media.stream-item .article-title,
+.media.stream-item .article-style,
+.media.stream-item .article-metadata,
+.view-list-item .article-title,
+.view-list-item .article-style,
+.view-list-item .article-metadata {
+  max-width: 100%;
+  overflow-wrap: break-word;
+  word-break: normal;
 }
 
 #news .media.stream-item {
@@ -179,6 +221,102 @@ footer {
 
 .dark .article-metadata {
   color: rgba(255, 255, 255, 0.62);
+}
+
+#image.home-section {
+  display: flex;
+  align-items: center;
+}
+
+#image .container {
+  width: 100%;
+  max-width: 1180px;
+}
+
+#image .row {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+#image .col-12 {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+#image .section-heading h1 {
+  width: 90vw;
+  max-width: 56rem;
+  margin-left: auto;
+  margin-right: auto;
+  color: #fff;
+  font-size: 4.1rem;
+  line-height: 1.06;
+  text-shadow: 0 3px 18px rgba(0, 0, 0, 0.45);
+}
+
+#image .section-heading p {
+  max-width: 58rem;
+  margin: 1rem auto 0;
+  color: rgba(255, 255, 255, 0.94);
+  font-size: 1.3rem;
+  line-height: 1.45;
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.45);
+}
+
+.home-hero-copy {
+  width: 88vw;
+  max-width: 58rem;
+  margin: 2rem auto 0;
+}
+
+.home-hero-copy p {
+  margin: 0 auto;
+  color: rgba(255, 255, 255, 0.96);
+  font-size: 1.18rem;
+  line-height: 1.72;
+  text-align: center;
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.48);
+}
+
+@media (max-width: 991.98px) {
+  #navbar-main .container-xl {
+    position: relative;
+    min-height: 58px;
+  }
+
+  #navbar-main .navbar-toggler,
+  #navbar-main .nav-icons {
+    position: relative;
+    z-index: 2;
+  }
+
+  .navbar-brand-mobile-wrapper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 1;
+    transform: translate(-50%, -50%);
+  }
+
+  .navbar-brand-mobile-wrapper .navbar-brand {
+    margin: 0;
+  }
+
+  .navbar-brand-mobile-wrapper img {
+    max-width: 190px;
+  }
+
+  #image .section-heading h1 {
+    font-size: 3.45rem;
+  }
+
+  #image .section-heading p {
+    font-size: 1.18rem;
+  }
+
+  .home-hero-copy p {
+    font-size: 1.08rem;
+  }
 }
 
 // Keep the Team page compact, scannable, and visually consistent.
@@ -275,6 +413,69 @@ footer {
 }
 
 @media (max-width: 575.98px) {
+  #navbar-main {
+    min-height: 58px;
+  }
+
+  .navbar-brand img {
+    max-height: 38px;
+  }
+
+  #image.home-section {
+    min-height: calc(100vh - 58px);
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  #image .container {
+    max-width: 100%;
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+
+  #image .section-heading h1 {
+    width: 84vw;
+    max-width: 21rem;
+    font-size: 2.35rem;
+  }
+
+  #image .section-heading p {
+    width: 78vw;
+    max-width: 21rem;
+    font-size: 0.94rem;
+  }
+
+  .home-hero-copy {
+    width: 78vw;
+    max-width: 21rem;
+    margin-top: 1.7rem;
+  }
+
+  .home-hero-copy p {
+    font-size: 0.92rem;
+    line-height: 1.64;
+  }
+
+  .media.stream-item,
+  .view-list-item {
+    padding: 0.95rem;
+  }
+
+  .media.stream-item.view-compact {
+    display: block;
+  }
+
+  .media.stream-item .ml-3 {
+    margin-top: 0.9rem;
+    margin-left: 0 !important;
+  }
+
+  .media.stream-item .ml-3 img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  }
+
   .people-widget .people-person {
     max-width: 21rem;
     margin-left: auto;

@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Computational Research in Social Science Lab
-subtitle: CRiSS-LAB | Network science, AI, and behavioral data for public-impact research
+title: CRiSS-LAB
+subtitle: Computational Social Science Lab | Network science, AI, and behavioral data for public-impact research
 
 
 design:
@@ -22,7 +22,7 @@ design:
     position: right
     # color: '#666'
     image: welcome.jpg
-    image_darken: 0.4
+    image_darken: 0.48
     image_parallax: true
     image_position: center
     image_size: cover
@@ -35,6 +35,6 @@ design:
 advanced:
   css_class: fullscreen
 ---
-<div style="margin: auto; width:60vw;">
-<p style="text-align: center">CRiSS-LAB studies how people learn, remember, cooperate, move, debate, and make decisions in complex social systems. We combine network science, causal inference, machine learning, experimental game theory, and large-scale behavioral data to produce rigorous evidence and public-interest technology for education, culture, organizations, policy, and civic life.</p>
+<div class="home-hero-copy">
+<p>CRiSS-LAB studies how people learn, remember, cooperate, move, deliberate, and make decisions in complex social systems. We combine network science, causal inference, machine learning, experimental game theory, and large-scale behavioral data to produce rigorous evidence and public-interest technology for education, culture, organizations, public policy, and civic life.</p>
 </div>

@@ -1,11 +1,11 @@
 ---
-title: "scoring-fraude: scoring explicable de riesgo de fraude con redes transaccionales"
+title: "Prevención de fraude bancario con scoring explicable de riesgo"
 authors:
   - admin
   - nicolas_hormazabal
   - victor_navarro
 date: "2026-03-04"
-summary: Proyecto de IA aplicada, conocido internamente como scoring-fraude, para scoring explicable de riesgo de fraude usando señales de redes transaccionales, detección de anomalías y flujos de apoyo a decisiones para equipos de riesgo financiero.
+summary: Proyecto de IA aplicada para prevención de fraude bancario usando scoring explicable de riesgo, señales de redes transaccionales, detección de anomalías y flujos de apoyo a decisiones para equipos de riesgo financiero.
 tags:
   - Inteligencia Artificial Aplicada
   - Detección de Fraude
@@ -26,7 +26,7 @@ projects: []
 slides:
 ---
 
-**scoring-fraude** es un proyecto aplicado que desarrolla un marco explicable para scoring de riesgo de fraude a partir de redes transaccionales. El objetivo es ayudar a equipos de riesgo y operaciones a priorizar revisión, monitoreo y seguimiento usando señales relacionales interpretables, en lugar de depender solamente de predicciones de caja negra.
+**Prevención de fraude bancario con scoring explicable de riesgo** es un proyecto aplicado que desarrolla un marco interpretable para scoring de riesgo de fraude a partir de redes transaccionales. El objetivo es ayudar a equipos de riesgo y operaciones a priorizar revisión, monitoreo y seguimiento usando señales relacionales, en lugar de depender solamente de predicciones de caja negra.
 
 El trabajo conecta capacidades de CRiSS-LAB en ciencia de redes, analítica de grafos, machine learning, detección de anomalías y apoyo a decisiones. A nivel público, el enfoque estudia cómo interactúan las cuentas dentro de vecindarios transaccionales locales, cómo la exposición a riesgo previamente identificado aparece en la red, y qué patrones estructurales sugieren concentración, dispersión, movimiento rápido, recencia o comportamiento inusual del vecindario.
 

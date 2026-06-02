@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Laboratorio de Ciencias Sociales Computacionales
-subtitle: CRiSS-LAB | Ciencia de redes, IA y datos conductuales para investigación con impacto público
+title: CRiSS-LAB
+subtitle: Laboratorio de Ciencias Sociales Computacionales | Ciencia de redes, IA y datos conductuales para investigación con impacto público
 
 
 design:
@@ -22,7 +22,7 @@ design:
     position: right
     # color: '#666'
     image: welcome.jpg
-    image_darken: 0.3
+    image_darken: 0.42
     image_parallax: true
     image_position: center
     image_size: cover
@@ -35,6 +35,6 @@ design:
 advanced:
   css_class: fullscreen
 ---
-<div style="margin: auto; width:70vw">
-<p style="text-align: center">CRiSS-LAB estudia cómo las personas aprenden, recuerdan, cooperan, se mueven, deliberan y toman decisiones en sistemas sociales complejos. Combinamos ciencia de redes, inferencia causal, machine learning, teoría de juegos experimental y datos conductuales a gran escala para producir evidencia rigurosa y tecnología de interés público para educación, cultura, organizaciones, política pública y vida cívica.</p>
+<div class="home-hero-copy">
+<p>CRiSS-LAB estudia cómo las personas aprenden, recuerdan, cooperan, se mueven, deliberan y toman decisiones en sistemas sociales complejos. Combinamos ciencia de redes, inferencia causal, machine learning, teoría de juegos experimental y datos conductuales a gran escala para producir evidencia rigurosa y tecnología de interés público para educación, cultura, organizaciones, política pública y vida cívica.</p>
 </div>
