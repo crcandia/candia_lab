@@ -3,6 +3,7 @@ title: "DYNAMAP: applied intelligence for polarization and markets"
 authors:
   - admin
   - adolfo
+  - crisjara
 date: "2026-06-03"
 summary: Applied AI and network science initiative that grew from polarization research into dynamic mapping tools for civic debate, organizations, markets, education, and strategic decision-making.
 tags:
@@ -21,7 +22,7 @@ projects: []
 slides:
 ---
 
-**DYNAMAP** is an applied intelligence initiative developed by Cristian Candia and Adolfo Fuentes. It grew from CRiSS-LAB research on polarization, political ideology, public debate, and collective behavior. The original research question was how to represent complex opinion landscapes without reducing people, groups, or institutions to a single left-right axis. That question naturally evolved into a broader challenge: how to build dynamic maps that help decision-makers understand positions, distances, clusters, tensions, and opportunities in complex social systems.
+**DYNAMAP** is an applied intelligence initiative developed by Cristian Candia, Adolfo Fuentes, and Cristian Jara-Figueroa. It grew from CRiSS-LAB research on polarization, political ideology, public debate, and collective behavior. The original research question was how to represent complex opinion landscapes without reducing people, groups, or institutions to a single left-right axis. That question naturally evolved into a broader challenge: how to build dynamic maps that help decision-makers understand positions, distances, clusters, tensions, and opportunities in complex social systems.
 
 At a public level, DYNAMAP combines ideas from computational social science, network science, machine learning, and behavioral data analysis to create interpretable maps of social, organizational, and market spaces. It is designed as a decision-support layer rather than as a black-box prediction system: the goal is to help users see structure, compare alternatives, detect emerging divisions, and identify actionable opportunities.
 

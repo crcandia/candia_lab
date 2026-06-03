@@ -3,6 +3,7 @@ title: "DYNAMAP: inteligencia aplicada para polarización y mercados"
 authors:
   - admin
   - adolfo
+  - crisjara
 date: "2026-06-03"
 summary: Iniciativa de IA aplicada y ciencia de redes que nace desde investigación sobre polarización y evoluciona hacia mapas dinámicos para debate público, organizaciones, mercados, educación y toma de decisiones estratégicas.
 tags:
@@ -21,7 +22,7 @@ projects: []
 slides:
 ---
 
-**DYNAMAP** es una iniciativa de inteligencia aplicada desarrollada por Cristian Candia y Adolfo Fuentes. Nace del trabajo de CRiSS-LAB sobre polarización, ideología política, debate público y comportamiento colectivo. La pregunta original era cómo representar paisajes complejos de opinión sin reducir a personas, grupos o instituciones a un único eje izquierda-derecha. Esa pregunta evolucionó naturalmente hacia un desafío más amplio: construir mapas dinámicos que ayuden a tomadores de decisión a entender posiciones, distancias, agrupamientos, tensiones y oportunidades en sistemas sociales complejos.
+**DYNAMAP** es una iniciativa de inteligencia aplicada desarrollada por Cristian Candia, Adolfo Fuentes y Cristian Jara-Figueroa. Nace del trabajo de CRiSS-LAB sobre polarización, ideología política, debate público y comportamiento colectivo. La pregunta original era cómo representar paisajes complejos de opinión sin reducir a personas, grupos o instituciones a un único eje izquierda-derecha. Esa pregunta evolucionó naturalmente hacia un desafío más amplio: construir mapas dinámicos que ayuden a tomadores de decisión a entender posiciones, distancias, agrupamientos, tensiones y oportunidades en sistemas sociales complejos.
 
 A nivel público, DYNAMAP combina ideas de ciencias sociales computacionales, ciencia de redes, machine learning y análisis de datos conductuales para crear mapas interpretables de espacios sociales, organizacionales y de mercado. Está pensado como una capa de apoyo a decisiones, no como un sistema predictivo de caja negra: el objetivo es ayudar a ver estructura, comparar alternativas, detectar divisiones emergentes e identificar oportunidades accionables.
 
