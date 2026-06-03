@@ -13,18 +13,23 @@ es:
   contentDir: content/es
   title: CRiSS-LAB Chile
   params:
-    description: Laboratorio de Ciencias Sociales Computacionales de la Universidad del Desarrollo en Santiago de Chile, dirigido por Cristian Candia, Ph.D. Investigamos ciencia de redes, inteligencia artificial, memoria colectiva, educación, convivencia escolar, movilidad, cooperación y comportamiento social.
+    description: Laboratorio de Ciencias Sociales Computacionales de la Universidad del Desarrollo en Santiago de Chile, dirigido por Cristian Candia, Ph.D. Desarrollamos investigación y tecnología en IA aplicada, ciencia de redes, ciencias sociales computacionales, convivencia escolar, analítica de negocios, tecnología cívica, riesgo de fraude, memoria colectiva y datos conductuales.
     marketing:
       seo:
         site_type: Organization
         local_business_type: 'Research Lab'
         org_name: 'CRiSS-LAB'
-        description: Laboratorio de Ciencias Sociales Computacionales de la Universidad del Desarrollo en Santiago de Chile, dirigido por Cristian Candia, Ph.D. Investigamos ciencia de redes, inteligencia artificial, memoria colectiva, educación, convivencia escolar, movilidad, cooperación, cultura y comportamiento social con métodos de ciencia de datos y sistemas complejos.
+        description: Laboratorio de Ciencias Sociales Computacionales de la Universidad del Desarrollo en Santiago de Chile, dirigido por Cristian Candia, Ph.D. Usamos IA aplicada, ciencias sociales computacionales, ciencia de redes, inferencia causal, machine learning y datos conductuales para producir investigación rigurosa y tecnología de apoyo a decisiones en educación, convivencia escolar, negocios, política pública, debate cívico, riesgo de fraude e innovación con impacto social.
         twitter: 'crcandiav'
         keywords:
           - ciencias sociales computacionales
           - ciencia de redes Chile
           - inteligencia artificial Chile
+          - inteligencia artificial aplicada
+          - IA aplicada
+          - IA aplicada Chile
+          - IA para negocios
+          - estrategia de IA
           - laboratorio de investigación Chile
           - Cristian Candia
           - Cristian Candia Vallejos
@@ -37,9 +42,12 @@ es:
           - Cristian Candia Google Scholar
           - Cristian Candia ORCID
           - CRiSS-LAB
+          - CRiSSLAB
+          - CRISS LAB
+          - CRiSS Lab
           - Computational Research in Social Science Lab
           - CRiSS-LAB Chile
-          - CRiSS-LAB Chile
+          - CRiSSLAB Chile
           - Universidad del Desarrollo
           - Facultad de Ingeniería UDD
           - Instituto de Data Science UDD
@@ -47,6 +55,8 @@ es:
           - convivencia escolar
           - prevención del bullying
           - ciencia de datos
+          - ciencia de redes aplicada
+          - ciencias sociales computacionales aplicadas
           - científico de datos Chile
           - científico social computacional
           - laboratorio ciencia de datos Chile
@@ -60,6 +70,11 @@ es:
           - Ley de convivencia escolar Chile
           - Capybara convivencia escolar
           - prevención del bullying Chile
+          - clima escolar
+          - analítica de convivencia escolar
+          - IA para convivencia escolar
+          - prevención de violencia escolar
+          - tecnología educativa Chile
           - FONDECYT Regular 2026
           - ANID FONDECYT Cristian Candia
           - SocialRec
@@ -74,6 +89,16 @@ es:
           - analítica de grafos fraude
           - fraud detection
           - fraud risk scoring
+          - analítica de riesgo financiero
+          - DYNAMAP
+          - mapas dinámicos
+          - analítica de polarización
+          - mapeo ideológico
+          - mapeo de actores
+          - inteligencia de mercado
+          - analítica de redes organizacionales
+          - tecnología cívica
+          - inteligencia de decisiones
       analytics:
         google_analytics: 'G-SFQPESQQ34'
         baidu_tongji: ''

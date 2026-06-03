@@ -13,24 +13,36 @@ appearance:
 
 # SEO
 
-description: 'CRiSS-LAB is the Computational Research in Social Science Lab at Universidad del Desarrollo in Santiago, Chile, directed by Cristian Candia, Ph.D. The lab advances computational social science, network science, AI, education analytics, collective memory, mobility, cooperation, school coexistence, and social-impact data science in Chile and internationally.'
+description: 'CRiSS-LAB is the Computational Research in Social Science Lab at Universidad del Desarrollo in Santiago, Chile, directed by Cristian Candia, Ph.D. The lab advances applied AI, computational social science, network science, business analytics, education analytics, school coexistence, civic technology, fraud-risk analytics, collective memory, and social-impact data science.'
 
 marketing:
   seo:
     site_type: Organization
     local_business_type: 'Research Lab'
     org_name: 'CRiSS-LAB'
-    description: 'CRiSS-LAB is the Computational Research in Social Science Lab at Universidad del Desarrollo in Santiago, Chile, directed by Cristian Candia, Ph.D. We study collective intelligence, collective memory, education, network science, AI, school coexistence, mobility, cooperation, polarization, cultural analytics, and social behavior through data science and complex systems methods.'
+    description: 'CRiSS-LAB is the Computational Research in Social Science Lab at Universidad del Desarrollo in Santiago, Chile, directed by Cristian Candia, Ph.D. We use applied AI, computational social science, network science, causal inference, machine learning, and behavioral data to build rigorous research and decision-support technology for education, school coexistence, business, public policy, civic debate, fraud-risk analytics, and social-impact innovation.'
     twitter: 'crcandiav'
     keywords:
       - computational social science
       - research lab
       - laboratorio de investigación
       - artificial intelligence
+      - applied artificial intelligence
+      - applied AI
+      - applied AI Chile
+      - AI for business
+      - AI strategy
       - ciencias sociales computacionales
       - inteligencia artificial
+      - inteligencia artificial aplicada
+      - IA aplicada
       - memoria colectiva
       - collective memory
+      - business analytics
+      - business analytics Chile
+      - decision intelligence
+      - social impact technology
+      - civic technology
       - economic complexity
       - complejidad económica
       - social networks
@@ -52,14 +64,18 @@ marketing:
       - Cristian Candia Northwestern
       - Cristian Candia MIT Media Lab
       - CRiSS-LAB
+      - CRiSSLAB
+      - CRISS LAB
+      - CRiSS Lab
       - Computational Research in Social Science Lab
       - CRiSS-LAB Chile
-      - CRiSS-LAB Chile
+      - CRiSSLAB Chile
       - Universidad del Desarrollo
       - Universidad del Desarrollo Facultad de Ingeniería
       - Instituto de Data Science UDD
       - learning analytics
       - network science
+      - applied network science
       - network science Chile
       - experimental game theory
       - causal inference
@@ -68,6 +84,7 @@ marketing:
       - research laboratory Chile
       - computational social science Chile
       - ciencias sociales computacionales Chile
+      - applied computational social science
       - laboratorio ciencia de datos Chile
       - ciencia de redes Chile
       - inteligencia artificial Chile
@@ -98,6 +115,11 @@ marketing:
       - Best Lightning Talk CCS 2025
       - bullying prevention
       - convivencia escolar
+      - school coexistence
+      - school climate analytics
+      - AI for school coexistence
+      - school violence prevention
+      - educational technology Chile
       - Ley 21.809
       - Ley de convivencia escolar Chile
       - Capybara convivencia escolar
@@ -114,6 +136,14 @@ marketing:
       - detección de fraude
       - scoring de fraude
       - IA explicable fraude
+      - financial risk analytics
+      - DYNAMAP
+      - dynamic mapping
+      - polarization analytics
+      - ideological mapping
+      - stakeholder mapping
+      - market intelligence
+      - organizational network analysis
   analytics:
     google_analytics: 'G-SFQPESQQ34'
     baidu_tongji: ''

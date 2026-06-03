@@ -1,6 +1,6 @@
 ---
 title: Projects
-summary: Research grants, applied platforms, prototypes, and institutional collaborations from CRiSS-LAB.
+summary: Research grants, applied AI platforms, civic technology, business analytics, school coexistence tools, network science prototypes, and institutional collaborations from CRiSS-LAB.
 
 # Listing view
 view: showcase #showcase #citation
