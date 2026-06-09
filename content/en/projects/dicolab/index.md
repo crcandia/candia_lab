@@ -50,6 +50,8 @@ tags:
   - Data Science
 categories:
   - Applied Platforms
+  - Industry Collaborations
+  - Applied AI
 featured: false
 
 # links:

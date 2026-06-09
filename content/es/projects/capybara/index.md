@@ -15,6 +15,7 @@ tags:
   - Ciencia de Redes
 categories:
   - Plataformas Aplicadas
+  - Inteligencia Artificial Aplicada
 featured: true
 url_project: "https://capybara.cl/"
 image:

@@ -43,6 +43,7 @@ tags:
   - Data Science
 categories:
   - Colaboraciones con Industria
+  - Inteligencia Artificial Aplicada
 featured: false
 
 # links:

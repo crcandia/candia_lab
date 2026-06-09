@@ -43,6 +43,7 @@ tags:
   - Data Science
 categories:
   - Industry Collaborations
+  - Applied AI
 featured: false
 
 # links:

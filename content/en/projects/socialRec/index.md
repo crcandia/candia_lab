@@ -42,6 +42,8 @@ tags:
 categories:
   - Research Grants
   - Applied Platforms
+  - Industry Collaborations
+  - Applied AI
 featured: false
 
 # links:

@@ -42,6 +42,8 @@ tags:
 categories:
   - Fondos de Investigación
   - Plataformas Aplicadas
+  - Colaboraciones con Industria
+  - Inteligencia Artificial Aplicada
 featured: false
 
 # links:

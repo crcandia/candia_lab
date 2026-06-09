@@ -16,6 +16,7 @@ tags:
   - Network Science
 categories:
   - Applied Platforms
+  - Applied AI
 featured: true
 url_project: "https://capybara.cl/"
 image:
