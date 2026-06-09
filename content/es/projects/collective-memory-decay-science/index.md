@@ -1,5 +1,5 @@
 ---
-title: "Persistencia de información errónea en ciencia: olvido colectivo y sus límites"
+title: "Decaimiento de memoria colectiva en ciencia: patrones y determinantes del olvido de investigación retractada"
 authors:
   - admin
 date: "2026-02-25"

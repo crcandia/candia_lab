@@ -1,5 +1,5 @@
 ---
-title: "Persistence of Misinformation in Science: Collective Forgetting and Its Limits"
+title: "Collective Memory Decay in Science: Patterns and Determinants of Forgetting Retracted Research"
 authors:
   - admin
 date: "2026-02-25"
