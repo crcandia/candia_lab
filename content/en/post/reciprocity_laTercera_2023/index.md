@@ -10,7 +10,7 @@ authors:
 ---
 Un estudio liderado por la U. de Desarrollo en casi 900 niños de educación básica en Chile midió con un novedoso método de la teoría de juegos la importancia de los amigos en su desempeño académico.
 
-Un estudio del Centro de Investigación en Complejidad Social (CICS) de la Facultad de Gobierno de la Universidad del Desarrollo en con cojunto con el Instituto de Data Science de la Facultad de Ingeniería de la UDD, ahondó en cómo las relaciones interpersonales en estudiantes de básica pueden afectar en el rendimiento escolar.
+A study by Universidad del Desarrollo researchers examined how interpersonal relationships among elementary school students can affect academic performance.
 
 Aunque hay evidencia de que están estrechamente relacionadas, hasta ahora había sido complejo tener hallazgos sólidos en este grupo etario por la dificultad de conseguir información fidedigna debido a la edad de los participantes que cursan entre tercero y quinto básico. Sin embargo, el estudio utilizó una novedosa metodología de la teoría de juegos que permitió tener evidencia sólida y consistente, la cual fue aplicada a 855 alumnos de nueve a once años, de más de 14 establecimientos públicos chilenos en 45 salas de clases distintas.
 

@@ -1,12 +1,12 @@
 ---
 organizations:
-  - name: Universidad del Desarrollo, Faculty of Government, Research Center for Social Complexity (CICS)
+  - name: Universidad del Desarrollo
     url: ""
 superuser: false
 authors:
   - Carlos Rodriguez-Sickert
 title: Carlos Rodriguez-Sickert
-role: Research Center for Social Complexity (CICS), Government School, Universidad del Desarrollo.
+role: Universidad del Desarrollo.
 interests:
   - Social Complexity
   - Game Theory

@@ -23,6 +23,6 @@ sections:
 
 <p style="text-align: center;">El laboratorio conecta investigación rigurosa con plataformas aplicadas y herramientas de interés público. Proyectos como Lixandria, Discolab, PriorizaChile, SocialRec, MúsicaCL, DYNAMAP y Capybara traducen ciencia social computacional en evidencia útil para estudiantes, colegios, instituciones públicas, organizaciones, aplicaciones de negocio y debate cívico.</p>
 
-<p style="text-align: center;">CRiSS-LAB reúne investigadores, estudiantes de postgrado, científicos de datos y colaboradores de física, ingeniería, educación, psicología, economía, sociología, ciencia política y computación. El laboratorio opera desde el Instituto de Data Science de la Facultad de Ingeniería y el Centro de Investigación en Complejidad Social de la Facultad de Gobierno de la Universidad del Desarrollo.</p>
+<p style="text-align: center;">CRiSS-LAB reúne investigadores, estudiantes de postgrado, científicos de datos y colaboradores de física, ingeniería, educación, psicología, economía, sociología, ciencia política y computación. El laboratorio opera desde el Instituto de Data Science de la Facultad de Ingeniería de la Universidad del Desarrollo.</p>
 
 <p style="text-align: right;"><em>Cristian Candia, Ph.D.</em><br><em>Director del Computational Research in Social Science Lab.</em></p>

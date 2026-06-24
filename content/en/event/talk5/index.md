@@ -3,7 +3,7 @@ title: "Plataforma para la toma de decisiones en educación superior"
 venue: "Ciclo de Charlas 2021 Centro de Políticas Públicas, Universidad del Desarrollo"
 date: '2021-06-07'
 event: "Ciclo de Charlas 2021 Centro de Políticas Públicas, Universidad del Desarrollo"
-location: "Government School, Universidad del Desarrollo, Las Condes, Chile"
+location: "Universidad del Desarrollo, Las Condes, Chile"
 
 publishDate: '2017-01-01T00:00:00Z'
 

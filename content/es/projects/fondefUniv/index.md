@@ -95,7 +95,7 @@ div {
 <div>
 Lixandria es una plataforma de orientación, visualización y distribución de datos sobre carreras universitarias. Utiliza el Higher Education Space (HES), que integra información histórica de postulantes al sistema de educación superior mediante sus preferencias y un algoritmo basado en ciencia de redes. Así, el HES amplía las opciones disponibles para quienes eligen una carrera.
 
-Lixandria integra datos de múltiples fuentes, como el Ministerio de Educación, DEMRE y mifuturo.cl, para apoyar a postulantes, instituciones de educación superior y tomadores de decisión. El HES fue desarrollado originalmente como parte de la tesis doctoral de Cristian Candia en 2018, realizada en MIT Media Lab y el Centro de Investigación en Complejidad Social de la UDD. El artículo seminal fue publicado en 2019 por Cristian Candia junto a Flavio Pinheiro y Sara Encarnação, de Universidade NOVA de Lisboa.
+Lixandria integra datos de múltiples fuentes, como el Ministerio de Educación, DEMRE y mifuturo.cl, para apoyar a postulantes, instituciones de educación superior y tomadores de decisión. El HES fue desarrollado originalmente como parte de la tesis doctoral de Cristian Candia en 2018, durante su etapa vinculada al MIT Media Lab y al Centro de Investigación en Complejidad Social (CICS), Facultad de Gobierno, Universidad del Desarrollo. El artículo seminal fue publicado en 2019 por Cristian Candia junto a Flavio Pinheiro y Sara Encarnação, de Universidade NOVA de Lisboa.
 </div>
 
 <br>
