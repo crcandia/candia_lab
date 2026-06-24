@@ -278,6 +278,105 @@ footer {
   text-shadow: 0 2px 14px rgba(0, 0, 0, 0.48);
 }
 
+.strategic-positioning {
+  display: grid;
+  grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.35fr);
+  gap: 3rem;
+  align-items: start;
+}
+
+.strategic-positioning__eyebrow {
+  margin-bottom: 0.7rem;
+  color: #1565c0;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.strategic-positioning__intro h2 {
+  max-width: 35rem;
+  margin: 0 0 1rem;
+  color: #17212b;
+  font-size: 2.25rem;
+  font-weight: 650;
+  line-height: 1.12;
+}
+
+.strategic-positioning__intro p:not(.strategic-positioning__eyebrow) {
+  max-width: 35rem;
+  margin: 0;
+  color: rgba(31, 41, 51, 0.72);
+  font-size: 1.03rem;
+  line-height: 1.68;
+}
+
+.strategic-positioning__grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.strategic-positioning article {
+  display: flex;
+  min-height: 19rem;
+  flex-direction: column;
+  padding: 1.25rem;
+  border: 1px solid rgba(21, 101, 192, 0.1);
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 10px 26px rgba(31, 41, 51, 0.045);
+}
+
+.strategic-positioning article span {
+  margin-bottom: 1.1rem;
+  color: #1565c0;
+  font-size: 0.82rem;
+  font-weight: 750;
+}
+
+.strategic-positioning article h3 {
+  margin: 0 0 0.75rem;
+  color: #17212b;
+  font-size: 1.02rem;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.strategic-positioning article p {
+  margin: 0 0 1rem;
+  color: rgba(31, 41, 51, 0.7);
+  font-size: 0.93rem;
+  line-height: 1.58;
+}
+
+.strategic-positioning article a {
+  margin-top: auto;
+  color: #1565c0;
+  font-size: 0.86rem;
+  font-weight: 700;
+}
+
+.strategic-positioning article a::after {
+  content: " ->";
+}
+
+.dark .strategic-positioning__intro h2,
+.dark .strategic-positioning article h3 {
+  color: #fff;
+}
+
+.dark .strategic-positioning__intro p:not(.strategic-positioning__eyebrow),
+.dark .strategic-positioning article p {
+  color: rgba(255, 255, 255, 0.72);
+}
+
+.dark .strategic-positioning article {
+  border-color: rgba(255, 255, 255, 0.08);
+  background: #282a36;
+  box-shadow: none;
+}
+
 @media (max-width: 991.98px) {
   #navbar-main .container-xl {
     position: relative;
@@ -316,6 +415,27 @@ footer {
 
   .home-hero-copy p {
     font-size: 1.08rem;
+  }
+
+  .strategic-positioning {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    text-align: center;
+  }
+
+  .strategic-positioning__intro h2,
+  .strategic-positioning__intro p:not(.strategic-positioning__eyebrow) {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .strategic-positioning__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .strategic-positioning article {
+    min-height: auto;
+    text-align: left;
   }
 }
 
@@ -454,6 +574,14 @@ footer {
   .home-hero-copy p {
     font-size: 0.92rem;
     line-height: 1.64;
+  }
+
+  .strategic-positioning__intro h2 {
+    font-size: 1.65rem;
+  }
+
+  .strategic-positioning article {
+    padding: 1.05rem;
   }
 
   .media.stream-item,

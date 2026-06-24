@@ -18,6 +18,11 @@ categories:
   - Inteligencia Artificial Aplicada
   - Venture Studio
 featured: true
+links:
+- name: "UDD — investigación sobre polarización premiada en CCS 2025"
+  url: "https://www.udd.cl/noticias/2025/09/30/investigacion-udd-sobre-polarizacion-politica-es-premiada-en-la-principal-conferencia-mundial-sobre-sistemas-complejos/"
+- name: "La Tribuna — reconocimiento mundial por polarización política e IA"
+  url: "https://www.latribuna.cl/innovacion/2025/10/08/angelino-recibe-reconocimiento-mundial-por-estudio-sobre-polarizacion-politica-e-inteligencia-artificial.html"
 projects: []
 slides:
 ---
@@ -25,6 +30,11 @@ slides:
 **DYNAMAP** es una iniciativa de inteligencia aplicada desarrollada por Cristian Candia, Adolfo Fuentes y Cristian Jara-Figueroa. Nace del trabajo de CRiSS-LAB sobre polarización, ideología política, debate público y comportamiento colectivo. La pregunta original era cómo representar paisajes complejos de opinión sin reducir a personas, grupos o instituciones a un único eje izquierda-derecha. Esa pregunta evolucionó naturalmente hacia un desafío más amplio: construir mapas dinámicos que ayuden a tomadores de decisión a entender posiciones, distancias, agrupamientos, tensiones y oportunidades en sistemas sociales complejos.
 
 A nivel público, DYNAMAP combina ideas de ciencias sociales computacionales, ciencia de redes, machine learning y análisis de datos conductuales para crear mapas interpretables de espacios sociales, organizacionales y de mercado. Está pensado como una capa de apoyo a decisiones, no como un sistema predictivo de caja negra: el objetivo es ayudar a ver estructura, comparar alternativas, detectar divisiones emergentes e identificar oportunidades accionables.
+
+Cobertura y reconocimiento:
+
+- [Investigación UDD sobre polarización política es premiada en la principal conferencia mundial sobre sistemas complejos](https://www.udd.cl/noticias/2025/09/30/investigacion-udd-sobre-polarizacion-politica-es-premiada-en-la-principal-conferencia-mundial-sobre-sistemas-complejos/) — nota UDD sobre el reconocimiento en la Conference on Complex Systems 2025 y la proyección de DynaMap como plataforma tecnológica.
+- [Angelino recibe reconocimiento mundial por estudio sobre polarización política e inteligencia artificial](https://www.latribuna.cl/innovacion/2025/10/08/angelino-recibe-reconocimiento-mundial-por-estudio-sobre-polarizacion-politica-e-inteligencia-artificial.html) — cobertura de La Tribuna sobre el premio, el uso de preferencias reveladas e IA, y la expansión aplicada del proyecto.
 
 Aplicaciones potenciales:
 

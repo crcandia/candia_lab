@@ -3,7 +3,7 @@ title: "Decaimiento de memoria colectiva en ciencia: patrones y determinantes de
 authors:
   - admin
 date: "2026-02-25"
-summary: Proyecto ANID-FONDECYT Regular 2026 sobre por qué investigaciones retractadas siguen siendo citadas e influyen en el conocimiento científico, combinando teoría de memoria colectiva, física estadística e inferencia causal.
+summary: Proyecto ANID-FONDECYT Regular 2026 que estudia cómo la ciencia recuerda, olvida y corrige conocimiento retractado, combinando teoría de memoria colectiva, física estadística, bibliometría e inferencia causal.
 tags:
   - Memoria Colectiva
   - Ciencia de la Ciencia
@@ -51,6 +51,8 @@ Una de las características más distintivas de la ciencia es su capacidad de co
 Pero la corrección formal no garantiza el olvido. Hace años sabemos que el artículo que vinculaba el autismo con las vacunas fue retractado. Sin embargo, en el espacio público sigue siendo citado para sostener ciertos discursos. En la academia, continúa circulando: solo en 2025 acumuló más de un centenar de citas. Muchas de ellas no lo validan, sino que lo analizan como un caso de desinformación científica, lo que introduce una dificultad clave: no toda cita posterior refleja adhesión, pero sí indica que el conocimiento retractado permanece activo. Distinguir entre estas formas de persistencia es parte del desafío.
 
 Esta tensión entre corrección formal y persistencia colectiva está en el centro de este Fondecyt Regular. La pregunta es simple de formular y difícil de responder: cómo olvidan los sistemas científicos y por qué ciertos contenidos siguen activos incluso después de haber sido invalidados. Las consecuencias no son menores, porque esa persistencia puede seguir influyendo en agendas de investigación, marcos conceptuales, decisiones editoriales y debates públicos, debilitando la capacidad efectiva de la ciencia para corregirse.
+
+El proyecto consolida una posición estratégica para CRiSS-LAB: estudiar la memoria colectiva no solo como un fenómeno cultural, sino como una infraestructura dinámica que organiza atención, credibilidad y decisión en sistemas científicos. Esa mirada permite conectar ciencia de la ciencia, desinformación, gobernanza editorial e inteligencia artificial en una misma agenda de investigación.
 
 Responder esta pregunta exige un cruce real de tradiciones, porque el problema es simultáneamente social, dinámico y causal. La noción de memoria colectiva, desarrollada en la sociología y los estudios culturales, permite formular el problema. Pero observar memoria implica observar trayectorias en el tiempo, donde decisiones individuales se encadenan y se acumulan en patrones colectivos. Para describir ese pasaje desde el nivel micro al comportamiento agregado, el proyecto se apoya en modelos dinámicos de primeros principios, expresados mediante ecuaciones maestras de la física estadística, que formalizan cómo evoluciona la distribución de atención y olvido en el sistema científico.
 

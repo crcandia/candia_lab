@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Computational Research in Social Science Lab
-subtitle: CRiSS-LAB | Network science, AI, and behavioral data for public-impact research
+title: Computational social science for complex systems
+subtitle: CRiSS-LAB | AI, networks, and causal inference to understand how societies remember, learn, and decide
 
 
 design:
@@ -35,5 +35,5 @@ advanced:
   css_class: fullscreen
 ---
 <div class="home-hero-copy">
-<p>CRiSS-LAB studies how people learn, remember, cooperate, move, deliberate, and make decisions in complex social systems. We combine network science, causal inference, machine learning, experimental game theory, and large-scale behavioral data to produce rigorous evidence and public-interest technology for education, culture, organizations, public policy, and civic life.</p>
+<p>Based at Universidad del Desarrollo, CRiSS-LAB turns behavioral data, networks, and digital traces into explanatory models, causal evidence, and public-interest technology. Our work connects collective memory, collective intelligence, education, culture, organizations, and public policy through one question: why some social patterns persist, change, or disappear over time.</p>
 </div>

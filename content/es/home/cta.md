@@ -11,8 +11,8 @@ design:
 <div class="home-team-cta">
   <div class="home-team-cta__content">
     <p class="home-team-cta__eyebrow">Las personas detrás de CRiSS-LAB</p>
-    <h2>Investigadores, estudiantes y profesionales de Datos e IA impulsando ciencias sociales computacionales desde Chile.</h2>
-    <p>Nuestro equipo conecta ciencia de redes, inteligencia artificial, analítica educacional, memoria colectiva, movilidad, cooperación y tecnología de interés público con proyectos aplicados para colegios, instituciones y debate cívico.</p>
+    <h2>Investigadores, estudiantes y profesionales de Datos e IA construyendo ciencia social computacional desde Chile.</h2>
+    <p>Nuestro equipo conecta teoría, datos y tecnología aplicada para estudiar memoria colectiva, aprendizaje, cooperación y toma de decisiones en sistemas sociales reales.</p>
     <div class="home-team-cta__tags" aria-label="Áreas del equipo">
       <span>Investigación</span>
       <span>Datos e IA</span>

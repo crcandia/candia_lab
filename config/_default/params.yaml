@@ -13,14 +13,14 @@ appearance:
 
 # SEO
 
-description: 'CRiSS-LAB is the Computational Research in Social Science Lab at Universidad del Desarrollo in Santiago, Chile, directed by Cristian Candia, Ph.D. The lab advances applied AI, computational social science, network science, business analytics, education analytics, school coexistence, civic technology, fraud-risk analytics, collective memory, and social-impact data science.'
+description: 'CRiSS-LAB is a computational social science lab at Universidad del Desarrollo in Santiago, Chile, directed by Cristian Candia, Ph.D. The lab studies how social systems remember, learn, cooperate, and make decisions using applied AI, network science, causal inference, dynamic models, and large-scale behavioral data.'
 
 marketing:
   seo:
     site_type: Organization
     local_business_type: 'Research Lab'
     org_name: 'CRiSS-LAB'
-    description: 'CRiSS-LAB is the Computational Research in Social Science Lab at Universidad del Desarrollo in Santiago, Chile, directed by Cristian Candia, Ph.D. We use applied AI, computational social science, network science, causal inference, machine learning, and behavioral data to build rigorous research and decision-support technology for education, school coexistence, business, public policy, civic debate, fraud-risk analytics, and social-impact innovation.'
+    description: 'CRiSS-LAB is a computational social science lab at Universidad del Desarrollo in Santiago, Chile, directed by Cristian Candia, Ph.D. We connect collective memory, collective intelligence, applied AI, network science, causal inference, and behavioral data to produce research and decision-support technology for education, public policy, culture, organizations, and civic life.'
     twitter: 'crcandiav'
     keywords:
       - computational social science

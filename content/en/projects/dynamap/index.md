@@ -18,6 +18,11 @@ categories:
   - Applied AI
   - Venture Studio
 featured: true
+links:
+- name: "UDD — polarization research awarded at CCS 2025"
+  url: "https://www.udd.cl/noticias/2025/09/30/investigacion-udd-sobre-polarizacion-politica-es-premiada-en-la-principal-conferencia-mundial-sobre-sistemas-complejos/"
+- name: "La Tribuna — global recognition for political polarization and AI"
+  url: "https://www.latribuna.cl/innovacion/2025/10/08/angelino-recibe-reconocimiento-mundial-por-estudio-sobre-polarizacion-politica-e-inteligencia-artificial.html"
 projects: []
 slides:
 ---
@@ -25,6 +30,11 @@ slides:
 **DYNAMAP** is an applied intelligence initiative developed by Cristian Candia, Adolfo Fuentes, and Cristian Jara-Figueroa. It grew from CRiSS-LAB research on polarization, political ideology, public debate, and collective behavior. The original research question was how to represent complex opinion landscapes without reducing people, groups, or institutions to a single left-right axis. That question naturally evolved into a broader challenge: how to build dynamic maps that help decision-makers understand positions, distances, clusters, tensions, and opportunities in complex social systems.
 
 At a public level, DYNAMAP combines ideas from computational social science, network science, machine learning, and behavioral data analysis to create interpretable maps of social, organizational, and market spaces. It is designed as a decision-support layer rather than as a black-box prediction system: the goal is to help users see structure, compare alternatives, detect emerging divisions, and identify actionable opportunities.
+
+Coverage and recognition:
+
+- [UDD research on political polarization awarded at the world's leading complex systems conference](https://www.udd.cl/noticias/2025/09/30/investigacion-udd-sobre-polarizacion-politica-es-premiada-en-la-principal-conferencia-mundial-sobre-sistemas-complejos/) — UDD coverage of the Conference on Complex Systems 2025 recognition and DynaMap's projection as a technology platform.
+- [Cristian Candia receives global recognition for research on political polarization and artificial intelligence](https://www.latribuna.cl/innovacion/2025/10/08/angelino-recibe-reconocimiento-mundial-por-estudio-sobre-polarizacion-politica-e-inteligencia-artificial.html) — La Tribuna coverage of the award, the use of revealed preferences and AI, and the project's applied expansion.
 
 Potential applications include:
 

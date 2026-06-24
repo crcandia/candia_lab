@@ -3,7 +3,7 @@ title: "Cristian Candia se adjudicó proyecto ANID-FONDECYT Regular 2026"
 date: 2026-02-25
 authors:
   - admin
-summary: El proyecto Collective Memory Decay in Science estudiará por qué investigaciones retractadas siguen siendo citadas e influyendo en el conocimiento científico.
+summary: El proyecto Collective Memory Decay in Science posiciona a CRiSS-LAB en el estudio de cómo la ciencia recuerda, olvida y corrige conocimiento retractado.
 tags:
   - FONDECYT Regular
   - Memoria Colectiva
@@ -17,4 +17,4 @@ Cristian Candia se adjudicó un proyecto **ANID-FONDECYT Regular 2026** titulado
 
 El proyecto estudia por qué investigaciones invalidadas o retractadas pueden seguir siendo citadas e influyendo en agendas científicas después de una corrección formal. Combina bibliometría, redes de citación, procesamiento de lenguaje natural, inteligencia artificial, física estadística y modelos de memoria colectiva.
 
-El trabajo consolida una línea de investigación de CRiSS-LAB sobre cómo la ciencia recuerda, olvida y se corrige en entornos de alta circulación de información.
+El trabajo consolida una línea de investigación de CRiSS-LAB sobre memoria colectiva, ciencia de la ciencia y corrección del conocimiento en entornos de alta circulación de información.

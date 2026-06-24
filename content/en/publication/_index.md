@@ -1,5 +1,6 @@
 ---
 title: Research Articles
+summary: CRiSS-LAB research on collective memory, network science, causal inference, education, culture, mobility, cooperation, and complex social systems.
 
 # Listing view
 view: compact #showcase #citation

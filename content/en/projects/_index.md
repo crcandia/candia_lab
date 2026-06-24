@@ -1,6 +1,6 @@
 ---
 title: Projects
-summary: Research grants, applied AI platforms, civic technology, business analytics, school coexistence tools, network science prototypes, and institutional collaborations from CRiSS-LAB.
+summary: CRiSS-LAB projects connecting collective memory, applied AI, network science, and causal inference with platforms and evidence for education, culture, organizations, public policy, school coexistence, and institutional decision-making.
 
 # Listing view
 view: showcase #showcase #citation

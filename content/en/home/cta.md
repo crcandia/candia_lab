@@ -11,8 +11,8 @@ design:
 <div class="home-team-cta">
   <div class="home-team-cta__content">
     <p class="home-team-cta__eyebrow">People Behind CRiSS-LAB</p>
-    <h2>Researchers, students, and Data & AI professionals building computational social science in Chile.</h2>
-    <p>Our team connects network science, artificial intelligence, education analytics, collective memory, mobility, cooperation, and public-interest technology with applied projects for schools, institutions, and civic debate.</p>
+    <h2>Researchers, students, and Data & AI professionals building computational social science from Chile.</h2>
+    <p>Our team connects theory, data, and applied technology to study collective memory, learning, cooperation, and decision-making in real social systems.</p>
     <div class="home-team-cta__tags" aria-label="Team areas">
       <span>Research</span>
       <span>Data & AI</span>

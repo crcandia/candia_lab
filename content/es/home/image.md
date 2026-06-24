@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Laboratorio de Ciencias Sociales Computacionales
-subtitle: CRiSS-LAB | Ciencia de redes, IA y datos conductuales para investigación con impacto público
+title: Ciencia social computacional para sistemas complejos
+subtitle: CRiSS-LAB | IA, redes e inferencia causal para entender cómo las sociedades recuerdan, aprenden y deciden
 
 
 design:
@@ -35,5 +35,5 @@ advanced:
   css_class: fullscreen
 ---
 <div class="home-hero-copy">
-<p>CRiSS-LAB estudia cómo las personas aprenden, recuerdan, cooperan, se mueven, deliberan y toman decisiones en sistemas sociales complejos. Combinamos ciencia de redes, inferencia causal, machine learning, teoría de juegos experimental y datos conductuales a gran escala para producir evidencia rigurosa y tecnología de interés público para educación, cultura, organizaciones, política pública y vida cívica.</p>
+<p>Desde la Universidad del Desarrollo, CRiSS-LAB convierte datos conductuales, redes y trazas digitales en modelos explicativos, evidencia causal y tecnología de interés público. Nuestro trabajo conecta memoria colectiva, inteligencia colectiva, educación, cultura, organizaciones y política pública con una pregunta común: qué hace que algunos patrones persistan, cambien o desaparezcan en el tiempo.</p>
 </div>
