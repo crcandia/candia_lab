@@ -10,9 +10,10 @@ design:
 
 <div class="strategic-positioning">
   <div class="strategic-positioning__intro">
-    <p class="strategic-positioning__eyebrow">Strategic Positioning</p>
-    <h2>A bridge between social theory, dynamic models, and decision technology.</h2>
-    <p>CRiSS-LAB sits at an uncommon intersection: it asks broad social questions, models them with frontier quantitative methods, and turns the evidence into tools for institutions that need to make better decisions.</p>
+    <p class="strategic-positioning__eyebrow">What we study</p>
+<h2>How societies decide what matters.</h2>
+<p>CRiSS-LAB studies how societies transform abundant information into collective relevance. We analyze how people, groups, and institutions allocate attention, form collective memory, organize preferences, and coordinate decisions—especially in environments shaped by digital platforms, artificial intelligence, and information overload. Our work combines social theory, network science, dynamic models, and experimental platforms to generate evidence for better institutions, policies, and decision technologies.</p>
+
   </div>
   <div class="strategic-positioning__grid">
     <article>
