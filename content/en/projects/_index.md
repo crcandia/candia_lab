@@ -1,6 +1,6 @@
 ---
 title: Projects
-summary: CRiSS-LAB projects connecting collective memory, applied AI, network science, and causal inference with platforms and evidence for education, culture, organizations, public policy, school coexistence, and institutional decision-making.
+summary: Our projects examine how societies decide what matters through attention, memory, preferences, and coordination. Across culture, science, education, politics, organizations, and digital platforms, we build evidence and tools to understand how collective relevance emerges and how institutions can make better decisions.
 
 # Listing view
 view: showcase #showcase #citation

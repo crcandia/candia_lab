@@ -17,9 +17,9 @@ sections:
   </div>
 </section>
 
-<p style="text-align: center;">El Computational Research in Social Science Laboratory (CRiSS-LAB) es un grupo de investigación interdisciplinario de la Universidad del Desarrollo en Santiago de Chile, dirigido por Cristian Candia, Ph.D. El laboratorio estudia cómo los sistemas sociales recuerdan, aprenden, cooperan y toman decisiones cuando información, instituciones y tecnologías interactúan en el tiempo.</p>
+<p style="text-align: center;">CRiSS-LAB estudia cómo las sociedades deciden qué importa. Desarrollamos aproximaciones computacionales a la relevancia colectiva: los procesos mediante los cuales personas, grupos e instituciones asignan atención, preservan memoria, organizan preferencias y coordinan decisiones.</p>
 
-<p style="text-align: center;">Nuestra posición combina teoría social, ciencia de redes, inferencia causal, modelos dinámicos, machine learning, teoría de juegos experimental, análisis computacional de texto y datos conductuales a gran escala. Esa combinación permite estudiar fenómenos como memoria colectiva, ciencia de la ciencia, educación, convivencia escolar, movilidad, polarización, cultura, organizaciones y toma de decisiones institucionales sin tratarlos como problemas aislados.</p>
+<p style="text-align: center;">Nuestro trabajo conecta ciencia social computacional, ciencia de redes, modelos dinámicos, inferencia causal, IA y plataformas experimentales para estudiar sistemas sociales en contextos de abundancia informativa. En educación, ciencia, cultura, política, organizaciones y plataformas digitales, generamos evidencia que ayuda a las instituciones a entender el comportamiento colectivo y tomar mejores decisiones.</p>
 
 <p style="text-align: center;">El laboratorio conecta investigación rigurosa con plataformas aplicadas y herramientas de interés público. Proyectos como Lixandria, Discolab, PriorizaChile, SocialRec, MúsicaCL, DYNAMAP y Capybara traducen ciencia social computacional en evidencia útil para estudiantes, colegios, instituciones públicas, organizaciones, aplicaciones de negocio y debate cívico.</p>
 

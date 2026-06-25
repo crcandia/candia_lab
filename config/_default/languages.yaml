@@ -13,13 +13,13 @@ es:
   contentDir: content/es
   title: CRiSS-LAB Chile
   params:
-    description: Laboratorio de ciencias sociales computacionales de la Universidad del Desarrollo en Santiago de Chile, dirigido por Cristian Candia, Ph.D. Estudiamos cómo los sistemas sociales recuerdan, aprenden, cooperan y deciden usando IA aplicada, ciencia de redes, inferencia causal, modelos dinámicos y datos conductuales.
+    description: CRiSS-LAB estudia cómo las sociedades deciden qué importa. Desarrollamos aproximaciones computacionales a la relevancia colectiva, analizando atención, memoria, preferencias y coordinación en contextos de sobrecarga informativa, plataformas digitales e IA.
     marketing:
       seo:
         site_type: Organization
         local_business_type: 'Research Lab'
         org_name: 'CRiSS-LAB'
-        description: Laboratorio de ciencias sociales computacionales de la Universidad del Desarrollo en Santiago de Chile, dirigido por Cristian Candia, Ph.D. Conectamos memoria colectiva, inteligencia colectiva, IA aplicada, ciencia de redes, inferencia causal y datos conductuales para producir investigación y tecnología de apoyo a decisiones en educación, política pública, cultura, organizaciones y vida cívica.
+        description: CRiSS-LAB estudia cómo las sociedades deciden qué importa. Desarrollamos aproximaciones computacionales a la relevancia colectiva, analizando atención, memoria, preferencias y coordinación en contextos de sobrecarga informativa, plataformas digitales e IA.
         twitter: 'crcandiav'
         keywords:
           - ciencias sociales computacionales

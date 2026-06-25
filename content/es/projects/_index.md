@@ -1,6 +1,6 @@
 ---
 title: Proyectos
-summary: Proyectos de CRiSS-LAB que conectan memoria colectiva, IA aplicada, ciencia de redes e inferencia causal con plataformas y evidencia para educación, cultura, organizaciones, política pública, convivencia escolar y toma de decisiones institucionales.
+summary: Nuestros proyectos examinan cómo las sociedades deciden qué importa a través de la atención, la memoria, las preferencias y la coordinación. En cultura, ciencia, educación, política, organizaciones y plataformas digitales, generamos evidencia y herramientas para entender cómo emerge la relevancia colectiva y cómo las instituciones pueden tomar mejores decisiones.
 view: showcase
 banner:
   caption: ""

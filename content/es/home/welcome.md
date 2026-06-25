@@ -2,13 +2,13 @@
 widget: blank
 headless: true
 weight: 20
-title: Sobre CRiSS-LAB
+title: Relevancia colectiva
 design:
   columns: "1"
 ---
 
-<p style="text-align: center;">CRiSS-LAB es el Laboratorio de Ciencias Sociales Computacionales de la Universidad del Desarrollo en Santiago de Chile, dirigido por Cristian Candia, Ph.D. Estudiamos sistemas sociales donde la información circula, se transforma y afecta decisiones: ciencia, educación, cultura, movilidad, organizaciones, mercados y debate público.</p>
+<p style="text-align: center;">CRiSS-LAB es el Laboratorio de Ciencias Sociales Computacionales de la Universidad del Desarrollo en Santiago de Chile, dirigido por Cristian Candia, Ph.D. Estudiamos cómo la información abundante se vuelve colectivamente relevante: qué recibe atención, qué se recuerda, cómo se forman preferencias y cómo las decisiones se transforman en acción coordinada.</p>
 
-<p style="text-align: center;">Nuestra ventaja está en integrar teoría social, modelos dinámicos, ciencia de redes, inferencia causal, IA aplicada y datos conductuales a gran escala. Esa combinación permite explicar cómo emergen patrones colectivos y traducirlos en plataformas como Lixandria, Discolab, PriorizaChile, SocialRec, MúsicaCL, DYNAMAP y Capybara.</p>
+<p style="text-align: center;">Nuestro trabajo conecta teoría social, ciencia de redes, modelos dinámicos, inferencia causal, IA y plataformas experimentales para generar evidencia en educación, ciencia, cultura, organizaciones, política pública y entornos digitales.</p>
 
 <p style="text-align: right;"><em>Cristian Candia, Ph.D.</em><br><em>Director de CRiSS-LAB.</em></p>

@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Computational social science for complex systems
-subtitle: CRiSS-LAB | AI, networks, and causal inference to understand how societies remember, learn, and decide
+title: How societies decide what matters.
+subtitle: "CRiSS-LAB develops a computational science of collective relevance: how societies transform abundant information into attention, memory, preferences, and coordinated decisions."
 
 
 design:
@@ -35,5 +35,5 @@ advanced:
   css_class: fullscreen
 ---
 <div class="home-hero-copy">
-<p>Based at Universidad del Desarrollo, CRiSS-LAB turns behavioral data, networks, and digital traces into explanatory models, causal evidence, and public-interest technology. Our work connects collective memory, collective intelligence, education, culture, organizations, and public policy through one question: why some social patterns persist, change, or disappear over time.</p>
+<p>We combine social theory, network science, dynamic models, causal inference, AI, and experimental platforms to study how institutions, groups, and societies make better decisions.</p>
 </div>

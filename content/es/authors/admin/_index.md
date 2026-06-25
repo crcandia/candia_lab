@@ -4,7 +4,7 @@ authors:
 title: Cristian Candia
 role: Profesor Asociado, Instituto de Data Science, Facultad de Ingeniería, Universidad del Desarrollo, Chile. Director de CRiSS-LAB.
 avatar_filename: avatar.jpeg
-bio: Mis intereses de investigación incluyen IA aplicada, ciencias sociales computacionales, ciencia de redes, inteligencia colectiva, convivencia escolar, inteligencia de decisiones y analítica de negocios.
+bio: Cristian Candia estudia cómo las sociedades transforman información en relevancia colectiva a través de la atención, la memoria, las preferencias y la coordinación. Su trabajo combina ciencia social computacional, ciencia de redes, IA y datos conductuales a gran escala para entender cómo grupos, instituciones y sociedades deciden qué importa.
 name_variants:
   - Cristian Candia
   - Cristian Candia-Castro

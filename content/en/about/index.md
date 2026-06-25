@@ -17,9 +17,9 @@ sections:
   </div>
 </section>
 
-<p style="text-align: center;">The Computational Research in Social Science Laboratory (CRiSS-LAB) is an interdisciplinary research group at Universidad del Desarrollo in Santiago, Chile, directed by Cristian Candia, Ph.D. The lab studies how social systems remember, learn, cooperate, and make decisions when information, institutions, and technologies interact over time.</p>
+<p style="text-align: center;">CRiSS-LAB studies how societies decide what matters. We develop computational approaches to collective relevance: the processes through which people, groups, and institutions allocate attention, preserve memory, organize preferences, and coordinate decisions.</p>
 
-<p style="text-align: center;">Our position combines social theory, network science, causal inference, dynamic models, machine learning, experimental game theory, computational text analysis, and large-scale behavioral data. This combination lets us study collective memory, science of science, education, school coexistence, mobility, polarization, culture, organizations, and institutional decision-making without treating them as isolated problems.</p>
+<p style="text-align: center;">Our work connects computational social science, network science, dynamic modeling, causal inference, AI, and experimental platforms to study social systems under information abundance. Across education, science, culture, politics, organizations, and digital platforms, we generate evidence that helps institutions understand collective behavior and make better decisions.</p>
 
 <p style="text-align: center;">The lab connects rigorous research with applied platforms and public-interest tools. Projects such as Lixandria, Discolab, PriorizaChile, SocialRec, MúsicaCL, DYNAMAP, and Capybara translate computational social science into usable evidence for students, schools, public institutions, organizations, business applications, and civic debate.</p>
 

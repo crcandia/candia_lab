@@ -10,7 +10,7 @@ design:
 
 <div class="strategic-positioning">
   <div class="strategic-positioning__intro">
-    <p class="strategic-positioning__eyebrow">¿Qué estudiamos?</p>
+    <p class="strategic-positioning__eyebrow">Qué estudiamos</p>
 <h2>Cómo las sociedades deciden qué importa.</h2>
 <p>CRiSS-LAB estudia cómo las sociedades transforman información abundante en relevancia colectiva. Analizamos cómo personas, grupos e instituciones asignan atención, forman memoria colectiva, organizan preferencias y coordinan decisiones, especialmente en entornos marcados por plataformas digitales, inteligencia artificial y sobrecarga informativa. Nuestro trabajo combina teoría social, ciencia de redes, modelos dinámicos y plataformas experimentales para generar evidencia que contribuya al diseño de mejores instituciones, políticas y tecnologías de decisión.</p>
 

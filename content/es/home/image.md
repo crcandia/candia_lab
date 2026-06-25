@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Ciencia social computacional para sistemas complejos
-subtitle: CRiSS-LAB | IA, redes e inferencia causal para entender cómo las sociedades recuerdan, aprenden y deciden
+title: Cómo las sociedades deciden qué importa.
+subtitle: "CRiSS-LAB desarrolla una ciencia computacional de la relevancia colectiva: cómo las sociedades transforman información abundante en atención, memoria, preferencias y decisiones coordinadas."
 
 
 design:
@@ -35,5 +35,5 @@ advanced:
   css_class: fullscreen
 ---
 <div class="home-hero-copy">
-<p>Desde la Universidad del Desarrollo, CRiSS-LAB convierte datos conductuales, redes y trazas digitales en modelos explicativos, evidencia causal y tecnología de interés público. Nuestro trabajo conecta memoria colectiva, inteligencia colectiva, educación, cultura, organizaciones y política pública con una pregunta común: qué hace que algunos patrones persistan, cambien o desaparezcan en el tiempo.</p>
+<p>Combinamos teoría social, ciencia de redes, modelos dinámicos, inferencia causal, IA y plataformas experimentales para estudiar cómo instituciones, grupos y sociedades toman mejores decisiones.</p>
 </div>

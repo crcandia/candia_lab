@@ -1,6 +1,6 @@
 ---
 title: Publicaciones
-summary: Investigación de CRiSS-LAB sobre memoria colectiva, ciencia de redes, inferencia causal, educación, cultura, movilidad, cooperación y sistemas sociales complejos.
+summary: "Nuestras publicaciones examinan la relevancia colectiva en distintos sistemas empíricos: cómo las sociedades asignan atención, preservan memoria, estructuran preferencias y coordinan comportamiento. En conjunto, este trabajo conecta ciencia social computacional, ciencia de redes, análisis cultural, educación, ciencia de la ciencia e IA."
 
 # Listing view
 view: compact #showcase #citation

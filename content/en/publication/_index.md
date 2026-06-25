@@ -1,6 +1,6 @@
 ---
 title: Research Articles
-summary: CRiSS-LAB research on collective memory, network science, causal inference, education, culture, mobility, cooperation, and complex social systems.
+summary: "Our publications examine collective relevance across multiple empirical systems: how societies allocate attention, preserve memory, structure preferences, and coordinate behavior. Together, this work connects computational social science, network science, cultural analytics, education, science of science, and AI."
 
 # Listing view
 view: compact #showcase #citation
