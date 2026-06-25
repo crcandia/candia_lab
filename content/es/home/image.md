@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Cómo las sociedades deciden qué importa
+title: ¿Cómo las sociedades deciden qué importa?
 subtitle: "CRiSS-LAB desarrolla una ciencia computacional de la relevancia colectiva: cómo personas, grupos e instituciones transforman datos, IA e información abundante en atención, memoria, preferencias y decisiones coordinadas."
 
 
