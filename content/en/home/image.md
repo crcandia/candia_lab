@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: How societies decide what matters.
+title: How societies decide what matters
 subtitle: "CRiSS-LAB develops a computational science of collective relevance: how people, groups, and institutions transform abundant data, AI, and information into attention, memory, preferences, and coordinated decisions."
 
 design:
