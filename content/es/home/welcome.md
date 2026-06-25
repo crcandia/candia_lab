@@ -2,7 +2,7 @@
 widget: blank
 headless: true
 weight: 20
-title: Relevancia colectiva
+title: Bienvenido a CRiSS-LAB
 design:
   columns: "1"
 ---
