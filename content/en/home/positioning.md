@@ -11,8 +11,8 @@ design:
 <div class="strategic-positioning">
   <div class="strategic-positioning__intro">
     <p class="strategic-positioning__eyebrow">What we study</p>
-<h2>How people, groups, and institutions decide what matters.</h2>
-<p>CRiSS-LAB studies how attention, memory, preferences, and coordination transform abundant data, AI, and information into collective relevance. We combine computational social science, network science, dynamic models, and experimental platforms to understand and design better decision systems.</p>
+<h2>How do people, groups, and institutions decide what matters?</h2>
+<p>CRiSS-LAB studies how, in environments saturated with data, AI, and information, societies produce collective relevance: what receives attention, what is remembered, what is preferred, and how decisions become coordinated. We combine computational social science, network science, dynamic models, and experimental platforms to understand these processes and design better decision systems.</p>
 
 
   </div>
