@@ -13,7 +13,7 @@ headless: true
 weight: 10
 
 title: Cómo las sociedades deciden qué importa.
-subtitle: "CRiSS-LAB desarrolla una ciencia computacional de la relevancia colectiva: cómo las sociedades transforman información abundante en atención, memoria, preferencias y decisiones coordinadas."
+subtitle: "CRiSS-LAB desarrolla una ciencia computacional de la relevancia colectiva: cómo personas, grupos e instituciones transforman datos, IA e información abundante en atención, memoria, preferencias y decisiones coordinadas."
 
 
 design:
@@ -34,6 +34,4 @@ design:
 advanced:
   css_class: fullscreen
 ---
-<div class="home-hero-copy">
-<p>Combinamos teoría social, ciencia de redes, modelos dinámicos, inferencia causal, IA y plataformas experimentales para estudiar cómo instituciones, grupos y sociedades toman mejores decisiones.</p>
-</div>
+<div class="home-hero-copy"> <p>Combinamos teoría social, ciencia de redes, modelos dinámicos, inferencia causal, IA y plataformas experimentales para entender cómo emerge la relevancia colectiva y diseñar mejores sistemas de decisión para instituciones, organizaciones y la vida pública.</p> </div>

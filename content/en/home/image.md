@@ -13,8 +13,7 @@ headless: true
 weight: 10
 
 title: How societies decide what matters.
-subtitle: "CRiSS-LAB develops a computational science of collective relevance: how societies transform abundant information into attention, memory, preferences, and coordinated decisions."
-
+subtitle: "CRiSS-LAB develops a computational science of collective relevance: how people, groups, and institutions transform abundant data, AI, and information into attention, memory, preferences, and coordinated decisions."
 
 design:
   columns: '1'
@@ -34,6 +33,4 @@ design:
 advanced:
   css_class: fullscreen
 ---
-<div class="home-hero-copy">
-<p>We combine social theory, network science, dynamic models, causal inference, AI, and experimental platforms to study how institutions, groups, and societies make better decisions.</p>
-</div>
+<div class="home-hero-copy"> <p>We combine social theory, network science, dynamic models, causal inference, AI, and experimental platforms to understand how collective relevance emerges—and to design better decision systems for institutions, organizations, and public life.</p> </div>
