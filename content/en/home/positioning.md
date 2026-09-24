@@ -11,7 +11,7 @@ design:
 <div class="strategic-positioning">
   <div class="strategic-positioning__intro">
     <p class="strategic-positioning__eyebrow">What we study</p>
-    <h2>Computational social science for a world shaped by networks, data, and AI.</h2>
+    <h2>Understanding human behavior in a world shaped by networks, data, and AI.</h2>
     <p>CRiSS-LAB studies human and collective behavior at scale: how people remember, learn, cooperate, form preferences, and make decisions. We combine behavioral data, experiments, network science, statistical modeling, causal inference, and artificial intelligence to understand social systems and build tools that can be used in the real world.</p>
   </div>
 
