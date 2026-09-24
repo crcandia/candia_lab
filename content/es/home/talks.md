@@ -1,18 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featured
+widget: pages
 
 content:
   page_type: event
-  count: 6
+  count: 8
   order: desc
   archive:
     enable: true
 
 headless: true
 weight: 90
-view: compact
 
 title: Charlas
 subtitle:
+
+design:
+  view: compact
+  columns: '1'
 ---

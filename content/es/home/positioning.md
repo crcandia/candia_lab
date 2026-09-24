@@ -7,33 +7,29 @@ weight: 24
 design:
   columns: '1'
 ---
-
 <div class="strategic-positioning">
   <div class="strategic-positioning__intro">
     <p class="strategic-positioning__eyebrow">Qué estudiamos</p>
-    <h2>Entender el comportamiento humano en un mundo atravesado por redes, datos e inteligencia artificial.</h2>
-    <p>En CRiSS-LAB estudiamos el comportamiento humano y colectivo a gran escala: cómo las personas recuerdan, aprenden, cooperan, forman preferencias y toman decisiones. Combinamos datos conductuales, experimentos, ciencia de redes, modelamiento estadístico, inferencia causal e inteligencia artificial para entender sistemas sociales y construir herramientas que funcionen en el mundo real.</p>
+    <h2>Del comportamiento individual a las dinámicas colectivas.</h2>
+    <p>Usamos métodos computacionales, experimentos, redes e inteligencia artificial para estudiar cómo el comportamiento humano escala hacia patrones en grupos, instituciones y sociedades.</p>
   </div>
-
   <div class="strategic-positioning__grid">
     <article>
       <span>01</span>
       <h3>Comportamiento humano y colectivo</h3>
-      <p>Estudiamos memoria, atención, cooperación, aprendizaje, preferencias y toma de decisiones, desde el comportamiento individual hasta los resultados colectivos.</p>
+      <p>Memoria, atención, cooperación, aprendizaje, preferencias, interacción social y toma de decisiones en individuos y grupos.</p>
       <a href="./publication/">Ver investigación</a>
     </article>
-
     <article>
       <span>02</span>
-      <h3>IA y representación humana</h3>
-      <p>Estudiamos cuándo la IA captura los juicios y la heterogeneidad humana, cuándo pierde diferencias relevantes y cómo construir modelos que representen mejor a las personas.</p>
+      <h3>IA, computación y representación humana</h3>
+      <p>Cómo los modelos computacionales y la IA representan juicios humanos, heterogeneidad, errores sistemáticos y preferencias colectivas.</p>
       <a href="./projects/human-ai-representation/">Ver línea de investigación</a>
     </article>
-
     <article>
       <span>03</span>
-      <h3>Redes, instituciones y sistemas reales</h3>
-      <p>Conectamos investigación fundamental con escuelas, ciencia, debate público, organizaciones, mercados y plataformas digitales, traduciendo evidencia en sistemas y decisiones útiles.</p>
+      <h3>Instituciones y sistemas reales</h3>
+      <p>Conectamos investigación fundamental con educación, ciencia, organizaciones, debate público, mercados y plataformas digitales.</p>
       <a href="./projects/">Ver proyectos</a>
     </article>
   </div>
