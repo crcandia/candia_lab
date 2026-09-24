@@ -27,15 +27,33 @@ links:
   url: https://us02web.zoom.us/j/83151046254?pwd=hInKEadzXqvt5XS93bYoKiHEiLEbDj.1
   icon_pack: fas
   icon: video
-- name: Agregar al calendario
-  url: /es/event/metadatos-cientificos-miguel-guevara/event.ics
-  icon_pack: fas
-  icon: calendar-alt
 url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
 ---
+
+<script src="https://cdn.jsdelivr.net/npm/add-to-calendar-button@2" async defer></script>
+
+<div>
+<add-to-calendar-button
+  name="Plataforma de metadatos científicos para la colaboración en I+D+i (Zoom Meeting)"
+  description="Zoom link: https://us02web.zoom.us/j/83151046254?pwd=hInKEadzXqvt5XS93bYoKiHEiLEbDj.1 | ID de reunión: 831 5104 6254 | Código de acceso: 198619 | Miguel Guevara | Bloque provisional de calendario: 60 minutos. Hora de término por confirmar."
+  startDate="2026-09-30"
+  endDate="2026-09-30"
+  startTime="15:00"
+  endTime="16:00"
+  location="Zoom Meeting."
+  options="['Apple','Google','iCal','Microsoft365','Outlook.com','Yahoo']"
+  timeZone="America/Santiago"
+  trigger="click"
+  inline
+  listStyle="modal"
+  iCalFileName="Reminder-Event"
+  >
+</add-to-calendar-button>
+</div>
+<br>
 
 ## Datos para conectar ciencia e industria
 
@@ -54,31 +72,6 @@ También se abordarán las posibilidades de investigación que ofrece la informa
 
 **ID de reunión:** 831 5104 6254  
 **Código de acceso:** 198619
-
-<script src="https://cdn.jsdelivr.net/npm/add-to-calendar-button@2" async defer></script>
-
-<div class="event-calendar">
-<add-to-calendar-button
-  name="CRiSS-LAB | Miguel Guevara: metadatos científicos para I+D+i"
-  description="Miguel Guevara presenta ApiRipa y EqMetrics.[br]Inicio: 30 de septiembre de 2026, 15:00, Santiago de Chile.[br]Zoom: https://us02web.zoom.us/j/83151046254?pwd=hInKEadzXqvt5XS93bYoKiHEiLEbDj.1[br]ID: 831 5104 6254[br]Código: 198619[br]Bloque provisional de calendario: 60 minutos. Hora de término por confirmar."
-  startDate="2026-09-30"
-  endDate="2026-09-30"
-  startTime="15:00"
-  endTime="16:00"
-  timeZone="America/Santiago"
-  location="https://us02web.zoom.us/j/83151046254?pwd=hInKEadzXqvt5XS93bYoKiHEiLEbDj.1"
-  options="['Apple','Google','iCal','Microsoft365','Outlook.com','Yahoo']"
-  language="es"
-  label="Agregar al calendario"
-  trigger="click"
-  inline
-  listStyle="modal"
-  iCalFileName="CRiSS-LAB-Miguel-Guevara-2026-09-30"
-  icsFile="https://criss-lab.com/es/event/metadatos-cientificos-miguel-guevara/event.ics"
-></add-to-calendar-button>
-</div>
-
-[Descargar evento (.ics)](event.ics)
 
 <small>El calendario reserva un bloque provisional de 60 minutos. La hora de término de la charla está por confirmar.</small>
 

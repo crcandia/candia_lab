@@ -27,15 +27,33 @@ links:
   url: https://us02web.zoom.us/j/83151046254?pwd=hInKEadzXqvt5XS93bYoKiHEiLEbDj.1
   icon_pack: fas
   icon: video
-- name: Add to calendar
-  url: /event/metadatos-cientificos-miguel-guevara/event.ics
-  icon_pack: fas
-  icon: calendar-alt
 url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
 ---
+
+<script src="https://cdn.jsdelivr.net/npm/add-to-calendar-button@2" async defer></script>
+
+<div>
+<add-to-calendar-button
+  name="Scientific metadata for R&amp;D&amp;I collaboration (Zoom Meeting)"
+  description="Zoom link: https://us02web.zoom.us/j/83151046254?pwd=hInKEadzXqvt5XS93bYoKiHEiLEbDj.1 | Meeting ID: 831 5104 6254 | Passcode: 198619 | Miguel Guevara | Provisional 60-minute calendar slot. Actual end time to be confirmed."
+  startDate="2026-09-30"
+  endDate="2026-09-30"
+  startTime="15:00"
+  endTime="16:00"
+  location="Zoom Meeting."
+  options="['Apple','Google','iCal','Microsoft365','Outlook.com','Yahoo']"
+  timeZone="America/Santiago"
+  trigger="click"
+  inline
+  listStyle="modal"
+  iCalFileName="Reminder-Event"
+  >
+</add-to-calendar-button>
+</div>
+<br>
 
 ## Using data to connect science and industry
 
@@ -56,31 +74,6 @@ The talk will also explore research opportunities offered by data collected from
 
 **Meeting ID:** 831 5104 6254  
 **Passcode:** 198619
-
-<script src="https://cdn.jsdelivr.net/npm/add-to-calendar-button@2" async defer></script>
-
-<div class="event-calendar">
-<add-to-calendar-button
-  name="CRiSS-LAB | Miguel Guevara: scientific metadata for R&amp;D&amp;I"
-  description="Miguel Guevara presents ApiRipa and EqMetrics.[br]Start: September 30, 2026, 15:00, Santiago, Chile.[br]Zoom: https://us02web.zoom.us/j/83151046254?pwd=hInKEadzXqvt5XS93bYoKiHEiLEbDj.1[br]Meeting ID: 831 5104 6254[br]Passcode: 198619[br]Provisional calendar slot: 60 minutes. Actual end time to be confirmed."
-  startDate="2026-09-30"
-  endDate="2026-09-30"
-  startTime="15:00"
-  endTime="16:00"
-  timeZone="America/Santiago"
-  location="https://us02web.zoom.us/j/83151046254?pwd=hInKEadzXqvt5XS93bYoKiHEiLEbDj.1"
-  options="['Apple','Google','iCal','Microsoft365','Outlook.com','Yahoo']"
-  language="en"
-  label="Add to calendar"
-  trigger="click"
-  inline
-  listStyle="modal"
-  iCalFileName="CRiSS-LAB-Miguel-Guevara-2026-09-30"
-  icsFile="https://criss-lab.com/event/metadatos-cientificos-miguel-guevara/event.ics"
-></add-to-calendar-button>
-</div>
-
-[Download calendar event (.ics)](event.ics)
 
 <small>The calendar reserves a provisional 60-minute slot. The talk’s end time is not yet confirmed.</small>
 
