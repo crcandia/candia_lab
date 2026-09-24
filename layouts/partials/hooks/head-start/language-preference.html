@@ -1,0 +1,9 @@
+{{- if and (gt (len site.Languages) 1) (ne .Section "admin") (ne .Kind "404") (not .Params.private) -}}
+  {{- $translations := dict -}}
+  {{- range .AllTranslations -}}
+    {{- $translations = merge $translations (dict .Lang .RelPermalink) -}}
+  {{- end -}}
+  <script id="crisslab-language-config" type="application/json">{{ dict "currentLanguage" .Lang "translations" $translations | jsonify | safeJS }}</script>
+  {{- $script := resources.Get "js/language-preference.js" | minify -}}
+  <script>{{ $script.Content | safeJS }}</script>
+{{- end -}}

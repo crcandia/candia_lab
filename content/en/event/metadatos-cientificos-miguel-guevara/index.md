@@ -1,28 +1,36 @@
 ---
-title: "Scientific metadata for R&D&I collaboration"
-subtitle: "Results from FONDEF Technological Research Project 2024 IT24I0145"
-summary: "Miguel Guevara (Universidad de Playa Ancha) presents ApiRipa and EqMetrics: tools to connect research teams with industry, and opportunities for research using scientific metadata. September 30, 2026, 15:00 Santiago time, online."
+title: Scientific metadata for R&D&I collaboration
+subtitle: Results from FONDEF Technological Research Project 2024 IT24I0145
+summary: 'Miguel Guevara (Universidad de Playa Ancha) presents ApiRipa and EqMetrics: tools to connect research teams with industry, and opportunities for research using scientific metadata. September 30, 2026, 15:00 Santiago time, online.'
 date: '2026-09-30T15:00:00-03:00'
 publishDate: '2026-09-24T00:00:00-03:00'
-event: "CRiSS-LAB Seminar Series 2026"
-venue: "CRiSS-LAB"
-location: "Online, via Zoom"
+event: CRiSS-LAB Seminar Series 2026
+venue: CRiSS-LAB
+location: Online, via Zoom
 authors:
-  - Miguel Guevara
+- Miguel Guevara
 tags:
-  - Data Science
-  - Science of Science
-  - Open Innovation
-  - Industry Collaboration
+- Data Science
+- Science of Science
+- Open Innovation
+- Industry Collaboration
 featured: true
 draft: false
 images:
-  - https://www.upla.cl/facultad/ingenieria/wp-content/uploads/2025/08/GUEVARA.jpg
+- https://www.upla.cl/facultad/ingenieria/wp-content/uploads/2025/08/GUEVARA.jpg
+image:
+  caption: Universidad de Playa Ancha
+  focal_point: Center
+  preview_only: true
 links:
-  - name: "Join via Zoom"
-    url: "https://us02web.zoom.us/j/83151046254?pwd=hInKEadzXqvt5XS93bYoKiHEiLEbDj.1"
-    icon_pack: fas
-    icon: video
+- name: Join via Zoom
+  url: https://us02web.zoom.us/j/83151046254?pwd=hInKEadzXqvt5XS93bYoKiHEiLEbDj.1
+  icon_pack: fas
+  icon: video
+- name: Add to calendar
+  url: /event/metadatos-cientificos-miguel-guevara/event.ics
+  icon_pack: fas
+  icon: calendar-alt
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -48,6 +56,33 @@ The talk will also explore research opportunities offered by data collected from
 
 **Meeting ID:** 831 5104 6254  
 **Passcode:** 198619
+
+<script src="https://cdn.jsdelivr.net/npm/add-to-calendar-button@2" async defer></script>
+
+<div class="event-calendar">
+<add-to-calendar-button
+  name="CRiSS-LAB | Miguel Guevara: scientific metadata for R&amp;D&amp;I"
+  description="Miguel Guevara presents ApiRipa and EqMetrics.[br]Start: September 30, 2026, 15:00, Santiago, Chile.[br]Zoom: https://us02web.zoom.us/j/83151046254?pwd=hInKEadzXqvt5XS93bYoKiHEiLEbDj.1[br]Meeting ID: 831 5104 6254[br]Passcode: 198619[br]Provisional calendar slot: 60 minutes. Actual end time to be confirmed."
+  startDate="2026-09-30"
+  endDate="2026-09-30"
+  startTime="15:00"
+  endTime="16:00"
+  timeZone="America/Santiago"
+  location="https://us02web.zoom.us/j/83151046254?pwd=hInKEadzXqvt5XS93bYoKiHEiLEbDj.1"
+  options="['Apple','Google','iCal','Microsoft365','Outlook.com','Yahoo']"
+  language="en"
+  label="Add to calendar"
+  trigger="click"
+  inline
+  listStyle="modal"
+  iCalFileName="CRiSS-LAB-Miguel-Guevara-2026-09-30"
+  icsFile="https://criss-lab.com/event/metadatos-cientificos-miguel-guevara/event.ics"
+></add-to-calendar-button>
+</div>
+
+[Download calendar event (.ics)](event.ics)
+
+<small>The calendar reserves a provisional 60-minute slot. The talk’s end time is not yet confirmed.</small>
 
 ### About the speaker
 
