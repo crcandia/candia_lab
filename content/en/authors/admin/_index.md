@@ -2,9 +2,9 @@
 authors:
   - Cristian Candia
 title: Cristian Candia
-role: Associate Professor, Data Science Institute, School of Engineering, Universidad del Desarrollo, Chile. Head of CRiSS-LAB.
+role: Associate Professor, Data Science Institute, School of Engineering, Universidad del Desarrollo, Chile. Director of CRiSS-LAB.
 avatar_filename: avatar.jpeg
-bio: Cristian Candia studies how societies transform information into collective relevance through attention, memory, preferences, and coordination. His work combines computational social science, network science, AI, and large-scale behavioral data to understand how groups, institutions, and societies decide what matters.
+bio: Cristian Candia is a computational social scientist studying human and collective behavior with large-scale data, network science, experiments, and AI.
 name_variants:
   - Cristian Candia
   - Cristian Candia-Castro
@@ -13,21 +13,20 @@ name_variants:
   - Cristian Esteban Candia Vallejos
 interests:
   - Computational Social Science
-  - Business Analytics
   - Collective Memory
   - Collective Intelligence
-  - Learning Analytics
+  - Human-AI Interaction
   - Artificial Intelligence
-  - Applied AI
   - Network Science
+  - Decision-Making
+  - Learning Analytics
   - School Coexistence
-  - Decision Intelligence
   - Experimental Game Theory
+  - Business Analytics
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:crcandiav@gmail.com
-
   - icon: cv
     icon_pack: ai
     link: https://crcandia.com/
@@ -47,26 +46,20 @@ social:
     link: https://github.com/crcandia
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/cristian-candia-castro-ph-d-04040251/   
-
+    link: https://www.linkedin.com/in/cristian-candia-castro-ph-d-04040251/
 organizations:
   - name: Associate Professor at the Data Science Institute, School of Engineering, Universidad del Desarrollo, Chile.
     url: "https://www.udd.cl/persona/cristian-candia/#!/page=1"
-  # - name: Former Director of the Data Science Master's Degree, School of Engineering, Universidad del Desarrollo, Chile.
-  #   url: "https://ingenieria.udd.cl/postgrado/magister-en-data-science/"
-  - name: External Faculty at the Northwestern Institute on Complex Systems, Kellogg School of Management,
-      Northwestern University, USA.
+  - name: External Faculty at the Northwestern Institute on Complex Systems, Northwestern University, USA.
     url: "https://www.nico.northwestern.edu/people/external-faculty.html"
 education:
   courses:
-    - course: Postdoc in Computational Social Science
-    - course: Ph.D. in Complex Systems
+    - course: Postdoctoral Researcher in Computational Social Science, Kellogg School of Management / NICO, Northwestern University (2019–2020)
+    - course: Ph.D. in Social Complexity Science, Universidad del Desarrollo
     - course: Master of Social Complexity Science
-    - course: Physics Engineering
+    - course: Engineering Physics
     - course: Master of Science in Physics
     - course: Bachelor of Science in Physics
-
-
 email: "crcandiav@gmail.com"
 superuser: true
 user_groups:
@@ -75,63 +68,30 @@ highlight_name: true
 ---
 <div style="text-align: justify">
 
-<div style="margin-bottom:1rem;">
-  <button onclick="document.getElementById('bio-eng').style.display='block'; document.getElementById('bio-esp').style.display='none';">English</button>
-  <button onclick="document.getElementById('bio-eng').style.display='none'; document.getElementById('bio-esp').style.display='block';">Español</button>
+Dr. Cristian Candia is an **Associate Professor** at the <a href="https://ingenieria.udd.cl/data-science/" target="_blank">Data Science Institute</a>, School of Engineering, <a href="https://www.udd.cl/" target="_blank">Universidad del Desarrollo</a>, Chile, and Director of the <a href="https://criss-lab.com/" target="_blank">Computational Research in Social Science Lab (CRiSS-LAB)</a>. He is also an <a href="https://www.nico.northwestern.edu/people/external-faculty.html" target="_blank">External Faculty Member at the Northwestern Institute on Complex Systems (NICO), Northwestern University</a>. From 2021 to 2024, he served as Director of the <a href="https://ingenieria.udd.cl/postgrado/magister-en-data-science/" target="_blank">Master’s in Data Science</a> at Universidad del Desarrollo.
+
+Cristian is a computational social scientist and entrepreneur working at the intersection of **human behavior, computational social science, network science, complex systems, and artificial intelligence**. His research asks how people and groups remember, cooperate, form preferences, learn, and make decisions, and how these individual processes scale into collective outcomes.
+
+A growing line of his work studies the relationship between **AI and human heterogeneity**: when computational models capture human judgments well, when they compress meaningful differences between people, and how preferences, systematic errors, and aggregation can be represented more faithfully. This complements his research on collective memory, political polarization, education, social networks, and decision-making.
+
+He currently leads an **ANID-FONDECYT Regular** project on collective memory in science, focused on how retracted knowledge is forgotten or remains active over time. Previously, he led an **ANID-FONDECYT Iniciación** project on collective memory and attention in the arts and sciences. His work has also been supported by applied research and innovation initiatives including **FONDEF** and collaborations with public and private institutions.
+
+Cristian earned his **Ph.D. in Social Complexity Science from Universidad del Desarrollo**. His doctoral research was carried out at the <a href="https://www.media.mit.edu/people/ccandiav/overview/" target="_blank">MIT Media Lab</a>, where he developed his dissertation research, with additional research experience at the <a href="https://www.barabasilab.com/" target="_blank">Center for Complex Network Research at Northeastern University</a>. He later completed a postdoctoral appointment in computational social science at **Kellogg School of Management / NICO, Northwestern University (2019–2020)**. He also holds degrees in Physics and Engineering Physics from the <a href="https://fisica.udec.cl/es/" target="_blank">Universidad de Concepción</a>, Chile.
+
+His work has received international recognition, including a **Nature Editorial Recommendation**, an **Editor’s Suggestion** in *Physical Review Physics Education Research*, and the **Best Lightning Talk Award** at the *Conference on Complex Systems (CCS) 2025*. He has also been invited as a **keynote speaker** at the Computational Social Science Satellite of CCS 2025 and as **Invited Faculty** at the Santa Fe Institute’s Complexity Global School for Emerging Political Economies.
+
+Cristian has led and contributed to data- and AI-based platforms including <a href="https://lixandria.cl/about" target="_blank">Lixandria</a>, <a href="https://discolab.cl/" target="_blank">Discolab</a>, <a href="https://priorizachile.cl/" target="_blank">PriorizaChile</a>, **DYNAMAP**, and <a href="https://capybara.cl/" target="_blank">Capybara</a>. These projects translate computational social science into tools for education, school coexistence, civic technology, organizational analysis, and decision support.
+
 </div>
-
-<div id="bio-eng" style="display:block;">
-
-<h2></h2>
-
-Dr. Cristian Candia is an **Associate Professor** at the <a href="https://ingenieria.udd.cl/data-science/" target="_blank">Data Science Institute</a>, School of Engineering, <a href="https://www.udd.cl/" target="_blank">Universidad del Desarrollo</a>, Chile, and Head of the <a href="https://criss-lab.com/" target="_blank">Computational Research in Social Science Lab (CRiSS-LAB)</a>. He is also an <a href="https://www.nico.northwestern.edu/people/external-faculty.html" target="_blank">External Faculty Member at the Northwestern Institute on Complex Systems (NICO), Northwestern University</a>. Previously, he served as **Director of the <a href="https://ingenieria.udd.cl/postgrado/magister-en-data-science/" target="_blank">Master’s in Data Science</a> at Universidad del Desarrollo (2021–2024)**, where he led curricular innovation and contributed to major improvements in enrollment and student satisfaction.
-
-Cristian is a computational social scientist and entrepreneur whose work lies at the intersection of **applied AI, computational social science, network science, machine learning, and complex systems**. His research examines how social structure, information, and behavior interact across domains such as **collective memory, polarization, educational trajectories, knowledge diffusion, school coexistence, social networks, and decision-making**. He is particularly interested in combining rigorous computational methods with applied questions about society, institutions, markets, organizations, and human behavior.
-
-He currently leads an **ANID-FONDECYT Regular** project on **collective memory**, titled **“Collective Memory Decay in Science: Patterns and Determinants of Forgetting Retracted Research”**. Previously, he led an **ANID-FONDECYT Iniciación** project on **collective memory and attention in the domains of the arts and sciences**. His work has also been supported through applied innovation and research initiatives including **FONDEF** and collaborations with public and private institutions.
-
-His academic trajectory includes research and training at the <a href="https://www.media.mit.edu/people/ccandiav/overview/" target="_blank">MIT Media Lab</a>, the <a href="https://www.barabasilab.com/" target="_blank">Center for Complex Network Research at Northeastern University and Harvard Medical School</a>, and <a href="https://www.nico.northwestern.edu/" target="_blank">Northwestern Institute on Complex Systems at Northwestern University</a>. Earlier in his career, he was affiliated with the Center for Social Complexity (CICS), School of Government, Universidad del Desarrollo. He received his Ph.D. in Social Complexity Science from Universidad del Desarrollo, while conducting his doctoral research and thesis work at the MIT Media Lab and the Center for Complex Network Research at Northeastern University and Harvard Medical School. He also holds a **B.Sc. in Physics, M.Sc. in Physics, and a professional degree in Engineering Physics** from <a href="https://fisica.udec.cl/es/" target="_blank">Universidad de Concepción</a>, Chile.
-
-His work has received international recognition, including a **Nature Editorial Recommendation**, the distinction of **Editor’s Suggestion** in *Physical Review Physics Education Research*, the **Best Lightning Talk Award** at the *Conference on Complex Systems (CCS) 2025*, as well as invitations such as **keynote speaker** at the *Computational Social Science Satellite* of CCS 2025 and **Invited Faculty** at the *Complexity Global School for Emerging Political Economies*, organized by the **Santa Fe Institute**, among others.
-
-As an entrepreneur, Cristian has led and contributed to the development of AI- and data-based platforms such as <a href="https://lixandria.cl/about" target="_blank">Lixandria</a>, <a href="https://discolab.cl/" target="_blank">Discolab</a>, <a href="https://priorizachile.cl/" target="_blank">PriorizaChile</a>, **DYNAMAP**, and especially <a href="https://capybara.cl/" target="_blank">Capybara</a>, a startup focused on school conflict prevention, good coexistence, bullying prevention, Ley N° 21.809 compliance, and the early detection of social dynamics in educational settings using network science, experimental game theory, and AI. His applied work also includes explainable fraud-risk scoring with transaction networks and decision-intelligence tools for polarization, markets, organizations, civic technology, and financial risk, keeping sensitive data and operational details private while translating graph analytics into decision support.
-
-He teaches graduate and undergraduate courses in areas such as **technology innovation and venture creation, network science, complex systems, computational social science, causal inference, statistics for data science, and unsupervised machine learning**, connecting theory with applied, data-driven problem solving.
-
-Outside academia, Cristian enjoys sailing, basketball, fitness training, fishing, music, and creative technology projects. He is also an amateur vocalist and DJ, and has explored improvisation, acting, and stand-up comedy—experiences that complement his broader interest in communication, audience engagement, and the craft of making complex ideas resonate. He has also been involved in volunteer work with **TECHO Chile** and the **Chilean Red Cross**, where he was awarded an **Exceptional Services Medal**.
-</div>
-
-<div id="bio-esp" style="display:none;">
-
-<h2></h2>
-
-El Dr. Cristian Candia es **Profesor Asociado** del <a href="https://ingenieria.udd.cl/data-science/" target="_blank">Instituto de Data Science</a> de la Facultad de Ingeniería de la <a href="https://www.udd.cl/" target="_blank">Universidad del Desarrollo</a>, Chile, y director del <a href="https://criss-lab.com/" target="_blank">Computational Research in Social Science Lab (CRiSS-LAB)</a>. Además, es <a href="https://www.nico.northwestern.edu/people/external-faculty.html" target="_blank">External Faculty Member del Northwestern Institute on Complex Systems (NICO), Northwestern University</a>. Previamente, fue **Director del <a href="https://ingenieria.udd.cl/postgrado/magister-en-data-science/" target="_blank">Magíster en Data Science</a> de la Universidad del Desarrollo (2021–2024)**, donde lideró innovación curricular y contribuyó a mejoras sustantivas en matrícula y satisfacción estudiantil.
-
-Cristian es un científico social computacional y emprendedor cuyo trabajo se sitúa en la intersección entre la **IA aplicada, las ciencias sociales computacionales, la ciencia de redes, el aprendizaje automático y los sistemas complejos**. Su investigación estudia cómo interactúan la estructura social, la información y el comportamiento en ámbitos como la **memoria colectiva, la polarización, las trayectorias educativas, la convivencia escolar, la difusión del conocimiento, las redes sociales y la toma de decisiones**. Le interesa especialmente combinar métodos computacionales rigurosos con preguntas aplicadas sobre la sociedad, las instituciones, los mercados, las organizaciones y el comportamiento humano.
-
-Actualmente es **Investigador Responsable de un proyecto ANID-FONDECYT Regular** sobre **memoria colectiva**, titulado **“Collective Memory Decay in Science: Patterns and Determinants of Forgetting Retracted Research”**. Anteriormente, fue Investigador Responsable de un proyecto **ANID-FONDECYT de Iniciación** enfocado en **memoria colectiva y atención en los dominios de las artes y las ciencias**. Su trabajo también ha sido apoyado por iniciativas de investigación e innovación aplicada, incluyendo proyectos **FONDEF** y colaboraciones con instituciones públicas y privadas.
-
-Su trayectoria académica incluye investigación y formación en el <a href="https://www.media.mit.edu/people/ccandiav/overview/" target="_blank">MIT Media Lab</a>, el <a href="https://www.barabasilab.com/" target="_blank">Center for Complex Network Research de Northeastern University y Harvard Medical School</a>, y <a href="https://www.nico.northwestern.edu/" target="_blank">Northwestern Institute on Complex Systems en la Northwestern University</a>. En una etapa anterior, estuvo vinculado al Centro de Investigación en Complejidad Social (CICS), Facultad de Gobierno, Universidad del Desarrollo. Recibió su Ph.D. en Ciencias de la Complejidad Social de la Universidad del Desarrollo, mientras desarrollaba su investigación doctoral y trabajo de tesis en el MIT Media Lab y en el Center for Complex Network Research de Northeastern University y Harvard Medical School. También obtuvo sus grados de **Licenciado en Física, Magíster en Física e Ingeniería Física** en la <a href="https://fisica.udec.cl/es/" target="_blank">Universidad de Concepción</a>, Chile.
-
-Su trabajo ha sido reconocido internacionalmente mediante una **recomendación editorial de Nature**, la distinción de **Editor’s Suggestion** en *Physical Review Physics Education Research*, el **Best Lightning Talk Award** en la *Conference on Complex Systems (CCS) 2025*, además de invitaciones como **keynote speaker** en el *Computational Social Science Satellite* de CCS 2025 e **Invited Faculty** en la *Complexity Global School for Emerging Political Economies*, organizada por el **Santa Fe Institute**, entre otras.
-
-Como emprendedor, Cristian ha liderado y contribuido al desarrollo de plataformas basadas en datos e inteligencia artificial como <a href="https://lixandria.cl/about" target="_blank">Lixandria</a>, <a href="https://discolab.cl/" target="_blank">Discolab</a>, <a href="https://priorizachile.cl/" target="_blank">PriorizaChile</a>, **DYNAMAP** y, de manera destacada, <a href="https://capybara.cl/" target="_blank">Capybara</a>, una startup orientada a la prevención de conflictos escolares, la promoción de buena convivencia, la prevención del bullying, el cumplimiento de la Ley N° 21.809 y la detección temprana de dinámicas sociales en contextos educativos usando ciencia de redes, teoría de juegos experimental e inteligencia artificial. Su trabajo aplicado también incluye scoring explicable de riesgo de fraude con redes transaccionales y herramientas de inteligencia de decisiones para polarización, mercados, organizaciones, tecnología cívica y riesgo financiero, manteniendo privados los datos sensibles y detalles operativos mientras traduce analítica de grafos en apoyo a decisiones.
-
-Además, enseña cursos de pregrado y postgrado en áreas como **innovación y emprendimiento tecnológico, ciencia de redes, sistemas complejos, ciencias sociales computacionales, inferencia causal, estadística para data science y aprendizaje no supervisado**, conectando teoría rigurosa con resolución aplicada de problemas basada en datos.
-
-Fuera de la academia, Cristian disfruta de la navegación a vela, el básquetbol, el entrenamiento físico, la pesca, la música y los proyectos creativos con tecnología. También es vocalista amateur y DJ, y ha explorado la improvisación, la actuación y el stand-up comedy, experiencias que complementan su interés más amplio por la comunicación, la conexión con audiencias y el arte de hacer que las ideas complejas resuenen. Además, ha participado en trabajo voluntario con **TECHO Chile** y la **Cruz Roja Chilena**, donde recibió una **Medalla por Servicios Destacados**.
-</div>
-
-
 
 <div>
-<iframe margin= "center" width="100%" height="400vh" src="https://www.youtube.com/embed/kYHLZZhG5Wc" title="Sociedad en Base a Datos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe margin="center" width="100%" height="400vh" src="https://www.youtube.com/embed/kYHLZZhG5Wc" title="Society through Data" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 # Calendar
 
 <p style="margin: 0 0 1rem 0; text-align: center;">
-  To schedule a meeting, 
+  To schedule a meeting,
   <a href="https://calendar.app.google/UV7wBj2krKC9BMGA8" target="_blank" rel="noopener noreferrer">
     click here
   </a>.
@@ -147,8 +107,3 @@ Fuera de la academia, Cristian disfruta de la navegación a vela, el básquetbol
     allowfullscreen>
   </iframe>
 </div>
-
-
-<!-- <div>
-<iframe margin= "center" width="100%" height="650vh" src="https://calendar.google.com/calendar/embed?height=800&wkst=2&bgcolor=%23ffffff&ctz=America%2FSantiago&src=Y3JjYW5kaWF2QGdtYWlsLmNvbQ&color=%237986CB&mode=WEEK&showTabs=1&showCalendars=1" title="Public Calendar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div> -->

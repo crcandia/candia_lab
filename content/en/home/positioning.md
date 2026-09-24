@@ -11,28 +11,29 @@ design:
 <div class="strategic-positioning">
   <div class="strategic-positioning__intro">
     <p class="strategic-positioning__eyebrow">What we study</p>
-<h2>How do people, groups, and institutions decide what matters?</h2>
-<p>CRiSS-LAB studies how, in environments saturated with data, AI, and information, societies produce collective relevance: what receives attention, what is remembered, what is preferred, and how decisions become coordinated. We combine computational social science, network science, dynamic models, and experimental platforms to understand these processes and design better decision systems.</p>
-
-
+    <h2>Computational social science for a world shaped by networks, data, and AI.</h2>
+    <p>CRiSS-LAB studies human and collective behavior at scale: how people remember, learn, cooperate, form preferences, and make decisions. We combine behavioral data, experiments, network science, statistical modeling, causal inference, and artificial intelligence to understand social systems and build tools that can be used in the real world.</p>
   </div>
+
   <div class="strategic-positioning__grid">
     <article>
       <span>01</span>
-      <h3>Memory, science, and correction</h3>
-      <p>The 2026 FONDECYT Regular grant on collective memory decay in science consolidates a distinctive research line: why some knowledge remains active even after being invalidated.</p>
-      <a href="./projects/collective-memory-decay-science/">View FONDECYT project</a>
-    </article>
-    <article>
-      <span>02</span>
-      <h3>Models for social systems</h3>
-      <p>We combine network science, statistical physics, causal inference, machine learning, and text analysis to move from individual traces to aggregate explanations.</p>
+      <h3>Human and collective behavior</h3>
+      <p>We study memory, attention, cooperation, learning, preferences, and decision-making, from individual behavior to collective outcomes.</p>
       <a href="./publication/">View research</a>
     </article>
+
+    <article>
+      <span>02</span>
+      <h3>AI and human representation</h3>
+      <p>We study when AI captures human judgments and heterogeneity, when it misses meaningful differences, and how computational models can better represent people.</p>
+      <a href="./projects/human-ai-representation/">View research line</a>
+    </article>
+
     <article>
       <span>03</span>
-      <h3>Institutional impact</h3>
-      <p>The lab's applied platforms bring this research into education, school coexistence, public deliberation, culture, mobility, organizations, and risk analytics.</p>
+      <h3>Networks, institutions, and real systems</h3>
+      <p>We connect basic research with schools, science, public debate, organizations, markets, and digital platforms, translating evidence into usable systems and decisions.</p>
       <a href="./projects/">View projects</a>
     </article>
   </div>
