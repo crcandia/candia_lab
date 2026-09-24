@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Paula Salazar
 title: Paula Salazar
-role: Asistente de investigación
+role: Estudiante de pregrado
 interests:
   - Sesgos de género
   - Machine Learning
