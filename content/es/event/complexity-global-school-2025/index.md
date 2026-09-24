@@ -8,8 +8,14 @@ date_end: "2025-08-08T23:59:00-05:00"
 event: "Complexity Global School for Emerging Political Economies 2025"
 event_url: "https://www.santafe.edu/info/2025-complexity-global-school/overview"
 location: "Universidad de los Andes, Bogotá, Colombia"
-featured: false
+featured: true
 draft: false
+images:
+  - "https://sfi-edu.s3.amazonaws.com/sfi-edu/production/uploads/edu_gallery/20240722_141528467_iOS_ae02c8.jpg.1800x1200_q85_box-0%2C175%2C4032%2C2863_replace_alpha-%23FFFFFF_upscale.jpg"
+image:
+  caption: "Complexity Global School en Universidad de los Andes. Foto oficial del programa SFI (cohorte 2024): Angie Carolina Bautista Silva"
+  focal_point: "Center"
+  preview_only: true
 tags:
   - Sistemas Complejos
   - Ciencias Sociales Computacionales

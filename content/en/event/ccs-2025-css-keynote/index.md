@@ -7,8 +7,14 @@ date: "2025-09-04T00:00:00+02:00"
 event: "Computational Social Science Satellite, Conference on Complex Systems 2025"
 event_url: "https://openreview.net/group?id=cssociety.org/CCS/2025/CSS"
 location: "Siena, Italy"
-featured: false
+featured: true
 draft: false
+images:
+  - "https://ingenieria.udd.cl/files/2025/09/key3-1366x768.jpg"
+image:
+  caption: "CCS 2025 in Siena. Image: Ingeniería UDD"
+  focal_point: "Center"
+  preview_only: true
 tags:
   - Computational Social Science
   - Collective Memory
