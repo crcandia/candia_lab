@@ -11,7 +11,7 @@ design:
 <div class="strategic-positioning">
   <div class="strategic-positioning__intro">
     <p class="strategic-positioning__eyebrow">Qué estudiamos</p>
-    <h2>Ciencias sociales computacionales para un mundo atravesado por redes, datos e inteligencia artificial.</h2>
+    <h2>Entender el comportamiento humano en un mundo atravesado por redes, datos e inteligencia artificial.</h2>
     <p>En CRiSS-LAB estudiamos el comportamiento humano y colectivo a gran escala: cómo las personas recuerdan, aprenden, cooperan, forman preferencias y toman decisiones. Combinamos datos conductuales, experimentos, ciencia de redes, modelamiento estadístico, inferencia causal e inteligencia artificial para entender sistemas sociales y construir herramientas que funcionen en el mundo real.</p>
   </div>
 
