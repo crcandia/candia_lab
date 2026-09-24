@@ -22,5 +22,5 @@ social:
 #       # year: 2008
 email: ""
 user_groups:
-  - Miembros anteriores
+  - Egresados
 ---
