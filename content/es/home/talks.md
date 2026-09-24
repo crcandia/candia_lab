@@ -13,6 +13,6 @@ headless: true
 weight: 90
 view: compact
 
-title: Charlas pasadas
+title: Charlas
 subtitle:
 ---

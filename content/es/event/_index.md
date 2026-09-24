@@ -1,5 +1,5 @@
 ---
-title: Charlas y eventos pasados
+title: Charlas y eventos
 
 # Listing view
 view: compact

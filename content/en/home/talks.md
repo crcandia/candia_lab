@@ -17,7 +17,7 @@ headless: true
 weight: 90
 view: compact #compact #showcase
 
-title: Past Talks
+title: Talks
 subtitle:
 
 # content:
