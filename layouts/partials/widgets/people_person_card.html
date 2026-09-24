@@ -1,0 +1,43 @@
+{{ $person := .person }}
+{{ $show_social := .show_social }}
+{{ $show_interests := .show_interests }}
+{{ $show_organizations := .show_organizations }}
+{{ $show_role := .show_role }}
+{{ $classes := .classes | default "col-12 col-sm-auto people-person" }}
+
+{{ $avatar := ($person.Resources.ByType "image").GetMatch "*avatar*" }}
+{{ $link := "" }}
+{{ with site.GetPage (printf "/authors/%s" (path.Base $person.File.Dir)) }}
+  {{ $link = .RelPermalink }}
+{{ end }}
+
+<div class="{{ $classes }}">
+  {{ $src := "" }}
+  {{ if site.Params.features.avatar.gravatar }}
+    {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 $person.Params.email) }}
+  {{ else if $avatar }}
+    {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+    {{ $src = $avatar_image.RelPermalink }}
+  {{ end }}
+
+  {{ if $src }}
+    {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
+    {{ with $link }}<a href="{{.}}">{{ end }}
+      <img width="270" height="270" loading="lazy"
+           class="avatar {{ if eq $avatar_shape "square" }}avatar-square{{ else }}avatar-circle{{ end }}"
+           src="{{ $src }}" alt="{{ $person.Title }}">
+    {{ if $link }}</a>{{ end }}
+  {{ end }}
+
+  <div class="portrait-title">
+    <h2>{{ with $link }}<a href="{{.}}">{{ end }}{{ $person.Title }}{{ if $link }}</a>{{ end }}</h2>
+    {{ if and $show_organizations $person.Params.organizations }}
+      {{ range $person.Params.organizations }}<h3>{{ .name }}</h3>{{ end }}
+    {{ end }}
+    {{ if and $show_role $person.Params.role }}<h3>{{ $person.Params.role | markdownify | emojify }}</h3>{{ end }}
+    {{ if $show_social }}{{ partial "social_links" $person }}{{ end }}
+    {{ if and $show_interests $person.Params.interests }}
+      <p class="people-interests">{{ delimit $person.Params.interests ", " | markdownify | emojify }}</p>
+    {{ end }}
+  </div>
+</div>

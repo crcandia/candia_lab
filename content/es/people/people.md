@@ -12,19 +12,23 @@ weight: 68
 title: Equipo CRiSS-LAB
 subtitle:
 
-
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: 'welcome.jpg'
 
 content:
+  # Grupos mostrados en una misma fila, en orden de seniority.
+  featured_row_groups:
+    - Investigadores científicos
+    - Investigadores postdoctorales
+    - Estudiantes de doctorado
+
   # Choose which groups/teams of users to display.
-  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Director
-    - Investigadores postdoctorales
     - Investigadores científicos
+    - Investigadores postdoctorales
     - Estudiantes de doctorado
     - Asistentes de investigación
     - Profesionales de Datos e IA

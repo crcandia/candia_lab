@@ -1,0 +1,81 @@
+{{/* People Widget */}}
+
+{{/* Initialise */}}
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $show_social := $page.Params.design.show_social | default false }}
+{{ $show_interests := $page.Params.design.show_interests | default true }}
+{{ $show_organizations := $page.Params.design.show_organizations | default false }}
+{{ $show_role := $page.Params.design.show_role | default true }}
+{{ $featured_groups := $page.Params.content.featured_row_groups | default (slice) }}
+{{ $featured_done := false }}
+
+<div class="row justify-content-center people-widget">
+  {{ with $page.Title }}
+  <div class="col-md-12 section-heading">
+    <h1>{{ . | markdownify | emojify }}</h1>
+    {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
+  </div>
+  {{ end }}
+
+  {{ with $page.Content }}
+  <div class="col-md-12">
+    {{ . }}
+  </div>
+  {{ end }}
+
+  {{ range $page.Params.content.user_groups }}
+    {{ $group := . }}
+    {{ $is_featured := in $featured_groups $group }}
+
+    {{ if $is_featured }}
+      {{ if not $featured_done }}
+        {{ $featured_done = true }}
+        <div class="col-12">
+          <div class="row justify-content-center align-items-start people-featured-ranks">
+            {{ range $featured_groups }}
+              {{ $featured_group := . }}
+              {{ $featured_query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice $featured_group) }}
+              {{ if $featured_query }}
+                <div class="col-12 col-md-4 mb-5 people-featured-rank">
+                  <h2 class="mb-4 text-center">{{ $featured_group | markdownify }}</h2>
+                  <div class="row justify-content-center">
+                    {{ range $featured_query }}
+                      {{ partial "widgets/people_person_card.html" (dict
+                        "person" .
+                        "show_social" $show_social
+                        "show_interests" $show_interests
+                        "show_organizations" $show_organizations
+                        "show_role" $show_role
+                        "classes" "col-12 people-person"
+                      ) }}
+                    {{ end }}
+                  </div>
+                </div>
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>
+      {{ end }}
+    {{ else }}
+      {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice $group) }}
+
+      {{ if $query | and (gt (len $page.Params.content.user_groups) 1) }}
+      <div class="col-md-12">
+        <h2 class="mb-4">{{ $group | markdownify }}</h2>
+      </div>
+      {{ end }}
+
+      {{ range $query }}
+        {{ partial "widgets/people_person_card.html" (dict
+          "person" .
+          "show_social" $show_social
+          "show_interests" $show_interests
+          "show_organizations" $show_organizations
+          "show_role" $show_role
+          "classes" "col-12 col-sm-auto people-person"
+        ) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</div>
