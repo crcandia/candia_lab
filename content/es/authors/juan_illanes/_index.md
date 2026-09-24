@@ -8,7 +8,7 @@ authors:
 title: Juan Illanes
 role: Estudiante visitante de magíster
 interests:
-  -
+  - 
 social:
 # education:
 #   courses:
@@ -20,5 +20,5 @@ social:
 #       # year: 2008
 email: ""
 user_groups:
-  - Visitantes
+  - Miembros anteriores
 ---

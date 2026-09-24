@@ -6,7 +6,8 @@ superuser: false
 authors:
   - Melanie Oyarzún
 title: Melanie Oyarzún
-role: Postdoctoral Fellow, Corvinus University of Budapest
+slug: melanie-oyarzun
+role: Research Scientist
 interests:
   - Labor economics
   - Development economics
@@ -36,6 +37,5 @@ social:
 #       # year: 2008
 email: ""
 user_groups:
-  # - Postdoctoral Fellows
-  - Collaborators
+  - Research Scientists
 ---

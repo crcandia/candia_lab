@@ -6,6 +6,7 @@ superuser: false
 authors:
   - Melanie Oyarzún
 title: Melanie Oyarzún
+slug: melanie-oyarzun-phd
 role: Doctora graduada
 interests:
   - Economía laboral

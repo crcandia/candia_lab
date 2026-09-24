@@ -20,5 +20,5 @@ social:
 #       # year: 2008
 email: ""
 user_groups:
-  - Visitors
+  - Past Members
 ---

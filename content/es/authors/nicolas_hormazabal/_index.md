@@ -15,7 +15,7 @@ interests:
 social:
 email: ""
 user_groups:
-  - Profesionales de Datos e IA
+  - Miembros anteriores
 ---
 
-Nicolás Hormazábal es Data Engineer en CRiSS-LAB. Contribuye a plataformas aplicadas, infraestructura de datos y sistemas de software para proyectos de ciencias sociales computacionales y tecnología cívica.
+Nicolás Hormazábal fue Data Engineer en CRiSS-LAB. Contribuyó a plataformas aplicadas, infraestructura de datos y sistemas de software para proyectos de ciencias sociales computacionales y tecnología cívica.

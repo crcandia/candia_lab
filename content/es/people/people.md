@@ -24,6 +24,7 @@ content:
   user_groups:
     - Director
     - Investigadores postdoctorales
+    - Investigadores científicos
     - Estudiantes de doctorado
     - Asistentes de investigación
     - Profesionales de Datos e IA
@@ -34,6 +35,7 @@ content:
     - Colaboradores
     - Miembros anteriores
     - Egresados
+
 design:
   show_interests: false
   show_role: true

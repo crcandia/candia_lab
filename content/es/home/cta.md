@@ -30,8 +30,7 @@ design:
     <img src="/es/author/diego-ramirez/avatar.jpg" alt="Diego Ramirez">
     <img src="/es/author/ignacio-ormazabal/avatar.jpg" alt="Ignacio Ormazábal">
     <img src="/es/author/jessica-espinoza/avatar.jpg" alt="Jessica Espinoza">
-    <img src="/es/author/francisca-droguett/avatar.jpg" alt="Francisca Droguett">
-    <img src="/es/author/nicolas-hormazabal/avatar.png" alt="Nicolás Hormazábal">
-    <img src="/es/author/victor-navarro/avatar.jpeg" alt="Victor Navarro">
+    <img src="/es/author/lucas-sanhueza/avatar.webp" alt="Lucas Sanhueza">
+    <img src="/es/author/melanie-oyarzun/avatar.jpg" alt="Melanie Oyarzún">
   </div>
 </div>

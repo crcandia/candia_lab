@@ -15,7 +15,7 @@ interests:
 social:
 email: ""
 user_groups:
-  - Profesionales de Datos e IA
+  - Miembros anteriores
 ---
 
-Victor Navarro es Data Scientist en CRiSS-LAB. Contribuye a proyectos aplicados de ciencia de datos con embeddings de redes, sistemas de recomendación y herramientas de apoyo a la toma de decisiones.
+Victor Navarro fue Data Scientist en CRiSS-LAB. Contribuyó a proyectos aplicados de ciencia de datos con embeddings de redes, sistemas de recomendación y herramientas de apoyo a la toma de decisiones.

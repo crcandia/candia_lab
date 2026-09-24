@@ -15,7 +15,7 @@ interests:
 social:
 email: ""
 user_groups:
-  - Data & AI Professionals
+  - Past Members
 ---
 
-Victor Navarro is a Data Scientist at CRiSS-LAB. He contributes to applied data science projects involving network embeddings, recommender systems, and decision-support tools.
+Victor Navarro was a Data Scientist at CRiSS-LAB. He contributed to applied data science projects involving network embeddings, recommender systems, and decision-support tools.

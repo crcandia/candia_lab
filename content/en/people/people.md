@@ -24,6 +24,7 @@ content:
   user_groups:
     - Director
     - Postdoctoral Fellows
+    - Research Scientists
     - Ph.D. Students
     - Research Assistants
     - Data & AI Professionals

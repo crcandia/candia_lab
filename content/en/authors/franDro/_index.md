@@ -10,7 +10,7 @@ role: Research Assistant
 interests:
   - Collective Memory
   - Experimental Psychology
-  
+
 social:
 # education:
 #   courses:
@@ -22,6 +22,5 @@ social:
 #       # year: 2008
 email: ""
 user_groups:
-  # - Undergraduate Students
-  - Research Assistants
+  - Past Members
 ---

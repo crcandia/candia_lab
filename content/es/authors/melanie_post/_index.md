@@ -6,7 +6,8 @@ superuser: false
 authors:
   - Melanie Oyarzún
 title: Melanie Oyarzún
-role: Investigadora postdoctoral, Corvinus University of Budapest
+slug: melanie-oyarzun
+role: Investigadora científica
 interests:
   - Economía laboral
   - Economía del desarrollo
@@ -36,6 +37,5 @@ social:
 #       # year: 2008
 email: ""
 user_groups:
-  # - Investigadores postdoctorales
-  - Colaboradores
+  - Investigadores científicos
 ---
