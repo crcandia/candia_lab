@@ -10,7 +10,7 @@ tags:
 - Cobertura en Medios
 - Lenguaje moral
 - Redes sociales
-draft: false
+draft: true
 url_source: https://cienciaamordiscos.com/papers/2026-09-04-saturacion-moral-redes-sociales/notebook.html
 ---
 
