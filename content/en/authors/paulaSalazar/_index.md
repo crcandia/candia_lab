@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Paula Salazar
 title: Paula Salazar
-role: Research Assistant
+role: Undergraduate Student
 interests:
   - Gender Bias
   - Machine Learning
