@@ -12,11 +12,16 @@ tags:
 - Redes sociales
 draft: false
 url_source: https://phys.org/news/2026-09-moral-language-doesnt-engagement-online.html
+images:
+- https://scx1.b-cdn.net/csz/news/800a/2026/moral-language-is-not.jpg
+image:
+  caption: Cristian Candia y Nikol Escribano
+  preview_only: true
 ---
 
 ![Ilustración conceptual de la saturación moral en el discurso online, con una multitud bajo un campo de mensajes en tonos turquesa y naranja.](https://scx1.b-cdn.net/csz/news/800a/2026/moral-language-is-not.jpg)
 
-*Ilustración conceptual de la saturación moral en el discurso online. Crédito: Cristian Candia.*
+*Ilustración conceptual de la saturación moral en el discurso online. Crédito: Cristian Candia y Nikol Escribano.*
 
 Phys.org publicó el 27 de septiembre de 2026 una nota de Ingrid Fadelli sobre nuestro estudio en *Nature Human Behaviour*. El artículo explica la diferencia entre la relevancia moral general de un mensaje y la concentración de lenguaje moral, a partir de aproximadamente 1,62 millones de observaciones de Twitter, Reddit y 8chan.
 
