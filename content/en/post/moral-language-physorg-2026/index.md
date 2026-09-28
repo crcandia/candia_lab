@@ -14,6 +14,10 @@ draft: false
 url_source: https://phys.org/news/2026-09-moral-language-doesnt-engagement-online.html
 ---
 
+![Conceptual illustration of moral saturation in online discourse, showing a crowd beneath a field of teal and orange message bubbles.](https://scx1.b-cdn.net/csz/news/800a/2026/moral-language-is-not.jpg)
+
+*Conceptual illustration of moral saturation in online discourse. Credit: Cristian Candia.*
+
 On September 27, 2026, Phys.org published a feature by Ingrid Fadelli on our study in *Nature Human Behaviour*. The article explains the distinction between a message’s overall moral relevance and the concentration of moral language, drawing on approximately 1.62 million observations from Twitter, Reddit and 8chan.
 
 The coverage also makes clear that the study is observational rather than experimental and presents the estimated engagement peak at intermediate levels of moral expression as model-derived and context-dependent. It includes comments from Cristian Candia on open questions, including whether AI-generated messages use moral language differently from human-written messages.
