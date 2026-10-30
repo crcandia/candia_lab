@@ -23,4 +23,11 @@ tags:
 - Wikipedia
 featured: true
 draft: false
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+  alt_text: "Recognition by country and language proximity."
 ---
+
+*Recognition by country and language proximity. Macedo, Oyarzun, Candia and Hidalgo (2026), Figure 3. CC BY 4.0. [DOI](https://doi.org/10.1093/pnasnexus/pgag308).*

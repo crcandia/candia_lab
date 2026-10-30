@@ -12,12 +12,14 @@ tags:
 draft: false
 url_source: https://www.infobae.com/tecno/2026/09/29/de-valores-a-virtudes-y-deberes-cuando-el-vocabulario-puede-jugar-en-contra-de-una-publicacion-en-redes-sociales/
 image:
-  caption: "Conceptual illustration of moral language on social media. Illustration: Cristian Candia and Nikol Escribano. [Source](https://scx1.b-cdn.net/csz/news/800a/2026/moral-language-is-not.jpg)."
+  caption: ""
   focal_point: ""
   preview_only: false
-  alt_text: "Conceptual illustration of moral language on social media."
-
+  alt_text: "Regression coefficients and marginal effects for moral density."
 ---
+
+*Regression coefficients and marginal effects for moral density. Candia, Atari, Kteily and Uzzi (2026), Fig. 3. First published in Nature Human Behaviour (2026) by Springer Nature. [DOI](https://doi.org/10.1038/s41562-026-02560-y). The Author(s), under exclusive licence to Springer Nature Limited.*
+
 
 On September 29, 2026, Infobae covered the study by Cristian Candia, Mohammad Atari, Nour Kteily and Brian Uzzi. Its report distinguishes moral loading from moral density and discusses the lower engagement associated with increasingly concentrated moral language. The underlying analysis is observational.
 

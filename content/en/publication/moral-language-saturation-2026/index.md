@@ -25,4 +25,11 @@ featured: true
 draft: false
 url_code: https://osf.io/wzymh/
 url_dataset: https://osf.io/wzymh/
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+  alt_text: "Moral loading and engagement across platforms."
 ---
+
+*Moral loading and engagement across platforms. Candia, Atari, Kteily and Uzzi (2026), Figure 2. First published in Nature Human Behaviour (2026) by Springer Nature. [DOI](https://doi.org/10.1038/s41562-026-02560-y). The Author(s), under exclusive licence to Springer Nature Limited.*
