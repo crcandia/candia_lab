@@ -52,6 +52,10 @@ In a study published in *The Quarterly Journal of Economics*, Brynjolfsson, Dani
 
 That changes the diagnosis. AI can remove tasks that once gave beginners practice, but it can also teach, provide feedback, and expose newcomers to techniques that used to be available mainly through experienced colleagues. The outcome will depend on which tasks are automated, which decisions remain the worker's responsibility, and how learning is organized.
 
+![Two possible effects of AI on expertise: fewer entry-level opportunities and potentially faster learning with assistance.](trayectorias-expertos.svg)
+
+*Conceptual illustration. Both mechanisms may coexist, and we do not yet know which will dominate.*
+
 We also do not know whether companies will need the same number of senior workers in the future. Some roles will change, and certain capabilities may be acquired faster. Predicting an inevitable shortage of experts would go beyond the evidence.
 
 The more useful question is whether we are automating entry-level work faster than we are creating new ways for people to gain experience.
