@@ -4,7 +4,7 @@
 #     url: ""
 superuser: false
 authors:
-  - Brian Uzzi
+  - brianu
 title: Brian Uzzi
 role: Profesor Richard L. Thomas de Liderazgo, Kellogg School of Management, Northwestern University
 interests:
