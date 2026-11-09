@@ -4,7 +4,7 @@ authors:
 - admin
 - Mohammad Atari
 - Nour Kteily
-- Brian Uzzi
+- brianu
 date: '2026-09-02T00:00:00Z'
 doi: 10.1038/s41562-026-02560-y
 publication: '*Nature Human Behaviour*'
