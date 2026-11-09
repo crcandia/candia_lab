@@ -52,6 +52,10 @@ En una investigación publicada en *The Quarterly Journal of Economics*, Brynjol
 
 Eso cambia el diagnóstico. La IA puede quitar tareas que antes permitían aprender, pero también puede enseñar, ofrecer retroalimentación y acercar a un principiante a prácticas que antes solo dominaban sus colegas más experimentados. El resultado dependerá de qué tareas se automaticen, cuáles permanezcan bajo responsabilidad humana y cómo se organice el aprendizaje.
 
+![Dos efectos posibles de la IA sobre la formación de expertos: menos oportunidades de entrada y aprendizaje potencialmente más rápido con asistencia.](trayectorias-expertos.svg)
+
+*Esquema conceptual. Ambos mecanismos pueden coexistir y todavía no sabemos cuál dominará.*
+
 Tampoco sabemos si las empresas necesitarán la misma cantidad de seniors en el futuro. Algunas funciones cambiarán y ciertas competencias podrán adquirirse más rápido. Predecir hoy una escasez inevitable sería ir más lejos de lo que permite la evidencia.
 
 La pregunta útil es más concreta: ¿estamos automatizando el trabajo de entrada más rápido de lo que estamos creando nuevas maneras de adquirir experiencia?
