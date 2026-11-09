@@ -19,3 +19,20 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+# Preserve historical URLs with an exact current equivalent.
+
+[[redirects]]
+  from = "/tag/bussiness-analytics/"
+  to = "/tag/business-analytics/"
+  status = 301
+
+[[redirects]]
+  from = "/author/melanie/"
+  to = "/author/melanie-oyarzun/"
+  status = 301
+
+[[redirects]]
+  from = "/teaching/complexity-global-school-2025/"
+  to = "/event/complexity-global-school-2025/"
+  status = 301
