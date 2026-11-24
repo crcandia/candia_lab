@@ -8,6 +8,10 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://www.linkedin.com/pulse/career-ladders-managerial-attitudes-influencer-fhlte
+image:
+  caption: "Clipping from the research mention in Kellogg’s Research + Insights newsletter."
+  alt_text: "Kellogg’s newsletter link to the Nature Human Behaviour study on moral language."
+  preview_only: false
 ---
 
 [**Original source: Kellogg School of Management / Research + Insights**](https://www.linkedin.com/pulse/career-ladders-managerial-attitudes-influencer-fhlte)

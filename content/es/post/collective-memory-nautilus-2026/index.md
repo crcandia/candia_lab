@@ -9,6 +9,10 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://nautil.us/the-four-forces-that-shape-collective-memory-1286569
+image:
+  caption: "Recorte del titular original de Nautilus."
+  alt_text: "Titular de Nautilus sobre las cuatro fuerzas que moldean la memoria colectiva."
+  preview_only: false
 ---
 
 [**Fuente original: Nautilus**](https://nautil.us/the-four-forces-that-shape-collective-memory-1286569)

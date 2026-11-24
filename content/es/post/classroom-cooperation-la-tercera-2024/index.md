@@ -8,6 +8,10 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://www.latercera.com/que-pasa/noticia/estudio-chileno-identifico-un-patron-en-las-relaciones-de-los-estudiantes-que-podria-cambiar-la-educacion/WEHIZNNBBVGE3EPVRYHNXUQGP4/
+image:
+  caption: "Recorte del titular original de La Tercera / Qué Pasa."
+  alt_text: "Titular de La Tercera / Qué Pasa sobre estudios de cooperación en el aula."
+  preview_only: false
 ---
 
 [**Fuente original: La Tercera / Qué Pasa**](https://www.latercera.com/que-pasa/noticia/estudio-chileno-identifico-un-patron-en-las-relaciones-de-los-estudiantes-que-podria-cambiar-la-educacion/WEHIZNNBBVGE3EPVRYHNXUQGP4/)
