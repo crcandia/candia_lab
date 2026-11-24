@@ -6,7 +6,8 @@ image:
   caption: 'Image credit: The steps of the scientific method. WIKIMEDIA COMMONS (CC BY-SA 4.0)'
 authors:
   - admin
-
+aliases:
+  - /es/post/opinion_reciladodatos/
 ---
 ## Contexto (disclaimers :D)
 Quiero iniciar esta entrada con una aclaración importante: **no soy un experto en evolución humana, ni tampoco pretendo serlo. Tampoco conozco en detalle la forma en que se revisa y publica evidencia en esa área en particular**. Sin embargo, recientemente me intrigó un estudio en el campo, en el que me sorprende enormemente cómo se han sacado conclusiones tan significativas con tan poca evidencia. Mi intención no es en absoluto desalentar la publicación de este tipo de trabajos. Más bien, mi llamado es a ejercer una mayor responsabilidad en la forma en que se comunica la información, a dejar claras las limitaciones de los estudios, y a emplear como mínimo herramientas estadísticas que brinden un grado de confiabilidad a los hallazgos. Quiero también dejar en claro que esto es exclusivamente opinión y no representa, necesariamente, a nadie más que a mi.

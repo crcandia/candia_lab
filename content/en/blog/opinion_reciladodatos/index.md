@@ -7,9 +7,11 @@ image:
   caption: 'Image credit: The steps of the scientific method. Wikimedia Commons (CC BY-SA 4.0).'
 authors:
   - admin
+aliases:
+  - /post/opinion_reciladodatos/
 ---
 
-*English version of the [original Spanish commentary](/es/post/opinion_reciladodatos/).*
+*English version of the [original Spanish commentary](/es/blog/opinion_reciladodatos/).*
 
 ## A note on where I am coming from
 
