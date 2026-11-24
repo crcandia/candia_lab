@@ -12,6 +12,10 @@ tags:
   - Conference on Complex Systems
 url_source: "https://www.udd.cl/noticias/2025/09/30/investigacion-udd-sobre-polarizacion-politica-es-premiada-en-la-principal-conferencia-mundial-sobre-sistemas-complejos/"
 url_project: "https://ccs25.cssociety.org/lightning-talks/"
+image:
+  caption: "Clipping from the original headline published by Universidad del Desarrollo."
+  alt_text: "Original Universidad del Desarrollo headline for this coverage."
+  preview_only: false
 ---
 
 [**Original source: Universidad del Desarrollo**](https://www.udd.cl/noticias/2025/09/30/investigacion-udd-sobre-polarizacion-politica-es-premiada-en-la-principal-conferencia-mundial-sobre-sistemas-complejos/)

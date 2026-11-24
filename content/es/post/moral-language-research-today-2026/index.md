@@ -12,6 +12,10 @@ tags:
 - Redes sociales
 draft: false
 url_source: https://researchtoday.co.za/moral-language-boosts-social-media-engagement-until-there-is-too-much-of-it/
+image:
+  caption: "Recorte del titular original publicado por Research Today."
+  alt_text: "Titular original de esta cobertura en Research Today."
+  preview_only: false
 ---
 
 [**Fuente original: Research Today**](https://researchtoday.co.za/moral-language-boosts-social-media-engagement-until-there-is-too-much-of-it/)

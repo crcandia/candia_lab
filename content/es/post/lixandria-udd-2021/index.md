@@ -12,6 +12,10 @@ tags:
   - Sistemas de Recomendación
 url_source: "https://www.udd.cl/noticias/2021/12/28/plataforma-permite-encontrar-una-mayor-variedad-de-alternativas-academicas-a-traves-del-uso-de-inteligencia-artificial/"
 url_project: "https://lixandria.cl/"
+image:
+  caption: "Recorte del titular original publicado por Universidad del Desarrollo."
+  alt_text: "Titular original de esta cobertura en Universidad del Desarrollo."
+  preview_only: false
 ---
 
 [**Fuente original: Universidad del Desarrollo**](https://www.udd.cl/noticias/2021/12/28/plataforma-permite-encontrar-una-mayor-variedad-de-alternativas-academicas-a-traves-del-uso-de-inteligencia-artificial/)

@@ -11,6 +11,10 @@ tags:
   - Natural Language Processing
   - Cultural Analytics
 url_source: "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2017/02/05/cientificos-chilenos-advierten-en-2017-moriran-alrededor-de-197-famosos.shtml"
+image:
+  caption: "Clipping from the original headline published by BioBioChile."
+  alt_text: "Original BioBioChile headline for this coverage."
+  preview_only: false
 ---
 
 [**Original source: BioBioChile**](https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2017/02/05/cientificos-chilenos-advierten-en-2017-moriran-alrededor-de-197-famosos.shtml)

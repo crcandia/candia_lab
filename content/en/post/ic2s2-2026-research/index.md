@@ -11,6 +11,10 @@ tags:
 - Computational Social Science
 draft: false
 url_source: https://ingenieria.udd.cl/noticias/2026/08/investigadores-udd-presentaron-investigaciones-en-conferencia-internacional-de-ciencias-sociales-computacionales/
+image:
+  caption: "Clipping from the original headline published by Ingeniería UDD."
+  alt_text: "Original Ingeniería UDD headline for this coverage."
+  preview_only: false
 ---
 
 [**Original source: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2026/08/investigadores-udd-presentaron-investigaciones-en-conferencia-internacional-de-ciencias-sociales-computacionales/)

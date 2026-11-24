@@ -12,6 +12,10 @@ tags:
 - Redes sociales
 draft: false
 url_source: https://www.commentimemorabili.it/fare-la-morale-sui-social-funziona-finche-non-rompi-troppo-lo-studio-su-16-milioni-di-post/
+image:
+  caption: "Recorte del titular original publicado por Commenti Memorabili."
+  alt_text: "Titular original de esta cobertura en Commenti Memorabili."
+  preview_only: false
 ---
 
 [**Fuente original: Commenti Memorabili**](https://www.commentimemorabili.it/fare-la-morale-sui-social-funziona-finche-non-rompi-troppo-lo-studio-su-16-milioni-di-post/)

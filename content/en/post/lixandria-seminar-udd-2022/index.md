@@ -10,6 +10,10 @@ tags:
 - Higher Education
 draft: false
 url_source: https://ingenieria.udd.cl/noticias/2022/05/cristian-candia-presenta-herramienta-lixandria-en-seminario-udd/
+image:
+  caption: "Clipping from the original headline published by Ingeniería UDD."
+  alt_text: "Original Ingeniería UDD headline for this coverage."
+  preview_only: false
 ---
 
 [**Original source: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2022/05/cristian-candia-presenta-herramienta-lixandria-en-seminario-udd/)

@@ -9,6 +9,10 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://comdig.cssociety.org/2026/10/02/cultural-proximity-reveals-a-local-premium-in-collective-memory/
+image:
+  caption: "Recorte del titular original publicado por Complexity Digest."
+  alt_text: "Titular original de esta cobertura en Complexity Digest."
+  preview_only: false
 ---
 
 [**Fuente original: Complexity Digest**](https://comdig.cssociety.org/2026/10/02/cultural-proximity-reveals-a-local-premium-in-collective-memory/)

@@ -12,6 +12,10 @@ tags:
   - Analítica de Texto
 url_source: "https://www.udd.cl/noticias/2022/08/26/instituto-de-data-science-udd-lanza-nueva-plataforma-colaborativa-para-una-mayor-comprension-de-textos-complejos/"
 url_project: "https://discolab.cl/"
+image:
+  caption: "Recorte del titular original publicado por Universidad del Desarrollo."
+  alt_text: "Titular original de esta cobertura en Universidad del Desarrollo."
+  preview_only: false
 ---
 
 [**Fuente original: Universidad del Desarrollo**](https://www.udd.cl/noticias/2022/08/26/instituto-de-data-science-udd-lanza-nueva-plataforma-colaborativa-para-una-mayor-comprension-de-textos-complejos/)

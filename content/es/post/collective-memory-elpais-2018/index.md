@@ -8,6 +8,10 @@ tags:
 - Cobertura en Medios
 - Memoria Colectiva
 url_source: https://elpais.com/elpais/2018/12/28/ciencia/1545998838_350060.html
+image:
+  caption: "Recorte del titular original publicado por EL PAÍS."
+  alt_text: "Titular original de esta cobertura en EL PAÍS."
+  preview_only: false
 ---
 
 [**Fuente original: EL PAÍS**](https://elpais.com/elpais/2018/12/28/ciencia/1545998838_350060.html)

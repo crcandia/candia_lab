@@ -11,6 +11,10 @@ tags:
   - Bibliometría
   - Inteligencia Artificial
 url_source: "https://ingenieria.udd.cl/noticias/2026/02/academico-de-ingenieria-udd-se-adjudica-fondecyt-regular-2026-con-investigacion-sobre-persistencia-de-informacion-erronea-en-la-ciencia/"
+image:
+  caption: "Recorte del titular original publicado por Ingeniería UDD."
+  alt_text: "Titular original de esta cobertura en Ingeniería UDD."
+  preview_only: false
 ---
 
 [**Fuente original: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2026/02/academico-de-ingenieria-udd-se-adjudica-fondecyt-regular-2026-con-investigacion-sobre-persistencia-de-informacion-erronea-en-la-ciencia/)

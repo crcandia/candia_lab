@@ -11,6 +11,10 @@ tags:
   - Sistemas Complejos
   - Premios
 url_source: "https://www.latribuna.cl/innovacion/2025/10/08/angelino-recibe-reconocimiento-mundial-por-estudio-sobre-polarizacion-politica-e-inteligencia-artificial.html"
+image:
+  caption: "Recorte del titular original publicado por La Tribuna."
+  alt_text: "Titular original de esta cobertura en La Tribuna."
+  preview_only: false
 ---
 
 [**Fuente original: La Tribuna**](https://www.latribuna.cl/innovacion/2025/10/08/angelino-recibe-reconocimiento-mundial-por-estudio-sobre-polarizacion-politica-e-inteligencia-artificial.html)

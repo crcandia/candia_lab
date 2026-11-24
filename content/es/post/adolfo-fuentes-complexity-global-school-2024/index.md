@@ -10,6 +10,10 @@ tags:
 - Sistemas Complejos
 draft: false
 url_source: https://www.udd.cl/noticias/2024/10/03/candidato-a-doctor-udd-participa-en-el-complexity-global-school-cgs/
+image:
+  caption: "Recorte del titular original publicado por Universidad del Desarrollo."
+  alt_text: "Titular original de esta cobertura en Universidad del Desarrollo."
+  preview_only: false
 ---
 
 [**Fuente original: Universidad del Desarrollo**](https://www.udd.cl/noticias/2024/10/03/candidato-a-doctor-udd-participa-en-el-complexity-global-school-cgs/)

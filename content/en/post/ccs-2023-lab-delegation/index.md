@@ -10,6 +10,10 @@ tags:
 - Computational Social Science
 draft: false
 url_source: https://ingenieria.udd.cl/noticias/2023/11/cuatro-estudiantes-de-ingenieria-udd-participaron-en-conferencia-anual-de-la-sociedad-internacional-de-sistemas-complejos-2023/
+image:
+  caption: "Clipping from the original headline published by Ingeniería UDD."
+  alt_text: "Original Ingeniería UDD headline for this coverage."
+  preview_only: false
 ---
 
 [**Original source: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2023/11/cuatro-estudiantes-de-ingenieria-udd-participaron-en-conferencia-anual-de-la-sociedad-internacional-de-sistemas-complejos-2023/)

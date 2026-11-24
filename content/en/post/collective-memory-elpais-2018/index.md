@@ -8,6 +8,10 @@ tags:
 - Media Coverage
 - Collective Memory
 url_source: https://elpais.com/elpais/2018/12/28/ciencia/1545998838_350060.html
+image:
+  caption: "Clipping from the original headline published by EL PAÍS."
+  alt_text: "Original EL PAÍS headline for this coverage."
+  preview_only: false
 ---
 
 [**Original source: EL PAÍS**](https://elpais.com/elpais/2018/12/28/ciencia/1545998838_350060.html)

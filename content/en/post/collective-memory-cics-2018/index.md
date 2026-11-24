@@ -8,6 +8,10 @@ tags:
 - Institutional News
 - Collective Memory
 url_source: https://complejidadsocial.udd.cl/2018/news/research-of-the-first-phd-in-social-complexity-sciences-of-the-cics-is-published-in-the-leading-nature-human-behavior-journal/
+image:
+  caption: "Clipping from the original headline published by CICS UDD."
+  alt_text: "Original CICS UDD headline for this coverage."
+  preview_only: false
 ---
 
 [**Original source: CICS UDD**](https://complejidadsocial.udd.cl/2018/news/research-of-the-first-phd-in-social-complexity-sciences-of-the-cics-is-published-in-the-leading-nature-human-behavior-journal/)

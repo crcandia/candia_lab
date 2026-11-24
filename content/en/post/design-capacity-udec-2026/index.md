@@ -10,6 +10,10 @@ tags:
 - Complex Systems
 draft: false
 url_source: https://noticias.cfm.cl/grupo-de-sistemas-complejos-de-la-cfm-presenta-avances-de-investigacion-en-conferencias-internacionales/
+image:
+  caption: "Clipping from the original headline published by Centro de Física y Matemáticas."
+  alt_text: "Original Centro de Física y Matemáticas headline for this coverage."
+  preview_only: false
 ---
 
 [**Original source: Centro de Física y Matemáticas**](https://noticias.cfm.cl/grupo-de-sistemas-complejos-de-la-cfm-presenta-avances-de-investigacion-en-conferencias-internacionales/)

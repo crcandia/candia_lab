@@ -11,6 +11,10 @@ tags:
   - Ciencias Sociales Computacionales
   - Lixandria
 url_source: "https://txsplus.com/2023/08/candia-la-memoria-colectiva-mecanismo-ayuda-formar-nuestra-identidad/"
+image:
+  caption: "Recorte del titular original publicado por TXS Plus."
+  alt_text: "Titular original de esta cobertura en TXS Plus."
+  preview_only: false
 ---
 
 [**Fuente original: TXS Plus**](https://txsplus.com/2023/08/candia-la-memoria-colectiva-mecanismo-ayuda-formar-nuestra-identidad/)

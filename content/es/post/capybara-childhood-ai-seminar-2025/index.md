@@ -11,6 +11,10 @@ tags:
 - Ciencias Sociales Computacionales
 draft: false
 url_source: https://ingenieria.udd.cl/noticias/2025/10/ingenieria-udd-realiza-seminario-ninez-adolescencia-e-inteligencia-artificial-creando-el-futuro/
+image:
+  caption: "Recorte del titular original publicado por Universidad del Desarrollo."
+  alt_text: "Titular original de esta cobertura en Universidad del Desarrollo."
+  preview_only: false
 ---
 
 [**Fuente original: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2025/10/ingenieria-udd-realiza-seminario-ninez-adolescencia-e-inteligencia-artificial-creando-el-futuro/)

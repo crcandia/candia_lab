@@ -10,6 +10,10 @@ tags:
   - Economía Política
   - Reconocimiento Internacional
 url_source: "https://ingenieria.udd.cl/noticias/2025/09/investigador-de-ingenieria-udd-participo-en-la-complexity-global-school-for-emerging-political-economies-2025/"
+image:
+  caption: "Recorte del titular original publicado por Ingeniería UDD."
+  alt_text: "Titular original de esta cobertura en Ingeniería UDD."
+  preview_only: false
 ---
 
 [**Fuente original: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2025/09/investigador-de-ingenieria-udd-participo-en-la-complexity-global-school-for-emerging-political-economies-2025/)

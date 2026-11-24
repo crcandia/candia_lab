@@ -11,6 +11,10 @@ tags:
   - Experimental Game Theory
   - Network Science
 url_source: "https://gobierno.udd.cl/noticias/2026/01/con-teoria-de-juegos-investigadores-identifican-factores-clave-para-que-los-escolares-formen-vinculos-cuando-estan-en-grupo/"
+image:
+  caption: "Clipping from the original headline published by Gobierno UDD."
+  alt_text: "Original Gobierno UDD headline for this coverage."
+  preview_only: false
 ---
 
 [**Original source: Gobierno UDD**](https://gobierno.udd.cl/noticias/2026/01/con-teoria-de-juegos-investigadores-identifican-factores-clave-para-que-los-escolares-formen-vinculos-cuando-estan-en-grupo/)

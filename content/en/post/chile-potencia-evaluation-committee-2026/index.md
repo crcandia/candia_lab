@@ -8,6 +8,10 @@ tags:
 - Institutional News
 draft: false
 url_source: https://x.com/fpaisdigital/status/2122360256571248703
+image:
+  caption: "Excerpt from Fundación País Digital’s original committee notice on LinkedIn."
+  alt_text: "First sentence of the original Chile PotencIA 2026 committee notice."
+  preview_only: false
 ---
 
 [**Original announcement: Fundación País Digital**](https://x.com/fpaisdigital/status/2122360256571248703)

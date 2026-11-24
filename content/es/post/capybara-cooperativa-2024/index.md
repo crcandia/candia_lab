@@ -11,6 +11,10 @@ tags:
   - Prevención del Bullying
   - Convivencia Escolar
 url_source: "https://www.cooperativaciencia.cl/tecnologia/2024/09/09/tecnologia-usa-ia-para-prevenir-el-acoso-escolar-en-aulas-chilenas/"
+image:
+  caption: "Recorte del titular original publicado por Cooperativa Ciencia."
+  alt_text: "Titular original de esta cobertura en Cooperativa Ciencia."
+  preview_only: false
 ---
 
 [**Fuente original: Cooperativa Ciencia**](https://www.cooperativaciencia.cl/tecnologia/2024/09/09/tecnologia-usa-ia-para-prevenir-el-acoso-escolar-en-aulas-chilenas/)
