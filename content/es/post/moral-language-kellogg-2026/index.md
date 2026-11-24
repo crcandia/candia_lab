@@ -1,0 +1,17 @@
+---
+title: "Kellogg destaca el estudio sobre lenguaje moral e interacción en redes"
+date: '2026-09-22'
+authors:
+- admin
+summary: "El boletín Research + Insights de Kellogg destaca el estudio publicado en Nature Human Behaviour."
+tags:
+- Media Coverage
+draft: false
+url_source: https://www.linkedin.com/pulse/career-ladders-managerial-attitudes-influencer-fhlte
+---
+
+El número del 22 de septiembre de 2026 de *Research + Insights*, boletín de Kellogg School of Management de Northwestern University, destacó *Saturation of moral language predicts lower content engagement on social media*. La reseña recomienda el estudio, liderado por Cristian Candia y coescrito con Mohammad Atari, Nour Kteily y Brian Uzzi, en su selección de investigaciones recientes.
+
+[Leer el estudio en Nature Human Behaviour](https://doi.org/10.1038/s41562-026-02560-y).
+
+[Leer la fuente original](https://www.linkedin.com/pulse/career-ladders-managerial-attitudes-influencer-fhlte).
