@@ -12,7 +12,14 @@ tags:
   - Constitutional Process
 url_source: "https://www.duna.cl/programa/nada-personal/2023/11/24/cristian-candia-sobre-el-explorador-constitucional-de-la-udd-se-tiene-un-resumen-con-un-lenguaje-mas-accesible-con-el-objetivo-de-acercar-la-informacion-a-las-personas/"
 url_project: "https://discolab.cl/"
+image:
+  caption: "Editorial illustration for CRiSS-LAB."
+  alt_text: "Conceptual illustration of contributions converging into shared information."
+  focal_point: Center
+  preview_only: false
 ---
+
+[**Original source: Radio Duna**](https://www.duna.cl/programa/nada-personal/2023/11/24/cristian-candia-sobre-el-explorador-constitucional-de-la-udd-se-tiene-un-resumen-con-un-lenguaje-mas-accesible-con-el-objetivo-de-acercar-la-informacion-a-las-personas/)
 
 Radio Duna interviewed Cristian Candia about **Discolab** and the UDD constitutional explorer.
 

@@ -9,8 +9,13 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://blogs.lse.ac.uk/management/2025/08/29/work-hard-play-hard-bogota-style-a-download-on-the-sfis-complexity-global-school/
+image:
+  caption: "Ilustración editorial para CRiSS-LAB."
+  alt_text: "Ilustración conceptual de tarjetas y puntos conectados."
+  focal_point: Center
+  preview_only: false
 ---
 
-Georgia Meyer relata en LSE Management su experiencia en la Complexity Global School del Santa Fe Institute, realizada en Bogotá. Entre las sesiones reseñadas menciona la de Cristian Candia sobre la relación entre lenguaje moral y participación política.
+[**Fuente original: LSE Management**](https://blogs.lse.ac.uk/management/2025/08/29/work-hard-play-hard-bogota-style-a-download-on-the-sfis-complexity-global-school/)
 
-[Leer la nota original](https://blogs.lse.ac.uk/management/2025/08/29/work-hard-play-hard-bogota-style-a-download-on-the-sfis-complexity-global-school/).
+Georgia Meyer relata en LSE Management su experiencia en la Complexity Global School del Santa Fe Institute, realizada en Bogotá. Entre las sesiones reseñadas menciona la de Cristian Candia sobre la relación entre lenguaje moral y participación política.

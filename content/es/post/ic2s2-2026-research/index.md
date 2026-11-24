@@ -11,8 +11,13 @@ tags:
 - Ciencias Sociales Computacionales
 draft: false
 url_source: https://ingenieria.udd.cl/noticias/2026/08/investigadores-udd-presentaron-investigaciones-en-conferencia-internacional-de-ciencias-sociales-computacionales/
+image:
+  caption: "Ilustración editorial para CRiSS-LAB."
+  alt_text: "Ilustración conceptual de tarjetas y puntos conectados."
+  focal_point: Center
+  preview_only: false
 ---
 
-La Facultad de Ingeniería UDD informó sobre la participación de CRiSS-LAB en IC2S2 2026, realizada en la University of Vermont. Los cuatro trabajos abordaron preferencias, permanencia, cooperación, estatus e ideología política. La agenda incluyó visitas académicas a MIT, Northeastern y Northwestern para desarrollar colaboraciones de investigación.
+[**Fuente original: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2026/08/investigadores-udd-presentaron-investigaciones-en-conferencia-internacional-de-ciencias-sociales-computacionales/)
 
-[Leer la fuente original](https://ingenieria.udd.cl/noticias/2026/08/investigadores-udd-presentaron-investigaciones-en-conferencia-internacional-de-ciencias-sociales-computacionales/).
+La Facultad de Ingeniería UDD informó sobre la participación de CRiSS-LAB en IC2S2 2026, realizada en la University of Vermont. Los cuatro trabajos abordaron preferencias, permanencia, cooperación, estatus e ideología política. La agenda incluyó visitas académicas a MIT, Northeastern y Northwestern para desarrollar colaboraciones de investigación.

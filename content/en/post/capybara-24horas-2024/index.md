@@ -9,8 +9,13 @@ tags:
 - School Coexistence
 draft: false
 url_source: https://www.24horas.cl/tendencias/tecnologia-y-ciencias/videojuego-chileno-predice-y-previene-bullying-escolar
+image:
+  caption: "Editorial illustration for CRiSS-LAB."
+  alt_text: "Conceptual illustration of links in a classroom cooperation network."
+  focal_point: Center
+  preview_only: false
 ---
 
-**24 Horas**, TVN’s news outlet, published an article about **Capybara**. The coverage quotes Cristian Candia on using social dilemmas to map classroom relationships and identify students facing integration difficulties. It also describes support for the project through the Hubtec Go! program.
+[**Original source: 24 Horas / TVN**](https://www.24horas.cl/tendencias/tecnologia-y-ciencias/videojuego-chileno-predice-y-previene-bullying-escolar)
 
-[Read the original source: 24 Horas / TVN](https://www.24horas.cl/tendencias/tecnologia-y-ciencias/videojuego-chileno-predice-y-previene-bullying-escolar).
+**24 Horas**, TVN’s news outlet, published an article about **Capybara**. The coverage quotes Cristian Candia on using social dilemmas to map classroom relationships and identify students facing integration difficulties. It also describes support for the project through the Hubtec Go! program.

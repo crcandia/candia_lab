@@ -20,6 +20,8 @@ aliases:
 - /post/local-global-memory-media-2026/
 ---
 
+[**Original source: Constructor University**](https://constructor.university/news/world-famous-or-local-legend-new-study-investigates-global-and-local-forms-collective-memory)
+
 *Figure: Trivia recognition by country and language proximity. Macedo, Oyarzun, Candia and Hidalgo (2026), Figure 3. CC BY 4.0. [Original article](https://pmc.ncbi.nlm.nih.gov/articles/PMC13641167/).*
 
 Constructor University published an interview with the research team on October 26, 2026. The conversation explores why country and language matter for recognition, and how local and global attention follow different trajectories around major life events.

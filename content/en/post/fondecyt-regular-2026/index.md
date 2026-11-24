@@ -11,7 +11,14 @@ tags:
   - Bibliometrics
   - Artificial Intelligence
 url_source: "https://ingenieria.udd.cl/noticias/2026/02/academico-de-ingenieria-udd-se-adjudica-fondecyt-regular-2026-con-investigacion-sobre-persistencia-de-informacion-erronea-en-la-ciencia/"
+image:
+  caption: "Editorial illustration for CRiSS-LAB."
+  alt_text: "Conceptual illustration of traces of collective attention fading over time."
+  focal_point: Center
+  preview_only: false
 ---
+
+[**Original source: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2026/02/academico-de-ingenieria-udd-se-adjudica-fondecyt-regular-2026-con-investigacion-sobre-persistencia-de-informacion-erronea-en-la-ciencia/)
 
 Cristian Candia was awarded an **ANID-FONDECYT Regular 2026** grant for the project **“Collective Memory Decay in Science: Patterns and Determinants of Forgetting Retracted Research.”**
 

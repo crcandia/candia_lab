@@ -8,8 +8,13 @@ tags:
 - Institutional News
 - Complexity Science
 url_source: https://www.udd.cl/noticias/2018/04/13/cristian-candia-primer-egresado-del-doctorado-ciencias-la-complejidad-social/
+image:
+  caption: "Editorial illustration for CRiSS-LAB."
+  alt_text: "Conceptual illustration of connected cards and points."
+  focal_point: Center
+  preview_only: false
 ---
 
-**Universidad del Desarrollo** reported that **Cristian Candia** became the first graduate of its **PhD in Social Complexity Sciences**, offered by the School of Government through the Research Center for Social Complexity.
+[**Original source: Universidad del Desarrollo**](https://www.udd.cl/noticias/2018/04/13/cristian-candia-primer-egresado-del-doctorado-ciencias-la-complejidad-social/)
 
-[Read the original source](https://www.udd.cl/noticias/2018/04/13/cristian-candia-primer-egresado-del-doctorado-ciencias-la-complejidad-social/).
+**Universidad del Desarrollo** reported that **Cristian Candia** became the first graduate of its **PhD in Social Complexity Sciences**, offered by the School of Government through the Research Center for Social Complexity.

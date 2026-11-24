@@ -8,8 +8,13 @@ tags:
 - Cobertura en Medios
 - Entrevistas
 url_source: https://gobierno.udd.cl/noticias/2023/11/entrevista-a-cristian-candia-en-radio-infinita/
+image:
+  caption: "Ilustración editorial para CRiSS-LAB."
+  alt_text: "Ilustración conceptual de tarjetas y puntos conectados."
+  focal_point: Center
+  preview_only: false
 ---
 
-La **Facultad de Gobierno de la Universidad del Desarrollo** publicó una nota sobre la entrevista de **Cristian Candia en Radio Infinita**. El registro institucional incluye el programa para su consulta.
+[**Fuente original: Gobierno UDD**](https://gobierno.udd.cl/noticias/2023/11/entrevista-a-cristian-candia-en-radio-infinita/)
 
-[Leer la fuente original](https://gobierno.udd.cl/noticias/2023/11/entrevista-a-cristian-candia-en-radio-infinita/).
+La **Facultad de Gobierno de la Universidad del Desarrollo** publicó una nota sobre la entrevista de **Cristian Candia en Radio Infinita**. El registro institucional incluye el programa para su consulta.

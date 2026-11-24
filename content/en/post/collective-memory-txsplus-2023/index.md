@@ -11,7 +11,14 @@ tags:
   - Computational Social Science
   - Lixandria
 url_source: "https://txsplus.com/2023/08/candia-la-memoria-colectiva-mecanismo-ayuda-formar-nuestra-identidad/"
+image:
+  caption: "Editorial illustration for CRiSS-LAB."
+  alt_text: "Conceptual illustration of traces of collective attention fading over time."
+  focal_point: Center
+  preview_only: false
 ---
+
+[**Original source: TXS Plus**](https://txsplus.com/2023/08/candia-la-memoria-colectiva-mecanismo-ayuda-formar-nuestra-identidad/)
 
 TXS+ interviewed Cristian Candia about social physics, computational social science, collective memory, and the role of memory in identity formation.
 

@@ -10,7 +10,14 @@ tags:
   - Political Economy
   - International Recognition
 url_source: "https://ingenieria.udd.cl/noticias/2025/09/investigador-de-ingenieria-udd-participo-en-la-complexity-global-school-for-emerging-political-economies-2025/"
+image:
+  caption: "Editorial illustration for CRiSS-LAB."
+  alt_text: "Conceptual illustration of connected cards and points."
+  focal_point: Center
+  preview_only: false
 ---
+
+[**Original source: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2025/09/investigador-de-ingenieria-udd-participo-en-la-complexity-global-school-for-emerging-political-economies-2025/)
 
 Cristian Candia participated as invited faculty in the **Complexity Global School for Emerging Political Economies 2025**, organized by the Santa Fe Institute and Universidad de los Andes.
 

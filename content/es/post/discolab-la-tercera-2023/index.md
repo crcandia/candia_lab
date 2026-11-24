@@ -14,6 +14,8 @@ url_source: "https://www.udd.cl/noticias/2023/11/13/discolab-inteligencia-artifi
 url_project: "https://discolab.cl/"
 ---
 
+[**Fuente original: Universidad del Desarrollo**](https://www.udd.cl/noticias/2023/11/13/discolab-inteligencia-artificial-al-servicio-de-la-comprension-constitucional-en-chile/)
+
 CRiSS-LAB, la Universidad del Desarrollo, La Tercera y colaboradores lanzaron **Discolab**, una plataforma asistida por inteligencia artificial para comprender y comparar textos constitucionales en Chile.
 
 La herramienta facilitó búsqueda, resúmenes, comparación, referencias vinculadas a fuentes, discusión, votación y rankings alrededor de la propuesta constitucional, ayudando a la ciudadanía a interactuar con información pública compleja de forma más accesible.

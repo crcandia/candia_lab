@@ -9,8 +9,13 @@ tags:
 - Discolab
 - Civic Technology
 url_source: https://www.latribuna.cl/politica/2023/11/18/chistian-candia-el-angelino-tras-la-plataforma-que-permite-comparar-los-textos-constitucionales.html
+image:
+  caption: "Editorial illustration for CRiSS-LAB."
+  alt_text: "Conceptual illustration of contributions converging into shared information."
+  focal_point: Center
+  preview_only: false
 ---
 
-**La Tribuna** interviewed **Cristian Candia** about **Discolab** during Chile’s 2023 constitutional process. The conversation addresses the use of artificial intelligence to search, summarize, and compare texts, aiming to make information more accessible to citizens.
+[**Original source: La Tribuna**](https://www.latribuna.cl/politica/2023/11/18/chistian-candia-el-angelino-tras-la-plataforma-que-permite-comparar-los-textos-constitucionales.html)
 
-[Read the original source](https://www.latribuna.cl/politica/2023/11/18/chistian-candia-el-angelino-tras-la-plataforma-que-permite-comparar-los-textos-constitucionales.html).
+**La Tribuna** interviewed **Cristian Candia** about **Discolab** during Chile’s 2023 constitutional process. The conversation addresses the use of artificial intelligence to search, summarize, and compare texts, aiming to make information more accessible to citizens.

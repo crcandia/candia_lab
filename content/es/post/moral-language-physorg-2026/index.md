@@ -12,12 +12,14 @@ tags:
 - Redes sociales
 draft: false
 url_source: https://phys.org/news/2026-09-moral-language-doesnt-engagement-online.html
-images:
-- https://scx1.b-cdn.net/csz/news/800a/2026/moral-language-is-not.jpg
 image:
-  caption: Cristian Candia y Nikol Escribano
-  preview_only: true
+  caption: "Ilustración editorial para CRiSS-LAB."
+  alt_text: "Ilustración conceptual de distintas concentraciones de mensajes."
+  focal_point: Center
+  preview_only: false
 ---
+
+[**Fuente original: Phys.org**](https://phys.org/news/2026-09-moral-language-doesnt-engagement-online.html)
 
 ![Ilustración conceptual de la saturación moral en el discurso online, con una multitud bajo un campo de mensajes en tonos turquesa y naranja.](https://scx1.b-cdn.net/csz/news/800a/2026/moral-language-is-not.jpg)
 
@@ -27,6 +29,5 @@ Phys.org publicó el 27 de septiembre de 2026 una nota de Ingrid Fadelli sobre n
 
 La cobertura también deja claro que el estudio es observacional y no experimental, y presenta el máximo estimado de interacción en niveles intermedios de expresión moral como un resultado derivado del modelo y dependiente del contexto. Además, incluye comentarios de Cristian Candia sobre preguntas abiertas, entre ellas si los mensajes generados por IA utilizan el lenguaje moral de manera diferente a los escritos por humanos.
 
-[Leer la fuente original](https://phys.org/news/2026-09-moral-language-doesnt-engagement-online.html).
 
 [Artículo científico en Nature Human Behaviour](https://doi.org/10.1038/s41562-026-02560-y).

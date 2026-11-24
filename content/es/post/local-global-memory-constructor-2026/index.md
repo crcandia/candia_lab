@@ -21,7 +21,9 @@ aliases:
 - /es/post/local-global-memory-media-2026/
 ---
 
-*Figura: Reconocimiento de personajes según proximidad de país e idioma. Macedo, Oyarzun, Candia and Hidalgo (2026), Figure 3. CC BY 4.0. [Original article](https://pmc.ncbi.nlm.nih.gov/articles/PMC13641167/).*
+[**Fuente original: Constructor University**](https://constructor.university/news/world-famous-or-local-legend-new-study-investigates-global-and-local-forms-collective-memory)
+
+*Figura: Reconocimiento de personajes según proximidad de país e idioma. Macedo, Oyarzun, Candia y Hidalgo (2026), Fig. 3. CC BY 4.0. [Artículo original](https://pmc.ncbi.nlm.nih.gov/articles/PMC13641167/).*
 
 Constructor University publicó una entrevista con el equipo de investigación el 26 de octubre de 2026. La conversación aborda la relación del país y el idioma con el reconocimiento, y las distintas trayectorias de atención local y global en torno a eventos biográficos relevantes.
 

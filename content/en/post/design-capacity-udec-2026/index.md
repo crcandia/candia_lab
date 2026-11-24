@@ -10,8 +10,13 @@ tags:
 - Complex Systems
 draft: false
 url_source: https://noticias.cfm.cl/grupo-de-sistemas-complejos-de-la-cfm-presenta-avances-de-investigacion-en-conferencias-internacionales/
+image:
+  caption: "Editorial illustration for CRiSS-LAB."
+  alt_text: "Conceptual illustration of connected cards and points."
+  focal_point: Center
+  preview_only: false
 ---
 
-**Universidad de Concepción** highlighted **Juan Illanes’s** presentation on national design capacity in Antofagasta. The article names Cristian Candia, Ignacio Toledo, and Ignacio Ormazábal as collaborators.
+[**Original source: Centro de Física y Matemáticas**](https://noticias.cfm.cl/grupo-de-sistemas-complejos-de-la-cfm-presenta-avances-de-investigacion-en-conferencias-internacionales/)
 
-[Read the original source: Facultad de Ciencias Físicas y Matemáticas, Universidad de Concepción](https://noticias.cfm.cl/grupo-de-sistemas-complejos-de-la-cfm-presenta-avances-de-investigacion-en-conferencias-internacionales/).
+**Universidad de Concepción** highlighted **Juan Illanes’s** presentation on national design capacity in Antofagasta. The article names Cristian Candia, Ignacio Toledo, and Ignacio Ormazábal as collaborators.

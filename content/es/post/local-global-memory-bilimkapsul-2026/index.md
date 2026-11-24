@@ -14,10 +14,12 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  alt_text: "Trivia recognition by country and language proximity."
+  alt_text: "Reconocimiento de personajes según proximidad de país e idioma."
 ---
 
-*Trivia recognition by country and language proximity. Macedo, Oyarzun, Candia and Hidalgo (2026), Fig. 3. CC BY 4.0. [DOI](https://doi.org/10.1093/pnasnexus/pgag308).*
+[**Fuente original: Bilim Kapsül**](https://bilimkapsul.tr/article.php?id=23488)
+
+*Reconocimiento de personajes según proximidad de país e idioma. Macedo, Oyarzun, Candia y Hidalgo (2026), Fig. 3. CC BY 4.0. [DOI](https://doi.org/10.1093/pnasnexus/pgag308).*
 
 BilimKapsül difundió en turco una síntesis de la cobertura de Phys.org el 26 de octubre de 2026. La adaptación nombra a Mariana Macedo, Melanie Oyarzun, Cristian Candia y César A. Hidalgo, y destaca la diferencia entre reconocimiento local y fama global. Se presenta como una síntesis reinterpretada de la fuente original.
 

@@ -9,8 +9,13 @@ tags:
 - Collective Memory
 - Computational Social Science
 url_source: https://www.isi.it/seminars/2025-09-candia/
+image:
+  caption: "Editorial illustration for CRiSS-LAB."
+  alt_text: "Conceptual illustration of connected cards and points."
+  focal_point: Center
+  preview_only: false
 ---
 
-ISI Foundation published the announcement of **Cristian Candia’s** seminar, *Boundaries of Belonging in Memory, Politics, and School*. The talk connects collective memory, political positions, and classroom cooperation using data and computational models.
+[**Original source: ISI Foundation**](https://www.isi.it/seminars/2025-09-candia/)
 
-[Read the original source](https://www.isi.it/seminars/2025-09-candia/).
+ISI Foundation published the announcement of **Cristian Candia’s** seminar, *Boundaries of Belonging in Memory, Politics, and School*. The talk connects collective memory, political positions, and classroom cooperation using data and computational models.

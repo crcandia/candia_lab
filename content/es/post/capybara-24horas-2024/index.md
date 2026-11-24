@@ -10,8 +10,13 @@ tags:
 - Convivencia Escolar
 draft: false
 url_source: https://www.24horas.cl/tendencias/tecnologia-y-ciencias/videojuego-chileno-predice-y-previene-bullying-escolar
+image:
+  caption: "Ilustración editorial para CRiSS-LAB."
+  alt_text: "Ilustración conceptual de vínculos en una red de cooperación escolar."
+  focal_point: Center
+  preview_only: false
 ---
 
-**24 Horas**, de TVN, publicó una nota sobre **Capybara**. La cobertura incluye declaraciones de Cristian Candia sobre el uso de dilemas sociales para mapear relaciones dentro del aula y prestar atención a estudiantes con dificultades de integración. También presenta el acompañamiento del programa Hubtec Go! al proyecto.
+[**Fuente original: 24 Horas / TVN**](https://www.24horas.cl/tendencias/tecnologia-y-ciencias/videojuego-chileno-predice-y-previene-bullying-escolar)
 
-[Leer la fuente original: 24 Horas / TVN](https://www.24horas.cl/tendencias/tecnologia-y-ciencias/videojuego-chileno-predice-y-previene-bullying-escolar).
+**24 Horas**, de TVN, publicó una nota sobre **Capybara**. La cobertura incluye declaraciones de Cristian Candia sobre el uso de dilemas sociales para mapear relaciones dentro del aula y prestar atención a estudiantes con dificultades de integración. También presenta el acompañamiento del programa Hubtec Go! al proyecto.

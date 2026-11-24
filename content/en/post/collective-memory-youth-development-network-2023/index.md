@@ -9,8 +9,13 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://ydnetwork.org/communicative-vs-cultural-memory-why-do-we-remember-some-things-and-not-others/
+image:
+  caption: "Editorial illustration for CRiSS-LAB."
+  alt_text: "Conceptual illustration of traces of collective attention fading over time."
+  focal_point: Center
+  preview_only: false
 ---
 
-Youth Development Network published “Why do we remember some things and not others?”, curated by Meg Birmingham. The piece draws on Cristian Candia and colleagues’ research distinguishing communicative and cultural memory, within a reflection on memories of the pandemic.
+[**Original source: Youth Development Network**](https://ydnetwork.org/communicative-vs-cultural-memory-why-do-we-remember-some-things-and-not-others/)
 
-[Read the original article](https://ydnetwork.org/communicative-vs-cultural-memory-why-do-we-remember-some-things-and-not-others/).
+Youth Development Network published “Why do we remember some things and not others?”, curated by Meg Birmingham. The piece draws on Cristian Candia and colleagues’ research distinguishing communicative and cultural memory, within a reflection on memories of the pandemic.

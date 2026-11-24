@@ -11,10 +11,16 @@ tags:
 - Computational Social Science
 draft: false
 url_source: https://ingenieria.udd.cl/noticias/2025/10/ingenieria-udd-realiza-seminario-ninez-adolescencia-e-inteligencia-artificial-creando-el-futuro/
+image:
+  caption: "Editorial illustration for CRiSS-LAB."
+  alt_text: "Conceptual illustration of links in a classroom cooperation network."
+  focal_point: Center
+  preview_only: false
 ---
+
+[**Original source: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2025/10/ingenieria-udd-realiza-seminario-ninez-adolescencia-e-inteligencia-artificial-creando-el-futuro/)
 
 UDD Engineering reported on Cristian Candia’s participation in a seminar on childhood, adolescence and artificial intelligence, held on October 10, 2025. His presentation introduced Capybara and data-informed support for school coexistence. The event also included a hackathon for children.
 
-[Read the original source](https://ingenieria.udd.cl/noticias/2025/10/ingenieria-udd-realiza-seminario-ninez-adolescencia-e-inteligencia-artificial-creando-el-futuro/).
 
 [About Capybara](/projects/capybara/).

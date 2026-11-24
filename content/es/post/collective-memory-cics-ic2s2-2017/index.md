@@ -9,10 +9,15 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://complejidadsocial.udd.cl/2017/news/cics-on-tour-the-laws-of-forgetting-at-international-conference-on-computational-social-science/
+image:
+  caption: "Ilustración editorial para CRiSS-LAB."
+  alt_text: "Ilustración conceptual de huellas de atención colectiva que se atenúan con el tiempo."
+  focal_point: Center
+  preview_only: false
 ---
+
+[**Fuente original: CICS UDD**](https://complejidadsocial.udd.cl/2017/news/cics-on-tour-the-laws-of-forgetting-at-international-conference-on-computational-social-science/)
 
 El CICS UDD reseñó la presentación de Cristian Candia en IC2S2 2017, en Colonia, Alemania. Su póster, “The Laws of Forgetting: Temporal scales in human Collective Forgetting”, examinó cómo decae la atención a canciones, películas y otros objetos culturales.
 
 La nota describe un modelo desarrollado con Cristián Jara, César Hidalgo y Carlos Rodríguez-Sickert que distingue memoria comunicativa y cultural, con una caída inicial rápida seguida de un descenso más lento.
-
-[Leer la nota original](https://complejidadsocial.udd.cl/2017/news/cics-on-tour-the-laws-of-forgetting-at-international-conference-on-computational-social-science/).

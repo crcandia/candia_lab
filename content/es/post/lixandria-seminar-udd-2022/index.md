@@ -10,8 +10,13 @@ tags:
 - Educación Superior
 draft: false
 url_source: https://ingenieria.udd.cl/noticias/2022/05/cristian-candia-presenta-herramienta-lixandria-en-seminario-udd/
+image:
+  caption: "Ilustración editorial para CRiSS-LAB."
+  alt_text: "Ilustración conceptual de distintos recorridos en una red de opciones."
+  focal_point: Center
+  preview_only: false
 ---
 
-La **Facultad de Ingeniería UDD** difundió el seminario en el que **Cristian Candia** presentó **Lixandria**. La actividad abordó la transición desde la educación media hacia la educación superior y el uso de la plataforma para explorar preferencias de carrera. La noticia incluye el registro audiovisual del encuentro.
+[**Fuente original: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2022/05/cristian-candia-presenta-herramienta-lixandria-en-seminario-udd/)
 
-[Leer la fuente original: Facultad de Ingeniería, Universidad del Desarrollo](https://ingenieria.udd.cl/noticias/2022/05/cristian-candia-presenta-herramienta-lixandria-en-seminario-udd/).
+La **Facultad de Ingeniería UDD** difundió el seminario en el que **Cristian Candia** presentó **Lixandria**. La actividad abordó la transición desde la educación media hacia la educación superior y el uso de la plataforma para explorar preferencias de carrera. La noticia incluye el registro audiovisual del encuentro.

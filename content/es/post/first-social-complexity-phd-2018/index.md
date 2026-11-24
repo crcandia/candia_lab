@@ -8,8 +8,13 @@ tags:
 - Noticias Institucionales
 - Ciencias de la Complejidad
 url_source: https://www.udd.cl/noticias/2018/04/13/cristian-candia-primer-egresado-del-doctorado-ciencias-la-complejidad-social/
+image:
+  caption: "Ilustración editorial para CRiSS-LAB."
+  alt_text: "Ilustración conceptual de tarjetas y puntos conectados."
+  focal_point: Center
+  preview_only: false
 ---
 
-La **Universidad del Desarrollo** informó que **Cristian Candia** se convirtió en el primer egresado del **Doctorado en Ciencias de la Complejidad Social**, impartido por la Facultad de Gobierno a través del Centro de Investigación en Complejidad Social.
+[**Fuente original: Universidad del Desarrollo**](https://www.udd.cl/noticias/2018/04/13/cristian-candia-primer-egresado-del-doctorado-ciencias-la-complejidad-social/)
 
-[Leer la fuente original](https://www.udd.cl/noticias/2018/04/13/cristian-candia-primer-egresado-del-doctorado-ciencias-la-complejidad-social/).
+La **Universidad del Desarrollo** informó que **Cristian Candia** se convirtió en el primer egresado del **Doctorado en Ciencias de la Complejidad Social**, impartido por la Facultad de Gobierno a través del Centro de Investigación en Complejidad Social.

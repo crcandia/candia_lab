@@ -5,8 +5,11 @@ image:
   focal_point: 'top'
 authors:
   - admin
-
+url_source: "https://sputniknews.lat/20170108/famosos-fallecidos-muertos-2016-2017-1066077600.html"
 ---
+
+[**Fuente original: Sputnik**](https://sputniknews.lat/20170108/famosos-fallecidos-muertos-2016-2017-1066077600.html)
+
 Muchas personas piensan que el 2016 fue un año particularmente malo, teniendo en cuenta la cantidad de celebridades fallecidas. Pero las cifras nos dicen que en realidad no fue una excepción. De hecho, debemos prepararnos porque, según las estadísticas, en 2017 fallecerán aún más personas famosas. ¿Por qué?
 Un grupo de estudiosos y expertos en análisis de modelos de datos del Instituto Tecnológico de Massachusetts (MIT) liderado por Cristian Candia-Castro Vallejos se ha propuesto averiguar la razón de esta alarmante tendencia. Para ello comenzaron estableciendo un listón de entrada al "club de los famosos".
 
@@ -32,5 +35,3 @@ Pero, ¿por qué sucede esto?
 Una de las respuestas más obvias podría ser el crecimiento lógico asociado al aumento de la población mundial, o sea, mientras más personas habitan nuestra Tierra, más personas famosas hay. Pues los analistas indican que en realidad desde el siglo XVII la progresión de personas conocidas a nivel mundial se ha disparado muy por encima de los índices de crecimiento poblacional. Y más aún en los últimos 15 años. El mayor porcentaje corresponde a todo tipo de artistas, como actores y cantantes, que también son los que más se están muriendo.
 
 Así que, los cálculos del MIT estiman que cada año se verá marcado por más muertes de famosos, sencillamente porque en la era de la globalización, el internet y las redes sociales cada vez hay más personas con ese estatus.
-
-Fuente: [Sputnik News](https://sputniknews.lat/20170108/famosos-fallecidos-muertos-2016-2017-1066077600.html)

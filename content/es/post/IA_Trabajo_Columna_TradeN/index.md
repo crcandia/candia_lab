@@ -5,8 +5,11 @@ image:
   focal_point: 'top'
 authors:
   - admin
-
+url_source: "https://trade-news.cl/2023/04/26/el-impacto-de-la-automatizacion-y-la-ia-en-el-trabajo-del-miedo-a-la-oportunidad/"
 ---
+
+[**Fuente original: Trade News**](https://trade-news.cl/2023/04/26/el-impacto-de-la-automatizacion-y-la-ia-en-el-trabajo-del-miedo-a-la-oportunidad/)
+
 La automatización y la inteligencia artificial (IA) han generado preocupaciones acerca del futuro del empleo, y las opiniones varían en cuanto a su impacto desde los optimistas que creen que aumentará la productividad y mejorará los empleos, mientras que los pesimistas temen que se destruyan todos los empleos y la sociedad se divida entre una minoría dominante y una mayoría irrelevante.
 
 La preocupación por el impacto de la tecnología en la vida cotidiana y el mercado laboral ha sido constante a lo largo de la historia. Desde la reticencia hacia la escritura descrita por Platón en «Fedro» hasta el movimiento ludita en la Revolución Industrial del siglo XIX. Más recientemente, en los años 70’s, el economista y premio Nobel Wassily Leontief vaticinaba que el trabajo se volvería cada vez menos importante y que las máquinas reemplazarían a más trabajadores. Una constante es que en todos estos casos se enfatiza la necesidad de un uso responsable y ético de la tecnología e innovación.
@@ -20,7 +23,3 @@ La OCDE destaca la importancia de habilidades del siglo XXI, como el pensamiento
 Es difícil y prematuro prever con exactitud cuáles serán las habilidades indispensables en el futuro laboral. La IA también automatiza tareas especializadas, por lo que simplemente adquirir mayores niveles de formación académica no será suficiente. Se requerirá formación continua, especialización en el manejo de estas tecnologías y desarrollo de habilidades complementarias. La automatización seguirá siendo una fuerza importante en el mercado laboral, generando datos a ritmos crecientes y cada vez más complejos en sus interacciones. Por eso los trabajadores debemos desarrollar habilidades que nos permitan prosperar en un mundo impulsado por la información y los datos y adaptarnos a este mercado cada vez más automatizado y dinámico.
 
 No menos importante es que las compañías y los líderes políticos se anticipen a los cambios que la tecnología provoca. Dado el carácter incierto del impacto de estas innovaciones en el futuro del trabajo, es prudente que los liderazgos desarrollen un marco de decisiones que priorice la resiliencia ante escenarios imprevistos. Como ha demostrado la historia, la tecnología puede ser una poderosa fuerza para el progreso y el bienestar humano, siempre y cuando se utilice de manera responsable y ética.
-
-
-
-Fuente: [Trade News](https://trade-news.cl/2023/04/26/el-impacto-de-la-automatizacion-y-la-ia-en-el-trabajo-del-miedo-a-la-oportunidad/)

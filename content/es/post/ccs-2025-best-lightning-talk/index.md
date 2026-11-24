@@ -12,7 +12,14 @@ tags:
   - Conference on Complex Systems
 url_source: "https://www.udd.cl/noticias/2025/09/30/investigacion-udd-sobre-polarizacion-politica-es-premiada-en-la-principal-conferencia-mundial-sobre-sistemas-complejos/"
 url_project: "https://ccs25.cssociety.org/lightning-talks/"
+image:
+  caption: "Ilustración editorial para CRiSS-LAB."
+  alt_text: "Ilustración conceptual de tarjetas y puntos conectados."
+  focal_point: Center
+  preview_only: false
 ---
+
+[**Fuente original: Universidad del Desarrollo**](https://www.udd.cl/noticias/2025/09/30/investigacion-udd-sobre-polarizacion-politica-es-premiada-en-la-principal-conferencia-mundial-sobre-sistemas-complejos/)
 
 Cristian Candia recibió el **Best Lightning Talk Award** en la **21ª Conference on Complex Systems (CCS 2025)** en Siena, Italia.
 

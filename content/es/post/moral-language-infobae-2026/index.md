@@ -18,11 +18,12 @@ image:
   alt_text: "Coeficientes de regresión y efectos marginales de la densidad moral."
 ---
 
+[**Fuente original: Infobae**](https://www.infobae.com/tecno/2026/09/29/de-valores-a-virtudes-y-deberes-cuando-el-vocabulario-puede-jugar-en-contra-de-una-publicacion-en-redes-sociales/)
+
 *Coeficientes de regresión y efectos marginales de la densidad moral. Candia, Atari, Kteily and Uzzi (2026), Fig. 3. First published in Nature Human Behaviour (2026) by Springer Nature. [DOI](https://doi.org/10.1038/s41562-026-02560-y). The Author(s), under exclusive licence to Springer Nature Limited.*
 
 
 El 29 de septiembre de 2026, Infobae publicó una nota sobre el estudio de Cristian Candia, Mohammad Atari, Nour Kteily y Brian Uzzi. La cobertura distingue la carga moral de la densidad moral y aborda la menor interacción asociada con una mayor concentración de lenguaje moral. El análisis del estudio es observacional.
 
-[Leer la nota original](https://www.infobae.com/tecno/2026/09/29/de-valores-a-virtudes-y-deberes-cuando-el-vocabulario-puede-jugar-en-contra-de-una-publicacion-en-redes-sociales/).
 
 [Nature Human Behaviour](https://doi.org/10.1038/s41562-026-02560-y).

@@ -17,6 +17,8 @@ image:
   alt_text: "Napoleon"
 ---
 
+[**Original source: Phys.org**](https://phys.org/news/2026-10-world-famous-local-legend-global.html)
+
 *Pixabay / CC0 Public Domain. [Phys.org](https://phys.org/news/2026-10-world-famous-local-legend-global.html).*
 
 

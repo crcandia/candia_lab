@@ -11,7 +11,14 @@ tags:
   - Complex Systems
   - Awards
 url_source: "https://www.latribuna.cl/innovacion/2025/10/08/angelino-recibe-reconocimiento-mundial-por-estudio-sobre-polarizacion-politica-e-inteligencia-artificial.html"
+image:
+  caption: "Editorial illustration for CRiSS-LAB."
+  alt_text: "Conceptual illustration of contributions converging into shared information."
+  focal_point: Center
+  preview_only: false
 ---
+
+[**Original source: La Tribuna**](https://www.latribuna.cl/innovacion/2025/10/08/angelino-recibe-reconocimiento-mundial-por-estudio-sobre-polarizacion-politica-e-inteligencia-artificial.html)
 
 La Tribuna covered Cristian Candia's recognition at the **Conference on Complex Systems 2025** for research on political polarization, revealed preferences, and artificial intelligence.
 

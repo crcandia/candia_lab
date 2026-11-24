@@ -9,8 +9,13 @@ tags:
 - Capybara
 - School Coexistence
 url_source: https://www.emol.com/noticias/Economia/2024/01/25/1119686/videojuego-predice-previene-bullying-escolar.html
+image:
+  caption: "Editorial illustration for CRiSS-LAB."
+  alt_text: "Conceptual illustration of links in a classroom cooperation network."
+  focal_point: Center
+  preview_only: false
 ---
 
-**Emol’s Portal Pyme** featured **Capybara**, a tool developed by Cristian Candia and Carlos Rodríguez-Sickert that uses games to study cooperation among students and support the identification of classroom social risks. The article describes its proposed use in primary education.
+[**Original source: Emol**](https://www.emol.com/noticias/Economia/2024/01/25/1119686/videojuego-predice-previene-bullying-escolar.html)
 
-[Read the original source](https://www.emol.com/noticias/Economia/2024/01/25/1119686/videojuego-predice-previene-bullying-escolar.html).
+**Emol’s Portal Pyme** featured **Capybara**, a tool developed by Cristian Candia and Carlos Rodríguez-Sickert that uses games to study cooperation among students and support the identification of classroom social risks. The article describes its proposed use in primary education.

@@ -9,10 +9,16 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://comdig.cssociety.org/2026/10/02/cultural-proximity-reveals-a-local-premium-in-collective-memory/
+image:
+  caption: "Ilustración editorial para CRiSS-LAB."
+  alt_text: "Ilustración conceptual de huellas de atención colectiva que se atenúan con el tiempo."
+  focal_point: Center
+  preview_only: false
 ---
+
+[**Fuente original: Complexity Digest**](https://comdig.cssociety.org/2026/10/02/cultural-proximity-reveals-a-local-premium-in-collective-memory/)
 
 Complexity Digest, el boletín de investigación de la Complex Systems Society, difundió el resumen de *Cultural proximity reveals a local premium in collective memory*. El estudio de Mariana Macedo, Melanie Oyarzun, Cristian Candia y César Hidalgo examina cómo la cercanía de país e idioma se relaciona con el reconocimiento y la atención colectiva.
 
-[Leer la nota original](https://comdig.cssociety.org/2026/10/02/cultural-proximity-reveals-a-local-premium-in-collective-memory/).
 
 [PNAS Nexus](https://doi.org/10.1093/pnasnexus/pgag308).

@@ -17,6 +17,8 @@ image:
   alt_text: "Recognition by country and language proximity."
 ---
 
+[**Original source: Informationsdienst Wissenschaft (idw)**](https://idw-online.de/de/news879650)
+
 *Recognition by country and language proximity. Macedo, Oyarzun, Candia and Hidalgo (2026), Fig. 3. CC BY 4.0. [DOI](https://doi.org/10.1093/pnasnexus/pgag308).*
 
 IDW distributed Constructor University’s institutional feature on October 26, 2026, with English and German versions. The release discusses local and global recognition in collective memory. It covers the same study and interview circulated by Constructor and Phys.org.

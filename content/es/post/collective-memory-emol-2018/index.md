@@ -8,8 +8,13 @@ tags:
 - Cobertura en Medios
 - Memoria Colectiva
 url_source: https://www.emol.com/noticias/Tecnologia/2018/12/12/930483/Fisico-chileno-utiliza-conocido-poema-de-Pablo-Neruda-para-explicar-como-decae-la-memoria-colectiva.html
+image:
+  caption: "Ilustración editorial para CRiSS-LAB."
+  alt_text: "Ilustración conceptual de huellas de atención colectiva que se atenúan con el tiempo."
+  focal_point: Center
+  preview_only: false
 ---
 
-**Emol** entrevistó a **Cristian Candia** sobre el estudio *The universal decay of collective memory and attention*. La nota presenta el trabajo sobre atención a productos culturales y la distinción entre memoria comunicativa y cultural.
+[**Fuente original: Emol**](https://www.emol.com/noticias/Tecnologia/2018/12/12/930483/Fisico-chileno-utiliza-conocido-poema-de-Pablo-Neruda-para-explicar-como-decae-la-memoria-colectiva.html)
 
-[Leer la fuente original](https://www.emol.com/noticias/Tecnologia/2018/12/12/930483/Fisico-chileno-utiliza-conocido-poema-de-Pablo-Neruda-para-explicar-como-decae-la-memoria-colectiva.html).
+**Emol** entrevistó a **Cristian Candia** sobre el estudio *The universal decay of collective memory and attention*. La nota presenta el trabajo sobre atención a productos culturales y la distinción entre memoria comunicativa y cultural.

@@ -8,10 +8,17 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://www.linkedin.com/pulse/career-ladders-managerial-attitudes-influencer-fhlte
+image:
+  caption: "Ilustración editorial para CRiSS-LAB. No corresponde a una figura del estudio."
+  alt_text: "Ilustración conceptual de distintas concentraciones de mensajes."
+  focal_point: Center
+  preview_only: false
 ---
+
+[**Fuente original: Kellogg School of Management / Research + Insights**](https://www.linkedin.com/pulse/career-ladders-managerial-attitudes-influencer-fhlte)
 
 El número del 22 de septiembre de 2026 de *Research + Insights*, boletín de Kellogg School of Management de Northwestern University, destacó *Saturation of moral language predicts lower content engagement on social media*. La reseña recomienda el estudio, liderado por Cristian Candia y coescrito con Mohammad Atari, Nour Kteily y Brian Uzzi, en su selección de investigaciones recientes.
 
-[Leer el estudio en Nature Human Behaviour](https://doi.org/10.1038/s41562-026-02560-y).
+El equipo analizó cerca de 1,6 millones de observaciones de Twitter, Reddit y 8chan. Distinguió la relevancia moral de una publicación en su conjunto de la concentración de lenguaje moral en el texto. Ambos aspectos mostraron relaciones distintas con la interacción en redes.
 
-[Leer la fuente original](https://www.linkedin.com/pulse/career-ladders-managerial-attitudes-influencer-fhlte).
+[Leer el estudio en Nature Human Behaviour](https://doi.org/10.1038/s41562-026-02560-y).

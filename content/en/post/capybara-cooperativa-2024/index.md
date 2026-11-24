@@ -11,7 +11,14 @@ tags:
   - Bullying Prevention
   - School Coexistence
 url_source: "https://www.cooperativaciencia.cl/tecnologia/2024/09/09/tecnologia-usa-ia-para-prevenir-el-acoso-escolar-en-aulas-chilenas/"
+image:
+  caption: "Editorial illustration for CRiSS-LAB."
+  alt_text: "Conceptual illustration of links in a classroom cooperation network."
+  focal_point: Center
+  preview_only: false
 ---
+
+[**Original source: Cooperativa Ciencia**](https://www.cooperativaciencia.cl/tecnologia/2024/09/09/tecnologia-usa-ia-para-prevenir-el-acoso-escolar-en-aulas-chilenas/)
 
 Cooperativa Ciencia reported on the use of AI, game-based interaction, and network analysis to help prevent bullying in Chilean classrooms.
 

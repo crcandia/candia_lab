@@ -17,6 +17,8 @@ image:
   alt_text: "Recognition by country and language proximity."
 ---
 
+[**Original source: Bilim Kapsül**](https://bilimkapsul.tr/article.php?id=23488)
+
 *Recognition by country and language proximity. Macedo, Oyarzun, Candia and Hidalgo (2026), Fig. 3. CC BY 4.0. [DOI](https://doi.org/10.1093/pnasnexus/pgag308).*
 
 BilimKapsül shared a Turkish-language summary of the Phys.org coverage on October 26, 2026. The adaptation names Mariana Macedo, Melanie Oyarzun, Cristian Candia and César A. Hidalgo, and highlights the difference between local recognition and global fame. It identifies itself as a reinterpretive summary of the original source.

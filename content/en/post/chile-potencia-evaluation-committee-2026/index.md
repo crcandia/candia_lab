@@ -7,11 +7,18 @@ summary: "Fundación País Digital acknowledged his participation in the review 
 tags:
 - Institutional News
 draft: false
-url_source: https://cl.linkedin.com/company/pais-digital
+url_source: https://x.com/fpaisdigital/status/2122360256571248703
+image:
+  caption: "Editorial illustration for CRiSS-LAB."
+  alt_text: "Conceptual illustration of four evaluation forms and a common rubric."
+  focal_point: Center
+  preview_only: false
 ---
 
-Fundación País Digital reported in November that Cristian Candia took part in the evaluation committee for the 2026 Chile PotencIA award. The committee reviewed projects before the jury deliberated. The award is organized by Fundación País Digital and Chile’s Ministry of Science, Technology, Knowledge and Innovation to recognize initiatives that put AI to use in Chile.
+[**Original announcement: Fundación País Digital**](https://x.com/fpaisdigital/status/2122360256571248703)
+
+Fundación País Digital reported in November that Cristian Candia took part in the evaluation committee for the 2026 Chile PotencIA award. The committee reviewed projects before the jury deliberated, using common criteria for impact, innovation, effective and responsible use of AI, and whether the projects could scale and remain sustainable. The award is organized by Fundación País Digital and Chile’s Ministry of Science, Technology, Knowledge and Innovation to recognize initiatives that put AI to use in Chile.
 
 [About the award](https://www.premiochilepotencia.cl/).
 
-[Read the original source](https://cl.linkedin.com/company/pais-digital).
+[Fundación País Digital’s LinkedIn feed, where the organizer named participants](https://cl.linkedin.com/company/pais-digital).

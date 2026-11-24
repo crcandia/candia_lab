@@ -6,7 +6,11 @@ image:
 authors:
   - admin
   - mapazr
+url_source: "https://estudiospublicos.cl/index.php/cep/article/view/2212"
 ---
+
+[**Fuente original: Estudios Públicos**](https://estudiospublicos.cl/index.php/cep/article/view/2212)
+
 ## Democracia en Revisión: Del Descontento de la Representatividad a las Lecciones del Experimento Chileno
 
 La crisis de la democracia representativa se ha manifestado de múltiples maneras, desde la caída de la participación electoral hasta el crecimiento del populismo y el escepticismo generalizado hacia las instituciones políticas. Las teorías de la desalineación política y el agotamiento institucional sugieren que los ciudadanos sienten que sus voces ya no son escuchadas ni reflejadas en las políticas públicas. En este contexto de erosión de la confianza y cuestionamiento de la legitimidad, la democracia deliberativa emerge como una alternativa atractiva que promete más inclusión, participación y diálogo en la toma de decisiones.

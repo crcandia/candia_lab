@@ -14,10 +14,12 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  alt_text: "Trivia recognition by country and language proximity."
+  alt_text: "Reconocimiento de personajes según proximidad de país e idioma."
 ---
 
-*Trivia recognition by country and language proximity. Macedo, Oyarzun, Candia and Hidalgo (2026), Fig. 3. CC BY 4.0. [DOI](https://doi.org/10.1093/pnasnexus/pgag308).*
+[**Fuente original: Informationsdienst Wissenschaft (idw)**](https://idw-online.de/de/news879650)
+
+*Reconocimiento de personajes según proximidad de país e idioma. Macedo, Oyarzun, Candia y Hidalgo (2026), Fig. 3. CC BY 4.0. [DOI](https://doi.org/10.1093/pnasnexus/pgag308).*
 
 IDW distribuyó el comunicado institucional de Constructor University el 26 de octubre de 2026, con versiones en inglés y alemán. La nota aborda el reconocimiento local y global en la memoria colectiva. Corresponde al mismo estudio y entrevista difundidos por Constructor y Phys.org.
 

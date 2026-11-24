@@ -8,8 +8,13 @@ tags:
 - Media Coverage
 - Collective Memory
 url_source: https://elpais.com/elpais/2018/12/28/ciencia/1545998838_350060.html
+image:
+  caption: "Editorial illustration for CRiSS-LAB."
+  alt_text: "Conceptual illustration of traces of collective attention fading over time."
+  focal_point: Center
+  preview_only: false
 ---
 
-EL PAÍS interviewed Cristian Candia about his collective memory research.
+[**Original source: EL PAÍS**](https://elpais.com/elpais/2018/12/28/ciencia/1545998838_350060.html)
 
-[Read the original source](https://elpais.com/elpais/2018/12/28/ciencia/1545998838_350060.html).
+EL PAÍS spoke with Cristian Candia about a study in *Nature Human Behaviour* on how collective attention fades. The article explains why songs, athletes and research papers can show similar patterns of decline while remaining visible for different lengths of time. It distinguishes attention sustained by conversations from attention sustained by records such as recordings and archives.

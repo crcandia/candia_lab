@@ -1,97 +1,60 @@
 ---
-title: Reciclaje de Datos en la Investigación Científica; La Imperativa Necesidad de Claridad, Responsabilidad y Rigor en la Presentación de Resultados [Opinión]
+title: "Reusing research data: Why clarity, responsibility, and rigor matter [Opinion]"
+summary: "Using a 2023 study on women’s participation in hunting, Cristian Candia examines how the way evidence was collected and recorded limits what a new analysis can establish."
 date: 2023-07-03
 image:
   focal_point: 'top'
-  caption: 'Image credit: The steps of the scientific method. WIKIMEDIA COMMONS (CC BY-SA 4.0)'
+  caption: 'Image credit: The steps of the scientific method. Wikimedia Commons (CC BY-SA 4.0).'
 authors:
-  - admin 
-
+  - admin
 ---
-## Contexto (disclaimers :D)
-Quiero iniciar esta entrada con una aclaración importante: **no soy un experto en evolución humana, ni tampoco pretendo serlo. Tampoco conozco en detalle la forma en que se revisa y publica evidencia en esa área en particular**. Sin embargo, recientemente me intrigó un estudio en el campo, en el que me sorprende enormemente cómo se han sacado conclusiones tan significativas con tan poca evidencia. Mi intención no es en absoluto desalentar la publicación de este tipo de trabajos. Más bien, mi llamado es a ejercer una mayor responsabilidad en la forma en que se comunica la información, a dejar claras las limitaciones de los estudios, y a emplear como mínimo herramientas estadísticas que brinden un grado de confiabilidad a los hallazgos. Quiero también dejar en claro que esto es exclusivamente opinión y no representa, necesariamente, a nadie más que a mi.
 
-Comenzaré con un breve contexto, que es un resumen de lo que he leído en el tiempo y otras cosas que leí el domingo por la mañana sobre el artículo en cuestión (esto probablemente está incompleto, cualquier aporte se agradece). Luego, pretendo mostrar (de manera sencilla) uno de los potenciales problemas de reciclar datos para otros objetivos en investigación. Finalmente, cierro comentando la importancia de la cautela y la prudencia al momento de publicar resultados, equilibrando la espectacularidad de los titulares y afirmaciones con la evidencia provista. 
+*English version of the [original Spanish commentary](/es/post/opinion_reciladodatos/).*
 
-## Opinión sobre Anderson, Wall-Scheffler et al., 2023
+## A note on where I am coming from
 
-Cuando pensamos en la evolución humana y las sociedades de cazadores-recolectores, es probable que la imagen predominante en nuestra memoria colectiva retrate a los hombres como cazadores y a las mujeres como recolectoras. Sin embargo, este esquema simplista ha sido cuestionado de manera progresiva por diversas investigaciones, que abogan por una comprensión más matizada de estas sociedades, y que reconocen el rol más activo y diversificado de las mujeres.
+I am not an expert on human evolution or on how evidence in the field is reviewed and published. This is my own opinion. A recent paper made me wonder how confidently we can generalize from records collected for other purposes. I want studies like this to be published. I also want their limitations to be made clear, with statistical checks that let readers judge how much weight the evidence can bear.
 
-Desde mediados de la década de 1960, los científicos comenzaron a presentar evidencia que sugería que la mayoría de la dieta en las sociedades de cazadores-recolectores provenía de alimentos vegetales recolectados por las mujeres. Esto llevó a la sugerencia de redefinir a estas sociedades como 'recolectoras-cazadoras' para enfatizar este hecho. Durante la década de 1980, un creciente número de mujeres en el campo de la antropología resultó en una serie de nuevas descripciones sobre las actividades femeninas, incluyendo más relatos de mujeres que cazaban.
+## What the paper reports
 
-Un estudio reciente, titulado "The Myth of Man the Hunter: Women’s contribution to the hunt across ethnographic contexts", retoma esta línea de cuestionamiento y pone en tela de juicio la tradicional división sexual del trabajo en las sociedades de cazadores-recolectores. Basándose en un repaso y revisión tanto de literatura como de datos etnográficos, este estudio presenta evidencia de la participación activa e intencional de las mujeres en la caza en un amplio abanico de culturas.
+The familiar picture of men hunting and women gathering has been questioned for decades. Since the 1960s, researchers have presented evidence of the importance of foods gathered by women. Later ethnographic accounts documented a wider range of activities, including hunting by women.
 
-El estudio analizó 63 sociedades de cazadores-recolectores de todo el mundo y encontró que el 79% tenía documentación sobre la caza realizada por mujeres. De estas, el 87% describía la caza de las mujeres como intencional. En sociedades donde la caza se consideraba la actividad de subsistencia más importante, las mujeres participaban activamente en la caza el 100% del tiempo. Asimismo, el estudio halló que las mujeres cazaban distintos tipos de presas según la sociedad, e incluso en algunas, las mujeres cazaban presas de todos los tamaños.
+Anderson and colleagues’ 2023 paper, *The Myth of Man the Hunter*, revisits the division of labor using ethnographic reports. In 50 of the 63 societies with explicit hunting records, the authors found documentation of women hunting. Of the 41 cases where intentionality could be assessed, 36 described women hunting intentionally. The accounts describe different prey across societies. This is evidence against a simple story in which women only gathered and men alone hunted. The tabulation is useful. My question is whether it tells us how common intentional hunting by women was across hunter-gatherer societies.
 
-Los autores sostienen que estos hallazgos desafían la visión predominante de las mujeres como **exclusivamente** recolectoras y los hombres como cazadores exclusivos. Basándose en estos resultados, sugieren que es necesario reevaluar las pruebas arqueológicas y etnográficas, cuestionar el uso dicotómico de "caza y recolección", y deconstruir la narrativa general del "hombre cazador".
+## What changes when we track the denominator
 
-Sin embargo, esto no es nuevo. Desde la década de los 60’s se ha generado evidencia que desafía la visión simplista del "hombre cazador y mujer recolectora". Además, aunque el estudio presenta un aporte en la tabulación de datos y enfoque, sus conclusiones están lejos de ser generalizables como señala, debido a las importantes limitaciones estadísticas que presenta. Este artículo deber ser interpretado con cautela.
+The underlying work draws on material assembled in D-PLACE, the Database of Places, Language, Culture, and Environment. These are valuable records, but they were not collected to answer this particular question. Here is how the available descriptions narrow.
 
+| Step | Societies | % of 1,400 documented | % of 391 selected | % of 63 with explicit hunting data |
+|---|---:|---:|---:|---:|
+| Hunter-gatherer societies selected | 391 | 27.9 | 100 | — |
+| Explicit records about hunting | 63 | 4.5 | 16.1 | 100 |
+| Records documenting women hunting | 50 | 3.6 | 12.8 | 79.4 |
+| Records describing whether women’s hunting was intentional or opportunistic | 41 | 2.9 | 10.5 | 65.1 |
+| Records describing size of animals hunted by women | 45 | 3.2 | 11.5 | 71.4 |
 
-## Reciclaje de Datos: Extrapolación, sesgos y grandilocuencia
+| Documented outcome | Societies | % of 1,400 | % of 391 | % of 63 | % of 50 | % of 41 |
+|---|---:|---:|---:|---:|---:|---:|
+| Women’s hunting described as intentional | 36 | 2.6 | 9.2 | 57.1 | 72 | 87.8 |
+| Women hunted small prey | 21 | 1.5 | 5.4 | 33.3 | 42 | 51.2 |
+| Women hunted medium prey | 7 | 0.5 | 1.8 | 11.1 | 14 | 17.1 |
+| Women hunted large prey | 15 | 1.1 | 3.8 | 23.8 | 30 | 36.6 |
+| Women hunted prey of all sizes | 2 | 0.1 | 0.5 | 3.2 | 4 | 4.9 |
+| Women hunted with dogs and/or children | 23 | 1.6 | 5.9 | 36.5 | 46 | 56.1 |
 
-A pesar de sus nobles intenciones de desmantelar mitos, el estudio presenta limitaciones significativas que, aunque no se mencionan explícitamente en el artículo, no deben ser pasadas por alto. Obviemos los problemas tradicionales de los datos etnográficos, así como la dicotomía simplista que se establece entre la división entre caza intencional y la oportunista, la que puede no ser suficiente para captar la complejidad de las prácticas de caza en las sociedades cazadoras-recolectoras. También obviemos la falta de análisis estadísticos de la evidencia proporcionada. 
+*Tables: my tabulation from the paper. The columns change the denominator, not the underlying counts. The last column is the intentionality denominator, not a separately defined prey or hunting-companion sample.*
 
-Centrémonos en una cosas fundamental los datos usados y su tratamiento. En primer lugar, es importante subrayar que el estudio no proporcionó datos nuevos. En lugar de eso, se apoyó en información previamente recopilada y disponible en D-PLACE, Database of Places, Language, Culture and Environment, el que se define en su sitio web como: “un intento de reunir este corpus disperso de información.” Este recurso, aunque extremadamente valioso, puede no ofrecer la profundidad y la especificidad requerida para una investigación como la realizada por Wall-Scheffler y su equipo. **Los datos provenientes de multiples estudios agrupados en D-PLACE no fueron recolectados con el objetivo de este estudio en mente, lo que puede dar lugar a limitaciones y sesgos en los hallazgos**. Es posible que estos datos no proporcionen un marco suficientemente detallado y contextualizado para respaldar adecuadamente las conclusiones a las que llegaron los autores. 
+The 87.8% describes 36 of 41 societies where a record lets us assess intent. It does not estimate what happened in societies without such a record. Conversely, the 2.6% across all documented societies is a coverage comparison and should not be read as the prevalence of intentional hunting. I could not establish from the paper exactly how the broader selection of 391 was made. If I missed a description, I would welcome a correction.
 
-Esta omisión puede haber generado sesgos producto de ausencia de mediciones relevantes. Por lo tanto, aunque el estudio aspira a desmantelar viejos mitos, corre el riesgo de crear nuevos a través de su metodología, especialmente cuando no se reconocen explícitamente sus limitaciones.
+The key issue is not just that the final sample is small. It is how observations make it into the sample. If an ethnographer was more likely to record women hunting where the practice was salient, the recorded cases could give an inflated impression of its frequency. Conversely, an ethnographer who assumed men were the hunters may have overlooked women’s work. Without knowing what went unrecorded and why, the data cannot settle how representative these cases are. Even among the documented cases, “intentional” and “opportunistic” may not capture the variety of practices.
 
-| Paso | Descripción                                                                        | Número de sociedades | % del total (1400) | % de las seleccionadas (391) | % de las estudiadas con datos (63) |
-| ---- | ---------------------------------------------------------------------------------- | -------------------- | ------------------ | ---------------------------- | ---------------------------------- |
-| 1    | Selección de sociedades de cazadores-recolectores                                  | 391                  | 27.9%              | 100%                         | –                                  |
-| 2    | Sociedades con datos explícitos sobre la caza                                      | 63                   | 4.5%               | 16.1%                        | 100%                               |
-| 3    | Sociedades con documentación sobre la caza por parte de las mujeres                | 50                   | 3.6%               | 12.8%                        | 79.4%                              |
-| 4    | Sociedades con datos sobre si la caza de las mujeres era intencional u oportunista | 41                   | 2.9%               | 10.5%                        | 65.1%                              |
-| 5    | Sociedades con datos sobre el tamaño de la presa que cazaban las mujeres           | 45                   | 3.2%               | 11.5%                        | 71.4%                              |
+## What we can build from this
 
-[Tabla 1: Tabla de submuestreo (forzado) de datos en el artículo. Elaboración propia.]
+I would treat the study as a useful set of observations that motivates the next round of research. It would be valuable to return to the underlying ethnographies, make the inclusion and coding rules explicit, and collect evidence designed to answer questions such as when women deliberately hunted large animals. Those steps could tell us which findings generalize and where the answer varies.
 
+The presence of women in the hunting records matters. How often they hunted, under what conditions, and how well those practices were documented are different questions. A headline can make them sound like one. Our job as researchers is to keep them separate and communicate what the evidence warrants. As my grandfather used to say, a lot of words and little evidence make for bad science.
 
-Los resultados y conclusiones del estudio se fundamentan en la información de 63 sociedades de cazadores-recolectores para las cuales existen relatos etnográficos explícitos sobre los roles de caza. Sin embargo, existen varios cientos de estas sociedades, y no todas están representadas en el estudio. De hecho, del total de más de 1,400 sociedades documentadas en la base de datos D-PLACE, solo 50 sociedades tienen datos sobre la caza por parte de mujeres, representando el 3.57% del total de sociedades documentadas (ver tabla 1). 
+## References
 
-Luego, los autores señalan que seleccionaron 391 sociedades para realizar la investigación de manera razonable (sin especificar que significa eso ni como lo hicieron, puede que se me haya pasado ese detalle, si está por ahí feliz de cambiar esta parte). En ese caso, las 50 sociedades que poseen datos sobre la caza de mujeres representan el 12,8% de las sociedades seleccionadas. Esta limitación junto con generalizaciones audaces, conducen a la "falacia de generalización apresurada", un error conocido en la investigación científica que se produce cuando se realiza una generalización basada en una muestra poco adecuada o no representativa.
-
-
-| Resultado                                                                  | Número de sociedades | % del total (1400) | % de las seleccionadas (391) | % de las estudiadas con datos (63) | % de las sociedades con datos de caza de mujeres (50) | % de las sociedades con datos sobre la intencionalidad de la caza por mujeres (41) |
-|---------------------------------------------------------------------------|---------------------|--------------------|-------------------------------|------------------------------------|-----------------------------------------------------|----------------------------------------------------------|
-| Sociedades en las que la caza de las mujeres se describía como intencional | 36                  | 2.6%               | 9.2%                          | 57.1%                              | 72%                                                   | 87.8%                                                     |
-| Sociedades en las que las mujeres cazaban pequeñas presas                  | 21                  | 1.5%               | 5.4%                          | 33.3%                              | 42%                                                   | 51.2%                                                     |
-| Sociedades en las que las mujeres cazaban presas medianas                  | 7                   | 0.5%               | 1.8%                          | 11.1%                              | 14%                                                   | 17.1%                                                     |
-| Sociedades en las que las mujeres cazaban presas grandes                   | 15                  | 1.1%               | 3.8%                          | 23.8%                              | 30%                                                   | 36.6%                                                     |
-| Sociedades en las que las mujeres cazaban presas de todos los tamaños      | 2                   | 0.1%               | 0.5%                          | 3.2%                               | 4%                                                    | 4.9%                                                      |
-| Sociedades en las que las mujeres cazaban con perros y/o niños             | 23                  | 1.6%               | 5.9%                          | 36.5%                              | 46%                                                   | 56.1%                                                     |
-
-[Tabla 2: Tabla de resultados usando los datos del artículo. Elaboración propia.]
-
-
-El estudio destaca que de las 41 sociedades con datos donde las mujeres cazaban de forma intencioanl, en el 87% (36) las mujeres se involucran efectivamente de manera intencional en la caza (ver tabla 2). Esta es el principal resultado del estudio, pero su generalización es excesiva. 
-
-**El subconjunto de datos utilizados se centra únicamente en sociedades que ofrecen relatos explícitos sobre los participantes en la caza**. De este modo, es probable que se hayan excluido inadvertidamente aquellas sociedades en las que las mujeres cazan en menor medida o no cazan en absoluto. Posiblemente, por esta razón tal información podría no haber sido documentada, dado que los datos no fueron generados pensando en el objetivo de este estudio. Es más, si, como se piensa, todo el mundo había dado por sentada la hipótesis del hombre-cazador, y nadie realmente decidió evaluarla ya que no era una pregunta en la mente de muchas personas, no hay razón para pensar que los datos usados siervan para responder esta pregunta. Esto, inneludiblemente, hace que la submuestra de 50 sociedades con datos sobre la intencionalidad de la caza de mujeres no sea necesariamente representativa.
-
-En el contexto de este estudio, si las sociedades donde las mujeres participan en la caza son más propensas a ser documentadas, o ya sea porque este dato es más saliente en sociedades donde las mujeres cazan y por lo tanto más probable de ser registrado solo en dichas sociedads, se podría generar una correlación espuria. Esta correlación errónea podría conducir a la percepción equivocada de que, en las sociedades de cazadores-recolectores, la caza intencional es una actividad frecuentemente practicada tanto por hombres como por mujeres. 
-
-**El estudio de Wall-Scheffler podría estar reportando un efecto artificial en la participación de las mujeres en la caza. Esta posibilidad no puede descartarse a priori, dado que los datos utilizados no fueron recolectados para el propósito de este estudio. Por lo tanto, es crucial considerar estas limitaciones y sesgos potenciales al interpretar los resultados de la investigación.** Si este sesgo existe, el hecho de que la evidencia que entrega el estudio represente el 2.6% del total de las sociedades documentadas o el 9.2% de las sociedades seleccionadas por los autores, puede no pasar el umbral de ruido o bien ser un resultado espurio.
-
-
-## Sigamos construyendo
-
-El estudio de Wall-Scheffler, aunque al parecer no brinda novedades sorprendentes —pues hace ya varias décadas que se viene dando un creciente reconocimiento del papel de la mujer en las sociedades cazadoras-recolectoras— y, por supuesto, a pesar de no poder ofrecer conclusiones generales sobre el papel de las mujeres en la caza debido a limitaciones estadísticas y posibles sesgos representados en los resultados, se puede aún considerar un aporte. Creo que hay que dejar en claro que este estudio podría ser catalogado como una observación, una etapa previa a diseñar una hipotesis y generar datos para contrastarla. En ese mismo sentido, este estudio abre nuevas avenidas para el **diseño** de futuras investigaciones y documentación de evidencias que permitan una comprensión más sólida y confiable del papel las mujeres desempeñan en la caza y su intencionalidad dentro de las sociedades cazadoras-recolectoras.
-
-Es particularmente intrigante indagar en qué medida las mujeres persiguen de manera deliberada a los grandes animales, una práctica que tradicionalmente se ha asociado con el estereotipo de los cazadores masculinos. Sería en efecto útil y valioso revisar las etnografías que sirvieron de base para este estudio.
-
-Este trabajo debe considerarse como un bloque de construcción más en la ciencia —un aporte adicional en la constante evolución de nuestra comprensión de la evolución humana y la diversidad cultural— y no como una revisión exhaustiva de la visión tradicional. Cada nuevo descubrimiento proporciona una pieza más al rompecabezas de nuestro entendimiento, pero es crucial tener presente que aún no poseemos la imagen completa. En particular, en este caso, los problemas estadísticos son significativos y hace falta una considerable cantidad de evidencia para llegar a conclusiones generales y definitivas. 
-
-La tendencia hacia la interpretación audaz y la exageración de los resultados, desafortunadamente, no es un fenómeno extraño en la práctica científica. Hay ocasiones en las que los estudios parecen más un espectáculo que una verdadera búsqueda de evidencia empírica. Este comportamiento no solo es dañino para la reputación de la ciencia como institución, sino que también puede conducir al público a conclusiones equivocadas y, en el peor de los casos, a la desinformación.
-
-Por ello, la comunidad académica debe permanecer comprometida con la metodología científica rigurosa y comunicar los hallazgos de manera responsable y precisa. Como científicos, debemos seguir construyendo sobre la base sólida de la evidencia, sin dejarnos llevar por la tentación de la grandilocuencia y la exageración. **Como decía mi abuelo, mucha palabra y poca evidencia solo resulta en mala ciencia.**
-
-Debemos fomentar una ciencia prudencte y la cautelosa, que valore la calidad de la evidencia por encima de la espectacularidad de los titulares y hallazgos. Solo así podremos mantener la confianza pública en nuestra labor y seguir avanzando, ladrillo a ladrillo, en la frontera del conocimiento.
-
-
-## Referencias
-
-1. [Anderson, A., Chilczuk, S., Nelson, K., Ruther, R., & Wall-Scheffler, C. (2023). The Myth of Man the Hunter: Women’s contribution to the hunt across ethnographic contexts. PLoS one, 18(6), e0287101.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287101)
-
-2. [The myth that men hunt while women stay at home is entirely wrong. New Scientist, June 2023](https://www.newscientist.com/article/2380011-the-myth-that-men-hunt-while-women-stay-at-home-is-entirely-wrong/)
-
-<!-- Fuente: [Trade News](https://trade-news.cl/2023/04/26/el-impacto-de-la-automatizacion-y-la-ia-en-el-trabajo-del-miedo-a-la-oportunidad/) -->
+1. [Anderson et al. (2023), “The Myth of Man the Hunter,” *PLOS ONE*.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287101)
+2. [“The myth that men hunt while women stay at home is entirely wrong,” *New Scientist*, June 2023.](https://www.newscientist.com/article/2380011-the-myth-that-men-hunt-while-women-stay-at-home-is-entirely-wrong/)

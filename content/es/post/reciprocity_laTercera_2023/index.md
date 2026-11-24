@@ -7,7 +7,11 @@ authors:
   - admin
   - carlosr
   - melanie_phd
+url_source: "https://www.latercera.com/que-pasa/noticia/cuanto-influyen-los-amigos-en-la-sala-de-clases-para-tener-buenas-notas/IDGWI3RNQBARBHDT444FHVKW7A/"
 ---
+
+[**Fuente original: La Tercera / Qué Pasa**](https://www.latercera.com/que-pasa/noticia/cuanto-influyen-los-amigos-en-la-sala-de-clases-para-tener-buenas-notas/IDGWI3RNQBARBHDT444FHVKW7A/)
+
 Un estudio liderado por la U. de Desarrollo en casi 900 niños de educación básica en Chile midió con un novedoso método de la teoría de juegos la importancia de los amigos en su desempeño académico.
 
 Un estudio de investigadores de la Universidad del Desarrollo ahondó en cómo las relaciones interpersonales entre estudiantes de básica pueden afectar el rendimiento escolar.
@@ -30,7 +34,3 @@ Las fichas entregadas se multiplicaban por dos. El juego concluía luego que ocu
 Las respuestas del experimento de cooperación se cruzaron con las notas académicas y la asistencias de dos semestres consecutivos: “Creemos que con este estudio, al encontrar un mecanismo causal entre reciprocidad entre las relaciones sociales y notas, usando técnicas de inferencia causal, es posible contribuir al diseño de intervenciones que, a través de promover la reciprocidad entre compañeros de curso, impacten en el performance académico de los estudiantes. Esperamos que estos resultados informen las intervenciones de aprendizaje cooperativo en educación básica así como también, que la tecnología y herramientas desarrolladas en este estudio puedan ser de utilidad para orientadores, profesores, psicólogos y directores de colegios para entender y orientar las dinámicas sociales en las salas de clases”, concluye el primer autor del artículo, Cristian Candia.
 
 El artículo fue publicado en la prestigiosa revista de carácter interdisciplinario, Heliyon (Cell Press).
-
-
-
-Fuente: [La Tercera](https://www.latercera.com/que-pasa/noticia/cuanto-influyen-los-amigos-en-la-sala-de-clases-para-tener-buenas-notas/IDGWI3RNQBARBHDT444FHVKW7A/)

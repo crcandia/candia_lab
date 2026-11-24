@@ -7,11 +7,18 @@ summary: "Fundación País Digital destacó su participación en la etapa de eva
 tags:
 - Institutional News
 draft: false
-url_source: https://cl.linkedin.com/company/pais-digital
+url_source: https://x.com/fpaisdigital/status/2122360256571248703
+image:
+  caption: "Ilustración editorial para CRiSS-LAB."
+  alt_text: "Ilustración conceptual de cuatro fichas de evaluación y una rúbrica común."
+  focal_point: Center
+  preview_only: false
 ---
 
-Fundación País Digital informó en noviembre que Cristian Candia participó en el comité evaluador del Premio Chile PotencIA 2026. El comité revisó proyectos antes de la deliberación del jurado. La Fundación y el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación organizan el premio para reconocer iniciativas que aplican inteligencia artificial en Chile.
+[**Anuncio original: Fundación País Digital**](https://x.com/fpaisdigital/status/2122360256571248703)
+
+Fundación País Digital informó en noviembre que Cristian Candia participó en el comité evaluador del Premio Chile PotencIA 2026. El comité revisó proyectos antes de la deliberación del jurado, con criterios comunes de impacto, innovación, uso efectivo y responsable de IA, escalabilidad y sostenibilidad. La Fundación y el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación organizan el premio para reconocer iniciativas que aplican inteligencia artificial en Chile.
 
 [Conocer el premio](https://www.premiochilepotencia.cl/).
 
-[Leer la fuente original](https://cl.linkedin.com/company/pais-digital).
+[Perfil de Fundación País Digital en LinkedIn, donde la organización nombró a los participantes](https://cl.linkedin.com/company/pais-digital).

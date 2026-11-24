@@ -11,7 +11,14 @@ tags:
   - Experimental Game Theory
   - Network Science
 url_source: "https://gobierno.udd.cl/noticias/2026/01/con-teoria-de-juegos-investigadores-identifican-factores-clave-para-que-los-escolares-formen-vinculos-cuando-estan-en-grupo/"
+image:
+  caption: "Editorial illustration for CRiSS-LAB."
+  alt_text: "Conceptual illustration of links in a classroom cooperation network."
+  focal_point: Center
+  preview_only: false
 ---
+
+[**Original source: Gobierno UDD**](https://gobierno.udd.cl/noticias/2026/01/con-teoria-de-juegos-investigadores-identifican-factores-clave-para-que-los-escolares-formen-vinculos-cuando-estan-en-grupo/)
 
 An institutional note from Universidad del Desarrollo covered research on how children form social ties in elementary classrooms.
 

@@ -8,8 +8,13 @@ tags:
 - Media Coverage
 - Interviews
 url_source: https://gobierno.udd.cl/noticias/2023/11/entrevista-a-cristian-candia-en-radio-infinita/
+image:
+  caption: "Editorial illustration for CRiSS-LAB."
+  alt_text: "Conceptual illustration of connected cards and points."
+  focal_point: Center
+  preview_only: false
 ---
 
-The **School of Government at Universidad del Desarrollo** published a news item about **Cristian Candia’s interview on Radio Infinita**. The institutional record includes the program for consultation.
+[**Original source: Gobierno UDD**](https://gobierno.udd.cl/noticias/2023/11/entrevista-a-cristian-candia-en-radio-infinita/)
 
-[Read the original source](https://gobierno.udd.cl/noticias/2023/11/entrevista-a-cristian-candia-en-radio-infinita/).
+The **School of Government at Universidad del Desarrollo** published a news item about **Cristian Candia’s interview on Radio Infinita**. The institutional record includes the program for consultation.

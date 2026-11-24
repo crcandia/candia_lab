@@ -12,10 +12,16 @@ tags:
 - Redes sociales
 draft: false
 url_source: https://www.commentimemorabili.it/fare-la-morale-sui-social-funziona-finche-non-rompi-troppo-lo-studio-su-16-milioni-di-post/
+image:
+  caption: "Ilustración editorial para CRiSS-LAB."
+  alt_text: "Ilustración conceptual de distintas concentraciones de mensajes."
+  focal_point: Center
+  preview_only: false
 ---
+
+[**Fuente original: Commenti Memorabili**](https://www.commentimemorabili.it/fare-la-morale-sui-social-funziona-finche-non-rompi-troppo-lo-studio-su-16-milioni-di-post/)
 
 Commenti Memorabili publicó el 3 de septiembre de 2026 una nota sobre el estudio de Cristian Candia, Mohammad Atari, Nour Kteily y Brian Uzzi. Presenta los resultados para una audiencia amplia y aclara que el análisis observacional no establece una fórmula causal para obtener más interacciones.
 
-[Leer la fuente original](https://www.commentimemorabili.it/fare-la-morale-sui-social-funziona-finche-non-rompi-troppo-lo-studio-su-16-milioni-di-post/).
 
 [Artículo científico en Nature Human Behaviour](https://doi.org/10.1038/s41562-026-02560-y).
