@@ -9,6 +9,10 @@ tags:
 - Capybara
 - School Coexistence
 url_source: https://www.emol.com/noticias/Economia/2024/01/25/1119686/videojuego-predice-previene-bullying-escolar.html
+image:
+  caption: "Clipping from the original Emol / Portal Pyme headline."
+  alt_text: "Emol / Portal Pyme headline about the Capybara classroom game."
+  preview_only: false
 ---
 
 [**Original source: Emol**](https://www.emol.com/noticias/Economia/2024/01/25/1119686/videojuego-predice-previene-bullying-escolar.html)

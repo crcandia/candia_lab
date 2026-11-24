@@ -10,6 +10,10 @@ tags:
 - Convivencia Escolar
 draft: false
 url_source: https://www.adnradio.cl/2024/09/11/la-tecnologia-chilena-que-usa-teoria-de-juegos-e-inteligencia-artificial-para-prevenir-el-acoso-escolar-en-las-aulas/
+image:
+  caption: "Recorte del titular original de ADN Radio."
+  alt_text: "Titular de ADN Radio sobre el uso de teoría de juegos e IA en Capybara."
+  preview_only: false
 ---
 
 [**Fuente original: ADN Radio**](https://www.adnradio.cl/2024/09/11/la-tecnologia-chilena-que-usa-teoria-de-juegos-e-inteligencia-artificial-para-prevenir-el-acoso-escolar-en-las-aulas/)

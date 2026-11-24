@@ -9,6 +9,10 @@ tags:
 - Collective Memory
 - Computational Social Science
 url_source: https://www.isi.it/seminars/2025-09-candia/
+image:
+  caption: "Clipping from the original seminar announcement by ISI Foundation."
+  alt_text: "ISI Foundation seminar title about belonging across memory, politics and school."
+  preview_only: false
 ---
 
 [**Original source: ISI Foundation**](https://www.isi.it/seminars/2025-09-candia/)

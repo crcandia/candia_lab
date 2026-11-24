@@ -10,6 +10,10 @@ tags:
   - Bullying Prevention
   - School Coexistence
 url_source: "https://www.latribuna.cl/nuestra-gente/2024/02/07/angelino-es-parte-del-equipo-creativo-de-innovador-videojuego-que-predice-y-previene-el-bullying.html"
+image:
+  caption: "Clipping from the original La Tribuna headline."
+  alt_text: "La Tribuna headline about a local collaborator and Capybara."
+  preview_only: false
 ---
 
 [**Original source: La Tribuna**](https://www.latribuna.cl/nuestra-gente/2024/02/07/angelino-es-parte-del-equipo-creativo-de-innovador-videojuego-que-predice-y-previene-el-bullying.html)

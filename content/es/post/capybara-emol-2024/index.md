@@ -9,6 +9,10 @@ tags:
 - Capybara
 - Convivencia Escolar
 url_source: https://www.emol.com/noticias/Economia/2024/01/25/1119686/videojuego-predice-previene-bullying-escolar.html
+image:
+  caption: "Recorte del titular original de Emol / Portal Pyme."
+  alt_text: "Titular de Emol / Portal Pyme sobre el videojuego escolar Capybara."
+  preview_only: false
 ---
 
 [**Fuente original: Emol**](https://www.emol.com/noticias/Economia/2024/01/25/1119686/videojuego-predice-previene-bullying-escolar.html)

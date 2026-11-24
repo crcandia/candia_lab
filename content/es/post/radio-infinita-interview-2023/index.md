@@ -8,6 +8,10 @@ tags:
 - Cobertura en Medios
 - Entrevistas
 url_source: https://gobierno.udd.cl/noticias/2023/11/entrevista-a-cristian-candia-en-radio-infinita/
+image:
+  caption: "Recorte de la nota de la Universidad del Desarrollo sobre la entrevista en Radio Infinita."
+  alt_text: "Titular de la nota de UDD sobre la entrevista a Cristian Candia en Radio Infinita."
+  preview_only: false
 ---
 
 [**Fuente original: Gobierno UDD**](https://gobierno.udd.cl/noticias/2023/11/entrevista-a-cristian-candia-en-radio-infinita/)

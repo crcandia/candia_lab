@@ -9,6 +9,10 @@ tags:
 - Memoria Colectiva
 - Ciencias Sociales Computacionales
 url_source: https://www.isi.it/seminars/2025-09-candia/
+image:
+  caption: "Recorte del anuncio original del seminario de ISI Foundation."
+  alt_text: "Titular del seminario de ISI Foundation sobre pertenencia en la memoria, la política y la escuela."
+  preview_only: false
 ---
 
 [**Fuente original: ISI Foundation**](https://www.isi.it/seminars/2025-09-candia/)

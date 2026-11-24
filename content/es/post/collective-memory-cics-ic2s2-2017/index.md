@@ -9,6 +9,10 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://complejidadsocial.udd.cl/2017/news/cics-on-tour-the-laws-of-forgetting-at-international-conference-on-computational-social-science/
+image:
+  caption: "Recorte del titular original publicado por CICS UDD."
+  alt_text: "Titular de CICS UDD sobre la investigación acerca de las leyes del olvido presentada en IC2S2."
+  preview_only: false
 ---
 
 [**Fuente original: CICS UDD**](https://complejidadsocial.udd.cl/2017/news/cics-on-tour-the-laws-of-forgetting-at-international-conference-on-computational-social-science/)
