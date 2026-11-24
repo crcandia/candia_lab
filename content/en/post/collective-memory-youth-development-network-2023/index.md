@@ -9,11 +9,6 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://ydnetwork.org/communicative-vs-cultural-memory-why-do-we-remember-some-things-and-not-others/
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of traces of collective attention fading over time."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: Youth Development Network**](https://ydnetwork.org/communicative-vs-cultural-memory-why-do-we-remember-some-things-and-not-others/)

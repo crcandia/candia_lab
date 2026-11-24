@@ -11,11 +11,6 @@ tags:
   - Procesamiento de Lenguaje Natural
   - Analítica Cultural
 url_source: "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2017/02/05/cientificos-chilenos-advierten-en-2017-moriran-alrededor-de-197-famosos.shtml"
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de huellas de atención colectiva que se atenúan con el tiempo."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Fuente original: BioBioChile**](https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2017/02/05/cientificos-chilenos-advierten-en-2017-moriran-alrededor-de-197-famosos.shtml)

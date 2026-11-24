@@ -11,11 +11,6 @@ tags:
   - Inteligencia Artificial
   - Ciencia de Redes
 url_source: "https://ingenieria.udd.cl/noticias/2025/08/academico-investigador-de-ingenieria-udd-cristian-candia-presenta-innovadoras-investigaciones-en-conferencia-internacional/"
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de tarjetas y puntos conectados."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Fuente original: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2025/08/academico-investigador-de-ingenieria-udd-cristian-candia-presenta-innovadoras-investigaciones-en-conferencia-internacional/)

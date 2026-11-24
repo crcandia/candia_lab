@@ -9,11 +9,6 @@ tags:
 - Collective Memory
 draft: false
 url_source: https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2019/07/09/noches-nerd-embalaje-inteligente-memoria-colectiva-ia-no-discriminatoria.shtml
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of traces of collective attention fading over time."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: BioBioChile**](https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2019/07/09/noches-nerd-embalaje-inteligente-memoria-colectiva-ia-no-discriminatoria.shtml)

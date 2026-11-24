@@ -9,11 +9,6 @@ tags:
 - Discolab
 - Tecnología Cívica
 url_source: https://www.latribuna.cl/politica/2023/11/18/chistian-candia-el-angelino-tras-la-plataforma-que-permite-comparar-los-textos-constitucionales.html
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de aportes que convergen en información compartida."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Fuente original: La Tribuna**](https://www.latribuna.cl/politica/2023/11/18/chistian-candia-el-angelino-tras-la-plataforma-que-permite-comparar-los-textos-constitucionales.html)

@@ -12,11 +12,6 @@ tags:
 - Social media
 draft: false
 url_source: https://www.commentimemorabili.it/fare-la-morale-sui-social-funziona-finche-non-rompi-troppo-lo-studio-su-16-milioni-di-post/
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of varying concentrations of messages."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: Commenti Memorabili**](https://www.commentimemorabili.it/fare-la-morale-sui-social-funziona-finche-non-rompi-troppo-lo-studio-su-16-milioni-di-post/)

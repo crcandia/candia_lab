@@ -11,11 +11,6 @@ tags:
   - Sistemas Complejos
   - Premios
 url_source: "https://www.latribuna.cl/innovacion/2025/10/08/angelino-recibe-reconocimiento-mundial-por-estudio-sobre-polarizacion-politica-e-inteligencia-artificial.html"
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de aportes que convergen en información compartida."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Fuente original: La Tribuna**](https://www.latribuna.cl/innovacion/2025/10/08/angelino-recibe-reconocimiento-mundial-por-estudio-sobre-polarizacion-politica-e-inteligencia-artificial.html)

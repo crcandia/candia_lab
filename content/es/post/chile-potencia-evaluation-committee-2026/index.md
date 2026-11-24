@@ -8,11 +8,6 @@ tags:
 - Institutional News
 draft: false
 url_source: https://x.com/fpaisdigital/status/2122360256571248703
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de cuatro fichas de evaluación y una rúbrica común."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Anuncio original: Fundación País Digital**](https://x.com/fpaisdigital/status/2122360256571248703)

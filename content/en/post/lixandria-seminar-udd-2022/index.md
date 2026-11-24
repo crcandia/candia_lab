@@ -10,11 +10,6 @@ tags:
 - Higher Education
 draft: false
 url_source: https://ingenieria.udd.cl/noticias/2022/05/cristian-candia-presenta-herramienta-lixandria-en-seminario-udd/
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of several paths through a network of options."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2022/05/cristian-candia-presenta-herramienta-lixandria-en-seminario-udd/)

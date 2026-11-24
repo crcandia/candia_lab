@@ -9,11 +9,6 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://comdig.cssociety.org/2026/10/02/cultural-proximity-reveals-a-local-premium-in-collective-memory/
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of traces of collective attention fading over time."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: Complexity Digest**](https://comdig.cssociety.org/2026/10/02/cultural-proximity-reveals-a-local-premium-in-collective-memory/)

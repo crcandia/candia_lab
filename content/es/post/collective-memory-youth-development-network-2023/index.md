@@ -9,11 +9,6 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://ydnetwork.org/communicative-vs-cultural-memory-why-do-we-remember-some-things-and-not-others/
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de huellas de atención colectiva que se atenúan con el tiempo."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Fuente original: Youth Development Network**](https://ydnetwork.org/communicative-vs-cultural-memory-why-do-we-remember-some-things-and-not-others/)

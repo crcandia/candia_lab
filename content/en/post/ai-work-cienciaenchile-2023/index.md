@@ -10,11 +10,6 @@ tags:
   - Artificial Intelligence
   - Future of Work
 url_source: "https://www.cienciaenchile.cl/el-impacto-de-la-automatizacion-y-la-ia-en-el-trabajo-del-miedo-a-la-oportunidad/"
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of connected cards and points."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: Ciencia en Chile**](https://www.cienciaenchile.cl/el-impacto-de-la-automatizacion-y-la-ia-en-el-trabajo-del-miedo-a-la-oportunidad/)

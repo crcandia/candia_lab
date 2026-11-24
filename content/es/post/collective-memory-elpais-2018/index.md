@@ -8,11 +8,6 @@ tags:
 - Cobertura en Medios
 - Memoria Colectiva
 url_source: https://elpais.com/elpais/2018/12/28/ciencia/1545998838_350060.html
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de huellas de atención colectiva que se atenúan con el tiempo."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Fuente original: EL PAÍS**](https://elpais.com/elpais/2018/12/28/ciencia/1545998838_350060.html)

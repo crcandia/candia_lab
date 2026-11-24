@@ -8,11 +8,6 @@ tags:
 - Cobertura en Medios
 - Entrevistas
 url_source: https://gobierno.udd.cl/noticias/2023/11/entrevista-a-cristian-candia-en-radio-infinita/
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de tarjetas y puntos conectados."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Fuente original: Gobierno UDD**](https://gobierno.udd.cl/noticias/2023/11/entrevista-a-cristian-candia-en-radio-infinita/)

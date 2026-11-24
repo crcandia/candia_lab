@@ -11,11 +11,6 @@ tags:
 - Computational Social Science
 draft: false
 url_source: https://ingenieria.udd.cl/noticias/2026/08/investigadores-udd-presentaron-investigaciones-en-conferencia-internacional-de-ciencias-sociales-computacionales/
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of connected cards and points."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2026/08/investigadores-udd-presentaron-investigaciones-en-conferencia-internacional-de-ciencias-sociales-computacionales/)

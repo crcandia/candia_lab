@@ -11,11 +11,6 @@ tags:
   - Convivencia Escolar
   - Inteligencia Artificial
 url_source: "https://portalinnova.cl/capybara-videojuego-chileno-predice-y-previene-el-bullying-escolar-en-ninos-de-primero-a-quinto-basico-con-ayuda-de-la-tecnologia/"
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de vínculos en una red de cooperación escolar."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Fuente original: Portal Innova**](https://portalinnova.cl/capybara-videojuego-chileno-predice-y-previene-el-bullying-escolar-en-ninos-de-primero-a-quinto-basico-con-ayuda-de-la-tecnologia/)

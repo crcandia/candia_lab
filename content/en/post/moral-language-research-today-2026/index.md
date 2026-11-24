@@ -12,11 +12,6 @@ tags:
 - Social media
 draft: false
 url_source: https://researchtoday.co.za/moral-language-boosts-social-media-engagement-until-there-is-too-much-of-it/
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of varying concentrations of messages."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: Research Today**](https://researchtoday.co.za/moral-language-boosts-social-media-engagement-until-there-is-too-much-of-it/)

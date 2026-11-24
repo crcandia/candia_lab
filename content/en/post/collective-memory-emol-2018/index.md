@@ -8,11 +8,6 @@ tags:
 - Media Coverage
 - Collective Memory
 url_source: https://www.emol.com/noticias/Tecnologia/2018/12/12/930483/Fisico-chileno-utiliza-conocido-poema-de-Pablo-Neruda-para-explicar-como-decae-la-memoria-colectiva.html
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of traces of collective attention fading over time."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: Emol**](https://www.emol.com/noticias/Tecnologia/2018/12/12/930483/Fisico-chileno-utiliza-conocido-poema-de-Pablo-Neruda-para-explicar-como-decae-la-memoria-colectiva.html)

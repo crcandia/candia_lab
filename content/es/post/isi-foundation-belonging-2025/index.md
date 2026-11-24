@@ -9,11 +9,6 @@ tags:
 - Memoria Colectiva
 - Ciencias Sociales Computacionales
 url_source: https://www.isi.it/seminars/2025-09-candia/
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de tarjetas y puntos conectados."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Fuente original: ISI Foundation**](https://www.isi.it/seminars/2025-09-candia/)

@@ -12,11 +12,11 @@ tags:
 - Social media
 draft: false
 url_source: https://phys.org/news/2026-09-moral-language-doesnt-engagement-online.html
+images:
+- https://scx1.b-cdn.net/csz/news/800a/2026/moral-language-is-not.jpg
 image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of varying concentrations of messages."
-  focal_point: Center
-  preview_only: false
+  caption: Cristian Candia and Nikol Escribano
+  preview_only: true
 ---
 
 [**Original source: Phys.org**](https://phys.org/news/2026-09-moral-language-doesnt-engagement-online.html)

@@ -9,11 +9,6 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://complejidadsocial.udd.cl/2017/news/cics-on-tour-the-laws-of-forgetting-at-international-conference-on-computational-social-science/
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of traces of collective attention fading over time."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: CICS UDD**](https://complejidadsocial.udd.cl/2017/news/cics-on-tour-the-laws-of-forgetting-at-international-conference-on-computational-social-science/)

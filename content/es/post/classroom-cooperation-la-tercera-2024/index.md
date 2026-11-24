@@ -8,11 +8,6 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://www.latercera.com/que-pasa/noticia/estudio-chileno-identifico-un-patron-en-las-relaciones-de-los-estudiantes-que-podria-cambiar-la-educacion/WEHIZNNBBVGE3EPVRYHNXUQGP4/
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de vínculos en una red de cooperación escolar."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Fuente original: La Tercera / Qué Pasa**](https://www.latercera.com/que-pasa/noticia/estudio-chileno-identifico-un-patron-en-las-relaciones-de-los-estudiantes-que-podria-cambiar-la-educacion/WEHIZNNBBVGE3EPVRYHNXUQGP4/)

@@ -8,11 +8,6 @@ tags:
 - Institutional News
 - Complexity Science
 url_source: https://www.udd.cl/noticias/2018/04/13/cristian-candia-primer-egresado-del-doctorado-ciencias-la-complejidad-social/
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of connected cards and points."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: Universidad del Desarrollo**](https://www.udd.cl/noticias/2018/04/13/cristian-candia-primer-egresado-del-doctorado-ciencias-la-complejidad-social/)

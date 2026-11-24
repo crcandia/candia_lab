@@ -9,11 +9,6 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://blogs.lse.ac.uk/management/2025/08/29/work-hard-play-hard-bogota-style-a-download-on-the-sfis-complexity-global-school/
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de tarjetas y puntos conectados."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Fuente original: LSE Management**](https://blogs.lse.ac.uk/management/2025/08/29/work-hard-play-hard-bogota-style-a-download-on-the-sfis-complexity-global-school/)

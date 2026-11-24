@@ -9,11 +9,6 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://nautil.us/the-four-forces-that-shape-collective-memory-1286569
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of traces of collective attention fading over time."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: Nautilus**](https://nautil.us/the-four-forces-that-shape-collective-memory-1286569)

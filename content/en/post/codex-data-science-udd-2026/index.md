@@ -11,11 +11,11 @@ tags:
 - Data Science
 draft: false
 url_source: https://ingenieria.udd.cl/noticias/2026/07/facultad-de-ingenieria-udd-realizo-jornada-sobre-el-uso-de-codex-en-ciencia-de-datos/
+images:
+- https://uddtv.udd.cl/files/2026/07/banner-codex-20-julio-jpg.jpeg
 image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of connected cards and points."
-  focal_point: Center
-  preview_only: false
+  caption: UDDTV / Universidad del Desarrollo
+  preview_only: true
 ---
 
 [**Original source: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2026/07/facultad-de-ingenieria-udd-realizo-jornada-sobre-el-uso-de-codex-en-ciencia-de-datos/)

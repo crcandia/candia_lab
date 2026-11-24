@@ -10,11 +10,6 @@ tags:
 - School Coexistence
 draft: false
 url_source: https://www.adnradio.cl/2024/09/11/la-tecnologia-chilena-que-usa-teoria-de-juegos-e-inteligencia-artificial-para-prevenir-el-acoso-escolar-en-las-aulas/
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of links in a classroom cooperation network."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: ADN Radio**](https://www.adnradio.cl/2024/09/11/la-tecnologia-chilena-que-usa-teoria-de-juegos-e-inteligencia-artificial-para-prevenir-el-acoso-escolar-en-las-aulas/)

@@ -12,11 +12,6 @@ tags:
   - Proceso Constitucional
 url_source: "https://www.duna.cl/programa/nada-personal/2023/11/24/cristian-candia-sobre-el-explorador-constitucional-de-la-udd-se-tiene-un-resumen-con-un-lenguaje-mas-accesible-con-el-objetivo-de-acercar-la-informacion-a-las-personas/"
 url_project: "https://discolab.cl/"
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de aportes que convergen en información compartida."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Fuente original: Radio Duna**](https://www.duna.cl/programa/nada-personal/2023/11/24/cristian-candia-sobre-el-explorador-constitucional-de-la-udd-se-tiene-un-resumen-con-un-lenguaje-mas-accesible-con-el-objetivo-de-acercar-la-informacion-a-las-personas/)

@@ -11,11 +11,6 @@ tags:
   - Ciencias Sociales Computacionales
   - Lixandria
 url_source: "https://txsplus.com/2023/08/candia-la-memoria-colectiva-mecanismo-ayuda-formar-nuestra-identidad/"
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de huellas de atención colectiva que se atenúan con el tiempo."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Fuente original: TXS Plus**](https://txsplus.com/2023/08/candia-la-memoria-colectiva-mecanismo-ayuda-formar-nuestra-identidad/)

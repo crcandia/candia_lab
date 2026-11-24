@@ -10,11 +10,6 @@ tags:
 - Convivencia Escolar
 draft: false
 url_source: https://www.24horas.cl/tendencias/tecnologia-y-ciencias/videojuego-chileno-predice-y-previene-bullying-escolar
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de vínculos en una red de cooperación escolar."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Fuente original: 24 Horas / TVN**](https://www.24horas.cl/tendencias/tecnologia-y-ciencias/videojuego-chileno-predice-y-previene-bullying-escolar)

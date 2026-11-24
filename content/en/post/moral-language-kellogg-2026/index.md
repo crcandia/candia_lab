@@ -8,11 +8,6 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://www.linkedin.com/pulse/career-ladders-managerial-attitudes-influencer-fhlte
-image:
-  caption: "Editorial illustration for CRiSS-LAB. Not a figure from the study."
-  alt_text: "Conceptual illustration of varying concentrations of messages."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: Kellogg School of Management / Research + Insights**](https://www.linkedin.com/pulse/career-ladders-managerial-attitudes-influencer-fhlte)

@@ -12,11 +12,6 @@ tags:
   - Recommender Systems
 url_source: "https://www.udd.cl/noticias/2021/12/28/plataforma-permite-encontrar-una-mayor-variedad-de-alternativas-academicas-a-traves-del-uso-de-inteligencia-artificial/"
 url_project: "https://lixandria.cl/"
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of several paths through a network of options."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: Universidad del Desarrollo**](https://www.udd.cl/noticias/2021/12/28/plataforma-permite-encontrar-una-mayor-variedad-de-alternativas-academicas-a-traves-del-uso-de-inteligencia-artificial/)

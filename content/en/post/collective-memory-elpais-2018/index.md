@@ -8,11 +8,6 @@ tags:
 - Media Coverage
 - Collective Memory
 url_source: https://elpais.com/elpais/2018/12/28/ciencia/1545998838_350060.html
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of traces of collective attention fading over time."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: EL PAÍS**](https://elpais.com/elpais/2018/12/28/ciencia/1545998838_350060.html)

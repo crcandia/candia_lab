@@ -11,11 +11,6 @@ tags:
   - Bibliometría
   - Inteligencia Artificial
 url_source: "https://ingenieria.udd.cl/noticias/2026/02/academico-de-ingenieria-udd-se-adjudica-fondecyt-regular-2026-con-investigacion-sobre-persistencia-de-informacion-erronea-en-la-ciencia/"
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de huellas de atención colectiva que se atenúan con el tiempo."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Fuente original: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2026/02/academico-de-ingenieria-udd-se-adjudica-fondecyt-regular-2026-con-investigacion-sobre-persistencia-de-informacion-erronea-en-la-ciencia/)

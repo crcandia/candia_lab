@@ -10,11 +10,6 @@ tags:
 - Complex Systems
 draft: false
 url_source: https://noticias.cfm.cl/grupo-de-sistemas-complejos-de-la-cfm-presenta-avances-de-investigacion-en-conferencias-internacionales/
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of connected cards and points."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: Centro de Física y Matemáticas**](https://noticias.cfm.cl/grupo-de-sistemas-complejos-de-la-cfm-presenta-avances-de-investigacion-en-conferencias-internacionales/)

@@ -10,11 +10,6 @@ tags:
 - Sistemas Complejos
 draft: false
 url_source: https://www.udd.cl/noticias/2024/10/03/candidato-a-doctor-udd-participa-en-el-complexity-global-school-cgs/
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de tarjetas y puntos conectados."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Fuente original: Universidad del Desarrollo**](https://www.udd.cl/noticias/2024/10/03/candidato-a-doctor-udd-participa-en-el-complexity-global-school-cgs/)

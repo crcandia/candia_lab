@@ -11,11 +11,6 @@ tags:
 - Computational Social Science
 draft: false
 url_source: https://ingenieria.udd.cl/noticias/2025/10/ingenieria-udd-realiza-seminario-ninez-adolescencia-e-inteligencia-artificial-creando-el-futuro/
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of links in a classroom cooperation network."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2025/10/ingenieria-udd-realiza-seminario-ninez-adolescencia-e-inteligencia-artificial-creando-el-futuro/)

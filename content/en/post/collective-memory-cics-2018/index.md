@@ -8,11 +8,6 @@ tags:
 - Institutional News
 - Collective Memory
 url_source: https://complejidadsocial.udd.cl/2018/news/research-of-the-first-phd-in-social-complexity-sciences-of-the-cics-is-published-in-the-leading-nature-human-behavior-journal/
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of traces of collective attention fading over time."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: CICS UDD**](https://complejidadsocial.udd.cl/2018/news/research-of-the-first-phd-in-social-complexity-sciences-of-the-cics-is-published-in-the-leading-nature-human-behavior-journal/)

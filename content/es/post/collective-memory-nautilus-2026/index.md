@@ -9,11 +9,6 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://nautil.us/the-four-forces-that-shape-collective-memory-1286569
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de huellas de atención colectiva que se atenúan con el tiempo."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Fuente original: Nautilus**](https://nautil.us/the-four-forces-that-shape-collective-memory-1286569)

@@ -10,11 +10,6 @@ tags:
   - Economía Política
   - Reconocimiento Internacional
 url_source: "https://ingenieria.udd.cl/noticias/2025/09/investigador-de-ingenieria-udd-participo-en-la-complexity-global-school-for-emerging-political-economies-2025/"
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de tarjetas y puntos conectados."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Fuente original: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2025/09/investigador-de-ingenieria-udd-participo-en-la-complexity-global-school-for-emerging-political-economies-2025/)

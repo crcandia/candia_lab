@@ -10,11 +10,6 @@ tags:
 - Ciencias Sociales Computacionales
 draft: false
 url_source: https://ingenieria.udd.cl/noticias/2023/11/cuatro-estudiantes-de-ingenieria-udd-participaron-en-conferencia-anual-de-la-sociedad-internacional-de-sistemas-complejos-2023/
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de tarjetas y puntos conectados."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Fuente original: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2023/11/cuatro-estudiantes-de-ingenieria-udd-participaron-en-conferencia-anual-de-la-sociedad-internacional-de-sistemas-complejos-2023/)

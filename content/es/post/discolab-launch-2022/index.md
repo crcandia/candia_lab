@@ -12,11 +12,6 @@ tags:
   - Analítica de Texto
 url_source: "https://www.udd.cl/noticias/2022/08/26/instituto-de-data-science-udd-lanza-nueva-plataforma-colaborativa-para-una-mayor-comprension-de-textos-complejos/"
 url_project: "https://discolab.cl/"
-image:
-  caption: "Ilustración editorial para CRiSS-LAB."
-  alt_text: "Ilustración conceptual de aportes que convergen en información compartida."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Fuente original: Universidad del Desarrollo**](https://www.udd.cl/noticias/2022/08/26/instituto-de-data-science-udd-lanza-nueva-plataforma-colaborativa-para-una-mayor-comprension-de-textos-complejos/)

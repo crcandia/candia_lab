@@ -9,11 +9,6 @@ tags:
 - Capybara
 - School Coexistence
 url_source: https://www.emol.com/noticias/Economia/2024/01/25/1119686/videojuego-predice-previene-bullying-escolar.html
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of links in a classroom cooperation network."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: Emol**](https://www.emol.com/noticias/Economia/2024/01/25/1119686/videojuego-predice-previene-bullying-escolar.html)

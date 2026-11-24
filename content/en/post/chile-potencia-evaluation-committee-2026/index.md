@@ -8,11 +8,6 @@ tags:
 - Institutional News
 draft: false
 url_source: https://x.com/fpaisdigital/status/2122360256571248703
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of four evaluation forms and a common rubric."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original announcement: Fundación País Digital**](https://x.com/fpaisdigital/status/2122360256571248703)

@@ -11,11 +11,6 @@ tags:
   - Natural Language Processing
   - Cultural Analytics
 url_source: "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2017/02/05/cientificos-chilenos-advierten-en-2017-moriran-alrededor-de-197-famosos.shtml"
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of traces of collective attention fading over time."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: BioBioChile**](https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2017/02/05/cientificos-chilenos-advierten-en-2017-moriran-alrededor-de-197-famosos.shtml)

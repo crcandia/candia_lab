@@ -12,11 +12,6 @@ tags:
 - Social media
 draft: false
 url_source: https://www.cooperativaciencia.cl/tecnologia/2026/09/07/estudio-revela-como-el-lenguaje-moral-agota-la-atencion-en-redes-sociales/
-image:
-  caption: "Editorial illustration for CRiSS-LAB."
-  alt_text: "Conceptual illustration of varying concentrations of messages."
-  focal_point: Center
-  preview_only: false
 ---
 
 [**Original source: Cooperativa Ciencia**](https://www.cooperativaciencia.cl/tecnologia/2026/09/07/estudio-revela-como-el-lenguaje-moral-agota-la-atencion-en-redes-sociales/)
