@@ -8,10 +8,9 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://www.latercera.com/que-pasa/noticia/estudio-chileno-identifico-un-patron-en-las-relaciones-de-los-estudiantes-que-podria-cambiar-la-educacion/WEHIZNNBBVGE3EPVRYHNXUQGP4/
-image:
+source_clip:
   caption: "Recorte del titular original de La Tercera / Qué Pasa."
   alt_text: "Titular de La Tercera / Qué Pasa sobre estudios de cooperación en el aula."
-  preview_only: false
 ---
 
 [**Fuente original: La Tercera / Qué Pasa**](https://www.latercera.com/que-pasa/noticia/estudio-chileno-identifico-un-patron-en-las-relaciones-de-los-estudiantes-que-podria-cambiar-la-educacion/WEHIZNNBBVGE3EPVRYHNXUQGP4/)
@@ -19,3 +18,5 @@ image:
 El 17 de septiembre de 2024, *Qué Pasa* de *La Tercera* cubrió dos estudios de la Universidad del Desarrollo que usaron un juego para medir la cooperación en aulas de educación básica. Uno vinculó la cooperación recíproca con el rendimiento académico. El otro encontró que quienes recibían menos cooperación tenían mayor probabilidad de ser identificados a la vez como víctimas y agresores de acoso escolar. La nota cita a Cristian Candia sobre lo que estos hallazgos sugieren para fomentar la cooperación en el aula.
 
 **Estudios originales:** [Reciprocidad en el aula y rendimiento académico](https://doi.org/10.1016/j.heliyon.2022.e11916) y [cooperación y acoso escolar](https://doi.org/10.1057/s41599-024-03493-5).
+
+{{< press-clip >}}

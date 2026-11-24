@@ -9,12 +9,13 @@ tags:
 - Memoria Colectiva
 - Ciencias Sociales Computacionales
 url_source: https://www.isi.it/seminars/2025-09-candia/
-image:
+source_clip:
   caption: "Recorte del anuncio original del seminario de ISI Foundation."
   alt_text: "Titular del seminario de ISI Foundation sobre pertenencia en la memoria, la política y la escuela."
-  preview_only: false
 ---
 
 [**Fuente original: ISI Foundation**](https://www.isi.it/seminars/2025-09-candia/)
 
 ISI Foundation publicó el anuncio de la charla de **Cristian Candia**, *Boundaries of Belonging in Memory, Politics, and School*. La presentación conecta memoria colectiva, posiciones políticas y cooperación en aulas mediante datos y modelos computacionales.
+
+{{< press-clip >}}

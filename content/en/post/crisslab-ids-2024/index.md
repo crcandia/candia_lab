@@ -11,10 +11,9 @@ tags:
   - Collective Memory
   - Data Science
 url_source: "https://ingenieria.udd.cl/data-science/2024/08/16/cristian-candia-investigador-del-ids-lidera-criss-lab-desentranando-los-secretos-de-la-inteligencia-colectiva/"
-image:
+source_clip:
   caption: "Clipping from the original headline published by Ingeniería UDD."
   alt_text: "Original Ingeniería UDD headline for this coverage."
-  preview_only: false
 ---
 
 [**Original source: Ingeniería UDD**](https://ingenieria.udd.cl/data-science/2024/08/16/cristian-candia-investigador-del-ids-lidera-criss-lab-desentranando-los-secretos-de-la-inteligencia-colectiva/)
@@ -22,3 +21,5 @@ image:
 The UDD Data Science Institute profiled **CRiSS-LAB** and Cristian Candia's work on collective intelligence.
 
 The article described the lab's research on collective memory, online engagement, classroom social dynamics, education, and applied platforms such as **Capybara** and **Lixandria**.
+
+{{< press-clip >}}

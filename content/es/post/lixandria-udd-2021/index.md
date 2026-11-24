@@ -12,10 +12,9 @@ tags:
   - Sistemas de Recomendación
 url_source: "https://www.udd.cl/noticias/2021/12/28/plataforma-permite-encontrar-una-mayor-variedad-de-alternativas-academicas-a-traves-del-uso-de-inteligencia-artificial/"
 url_project: "https://lixandria.cl/"
-image:
+source_clip:
   caption: "Recorte del titular original publicado por Universidad del Desarrollo."
   alt_text: "Titular original de esta cobertura en Universidad del Desarrollo."
-  preview_only: false
 ---
 
 [**Fuente original: Universidad del Desarrollo**](https://www.udd.cl/noticias/2021/12/28/plataforma-permite-encontrar-una-mayor-variedad-de-alternativas-academicas-a-traves-del-uso-de-inteligencia-artificial/)
@@ -23,3 +22,5 @@ image:
 La Universidad del Desarrollo destacó **Lixandria**, plataforma basada en IA creada por Cristian Candia-Castro para ayudar a estudiantes y orientadores a explorar, comparar y ampliar alternativas académicas en educación superior.
 
 El proyecto conecta preferencias reveladas, ciencia de redes, datos educacionales y sistemas de recomendación para hacer más navegable el sistema chileno de educación superior.
+
+{{< press-clip >}}

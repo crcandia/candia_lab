@@ -1,0 +1,10 @@
+{{- $page := .Page -}}
+{{- $clip := $page.Params.source_clip -}}
+{{- with ($page.Resources.ByType "image").GetMatch "source-clip.jpg" -}}
+<figure class="press-clip">
+  <a href="{{ .RelPermalink }}" class="press-clip__link">
+    <img class="press-clip__image" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $clip.alt_text }}" loading="lazy" decoding="async">
+  </a>
+  <figcaption class="press-clip__caption">{{ $clip.caption }}</figcaption>
+</figure>
+{{- end -}}

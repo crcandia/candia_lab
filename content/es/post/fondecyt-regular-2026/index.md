@@ -11,10 +11,9 @@ tags:
   - Bibliometría
   - Inteligencia Artificial
 url_source: "https://ingenieria.udd.cl/noticias/2026/02/academico-de-ingenieria-udd-se-adjudica-fondecyt-regular-2026-con-investigacion-sobre-persistencia-de-informacion-erronea-en-la-ciencia/"
-image:
+source_clip:
   caption: "Recorte del titular original publicado por Ingeniería UDD."
   alt_text: "Titular original de esta cobertura en Ingeniería UDD."
-  preview_only: false
 ---
 
 [**Fuente original: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2026/02/academico-de-ingenieria-udd-se-adjudica-fondecyt-regular-2026-con-investigacion-sobre-persistencia-de-informacion-erronea-en-la-ciencia/)
@@ -24,3 +23,5 @@ Cristian Candia se adjudicó un proyecto **ANID-FONDECYT Regular 2026** titulado
 El proyecto estudia por qué investigaciones invalidadas o retractadas pueden seguir siendo citadas e influyendo en agendas científicas después de una corrección formal. Combina bibliometría, redes de citación, procesamiento de lenguaje natural, inteligencia artificial, física estadística y modelos de memoria colectiva.
 
 El trabajo consolida una línea de investigación de CRiSS-LAB sobre memoria colectiva, ciencia de la ciencia y corrección del conocimiento en entornos de alta circulación de información.
+
+{{< press-clip >}}

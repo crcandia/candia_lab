@@ -8,12 +8,13 @@ tags:
 - Noticias Institucionales
 - Memoria Colectiva
 url_source: https://complejidadsocial.udd.cl/2018/news/research-of-the-first-phd-in-social-complexity-sciences-of-the-cics-is-published-in-the-leading-nature-human-behavior-journal/
-image:
+source_clip:
   caption: "Recorte del titular original publicado por CICS UDD."
   alt_text: "Titular original de esta cobertura en CICS UDD."
-  preview_only: false
 ---
 
 [**Fuente original: CICS UDD**](https://complejidadsocial.udd.cl/2018/news/research-of-the-first-phd-in-social-complexity-sciences-of-the-cics-is-published-in-the-leading-nature-human-behavior-journal/)
 
 El **Centro de Investigación en Complejidad Social de la UDD** difundió la publicación de *The universal decay of collective memory and attention*. La nota presenta el trabajo de Cristian Candia y colaboradores sobre el decaimiento de la atención a productos culturales y su modelo de memoria comunicativa y cultural.
+
+{{< press-clip >}}

@@ -779,3 +779,40 @@ footer {
     border-width: 3px;
   }
 }
+
+/* Publisher clippings are document references, not full-width hero photos. */
+.article-style .press-clip {
+  margin: 1.5rem 0 1rem;
+  width: fit-content;
+  max-width: 100%;
+  text-align: left;
+}
+
+.article-style .press-clip__link {
+  display: block;
+  width: fit-content;
+  max-width: 100%;
+  border: 1px solid rgba(125, 125, 125, 0.4);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.article-style .press-clip__image {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  margin: 0;
+}
+
+.article-style .press-clip__caption {
+  position: static;
+  margin: 0.4rem 0 0;
+  padding: 0;
+  background: none;
+  color: inherit;
+  opacity: 0.85;
+  text-align: left;
+  font-size: 0.83rem;
+  line-height: 1.4;
+}

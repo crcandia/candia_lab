@@ -12,10 +12,9 @@ tags:
 - Redes sociales
 draft: false
 url_source: https://www.cooperativaciencia.cl/tecnologia/2026/09/07/estudio-revela-como-el-lenguaje-moral-agota-la-atencion-en-redes-sociales/
-image:
+source_clip:
   caption: "Recorte del titular original publicado por Cooperativa Ciencia."
   alt_text: "Titular original de esta cobertura en Cooperativa Ciencia."
-  preview_only: false
 ---
 
 [**Fuente original: Cooperativa Ciencia**](https://www.cooperativaciencia.cl/tecnologia/2026/09/07/estudio-revela-como-el-lenguaje-moral-agota-la-atencion-en-redes-sociales/)
@@ -24,3 +23,5 @@ Cooperativa Ciencia publicó el 7 de septiembre de 2026 una nota sobre nuestra i
 
 
 [Artículo científico en Nature Human Behaviour](https://doi.org/10.1038/s41562-026-02560-y).
+
+{{< press-clip >}}

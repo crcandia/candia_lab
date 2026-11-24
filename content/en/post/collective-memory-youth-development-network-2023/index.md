@@ -9,12 +9,13 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://ydnetwork.org/communicative-vs-cultural-memory-why-do-we-remember-some-things-and-not-others/
-image:
+source_clip:
   caption: "Clipping from the original headline published by Youth Development Network."
   alt_text: "Original Youth Development Network headline for this coverage."
-  preview_only: false
 ---
 
 [**Original source: Youth Development Network**](https://ydnetwork.org/communicative-vs-cultural-memory-why-do-we-remember-some-things-and-not-others/)
 
 Youth Development Network published “Why do we remember some things and not others?”, curated by Meg Birmingham. The piece draws on Cristian Candia and colleagues’ research distinguishing communicative and cultural memory, within a reflection on memories of the pandemic.
+
+{{< press-clip >}}

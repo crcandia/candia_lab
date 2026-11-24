@@ -11,10 +11,9 @@ tags:
   - Prevención del Bullying
   - Convivencia Escolar
 url_source: "https://www.cooperativaciencia.cl/tecnologia/2024/09/09/tecnologia-usa-ia-para-prevenir-el-acoso-escolar-en-aulas-chilenas/"
-image:
+source_clip:
   caption: "Recorte del titular original publicado por Cooperativa Ciencia."
   alt_text: "Titular original de esta cobertura en Cooperativa Ciencia."
-  preview_only: false
 ---
 
 [**Fuente original: Cooperativa Ciencia**](https://www.cooperativaciencia.cl/tecnologia/2024/09/09/tecnologia-usa-ia-para-prevenir-el-acoso-escolar-en-aulas-chilenas/)
@@ -22,3 +21,5 @@ image:
 Cooperativa Ciencia reportó el uso de IA, interacción basada en juegos y análisis de redes para ayudar a prevenir el bullying en aulas chilenas.
 
 La nota describió cómo la investigación detrás de **Capybara** mapea patrones de cooperación entre estudiantes y los traduce en evidencia útil para equipos escolares.
+
+{{< press-clip >}}

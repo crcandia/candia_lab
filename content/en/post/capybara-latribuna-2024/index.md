@@ -10,10 +10,9 @@ tags:
   - Bullying Prevention
   - School Coexistence
 url_source: "https://www.latribuna.cl/nuestra-gente/2024/02/07/angelino-es-parte-del-equipo-creativo-de-innovador-videojuego-que-predice-y-previene-el-bullying.html"
-image:
+source_clip:
   caption: "Clipping from the original La Tribuna headline."
   alt_text: "La Tribuna headline about a local collaborator and Capybara."
-  preview_only: false
 ---
 
 [**Original source: La Tribuna**](https://www.latribuna.cl/nuestra-gente/2024/02/07/angelino-es-parte-del-equipo-creativo-de-innovador-videojuego-que-predice-y-previene-el-bullying.html)
@@ -21,3 +20,5 @@ image:
 La Tribuna profiled Cristian Candia's role in **Capybara**, highlighting the project's focus on early detection of bullying and healthier classroom relationships.
 
 The article connected the platform with experimental game theory, classroom interaction data, and the applied mission of turning research into practical tools for schools.
+
+{{< press-clip >}}

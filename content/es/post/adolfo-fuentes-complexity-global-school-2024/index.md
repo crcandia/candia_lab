@@ -10,12 +10,13 @@ tags:
 - Sistemas Complejos
 draft: false
 url_source: https://www.udd.cl/noticias/2024/10/03/candidato-a-doctor-udd-participa-en-el-complexity-global-school-cgs/
-image:
+source_clip:
   caption: "Recorte del titular original publicado por Universidad del Desarrollo."
   alt_text: "Titular original de esta cobertura en Universidad del Desarrollo."
-  preview_only: false
 ---
 
 [**Fuente original: Universidad del Desarrollo**](https://www.udd.cl/noticias/2024/10/03/candidato-a-doctor-udd-participa-en-el-complexity-global-school-cgs/)
 
 La **Universidad del Desarrollo** destacó la participación de **Adolfo Fuentes** en la Complexity Global School 2024, en Bogotá. La nota incluye comentarios de **Cristian Candia**, su profesor guía, y presenta el proyecto colaborativo *Economic Dark Matter*, orientado a estudiar actividades económicas informales e ilícitas mediante redes e inteligencia artificial.
+
+{{< press-clip >}}

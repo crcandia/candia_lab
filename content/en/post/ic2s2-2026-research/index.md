@@ -11,12 +11,13 @@ tags:
 - Computational Social Science
 draft: false
 url_source: https://ingenieria.udd.cl/noticias/2026/08/investigadores-udd-presentaron-investigaciones-en-conferencia-internacional-de-ciencias-sociales-computacionales/
-image:
+source_clip:
   caption: "Clipping from the original headline published by Ingeniería UDD."
   alt_text: "Original Ingeniería UDD headline for this coverage."
-  preview_only: false
 ---
 
 [**Original source: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2026/08/investigadores-udd-presentaron-investigaciones-en-conferencia-internacional-de-ciencias-sociales-computacionales/)
 
 UDD’s School of Engineering reported on CRiSS-LAB’s participation in IC2S2 2026 at the University of Vermont. Four studies addressed preferences, persistence, cooperation, status and political ideology. The trip also included academic visits to MIT, Northeastern and Northwestern to develop research collaborations.
+
+{{< press-clip >}}

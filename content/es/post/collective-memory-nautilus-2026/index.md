@@ -9,10 +9,9 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://nautil.us/the-four-forces-that-shape-collective-memory-1286569
-image:
+source_clip:
   caption: "Recorte del titular original de Nautilus."
   alt_text: "Titular de Nautilus sobre las cuatro fuerzas que moldean la memoria colectiva."
-  preview_only: false
 ---
 
 [**Fuente original: Nautilus**](https://nautil.us/the-four-forces-that-shape-collective-memory-1286569)
@@ -23,3 +22,5 @@ La nota aborda *Cultural proximity reveals a local premium in collective memory*
 
 
 [PNAS Nexus](https://doi.org/10.1093/pnasnexus/pgag308).
+
+{{< press-clip >}}

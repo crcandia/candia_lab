@@ -12,10 +12,9 @@ tags:
   - Conference on Complex Systems
 url_source: "https://www.udd.cl/noticias/2025/09/30/investigacion-udd-sobre-polarizacion-politica-es-premiada-en-la-principal-conferencia-mundial-sobre-sistemas-complejos/"
 url_project: "https://ccs25.cssociety.org/lightning-talks/"
-image:
+source_clip:
   caption: "Clipping from the original headline published by Universidad del Desarrollo."
   alt_text: "Original Universidad del Desarrollo headline for this coverage."
-  preview_only: false
 ---
 
 [**Original source: Universidad del Desarrollo**](https://www.udd.cl/noticias/2025/09/30/investigacion-udd-sobre-polarizacion-politica-es-premiada-en-la-principal-conferencia-mundial-sobre-sistemas-complejos/)
@@ -27,3 +26,5 @@ The award recognized **Neural Network Nominate (NNN): Mapping Mass Political Ide
 At CCS 2025, Cristian also delivered a keynote in the Computational Social Science Satellite, **“Boundaries of Belonging in Memory, Politics, and Schools,”** connecting CRiSS-LAB research on collective memory, polarization, and school coexistence.
 
 Additional media coverage: [UDD Engineering](https://ingenieria.udd.cl/noticias/2025/09/investigador-de-la-facultad-de-ingenieria-udd-destaca-en-la-conferencia-internacional-de-sistemas-complejos-en-italia/) and [La Tribuna](https://www.latribuna.cl/innovacion/2025/10/08/angelino-recibe-reconocimiento-mundial-por-estudio-sobre-polarizacion-politica-e-inteligencia-artificial.html).
+
+{{< press-clip >}}

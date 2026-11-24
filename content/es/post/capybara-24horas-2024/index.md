@@ -10,12 +10,13 @@ tags:
 - Convivencia Escolar
 draft: false
 url_source: https://www.24horas.cl/tendencias/tecnologia-y-ciencias/videojuego-chileno-predice-y-previene-bullying-escolar
-image:
+source_clip:
   caption: "Recorte del titular original de 24 Horas / TVN."
   alt_text: "Titular de 24 Horas / TVN sobre el videojuego escolar Capybara."
-  preview_only: false
 ---
 
 [**Fuente original: 24 Horas / TVN**](https://www.24horas.cl/tendencias/tecnologia-y-ciencias/videojuego-chileno-predice-y-previene-bullying-escolar)
 
 **24 Horas**, de TVN, publicó una nota sobre **Capybara**. La cobertura incluye declaraciones de Cristian Candia sobre el uso de dilemas sociales para mapear relaciones dentro del aula y prestar atención a estudiantes con dificultades de integración. También presenta el acompañamiento del programa Hubtec Go! al proyecto.
+
+{{< press-clip >}}

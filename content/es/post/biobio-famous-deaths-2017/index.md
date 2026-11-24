@@ -11,10 +11,9 @@ tags:
   - Procesamiento de Lenguaje Natural
   - Analítica Cultural
 url_source: "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2017/02/05/cientificos-chilenos-advierten-en-2017-moriran-alrededor-de-197-famosos.shtml"
-image:
+source_clip:
   caption: "Recorte del titular original publicado por BioBioChile."
   alt_text: "Titular original de esta cobertura en BioBioChile."
-  preview_only: false
 ---
 
 [**Fuente original: BioBioChile**](https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2017/02/05/cientificos-chilenos-advierten-en-2017-moriran-alrededor-de-197-famosos.shtml)
@@ -22,3 +21,5 @@ image:
 BioBioChile cubrió trabajo de **Cristian Candia-Castro**, **César Hidalgo** y **Cristián Jara** usando datos, algoritmos y procesamiento de lenguaje natural para razonar sobre fama global y el número esperado de muertes de personas famosas en 2017.
 
 La nota es una cobertura pública útil para la línea más amplia que conecta ciencias sociales computacionales, analítica cultural, memoria colectiva, atención pública y comunicación de resultados basados en datos.
+
+{{< press-clip >}}

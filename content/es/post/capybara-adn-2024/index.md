@@ -10,12 +10,13 @@ tags:
 - Convivencia Escolar
 draft: false
 url_source: https://www.adnradio.cl/2024/09/11/la-tecnologia-chilena-que-usa-teoria-de-juegos-e-inteligencia-artificial-para-prevenir-el-acoso-escolar-en-las-aulas/
-image:
+source_clip:
   caption: "Recorte del titular original de ADN Radio."
   alt_text: "Titular de ADN Radio sobre el uso de teoría de juegos e IA en Capybara."
-  preview_only: false
 ---
 
 [**Fuente original: ADN Radio**](https://www.adnradio.cl/2024/09/11/la-tecnologia-chilena-que-usa-teoria-de-juegos-e-inteligencia-artificial-para-prevenir-el-acoso-escolar-en-las-aulas/)
 
 **ADN Radio** presentó **Capybara**, la plataforma desarrollada a partir del trabajo de Cristian Candia y Carlos Rodríguez-Sickert. La nota describe el uso de gamificación, teoría de juegos e inteligencia artificial para observar relaciones entre estudiantes y entregar información que apoye a los equipos escolares.
+
+{{< press-clip >}}

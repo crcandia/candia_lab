@@ -9,10 +9,9 @@ tags:
 - Collective Memory
 draft: false
 url_source: https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2019/07/09/noches-nerd-embalaje-inteligente-memoria-colectiva-ia-no-discriminatoria.shtml
-image:
+source_clip:
   caption: "Clipping from the original headline published by Centro de Física y Matemáticas."
   alt_text: "Original Centro de Física y Matemáticas headline for this coverage."
-  preview_only: false
 ---
 
 [**Original source: BioBioChile**](https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2019/07/09/noches-nerd-embalaje-inteligente-memoria-colectiva-ia-no-discriminatoria.shtml)
@@ -21,3 +20,5 @@ image:
 
 
 [Additional coverage: El Mostrador, 2019-07-07](https://www.elmostrador.cl/cultura/2019/07/07/noche-nerd-el-olvido-economia-circular-y-como-la-ia-aprende-con-prejuicios-en-teatro-if/).
+
+{{< press-clip >}}

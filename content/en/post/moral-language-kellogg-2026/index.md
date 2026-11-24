@@ -8,10 +8,9 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://www.linkedin.com/pulse/career-ladders-managerial-attitudes-influencer-fhlte
-image:
+source_clip:
   caption: "Clipping from the research mention in Kellogg’s Research + Insights newsletter."
   alt_text: "Kellogg’s newsletter link to the Nature Human Behaviour study on moral language."
-  preview_only: false
 ---
 
 [**Original source: Kellogg School of Management / Research + Insights**](https://www.linkedin.com/pulse/career-ladders-managerial-attitudes-influencer-fhlte)
@@ -21,3 +20,5 @@ The September 22, 2026 issue of *Research + Insights*, Northwestern University�
 The researchers analyzed about 1.6 million observations from Twitter, Reddit and 8chan. They distinguished a post’s overall moral relevance from the concentration of moral language in it: these two aspects showed different relationships with engagement.
 
 [Read the study in Nature Human Behaviour](https://doi.org/10.1038/s41562-026-02560-y).
+
+{{< press-clip >}}

@@ -9,10 +9,9 @@ tags:
 - Media Coverage
 draft: false
 url_source: https://complejidadsocial.udd.cl/2017/news/cics-on-tour-the-laws-of-forgetting-at-international-conference-on-computational-social-science/
-image:
+source_clip:
   caption: "Clipping from the original headline published by CICS UDD."
   alt_text: "CICS UDD headline about research on the laws of forgetting at IC2S2."
-  preview_only: false
 ---
 
 [**Original source: CICS UDD**](https://complejidadsocial.udd.cl/2017/news/cics-on-tour-the-laws-of-forgetting-at-international-conference-on-computational-social-science/)
@@ -20,3 +19,5 @@ image:
 CICS UDD reported on Cristian Candia’s presentation at IC2S2 2017 in Cologne, Germany. His poster, “The Laws of Forgetting: Temporal scales in human Collective Forgetting”, examined how attention to songs, films and other cultural objects declines over time.
 
 The article describes a model developed with Cristián Jara, César Hidalgo and Carlos Rodríguez-Sickert that distinguishes communicative and cultural memory, capturing an initial rapid decline followed by a slower one.
+
+{{< press-clip >}}

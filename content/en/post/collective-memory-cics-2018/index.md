@@ -8,12 +8,13 @@ tags:
 - Institutional News
 - Collective Memory
 url_source: https://complejidadsocial.udd.cl/2018/news/research-of-the-first-phd-in-social-complexity-sciences-of-the-cics-is-published-in-the-leading-nature-human-behavior-journal/
-image:
+source_clip:
   caption: "Clipping from the original headline published by CICS UDD."
   alt_text: "Original CICS UDD headline for this coverage."
-  preview_only: false
 ---
 
 [**Original source: CICS UDD**](https://complejidadsocial.udd.cl/2018/news/research-of-the-first-phd-in-social-complexity-sciences-of-the-cics-is-published-in-the-leading-nature-human-behavior-journal/)
 
 The **Research Center for Social Complexity at UDD** featured the publication of *The universal decay of collective memory and attention*. The news item presents Cristian Candia and collaborators’ work on attention decay across cultural products and their model of communicative and cultural memory.
+
+{{< press-clip >}}

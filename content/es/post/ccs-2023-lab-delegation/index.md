@@ -10,12 +10,13 @@ tags:
 - Ciencias Sociales Computacionales
 draft: false
 url_source: https://ingenieria.udd.cl/noticias/2023/11/cuatro-estudiantes-de-ingenieria-udd-participaron-en-conferencia-anual-de-la-sociedad-internacional-de-sistemas-complejos-2023/
-image:
+source_clip:
   caption: "Recorte del titular original publicado por Ingeniería UDD."
   alt_text: "Titular original de esta cobertura en Ingeniería UDD."
-  preview_only: false
 ---
 
 [**Fuente original: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2023/11/cuatro-estudiantes-de-ingenieria-udd-participaron-en-conferencia-anual-de-la-sociedad-internacional-de-sistemas-complejos-2023/)
 
 La **Facultad de Ingeniería UDD** publicó una nota sobre la participación de **CRiSS-LAB en CCS 2023**, en Salvador de Bahía. La delegación presentó investigaciones sobre ideología política, permanencia en educación superior, memoria colectiva y trayectorias artísticas. El artículo describe los trabajos del equipo y su intercambio con investigadores de otras instituciones.
+
+{{< press-clip >}}

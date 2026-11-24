@@ -8,10 +8,9 @@ tags:
 - Institutional News
 draft: false
 url_source: https://x.com/fpaisdigital/status/2122360256571248703
-image:
+source_clip:
   caption: "Excerpt from Fundación País Digital’s original committee notice on LinkedIn."
   alt_text: "First sentence of the original Chile PotencIA 2026 committee notice."
-  preview_only: false
 ---
 
 [**Original announcement: Fundación País Digital**](https://x.com/fpaisdigital/status/2122360256571248703)
@@ -21,3 +20,5 @@ Fundación País Digital reported in November that Cristian Candia took part in 
 [About the award](https://www.premiochilepotencia.cl/).
 
 [Fundación País Digital’s LinkedIn feed, where the organizer named participants](https://cl.linkedin.com/company/pais-digital).
+
+{{< press-clip >}}

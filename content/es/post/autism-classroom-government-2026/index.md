@@ -11,10 +11,9 @@ tags:
   - Teoría de Juegos Experimental
   - Ciencia de Redes
 url_source: "https://gobierno.udd.cl/noticias/2026/01/con-teoria-de-juegos-investigadores-identifican-factores-clave-para-que-los-escolares-formen-vinculos-cuando-estan-en-grupo/"
-image:
+source_clip:
   caption: "Recorte del titular original publicado por Gobierno UDD."
   alt_text: "Titular original de esta cobertura en Gobierno UDD."
-  preview_only: false
 ---
 
 [**Fuente original: Gobierno UDD**](https://gobierno.udd.cl/noticias/2026/01/con-teoria-de-juegos-investigadores-identifican-factores-clave-para-que-los-escolares-formen-vinculos-cuando-estan-en-grupo/)
@@ -22,3 +21,5 @@ image:
 Una nota institucional de la Universidad del Desarrollo cubrió investigación sobre cómo niños y niñas forman vínculos sociales en aulas de educación básica.
 
 El estudio combina teoría de juegos experimental y análisis de redes para observar reciprocidad, integración y dinámicas sociales entre pares, incluyendo desafíos que enfrentan estudiantes autistas y estudiantes con necesidades educativas especiales.
+
+{{< press-clip >}}

@@ -11,10 +11,9 @@ tags:
   - Bibliometrics
   - Artificial Intelligence
 url_source: "https://ingenieria.udd.cl/noticias/2026/02/academico-de-ingenieria-udd-se-adjudica-fondecyt-regular-2026-con-investigacion-sobre-persistencia-de-informacion-erronea-en-la-ciencia/"
-image:
+source_clip:
   caption: "Clipping from the original headline published by Ingeniería UDD."
   alt_text: "Original Ingeniería UDD headline for this coverage."
-  preview_only: false
 ---
 
 [**Original source: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2026/02/academico-de-ingenieria-udd-se-adjudica-fondecyt-regular-2026-con-investigacion-sobre-persistencia-de-informacion-erronea-en-la-ciencia/)
@@ -24,3 +23,5 @@ Cristian Candia was awarded an **ANID-FONDECYT Regular 2026** grant for the proj
 The project studies why invalidated or retracted research can continue to be cited and influence scientific agendas after formal correction. It combines bibliometrics, citation networks, natural language processing, artificial intelligence, statistical physics, and models of collective memory.
 
 The work consolidates a CRiSS-LAB research line on collective memory, science of science, and knowledge correction in high-volume information environments.
+
+{{< press-clip >}}

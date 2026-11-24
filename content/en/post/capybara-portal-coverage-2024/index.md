@@ -11,10 +11,9 @@ tags:
   - School Coexistence
   - Artificial Intelligence
 url_source: "https://portalinnova.cl/capybara-videojuego-chileno-predice-y-previene-el-bullying-escolar-en-ninos-de-primero-a-quinto-basico-con-ayuda-de-la-tecnologia/"
-image:
+source_clip:
   caption: "Clipping from the original headline published by Portal Innova."
   alt_text: "Original Portal Innova headline for this coverage."
-  preview_only: false
 ---
 
 [**Original source: Portal Innova**](https://portalinnova.cl/capybara-videojuego-chileno-predice-y-previene-el-bullying-escolar-en-ninos-de-primero-a-quinto-basico-con-ayuda-de-la-tecnologia/)
@@ -24,3 +23,5 @@ Portal Innova and Portal Educa covered **Capybara**, the CRiSS-LAB related schoo
 The coverage described Capybara as a game-based and AI-assisted approach for mapping classroom interactions and supporting healthier learning environments.
 
 Additional source: [Portal Educa](https://portaleduca.cl/capybara-videojuego-chileno-predice-y-previene-el-bullying-escolar-en-ninos-de-primero-a-quinto-basico-con-ayuda-de-la-tecnologia/).
+
+{{< press-clip >}}

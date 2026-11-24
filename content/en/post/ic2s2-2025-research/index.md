@@ -11,10 +11,9 @@ tags:
   - Artificial Intelligence
   - Network Science
 url_source: "https://ingenieria.udd.cl/noticias/2025/08/academico-investigador-de-ingenieria-udd-cristian-candia-presenta-innovadoras-investigaciones-en-conferencia-internacional/"
-image:
+source_clip:
   caption: "Clipping from the original headline published by Ingeniería UDD."
   alt_text: "Original Ingeniería UDD headline for this coverage."
-  preview_only: false
 ---
 
 [**Original source: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2025/08/academico-investigador-de-ingenieria-udd-cristian-candia-presenta-innovadoras-investigaciones-en-conferencia-internacional/)
@@ -22,3 +21,5 @@ image:
 UDD Engineering covered Cristian Candia's participation in the **International Conference on Computational Social Science (IC2S2 2025)** in Norrköping, Sweden.
 
 The article summarized four research directions presented by CRiSS-LAB collaborators: design capabilities, explainable AI for political ideology mapping, collective memory, and firm diversification through public procurement networks.
+
+{{< press-clip >}}

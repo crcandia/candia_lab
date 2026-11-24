@@ -10,10 +10,9 @@ tags:
   - Political Economy
   - International Recognition
 url_source: "https://ingenieria.udd.cl/noticias/2025/09/investigador-de-ingenieria-udd-participo-en-la-complexity-global-school-for-emerging-political-economies-2025/"
-image:
+source_clip:
   caption: "Clipping from the original headline published by Ingeniería UDD."
   alt_text: "Original Ingeniería UDD headline for this coverage."
-  preview_only: false
 ---
 
 [**Original source: Ingeniería UDD**](https://ingenieria.udd.cl/noticias/2025/09/investigador-de-ingenieria-udd-participo-en-la-complexity-global-school-for-emerging-political-economies-2025/)
@@ -23,3 +22,5 @@ Cristian Candia participated as invited faculty in the **Complexity Global Schoo
 The program took place in Bogotá from July 28 to August 8, 2025, and brought together 60 participants from academia, the public sector, the private sector, and civil society. Cristian presented CRiSS-LAB work on political ideology mapping, Lixandria, Discolab, and Capybara, connecting complex systems research with public-interest platforms and applied data science.
 
 This activity is now listed as a News & Media item rather than a teaching course, because it was an invited international academic activity rather than a regular CRiSS-LAB or UDD course.
+
+{{< press-clip >}}

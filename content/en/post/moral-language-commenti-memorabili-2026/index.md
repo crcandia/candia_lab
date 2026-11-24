@@ -12,10 +12,9 @@ tags:
 - Social media
 draft: false
 url_source: https://www.commentimemorabili.it/fare-la-morale-sui-social-funziona-finche-non-rompi-troppo-lo-studio-su-16-milioni-di-post/
-image:
+source_clip:
   caption: "Clipping from the original headline published by Commenti Memorabili."
   alt_text: "Original Commenti Memorabili headline for this coverage."
-  preview_only: false
 ---
 
 [**Original source: Commenti Memorabili**](https://www.commentimemorabili.it/fare-la-morale-sui-social-funziona-finche-non-rompi-troppo-lo-studio-su-16-milioni-di-post/)
@@ -24,3 +23,5 @@ On September 3, 2026, Commenti Memorabili covered the study by Cristian Candia, 
 
 
 [Research article in Nature Human Behaviour](https://doi.org/10.1038/s41562-026-02560-y).
+
+{{< press-clip >}}

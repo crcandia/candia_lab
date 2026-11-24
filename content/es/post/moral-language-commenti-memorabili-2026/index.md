@@ -12,10 +12,9 @@ tags:
 - Redes sociales
 draft: false
 url_source: https://www.commentimemorabili.it/fare-la-morale-sui-social-funziona-finche-non-rompi-troppo-lo-studio-su-16-milioni-di-post/
-image:
+source_clip:
   caption: "Recorte del titular original publicado por Commenti Memorabili."
   alt_text: "Titular original de esta cobertura en Commenti Memorabili."
-  preview_only: false
 ---
 
 [**Fuente original: Commenti Memorabili**](https://www.commentimemorabili.it/fare-la-morale-sui-social-funziona-finche-non-rompi-troppo-lo-studio-su-16-milioni-di-post/)
@@ -24,3 +23,5 @@ Commenti Memorabili publicó el 3 de septiembre de 2026 una nota sobre el estudi
 
 
 [Artículo científico en Nature Human Behaviour](https://doi.org/10.1038/s41562-026-02560-y).
+
+{{< press-clip >}}
