@@ -44,7 +44,7 @@ Una empresa puede ganar eficiencia dejando de formar principiantes y contratando
 
 Los expertos no aparecen espontáneamente en el mercado laboral. Se forman en empresas, equipos, instituciones y comunidades de práctica. Cada organización que deja de invertir en ese aprendizaje puede beneficiarse de la experiencia creada por otras. Si demasiadas siguen ese camino, el conjunto termina invirtiendo menos en la formación de la siguiente generación.
 
-Es un problema de coordinación con consecuencias demoradas. El ahorro se registra este trimestre. El costo, si aparece, podría hacerlo años después, cuando haya que reemplazar a quienes se jubilan o se trasladan a otros trabajos.
+Esa es la interdependencia estratégica: a una empresa le conviene formar menos juniors mientras otras sigan formando a los profesionales que espera contratar más adelante. El ahorro se registra este trimestre. El costo, si aparece, podría hacerlo años después, cuando haya que reemplazar a quienes se jubilan o se trasladan a otros trabajos.
 
 Sin embargo, hay otra posibilidad que sería un error ignorar: la IA también puede acelerar la formación de quienes sí consiguen entrar.
 

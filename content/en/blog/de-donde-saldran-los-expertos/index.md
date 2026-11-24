@@ -44,7 +44,7 @@ A company can become more efficient by training fewer beginners and hiring exper
 
 Experts do not materialize spontaneously in the labor market. They develop inside firms, teams, institutions, and communities of practice. Each organization that stops investing in that process can still benefit from expertise developed elsewhere. If too many pursue the same strategy, the labor market as a whole may invest too little in the next generation.
 
-This is a coordination problem with delayed consequences. The savings appear in this quarter's accounts. The cost, if it materializes, may arrive years later when experienced people retire or move into other roles.
+That is the strategic interdependence: training fewer juniors can make sense for one firm as long as other firms keep developing the professionals it expects to hire later. The savings appear in this quarter's accounts. The cost, if it materializes, may arrive years later when experienced people retire or move into other roles.
 
 There is, however, another possibility that we should take seriously: AI may also help those who do get hired become proficient faster.
 
